@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cartograms with d3 &amp; TopoJSON</title>
+
+    <meta charset="utf-8">
+    <script src="./scripts/vendor/d3.v3.js"></script>
+    <script src="./scripts/vendor/colorbrewer.js"></script>
+    <script src="./scripts/vendor/topojson.js"></script>
+    <script src="./scripts/vendor/cartogram.js"></script>
+
+    <link href="./areaCartoStyle.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <div id="container">
+      <h1>Cartograms with d3 &amp; TopoJSON</h1>
+      <p>Stolen from: <a href="http://prag.ma/code/d3-cartogram/#popest/2010">http://prag.ma/code/d3-cartogram/#popest/2010</a></p>
+      <form>
+        <p>
+          <label>Scale by <select id="field"></select></label>
+          <label>in <select id="year"></select></label>
+          <span id="status"></span>
+        </p>
+      </form>
+      <button onClick="buttonPress()">randomize!</button>
+      <div id="map-container">
+        <svg id="map"></svg>
+      </div>
+
+
+    </div>
+
+    <script src="./areaCartoScript.js"></script>
+  </body>
+</html>

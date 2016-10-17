@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Map Navigator</title>
+    <meta charset="utf-8">
+    <script src="./scripts/vendor/d3.v3.js"></script>
+    <script src="./scripts/vendor/topojson.v1.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./bootstrap.min.css">
+    <link href="./style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Country Explorer</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-2">
+
+                    <!-- Menu column -->
+                    <!-- http://www.w3schools.com/bootstrap/bootstrap_collapse.asp -->
+                    <div class="panel-group" id="accordion">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                                        Top 5
+                                    </a>
+                                </h4>
+
+                                <!-- nested unit -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed" data-toggle="collapse" data-parent="#nested" href="#nested-collapseTwo">
+                                                Land Area
+                                            </a>
+                                        </h4>
+                                    </div><!--/.panel-heading -->
+                                    <div id="nested-collapseTwo" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                             Forests
+                                        </div><!--/.panel-body -->
+                                    </div><!--/.panel-collapse -->
+                                </div><!-- /.panel -->
+                                <!-- /nested unit -->
+
+                                <!-- nested unit -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed" data-toggle="collapse" data-parent="#nested" href="#nested-collapseThree">
+                                                Crowding
+                                            </a>
+                                        </h4>
+                                    </div><!--/.panel-heading -->
+                                    <div id="nested-collapseThree" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            USA
+                                        </div><!--/.panel-body -->
+                                    </div><!--/.panel-collapse -->
+                                </div><!-- /.panel -->
+                                <!-- /nested unit -->
+
+
+                            </div>
+                        </div> <!-- /close parent unit -->
+
+
+                    <div class="panel-group" id="accordion">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                                        By continent
+                                    </a>
+                                </h4>
+
+                        <!-- nested unit -->
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#nested" href="#nested-collapseTwo">
+                                            Asia
+                                        </a>
+                                    </h4>
+                                </div><!--/.panel-heading -->
+                                <div id="nested-collapseTwo" class="panel-collapse collapse">
+                                    <div class="panel-body">
+                                        China
+                                    </div><!--/.panel-body -->
+                                </div><!--/.panel-collapse -->
+                            </div><!-- /.panel -->
+                            <!-- /nested unit -->
+
+                        <!-- nested unit -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#nested" href="#nested-collapseThree">
+                                        N. America
+                                    </a>
+                                </h4>
+                            </div><!--/.panel-heading -->
+                            <div id="nested-collapseThree" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    USA
+                                </div><!--/.panel-body -->
+                            </div><!--/.panel-collapse -->
+                        </div><!-- /.panel -->
+                        <!-- /nested unit -->
+
+
+                            </div>
+                        </div> <!-- /close parent unit -->
+
+                        <!-- Country name menu item -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+                                        By name</a>
+                                </h4>
+
+                                <!-- nested unit -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed" data-toggle="collapse" data-parent="#nested" href="#nested-collapseFour">
+                                                A-F
+                                            </a>
+                                        </h4>
+                                    </div><!--/.panel-heading -->
+                                    <div id="nested-collapseFour" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Australia
+                                        </div><!--/.panel-body -->
+                                    </div><!--/.panel-collapse -->
+                                </div><!-- /.panel -->
+                                <!-- /nested unit -->
+
+                                <!-- nested unit -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed" data-toggle="collapse" data-parent="#nested" href="#nested-collapseFive">
+                                                G-H
+                                            </a>
+                                        </h4>
+                                    </div><!--/.panel-heading -->
+                                    <div id="nested-collapseFive" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Ghana
+                                        </div><!--/.panel-body -->
+                                    </div><!--/.panel-collapse -->
+                                </div><!-- /.panel -->
+                                <!-- /nested unit -->
+
+
+                            </div>
+                            <div id="collapse2" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+
+                </div>
+
+
+
+                <!-- SVG container column -->
+                <div class="col-md-8">
+                    <div id="map-container">
+                        <svg id="mainframe"></svg>
+                        <div class="overlay">
+                            <svg id="navigator"></svg>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Sidebar column -->
+                <div class="col-md-2">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+<script src="./scripts/vendor/jquery-3.1.1.js"></script>
+<script src="./scripts/vendor/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<script src="./scripts/vendor/crossfilter.js"></script>
+<script src="./scripts/navigator.js"></script>
+<script src="./scripts/d.js"></script>
+
+</html>
