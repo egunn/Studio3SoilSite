@@ -39,6 +39,11 @@ h1 {
     color: #482e1f;
 }
 
+h2 {
+  margin-top: 20px;
+    padding-bottom:20px;
+}
+
 .map-title{
     font-size: 20px;
     font-family: "Work Sans", Arial, sans-serif;
@@ -49,7 +54,7 @@ p {
     color: #ecd9c6;
 }
 body{
-    background:  #482e1f;
+    background: #593c31;/*#4f4034; /*#482e1f;*/
     font-family:'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -69,29 +74,72 @@ body{
    color:#ecd9c6;
 }
 
-.collapse {
-    background: #482e1f;
+/*Format the menu column to line up menu edges*/
+.menu-col{
+    margin-left:17px;
+    padding-top:18px;
+}
+
+/*Style side menu bar*/
+
+.panel-default{
+    border:none;
+}
+
+/*Primary menu titles*/
+.panel-title{
+    font-size:12px;
+    padding-left:15px;
+}
+
+.panel-group .panel{
+    margin:5px;
+}
+
+/*get rid of margins between menu item borders*/
+.panel-group .panel+.panel {
+    margin:0px;
 }
 
 .panel-group .panel-heading {
-    background-color: #ecd9c6;
+    background-color: #d3ccc4;
     border-color: #ecd9c6;
+    padding: 3px 0px 3px 0px;
 
+}
+
+/*does nothing, except when added to panel-title div*/
+#accordion3 .panel-heading{
+    background:blue;
+    opacity:10%;
 }
 
 .panel.panel-default {
-    border-color:#ecd9c6;
+    /*border-color:#ecd9c6;*/
 }
 
+.panel-group .panel+.panel-heading{
+
+}
+
+/*Inside collapsed menu item (on expand)*/
 .panel-body {
-    border-top-color:#ecd9c6;
+    font-size: 12px;
+    /*border-top-color:#ecd9c6;*/
+    padding:3px 25px;
+}
+
+/*inside "collapsed" menu bars*/
+.collapse {
+    background:white;
 }
 
 .panel-default>.panel-heading+.panel-collapse>.panel-body {
-    border-color:#ecd9c6;
+    /*border-color:#ecd9c6;*/
+    border-color:none;
 }
 
-
+/*set up JS-related elements*/
 .plot {
     width:720px;
     height:1080px;
@@ -102,22 +150,22 @@ body{
 
 
 #mainframe {
-    background:white;
+    background:transparent;
     height:500px;
-    width: 800px;
+    width: 700px;
     overflow: hidden;
 }
 
 #map-container {
     height: 500px;
-    width:800px;
+    width:700px;
     position: relative;
     margin: 10px 0;
     margin-left:30px;
 }
 
 #navigator {
-    background:white;
+    background:transparent;
     height:175px;
     width: 350px;
     overflow: hidden;
@@ -128,9 +176,94 @@ body{
 .overlay{
     position: absolute;
     top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    left: 80%;
+    height:20%;
+    width: 20%;
     z-index: 10;
-    background-color: rgba(0,0,0,0.1); /*dim the background*/
 }
+
+.row.no-pad {
+    margin-right:0;
+    margin-left:0;
+}
+.row.no-pad > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+/*Style d3 axes*/
+.axis line, .axis path {
+    fill: none;
+    stroke: #b2a394;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+
+}
+
+
+/*Style slider*/
+.slider {
+    width: 150px;
+    height: 17px;
+    position: relative;
+    margin-top: 25px;
+    margin-bottom:6px;
+    background: lightgray;
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+
+}
+
+.slider .bar {
+    width: 386px;
+    height: 5px;
+    background: lightslategrey;
+    position: absolute;
+    top: 6px;
+    left: 8px;
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+.slider .highlight {
+    height: 2px;
+    position: absolute;
+    width: 388px;
+    top: 6px;
+    left: 6px;
+
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+
+    background: rgba(255, 255, 255, 0.25);
+}
+
+
+input[type="range"] {
+    -webkit-appearance: none;
+    background-color: #d3ccc4;
+    height: 2px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    position: relative;
+    top: 0px;
+    z-index: 1;
+    width: 7px;
+    height: 13px;
+    cursor: pointer;
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color:#d3ccc4;
+}
+

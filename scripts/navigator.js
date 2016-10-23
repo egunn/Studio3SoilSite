@@ -1,8 +1,8 @@
 //set some margins and record width and height of window
 var margin = {t:25,r:40,b:25,l:40};
 
-var width = document.getElementById('navigator').clientWidth - margin.r - margin.l,
-    height = document.getElementById('navigator').clientHeight - margin.t - margin.b;
+var widthNav = document.getElementById('navigator').clientWidth - margin.r - margin.l,
+    heightNav = document.getElementById('navigator').clientHeight - margin.t - margin.b;
 
 
 var map = d3.select("#navigator");
@@ -13,13 +13,15 @@ var worldMap = map.append("g")
 
 var map_data = d3.map();
 
-var proj = d3.geo.equirectangular()
+var proj = d3.geoEquirectangular()
 //.origin([24.7, -29.2])
 //.parallels([-22.1, -34.1])
     .scale(50)
-    .translate([width/2+40, height/2+20]);
+    .translate([widthNav/2+40, heightNav/2+20]);
 
-var path = d3.geo.path()
+//proj.fitExtent([[10, 10], [width2/2, height2]], mapBlocks);
+
+var path = d3.geoPath()
     .projection(proj);
 
 // the data came from some rolling up of info I got from iec.org.za site.
@@ -54,7 +56,7 @@ var columnString = 'people per km';
 //can be no zeros in the data! Need to change scale factor in cartogram.js (line 100) depending on magnitude of variable
 
 // this loads test the topojson file and creates the map.
-d3.json("data/worldcountries_fromWorking.topojson", function (data) {
+d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
     //console.log(data);
 
     // Convert the topojson to geojson
@@ -71,7 +73,7 @@ d3.json("data/worldcountries_fromWorking.topojson", function (data) {
             return d.id;
         })
         .attr("fill", function (e) {
-            return 'gray';//colour_map[vote_data.get(e.properties.landArea)[0]];
+            return mapCol;//'#baada9';//colour_map[vote_data.get(e.properties.landArea)[0]];
         })
         .style('stroke','light-gray')
         .style('stroke-width',1)
@@ -85,13 +87,13 @@ d3.json("data/worldcountries_fromWorking.topojson", function (data) {
 
             //var stringCat =  '\'.' + continent + '\'';  //'&quot;' + '.' + continent + '&quot;';
             //'.' + continent
-            d3.selectAll( '.' + continent ).attr('fill','green');
-            d3.select(this).attr('fill','orange');
+            d3.selectAll( '.' + continent ).attr('fill',mapHighlightCol);
+            //d3.select(this).attr('fill','orange');
             d3.select('.title').text(titleText);
 
         })
         .on('mouseout',function(d){
-            d3.selectAll('.country').attr('fill','gray');
+            d3.selectAll('.country').attr('fill',mapCol);
         });
 
     worldMap.append("title")
