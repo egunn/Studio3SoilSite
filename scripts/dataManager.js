@@ -1,6 +1,8 @@
 d3.csv('./soilData_allyrs1019.csv', dataLoaded); //soilDataMapNames_mergingkeys_2_cut.csv', dataLoaded);
 
 function dataLoaded(soilData) {
+    console.log(soilData);
+
     importedData = soilData;
     updateData();
 }

@@ -110,7 +110,7 @@ body{
 
 /*does nothing, except when added to panel-title div*/
 #accordion3 .panel-heading{
-    background:blue;
+    /*background:blue;*/
     opacity:10%;
 }
 
