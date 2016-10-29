@@ -25,7 +25,7 @@ strong {
     color: #ecd9c6;
     text-transform: uppercase;
     font-family: "Work Sans", Arial, sans-serif;
-    margin-top: 1.5em;
+    /*margin-top: 1.5em;*/
     margin-bottom: 0em;
     letter-spacing: 2px;
     font-weight: lighter;
@@ -34,14 +34,14 @@ strong {
 }
 
 h1 {
-    font-size: 200px;
+    font-size: 150px;
     letter-spacing: 2.5px;
-    color: #482e1f;
+    color:#ecd9c6; /*#482e1f;*/
 }
 
 h2 {
   margin-top: 20px;
-    padding-bottom:20px;
+  padding-bottom:20px;
 }
 
 .map-title{
@@ -53,6 +53,7 @@ h2 {
 p {
     color: #ecd9c6;
 }
+
 body{
     background: #593c31;/*#4f4034; /*#482e1f;*/
     font-family:'Open Sans', sans-serif;
@@ -60,8 +61,34 @@ body{
     font-size: 14px;
     line-height: 1.4em;
     padding-top: 20px;
+    padding-left:30px;
     margin: 0 auto;
+}
 
+/*background canvas element for index page*/
+.background {
+    z-index:2;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:100vh;
+}
+
+/*background svg element for index page*/
+.svgbackground {
+    z-index: 1;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:100vh;
+}
+
+/*div to hold rest of index page elements*/
+.floating{
+    z-index:3;
+    position:relative;
 }
 
 .topdiv {
