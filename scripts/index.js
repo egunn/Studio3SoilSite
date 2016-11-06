@@ -114,14 +114,14 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
     map.append('circle')
         .attr('cx',proj([countryLatLong[0].long,countryLatLong[0].lat])[0])
         .attr('cy',proj([countryLatLong[0].long,countryLatLong[0].lat])[1])
-        .attr('r',10)
-        .attr('fill','blue');
+        .attr('r',5)
+        .attr('fill','gray');
 
     map.append('circle')
         .attr('cx',proj([countryLatLong[1].long,countryLatLong[1].lat])[0])
         .attr('cy',proj([countryLatLong[1].long,countryLatLong[1].lat])[1])
-        .attr('r',10)
-        .attr('fill','red');
+        .attr('r',5)
+        .attr('fill','lightgray');
 
 
 });
@@ -189,7 +189,7 @@ function drawCanvas(){
 
     particleArray.forEach(function(d){
         //console.log(proj([d.long,d.lat])[0],proj([d.long,d.lat])[1]);
-        context.fillStyle = "#6eebef";
+        context.fillStyle = "gray"//"#6eebef";
         context.beginPath();
         context.arc(d.x,d.y, d.radius, 0, 2 * Math.PI, false);
         context.fill();
