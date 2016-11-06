@@ -225,7 +225,7 @@ function drawCanvas(){
 
         context.fillStyle = 'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
         context.beginPath();
-        context.arc(tempParticle.x,tempParticle.y, 3, 0, 2 * Math.PI, false);
+        context.arc(tempParticle.x,tempParticle.y, 3*(t+1), 0, 2 * Math.PI, false);
         context.fill();
     }
 
