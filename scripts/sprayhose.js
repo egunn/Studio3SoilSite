@@ -187,62 +187,14 @@ function updateParticles(){
 
 function drawCanvas(){
 
-    /*particleArray.forEach(function(d){
+    particleArray.forEach(function(d){
         //console.log(proj([d.long,d.lat])[0],proj([d.long,d.lat])[1]);
         context.fillStyle = "gray"//"#6eebef";
         context.beginPath();
         context.arc(d.x,d.y, d.radius, 0, 2 * Math.PI, false);
         context.fill();
-    })*/
-
-    context.strokeStyle = "gray"
-    context.beginPath();
-    context.moveTo(proj([countryLatLong[0].long,countryLatLong[0].lat])[0], proj([countryLatLong[0].long,countryLatLong[0].lat])[1]);
-    context.bezierCurveTo(
-        proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+50,  //control 1 x
-        proj([countryLatLong[0].long,countryLatLong[0].lat])[1]-100,//control 1 y
-        proj([countryLatLong[1].long,countryLatLong[1].lat])[0]-50, //control 2 x
-        proj([countryLatLong[1].long,countryLatLong[1].lat])[1]-100, //control 2 y
-        proj([countryLatLong[1].long,countryLatLong[1].lat])[0],  //dest x
-        proj([countryLatLong[1].long,countryLatLong[1].lat])[1]); //dest y
-    context.lineWidth = 1;
-    context.stroke();
-
-    for (var t = .1; t < .9; t+=.1){
-        var bezPoints = {
-            p0:{x: proj([countryLatLong[0].long,countryLatLong[0].lat])[0], y:proj([countryLatLong[0].long,countryLatLong[0].lat])[1]},
-            p1:{x: proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+50, y:proj([countryLatLong[0].long,countryLatLong[0].lat])[1]-100},//control 1 y
-            p2:{x: proj([countryLatLong[1].long,countryLatLong[1].lat])[0]-50, y:proj([countryLatLong[1].long,countryLatLong[1].lat])[1]-100}, //control 2 y
-            p3:{x: proj([countryLatLong[1].long,countryLatLong[1].lat])[0], y:proj([countryLatLong[1].long,countryLatLong[1].lat])[1]}
-        };
-        tempParticle = calcBezierPoint(t,bezPoints.p0,bezPoints.p1, bezPoints.p2,bezPoints.p3);
-
-        context.fillStyle = "gray";//"#6eebef";
-        context.beginPath();
-        context.arc(tempParticle.x,tempParticle.y, 3, 0, 2 * Math.PI, false);
-        context.fill();
-    }
-
-
+    })
 }
-
-
-
-
-
-function  calcBezierPoint(t, p0, p1, p2, p3) {
-    var data = [p0, p1, p2, p3];
-    var at = 1 - t;
-    for (var i = 1; i < data.length; i++) {
-        for (var k = 0; k < data.length - i; k++) {
-            data[k] = {
-                x: data[k].x * at + data[k + 1].x * t,
-                y: data[k].y * at + data[k + 1].y * t
-            };
-        }
-    }
-    return data[0];
-};
 
 
 
