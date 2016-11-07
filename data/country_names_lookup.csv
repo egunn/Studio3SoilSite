@@ -1,0 +1,241 @@
+NAME,NAME3,FULLNAME,country,ISO3166name,alternateSpelling,alternateSpelling2,alternateSpelling3,continent,grouping,UN M49 Code (padd to 3 digits),HasMapData,ISO Alpha-2,ISO Alpha-3,latitude,longitude
+AE,ARE,United Arab Emirates,United Arab Emirates,UNITED ARAB EMIRATES,,United Arab Emirates,,Middle East and North Africa,country,784,TRUE,AE,ARE,23.424076,53.847818
+AF,AFG,Afghanistan,Afghanistan,AFGHANISTAN,,Afghanistan,,South Asia,country,4,TRUE,AF,AFG,33.93911,67.709953
+AL,ALB,Albania,Albania,ALBANIA,,Albania,,Europe and Central Asia,country,8,TRUE,AL,ALB,41.153332,20.168331
+AM,ARM,Armenia,Armenia,ARMENIA,,Armenia,,Europe and Central Asia,country,51,TRUE,AM,ARM,40.069099,45.038189
+AO,AGO,Angola,Angola,ANGOLA,,Angola,,Sub-Saharan Africa,country,24,TRUE,AO,AGO,-11.202692,17.873887
+AQ,ATA,Antarctica,Antarctica,ANTARCTICA,,Antarctica,,Antarctica,country,10,TRUE,AQ,ATA,-75.250973,-0.071389
+AR,ARG,Argentina,Argentina,ARGENTINA,,Argentina,,Latin America and the Caribbean,country,32,TRUE,AR,ARG,-38.416097,-63.616672
+AT,AUT,Austria,Austria,AUSTRIA,,Austria,,Europe and Central Asia,country,40,TRUE,AT,AUT,47.516231,14.550072
+AU,AUS,Australia,Australia,AUSTRALIA,,Australia,,East Asia and Pacific,country,36,TRUE,AU,AUS,-25.274398,133.775136
+AZ,AZE,Azerbaijan,Azerbaijan,AZERBAIJAN,,Azerbaijan,,Europe and Central Asia,country,31,TRUE,AZ,AZE,40.143105,47.576927
+BA,BIH,Bosnia and Herzegovina,Bosnia & Herzegovina,BOSNIA AND HERZEGOVINA,,Bosnia and Herzegovina,,Europe and Central Asia,country,70,TRUE,BA,BIH,43.915886,17.679076
+BD,BGD,Bangladesh,Bangladesh,BANGLADESH,,Bangladesh,,South Asia,country,50,TRUE,BD,BGD,23.684994,90.356331
+BE,BEL,Belgium,Belgium,BELGIUM,,Belgium,,Europe and Central Asia,country,56,TRUE,BE,BEL,50.503887,4.469936
+BF,BFA,Burkina Faso,Burkina Faso,BURKINA FASO,,Burkina Faso,,Sub-Saharan Africa,country,854,TRUE,BF,BFA,12.238333,-1.561593
+BG,BGR,Bulgaria,Bulgaria,BULGARIA,,Bulgaria,,Europe and Central Asia,country,100,TRUE,BG,BGR,42.733883,25.48583
+BI,BDI,Burundi,Burundi,BURUNDI,,Burundi,,Sub-Saharan Africa,country,108,TRUE,BI,BDI,-3.373056,29.918886
+BJ,BEN,Benin,Benin,BENIN,,Benin,,Sub-Saharan Africa,country,204,TRUE,BJ,BEN,9.30769,2.315834
+BN,BRN,Brunei,Brunei Darussalam,BRUNEI DARUSSALAM,,Brunei,,,country,96,TRUE,BN,BRN,4.535277,114.727669
+BO,BOL,Bolivia,Bolivia,"BOLIVIA, PLURINATIONAL STATE OF",,Bolivia,Bolivia (Plurinational State of),Latin America and the Caribbean,country,68,TRUE,BO,BOL,-16.290154,-63.588653
+BR,BRA,Brazil,Brazil,BRAZIL,,Brazil,,Latin America and the Caribbean,country,76,TRUE,BR,BRA,-14.235004,-51.92528
+BS,BHS,Bahamas,The Bahamas,BAHAMAS,"Bahamas, The",Bahamas,,Latin America and the Caribbean,country,44,TRUE,BS,BHS,25.03428,-77.39628
+BT,BTN,Bhutan,Bhutan,BHUTAN,,Bhutan,,South Asia,country,64,TRUE,BT,BTN,27.514162,90.433601
+BW,BWA,Botswana,Botswana,BOTSWANA,,Botswana,,Sub-Saharan Africa,country,72,TRUE,BW,BWA,-22.328474,24.684866
+BY,BLR,Belarus,Belarus,BELARUS,,Belarus,,Europe and Central Asia,country,112,TRUE,BY,BLR,53.709807,27.953389
+BZ,BLZ,Belize,Belize,BELIZE,,Belize,,Latin America and the Caribbean,country,84,TRUE,BZ,BLZ,17.189877,-88.49765
+CA,CAN,Canada,Canada,CANADA,,Canada,,North America,country,124,TRUE,CA,CAN,56.130366,-106.346771
+CD,COD,Democratic Republic of the Congo,"Congo, Dem. Rep.","CONGO, THE DEMOCRATIC REPUBLIC OF THE","Congo, Rep.",Congo [DRC],,Sub-Saharan Africa,country,180,TRUE,CD,COD,-4.038333,21.758664
+CF,CAF,Central African Republic,Central African Rep.,CENTRAL AFRICAN REPUBLIC,,Central African Republic,,Sub-Saharan Africa,country,140,TRUE,CF,CAF,6.611111,20.939444
+CG,COG,Republic of the Congo,"Congo, Rep.",CONGO,"Congo, Dem. Rep.",Congo [Republic],,Sub-Saharan Africa,country,178,TRUE,CG,COG,-0.228021,15.827659
+CH,CHE,Switzerland,Switzerland,SWITZERLAND,,Switzerland,,Europe and Central Asia,country,756,TRUE,CH,CHE,46.818188,8.227512
+CI,CIV,Ivory Coast,Ivory Coast,CÔTE D'IVOIRE,Côte d'Ivoire,,Côte d'Ivoire,Sub-Saharan Africa,country,384,TRUE,CI,CIV,7.539989,-5.54708
+CL,CHI,Chile,Chile,CHILE,,Chile,,Latin America and the Caribbean,country,152,TRUE,CL,CHI,-35.675147,-71.542969
+CM,CMR,Cameroon,Cameroon,CAMEROON,,Cameroon,,Sub-Saharan Africa,country,120,TRUE,CM,CMR,7.369722,12.354722
+CN,CHN,China,China,CHINA,,China,"China, mainland",East Asia and Pacific,country,156,TRUE,CN,CHN,35.86166,104.195397
+CO,COL,Colombia,Colombia,COLOMBIA,,Colombia,,Latin America and the Caribbean,country,170,TRUE,CO,COL,4.570868,-74.297333
+CR,CRI,Costa Rica,Costa Rica,COSTA RICA,,Costa Rica,,Latin America and the Caribbean,country,188,TRUE,CR,CRI,9.748917,-83.753428
+CU,CUB,Cuba,Cuba,CUBA,,Cuba,,Latin America and the Caribbean,country,192,TRUE,CU,CUB,21.521757,-77.781167
+CY,CYP,Cyprus,Cyprus,CYPRUS,,Cyprus,,Europe and Central Asia,country,196,TRUE,CY,CYP,35.126413,33.429859
+CZ,CZE,Czechia,Czech Republic,CZECH REPUBLIC,,Czech Republic,,Europe and Central Asia,country,203,TRUE,CZ,CZE,49.817492,15.472962
+DE,DEU,Germany,Germany,GERMANY,,Germany,,Europe and Central Asia,country,276,TRUE,DE,DEU,51.165691,10.451526
+DJ,DJI,Djibouti,Djibouti,DJIBOUTI,,Djibouti,,Middle East and North Africa,country,262,TRUE,DJ,DJI,11.825138,42.590275
+DK,DNK,Denmark,Denmark,DENMARK,,Denmark,,Europe and Central Asia,country,208,TRUE,DK,DNK,56.26392,9.501785
+DO,DOM,Dominican Republic,Dominican Republic,DOMINICAN REPUBLIC,,Dominican Republic,,Latin America and the Caribbean,country,214,TRUE,DO,DOM,18.735693,-70.162651
+DZ,DZA,Algeria,Algeria,ALGERIA,,Algeria,,Middle East and North Africa,country,12,TRUE,DZ,DZA,28.033886,1.659626
+EC,ECU,Ecuador,Ecuador,ECUADOR,,Ecuador,,Latin America and the Caribbean,country,218,TRUE,EC,ECU,-1.831239,-78.183406
+EE,EST,Estonia,Estonia,ESTONIA,,Estonia,,Europe and Central Asia,country,233,TRUE,EE,EST,58.595272,25.013607
+EG,EGY,Egypt,Egypt,EGYPT,"Egypt, Arab Rep.",Egypt,,Middle East and North Africa,country,818,TRUE,EG,EGY,26.820553,30.802498
+EH,ESH,Western Sahara,Western Sahara,WESTERN SAHARA,,Western Sahara,,,country,732,TRUE,EH,ESH,24.215527,-12.885834
+ER,ERI,Eritrea,Eritrea,ERITREA,,Eritrea,,Sub-Saharan Africa,country,232,TRUE,ER,ERI,15.179384,39.782334
+ES,ESP,Spain,Spain,SPAIN,,Spain,,Europe and Central Asia,country,724,TRUE,ES,ESP,40.463667,-3.74922
+ET,ETH,Ethiopia,Ethiopia,ETHIOPIA,,Ethiopia,,Sub-Saharan Africa,country,231,TRUE,ET,ETH,9.145,40.489673
+FI,FIN,Finland,Finland,FINLAND,,Finland,,Europe and Central Asia,country,246,TRUE,FI,FIN,61.92411,25.748151
+FJ,FJI,Fiji,Fiji,FIJI,,Fiji,,East Asia and Pacific,country,242,TRUE,FJ,FJI,-16.578193,179.414413
+FK,FLK,Falkland Islands,Falkland Islands,FALKLAND ISLANDS (MALVINAS),,Falkland Islands [Islas Malvinas],,,country,238,TRUE,FK,FLK,-51.796253,-59.523613
+FR,FRA,France,France,FRANCE,,France,,Europe and Central Asia,country,250,TRUE,FR,FRA,46.227638,2.213749
+GA,GAB,Gabon,Gabon,GABON,,Gabon,,Sub-Saharan Africa,country,266,TRUE,GA,GAB,-0.803689,11.609444
+GB,GBR,United Kingdom,United Kingdom,UNITED KINGDOM,,United Kingdom,,Europe and Central Asia,country,826,TRUE,GB,GBR,55.378051,-3.435973
+GE,GEO,Georgia,Georgia,GEORGIA,,Georgia,,Europe and Central Asia,country,268,TRUE,GE,GEO,42.315407,43.356892
+GH,GHA,Ghana,Ghana,GHANA,,Ghana,,Sub-Saharan Africa,country,288,TRUE,GH,GHA,7.946527,-1.023194
+GL,GNL,Greenland,Greenland,GREENLAND,,Greenland,,Europe and Central Asia,country,304,TRUE,GL,GRL,71.706936,-42.604303
+GM,GMB,Gambia,The Gambia,GAMBIA,"Gambia, The",Gambia,,Sub-Saharan Africa,country,270,TRUE,GM,GMB,13.443182,-15.310139
+GN,GIN,Guinea,Guinea,GUINEA,,Guinea,,Sub-Saharan Africa,country,324,TRUE,GN,GIN,9.945587,-9.696645
+GQ,GNQ,Equatorial Guinea,Equatorial Guinea,EQUATORIAL GUINEA,,Equatorial Guinea,,Sub-Saharan Africa,country,226,TRUE,GQ,GNQ,1.650801,10.267895
+GR,GRC,Greece,Greece,GREECE,,Greece,,Europe and Central Asia,country,300,TRUE,GR,GRC,39.074208,21.824312
+GT,GTM,Guatemala,Guatemala,GUATEMALA,,Guatemala,,Latin America and the Caribbean,country,320,TRUE,GT,GTM,15.783471,-90.230759
+GW,GNB,Guinea-Bissau,Guinea-Bissau,GUINEA-BISSAU,,Guinea-Bissau,,Sub-Saharan Africa,country,624,TRUE,GW,GNB,11.803749,-15.180413
+GY,GUY,Guyana,Guyana,GUYANA,,Guyana,,Latin America and the Caribbean,country,328,TRUE,GY,GUY,4.860416,-58.93018
+HN,HND,Honduras,Honduras,HONDURAS,,Honduras,,Latin America and the Caribbean,country,340,TRUE,HN,HND,15.199999,-86.241905
+HR,HRV,Croatia,Croatia,CROATIA,,Croatia,,Europe and Central Asia,country,191,TRUE,HR,HRV,45.1,15.2
+HT,HTI,Haiti,Haiti,HAITI,,Haiti,,Latin America and the Caribbean,country,332,TRUE,HT,HTI,18.971187,-72.285215
+HU,HUN,Hungary,Hungary,HUNGARY,,Hungary,,Europe and Central Asia,country,348,TRUE,HU,HUN,47.162494,19.503304
+ID,IDN,Indonesia,Indonesia,INDONESIA,,Indonesia,,East Asia and Pacific,country,360,TRUE,ID,IDN,-0.789275,113.921327
+IE,IRL,Ireland,Ireland,IRELAND,,Ireland,,Europe and Central Asia,country,372,TRUE,IE,IRL,53.41291,-8.24389
+IL,ISR,Israel,Israel,ISRAEL,,Israel,,Middle East and North Africa,country,376,TRUE,IL,ISR,31.046051,34.851612
+IN,IND,India,India,INDIA,,India,,South Asia,country,356,TRUE,IN,IND,20.593684,78.96288
+IQ,IRQ,Iraq,Iraq,IRAQ,,Iraq,,Middle East and North Africa,country,368,TRUE,IQ,IRQ,33.223191,43.679291
+IR,IRN,Iran,Iran,"IRAN, ISLAMIC REPUBLIC OF","Iran, Islamic Rep.",Iran,Iran (Islamic Republic of),Middle East and North Africa,country,364,TRUE,IR,IRN,32.427908,53.688046
+IS,ISL,Iceland,Iceland,ICELAND,,Iceland,,Europe and Central Asia,country,352,TRUE,IS,ISL,64.963051,-19.020835
+IT,ITA,Italy,Italy,ITALY,,Italy,,Europe and Central Asia,country,380,TRUE,IT,ITA,41.87194,12.56738
+JM,JAM,Jamaica,Jamaica,JAMAICA,,Jamaica,,Latin America and the Caribbean,country,388,TRUE,JM,JAM,18.109581,-77.297508
+JO,JOR,Jordan,Jordan,JORDAN,,Jordan,,Middle East and North Africa,country,400,TRUE,JO,JOR,30.585164,36.238414
+JP,JPN,Japan,Japan,JAPAN,,Japan,,East Asia and Pacific,country,392,TRUE,JP,JPN,36.204824,138.252924
+KE,KEN,Kenya,Kenya,KENYA,,Kenya,,Sub-Saharan Africa,country,404,TRUE,KE,KEN,-0.023559,37.906193
+KG,KGZ,Kyrgyzstan,Kyrgyz Rep.,KYRGYZSTAN,Kyrgyz Republic,Kyrgyzstan,,Europe and Central Asia,country,417,TRUE,KG,KGZ,41.20438,74.766098
+KH,KHM,Cambodia,Cambodia,CAMBODIA,,Cambodia,,East Asia and Pacific,country,113,TRUE,KH,KHM,12.565679,104.990963
+KP,PRK,North Korea,"Korea, Dem. Rep.","KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF","Korea, Dem. People?s Rep.",North Korea,Democratic People's Republic of Korea,East Asia and Pacific,country,408,TRUE,KP,PRK,40.339852,127.510093
+KR,ROK,South Korea,"Korea, Rep.","KOREA, REPUBLIC OF",,South Korea,Republic of Korea,East Asia and Pacific,country,410,TRUE,KR,ROK,35.907757,127.766922
+KW,KWT,Kuwait,Kuwait,KUWAIT,,Kuwait,,Middle East and North Africa,country,414,TRUE,KW,KWT,29.31166,47.481766
+KZ,KAZ,Kazakhstan,Kazakhstan,KAZAKHSTAN,,Kazakhstan,,Europe and Central Asia,country,398,TRUE,KZ,KAZ,48.019573,66.923684
+LA,LAO,Laos,Lao PDR,LAO PEOPLE'S DEMOCRATIC REPUBLIC,,Laos,,East Asia and Pacific,country,418,TRUE,LA,LAO,19.85627,102.495496
+LB,LBN,Lebanon,Lebanon,LEBANON,,Lebanon,,Middle East and North Africa,country,422,TRUE,LB,LBN,33.854721,35.862285
+LK,LKA,Sri Lanka,Sri Lanka,SRI LANKA,,Sri Lanka,,South Asia,country,144,TRUE,LK,LKA,7.873054,80.771797
+LR,LBR,Liberia,Liberia,LIBERIA,,Liberia,,Sub-Saharan Africa,country,430,TRUE,LR,LBR,6.428055,-9.429499
+LS,LSO,Lesotho,Lesotho,LESOTHO,,Lesotho,,Sub-Saharan Africa,country,426,TRUE,LS,LSO,-29.609988,28.233608
+LT,LTU,Lithuania,Lithuania,LITHUANIA,,Lithuania,,Europe and Central Asia,country,440,TRUE,LT,LTU,55.169438,23.881275
+LU,LUX,Luxembourg,Luxembourg,LUXEMBOURG,,Luxembourg,,Europe and Central Asia,country,442,TRUE,LU,LUX,49.815273,6.129583
+LV,LVA,Latvia,Latvia,LATVIA,,Latvia,,Europe and Central Asia,country,428,TRUE,LV,LVA,56.879635,24.603189
+LY,LBY,Libya,Libya,LIBYA,,Libya,,Middle East and North Africa,country,434,TRUE,LY,LBY,26.3351,17.228331
+MA,MAR,Morocco,Morocco,MOROCCO,,Morocco,,Middle East and North Africa,country,504,TRUE,MA,MAR,31.791702,-7.09262
+MD,MDA,Moldova,Moldova,"MOLDOVA, REPUBLIC OF",,Moldova,Republic of Moldova,Europe and Central Asia,country,498,TRUE,MD,MDA,47.411631,28.369885
+ME,MGO,Montenegro,Montenegro,MONTENEGRO,,Montenegro,,Europe and Central Asia,country,499,TRUE,ME,MGO,42.708678,19.37439
+MG,MDG,Madagascar,Madagascar,MADAGASCAR,,Madagascar,,Sub-Saharan Africa,country,450,TRUE,MG,MDG,-18.766947,46.869107
+MK,MKD,Macedonia,Macedonia,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF","Macedonia, FYR",Macedonia [FYROM],The former Yugoslav Republic of Macedonia,Europe and Central Asia,country,807,TRUE,MK,MKD,41.608635,21.745275
+ML,MLI,Mali,Mali,MALI,,Mali,,Sub-Saharan Africa,country,466,TRUE,ML,MLI,17.570692,-3.996166
+MM,MMR,Myanmar [Burma],Myanmar,MYANMAR,,Myanmar [Burma],,East Asia and Pacific,country,104,TRUE,MM,MMR,21.913965,95.956223
+MN,MNG,Mongolia,Mongolia,MONGOLIA,,Mongolia,,East Asia and Pacific,country,496,TRUE,MN,MNG,46.862496,103.846656
+MR,MRT,Mauritania,Mauritania,MAURITANIA,,Mauritania,,Sub-Saharan Africa,country,478,TRUE,MR,MRT,21.00789,-10.940835
+MW,MWI,Malawi,Malawi,MALAWI,,Malawi,,Sub-Saharan Africa,country,454,TRUE,MW,MWI,-13.254308,34.301525
+MX,MEX,Mexico,Mexico,MEXICO,,Mexico,,Latin America and the Caribbean,country,484,TRUE,MX,MEX,23.634501,-102.552784
+MY,MYS,Malaysia,Malaysia,MALAYSIA,,Malaysia,,East Asia and Pacific,country,458,TRUE,MY,MYS,4.210484,101.975766
+MZ,MOZ,Mozambique,Mozambique,MOZAMBIQUE,,Mozambique,,Sub-Saharan Africa,country,508,TRUE,MZ,MOZ,-18.665695,35.529562
+NA,NAM,Namibia,Namibia,NAMIBIA,,Namibia,,Sub-Saharan Africa,country,516,TRUE,NA,NAM,-22.95764,18.49041
+NC,NCL,New Caledonia,New Caledonia,NEW CALEDONIA,,New Caledonia,,East Asia and Pacific,country,540,TRUE,NC,NCL,-20.904305,165.618042
+NE,NER,Niger,Niger,NIGER,,Niger,,Sub-Saharan Africa,country,562,TRUE,NE,NER,17.607789,8.081666
+NG,NGA,Nigeria,Nigeria,NIGERIA,,Nigeria,,Sub-Saharan Africa,country,566,TRUE,NG,NGA,9.081999,8.675277
+NI,NIC,Nicaragua,Nicaragua,NICARAGUA,,Nicaragua,,Latin America and the Caribbean,country,558,TRUE,NI,NIC,12.865416,-85.207229
+NL,NLD,Netherlands,Netherlands,NETHERLANDS,,Netherlands,,Europe and Central Asia,country,528,TRUE,NL,NLD,52.132633,5.291266
+NO,NOR,Norway,Norway,NORWAY,,Norway,,Europe and Central Asia,country,578,TRUE,NO,NOR,60.472024,8.468946
+NP,NPL,Nepal,Nepal,NEPAL,,Nepal,,South Asia,country,524,TRUE,NP,NPL,28.394857,84.124008
+NZ,NZL,New Zealand,New Zealand,NEW ZEALAND,,New Zealand,,East Asia and Pacific,country,554,TRUE,NZ,NZL,-40.900557,174.885971
+OM,OMN,Oman,Oman,OMAN,,Oman,,Middle East and North Africa,country,512,TRUE,OM,OMN,21.512583,55.923255
+PA,PAN,Panama,Panama,PANAMA,,Panama,,Latin America and the Caribbean,country,591,TRUE,PA,PAN,8.537981,-80.782127
+PE,PER,Peru,Peru,PERU,,Peru,,Latin America and the Caribbean,country,604,TRUE,PE,PER,-9.189967,-75.015152
+PG,PNG,Papua New Guinea,Papua New Guinea,PAPUA NEW GUINEA,,Papua New Guinea,,East Asia and Pacific,country,598,TRUE,PG,PNG,-6.314993,143.95555
+PH,PHL,Philippines,Philippines,PHILIPPINES,,Philippines,,East Asia and Pacific,country,608,TRUE,PH,PHL,12.879721,121.774017
+PK,PAN,Pakistan,Pakistan,PAKISTAN,,Pakistan,,South Asia,country,586,TRUE,PK,PAN,30.375321,69.345116
+PL,POL,Poland,Poland,POLAND,,Poland,,Europe and Central Asia,country,616,TRUE,PL,POL,51.919438,19.145136
+PR,PRI,Puerto Rico,Puerto Rico,PUERTO RICO,,Puerto Rico,,Latin America and the Caribbean,country,630,TRUE,PR,PRI,18.220833,-66.590149
+PS,WBG,Palestine,Palestine,"PALESTINE, STATE OF",West Bank and Gaza,Palestinian Territories,Occupied Palestinian Territory,Middle East and North Africa,country,275,TRUE,PS,PSE,31.952162,35.233154
+PT,PRT,Portugal,Portugal,PORTUGAL,,Portugal,,Europe and Central Asia,country,620,TRUE,PT,PRT,39.399872,-8.224454
+PY,PRY,Paraguay,Paraguay,PARAGUAY,,Paraguay,,Latin America and the Caribbean,country,600,TRUE,PY,PRY,-23.442503,-58.443832
+QA,QAT,Qatar,Qatar,QATAR,,Qatar,,Middle East and North Africa,country,634,TRUE,QA,QAT,25.354826,51.183884
+RO,ROU,Romania,Romania,ROMANIA,,Romania,,Europe and Central Asia,country,642,TRUE,RO,ROU,45.943161,24.96676
+RS,YUG,Serbia,Serbia,SERBIA,,Serbia,,Europe and Central Asia,country,688,TRUE,RS,SRB,44.016521,21.005859
+RU,RUS,Russia,Russian Federation,RUSSIAN FEDERATION,,Russia,,Europe and Central Asia,country,643,TRUE,RU,RUS,61.52401,105.318756
+RW,RWA,Rwanda,Rwanda,RWANDA,,Rwanda,,Sub-Saharan Africa,country,646,TRUE,RW,RWA,-1.940278,29.873888
+SA,SAU,Saudi Arabia,Saudi Arabia,SAUDI ARABIA,,Saudi Arabia,,Middle East and North Africa,country,682,TRUE,SA,SAU,23.885942,45.079162
+SB,SLB,Solomon Islands,Solomon Islands,SOLOMON ISLANDS,,Solomon Islands,,East Asia and Pacific,country,90,TRUE,SB,SLB,-9.64571,160.156194
+SD,SDN,Sudan,Sudan,SUDAN,,Sudan,,Sub-Saharan Africa,country,736,TRUE,SD,SDN,12.862807,30.217636
+SE,SWE,Sweden,Sweden,SWEDEN,,Sweden,,Europe and Central Asia,country,752,TRUE,SE,SWE,60.128161,18.643501
+SI,SVN,Slovenia,Slovenia,SLOVENIA,,Slovenia,,Europe and Central Asia,country,705,TRUE,SI,SVN,46.151241,14.995463
+SK,SVK,Slovakia,Slovak Rep.,SLOVAKIA,Slovak Republic,Slovakia,,Europe and Central Asia,country,703,TRUE,SK,SVK,48.669026,19.699024
+SL,SLE,Sierra Leone,Sierra Leone,SIERRA LEONE,,Sierra Leone,,Sub-Saharan Africa,country,694,TRUE,SL,SLE,8.460555,-11.779889
+SN,SEN,Senegal,Senegal,SENEGAL,,Senegal,,Sub-Saharan Africa,country,686,TRUE,SN,SEN,14.497401,-14.452362
+SO,SOM,Somalia,Somalia,SOMALIA,,Somalia,,Sub-Saharan Africa,country,706,TRUE,SO,SOM,5.152149,46.199616
+SR,SUR,Suriname,Suriname,SURINAME,,Suriname,,Latin America and the Caribbean,country,740,TRUE,SR,SUR,3.919305,-56.027783
+SS,,South Sudan,South Sudan,SOUTH SUDAN,,Suriname,,Sub-Saharan Africa,country,728,TRUE,SS,,3.919305,-56.027783
+SV,SLV,El Salvador,El Salvador,EL SALVADOR,,El Salvador,,Latin America and the Caribbean,country,222,TRUE,SV,SLV,13.794185,-88.89653
+SY,SYR,Syria,Syrian Arab Rep.,SYRIAN ARAB REPUBLIC,Syrian Arab Republic,Syria,,Middle East and North Africa,country,760,TRUE,SY,SYR,34.802075,38.996815
+SZ,SWZ,Swaziland,Swaziland,SWAZILAND,,Swaziland,,Sub-Saharan Africa,country,748,TRUE,SZ,SWZ,-26.522503,31.465866
+TD,TCD,Chad,Chad,CHAD,,Chad,,Sub-Saharan Africa,country,148,TRUE,TD,TCD,15.454166,18.732207
+TF,ATF,French Southern Territories,French Southern Territories,FRENCH SOUTHERN TERRITORIES,,French Southern Territories,,,country,260,TRUE,TF,ATF,-49.280366,69.348557
+TG,TGO,Togo,Togo,TOGO,,Togo,,Sub-Saharan Africa,country,768,TRUE,TG,TGO,8.619543,0.824782
+TH,THA,Thailand,Thailand,THAILAND,,Thailand,,East Asia and Pacific,country,764,TRUE,TH,THA,15.870032,100.992541
+TJ,TJK,Tajikistan,Tajikistan,TAJIKISTAN,,Tajikistan,,Europe and Central Asia,country,762,TRUE,TJ,TJK,38.861034,71.276093
+TL,TMP,East Timor,Timor-Leste,TIMOR-LESTE,,Timor-Leste,,East Asia and Pacific,country,626,TRUE,TL,TLS,-8.874217,125.727539
+TM,TKM,Turkmenistan,Turkmenistan,TURKMENISTAN,,Turkmenistan,,Europe and Central Asia,country,795,TRUE,TM,TKM,38.969719,59.556278
+TN,TUN,Tunisia,Tunisia,TUNISIA,,Tunisia,,Middle East and North Africa,country,788,TRUE,TN,TUN,33.886917,9.537499
+TR,TUR,Turkey,Turkey,TURKEY,,Turkey,,Europe and Central Asia,country,792,TRUE,TR,TUR,38.963745,35.243322
+TT,TTO,Trinidad and Tobago,Trinidad and Tobago,TRINIDAD AND TOBAGO,,Trinidad and Tobago,,Latin America and the Caribbean,country,780,TRUE,TT,TTO,10.691803,-61.222503
+TW,TWN,Taiwan,Taiwan,"TAIWAN, PROVINCE OF CHINA",,Taiwan,"China, Taiwan Province of",East Asia and Pacific,country,158,TRUE,TW,TWN,23.69781,120.960515
+TZ,TZA,Tanzania,Tanzania,"TANZANIA, UNITED REPUBLIC OF",,Tanzania,United Republic of Tanzania,Sub-Saharan Africa,country,834,TRUE,TZ,TZA,-6.369028,34.888822
+UA,UKR,Ukraine,Ukraine,UKRAINE,,Ukraine,,Europe and Central Asia,country,804,TRUE,UA,UKR,48.379433,31.16558
+UG,UGA,Uganda,Uganda,UGANDA,,Uganda,,Sub-Saharan Africa,country,800,TRUE,UG,UGA,1.373333,32.290275
+US,USA,United States,USA,UNITED STATES,,United States,United States of America,North America,country,840,TRUE,US,USA,37.09024,-95.712891
+UY,URY,Uruguay,Uruguay,URUGUAY,,Uruguay,,Latin America and the Caribbean,country,858,TRUE,UY,URY,-32.522779,-55.765835
+UZ,UZB,Uzbekistan,Uzbekistan,UZBEKISTAN,,Uzbekistan,,Europe and Central Asia,country,860,TRUE,UZ,UZB,41.377491,64.585262
+VE,VEN,Venezuela,Venezuela,"VENEZUELA, BOLIVARIAN REPUBLIC OF","Venezuela, RB",Venezuela,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,country,862,TRUE,VE,VEN,6.42375,-66.58973
+VN,VNM,Vietnam,Vietnam,VIET NAM,,Vietnam,,East Asia and Pacific,country,704,TRUE,VN,VNM,14.058324,108.277199
+VU,VUT,Vanuatu,Vanuatu,VANUATU,,Vanuatu,,East Asia and Pacific,country,548,TRUE,VU,VUT,-15.376706,166.959158
+YE,YEM,Yemen,Yemen,YEMEN,"Yemen, Rep.",Yemen,,Middle East and North Africa,country,887,TRUE,YE,YEM,15.552727,48.516388
+ZA,ZAF,South Africa,S. Africa,SOUTH AFRICA,,South Africa,,Sub-Saharan Africa,country,710,TRUE,ZA,ZAF,-30.559482,22.937506
+ZM,ZMB,Zambia,Zambia,ZAMBIA,,Zambia,,Sub-Saharan Africa,country,894,TRUE,ZM,ZMB,-13.133897,27.849332
+ZW,ZWE,Zimbabwe,Zimbabwe,ZIMBABWE,,Zimbabwe,,Sub-Saharan Africa,country,716,TRUE,ZW,ZWE,-19.015438,29.154857
+AD,AND,Andorra,Andorra,ANDORRA,Andorra,Andorra,,Europe and Central Asia,country,20,FALSE,AD,AND,42.546245,1.601554
+AG,ATG,Antigua and Barbuda,Antigua & Barbuda,ANTIGUA AND BARBUDA,,Antigua and Barbuda,,Latin America and the Caribbean,country,28,FALSE,AG,ATG,17.060816,-61.796428
+AW,ABW,Aruba,Aruba,ARUBA,Aruba,Aruba,Aruba,Latin America and the Caribbean,country,533,FALSE,AW,ABW,12.52111,-69.968338
+BB,BRB,Barbados,Barbados,BARBADOS,,Barbados,,Latin America and the Caribbean,country,52,FALSE,BB,BRB,13.193887,-59.543198
+BH,BHR,Bahrain,Bahrain,BAHRAIN,,Bahrain,,Middle East and North Africa,country,48,FALSE,BH,BHR,25.930414,50.637772
+BM,BMU,Bermuda,Bermuda,BERMUDA,Bermuda,Bermuda,,North America,country,60,FALSE,BM,BMU,32.321384,-64.75737
+CK,COK,Cook Islands,Cook Islands,COOK ISLANDS,,Cook Islands,,East Asia and Pacific,country,184,FALSE,CK,COK,-21.236736,-159.777671
+CV,CPV,Cape Verde,Cape Verde,CAPE VERDE,Cabo Verde,Cape Verde,,Sub-Saharan Africa,country,132,FALSE,CV,CPV,16.002082,-24.013197
+CW,,Curacao,Curacao,CURA?AO,,,,Latin America and the Caribbean,country,,FALSE,CW,,,
+DM,DMA,Dominica,Dominica,DOMINICA,,Dominica,,Latin America and the Caribbean,country,212,FALSE,DM,DMA,15.414999,-61.370976
+FM,FSM,Micronesia,Micronesia,"MICRONESIA, FEDERATED STATES OF","Micronesia, Fed. Sts.",Micronesia,Micronesia (Federated States of),East Asia and Pacific,country,583,FALSE,FM,FSM,7.425554,150.550812
+FO,FRO,Faroe Islands,Faroe Islands,FAROE ISLANDS,Faroe Islands,Faroe Islands,,Europe and Central Asia,country,234,FALSE,FO,FRO,61.892635,-6.911806
+GD,GRD,Grenada,Grenada,GRENADA,Grenada,Grenada,,Latin America and the Caribbean,country,308,FALSE,GD,GRD,12.262776,-61.604171
+GF,GUF,French Guiana,French Guiana,FRENCH GUIANA,,French Guiana,,Latin America and the Caribbean,country,254,FALSE,GF,GUF,3.933889,-53.125782
+GI,GIB,Gibraltar,Gibraltar,GIBRALTAR,Gibraltar,Gibraltar,,Europe and Central Asia,country,292,FALSE,GI,GIB,36.137741,-5.345374
+GP,GLP,Guadeloupe,Guadeloupe,GUADELOUPE,,Guadeloupe,,Latin America and the Caribbean,country,312,FALSE,GP,GLP,16.995971,-62.067641
+GU,GUM,Guam,Guam,GUAM,,Guam,,East Asia and Pacific,country,316,FALSE,GU,GUM,13.444304,144.793731
+HK,HKG,Hong Kong,Hong Kong,HONG KONG,"Hong Kong SAR, China",Hong Kong,"China, Hong Kong SAR",East Asia and Pacific,country,344,FALSE,HK,HKG,22.396428,114.109497
+IM,IOM,Isle of Man,Isle of Man,ISLE OF MAN,,Isle of Man,,Europe and Central Asia,country,833,FALSE,IM,IMN,54.236107,-4.548056
+JE,JEY,Jersey,Guernsey,,Channel Islands,Jersey,,Europe and Central Asia,country,832,FALSE,JE,JEY,49.214439,-2.13125
+KI,KIR,Kiribati,Kiribati,KIRIBATI,,Kiribati,,East Asia and Pacific,country,296,FALSE,KI,KIR,-3.370417,-168.734039
+KM,COM,Comoros,Comoros,COMOROS,,Comoros,,Sub-Saharan Africa,country,174,FALSE,KM,COM,-11.875001,43.872219
+KN,KIT,St. Kitts and Nevis,St. Kitts and Nevis,SAINT KITTS AND NEVIS,St. Kitts and Nevis,Saint Kitts and Nevis,,Latin America and the Caribbean,country,659,FALSE,KN,KNA,17.357822,-62.782998
+KY,CYM,Cayman Islands,Cayman Islands,CAYMAN ISLANDS,Cayman Islands,Cayman Islands,,Latin America and the Caribbean,country,136,FALSE,KY,CYM,19.513469,-80.566956
+LC,LCA,Saint Lucia,St. Lucia,SAINT LUCIA,,Saint Lucia,,Latin America and the Caribbean,country,662,FALSE,LC,LCA,13.909444,-60.978893
+LI,LIE,Liechtenstein,Liechtenstein,LIECHTENSTEIN,Liechtenstein,Liechtenstein,,Europe and Central Asia,country,438,FALSE,LI,LIE,47.166,9.555373
+MC,MNO,Monaco,Monaco,MONACO,Monaco,Monaco,,Europe and Central Asia,country,492,FALSE,MC,MNO,43.750298,7.412841
+MF,MAF,St. Martin (French part),St. Martin (French part),SAINT MARTIN (FRENCH PART),St. Martin (French part),,,Latin America and the Caribbean,country,663,FALSE,MF,MAF,,
+MH,MHL,Marshall Islands,Marshall Islands,MARSHALL ISLANDS,,Marshall Islands,,East Asia and Pacific,country,584,FALSE,MH,MHL,7.131474,171.184478
+MO,MAC,"Macao SAR, China","Macao SAR, China",MACAO,"Macao SAR, China",Macau,"China, Macao SAR",East Asia and Pacific,country,446,FALSE,MO,MAC,22.198745,113.543873
+MP,NMI,Northern Mariana Islands,Northern Mariana Islands,NORTHERN MARIANA ISLANDS,,Northern Mariana Islands,,East Asia and Pacific,country,580,FALSE,MP,MNP,17.33083,145.38469
+MT,MLT,Malta,Malta,MALTA,,Malta,,Middle East and North Africa,country,470,FALSE,MT,MLT,35.937496,14.375416
+MU,MUS,Mauritius,Mauritius,MAURITIUS,,Mauritius,,Sub-Saharan Africa,country,480,FALSE,MU,MUS,-20.348404,57.552152
+MV,MDV,Maldives,Maldives,MALDIVES,,Maldives,,South Asia,country,462,FALSE,MV,MDV,3.202778,73.22068
+NF,NFK,Norfolk Island,Norfolk Island,NORFOLK ISLAND,,Norfolk Island,,East Asia and Pacific,country,574,FALSE,NF,NFK,-29.040835,167.954712
+NR,NRU,Nauru,Nauru,NAURU,,Nauru,,East Asia and Pacific,country,520,FALSE,NR,NRU,-0.522778,166.931503
+NU,NIU,Niue,Niue,NIUE,,Niue,,East Asia and Pacific,country,570,FALSE,NU,NIU,-19.054445,-169.867233
+PF,PYF,French Polynesia,French Polynesia,FRENCH POLYNESIA,,French Polynesia,,East Asia and Pacific,country,258,FALSE,PF,PYF,-17.679742,-149.406843
+PW,PLW,Palau,Palau,PALAU,,Palau,,East Asia and Pacific,country,585,FALSE,PW,PLW,7.51498,134.58252
+RE,REU,R??union,Reunion,RÉUNION,,Réunion,,Sub-Saharan Africa,country,638,FALSE,RE,REU,-21.115141,55.536384
+SC,SYC,Seychelles,Seychelles,SEYCHELLES,,Seychelles,,Sub-Saharan Africa,country,690,FALSE,SC,SYC,-4.679574,55.491977
+SG,SGP,Singapore,Singapore,SINGAPORE,,Singapore,,East Asia and Pacific,country,702,FALSE,SG,SGP,1.352083,103.819836
+SM,SMR,San Marino,San Marino,SAN MARINO,San Marino,San Marino,,Europe and Central Asia,country,674,FALSE,SM,SMR,43.94236,12.457777
+ST,STP,S?o Tom? and Principe,Sao Tome and Principe,SAO TOME AND PRINCIPE,,São Tomé and Príncipe,,Sub-Saharan Africa,country,678,FALSE,ST,STP,0.18636,6.613081
+SX,,Sint Maarten (Dutch part),Sint Maarten (Dutch part),SINT MAARTEN (DUTCH PART),Sint Maarten (Dutch part),,,Latin America and the Caribbean,country,,FALSE,SX,,,
+TC,TCA,Turks and Caicos Islands,Turks and Caicos Islands,TURKS AND CAICOS ISLANDS,,Turks and Caicos Islands,,Latin America and the Caribbean,country,796,FALSE,TC,TCA,21.694025,-71.797928
+TK,TKL,Tokelau,Tokelau,TOKELAU,,Tokelau,,,country,772,FALSE,TK,TKL,-8.967363,-171.855881
+TO,TON,Tonga,Tonga,TONGA,,Tonga,,East Asia and Pacific,country,776,FALSE,TO,TON,-21.178986,-175.198242
+TV,TUV,Tuvalu,Tuvalu,TUVALU,,Tuvalu,,East Asia and Pacific,country,798,FALSE,TV,TUV,-7.109535,177.64933
+VA,VAT,Vatican City,Vatican City,HOLY SEE (VATICAN CITY STATE),,Vatican City,,Europe and Central Asia,country,336,FALSE,VA,VAT,41.902916,12.453389
+VC,VCT,Saint Vincent and the Grenadines,St. Vincent & Grenadines,SAINT VINCENT AND THE GRENADINES,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,,Latin America and the Caribbean,country,670,FALSE,VC,VCT,12.984305,-61.287228
+VG,VGB,British Virgin Islands,British Virgin Islands,"VIRGIN ISLANDS, BRITISH",British Virgin Islands,,,Latin America and the Caribbean,country,92,FALSE,VG,VGB,18.420695,-64.639968
+VI,VIR,U.S. Virgin Islands,Virgin Islands (U.S.),"VIRGIN ISLANDS, U.S.",,U.S. Virgin Islands,,Latin America and the Caribbean,country,850,FALSE,VI,VIR,18.335765,-64.896335
+WF,WLF,Wallis and Futuna,Wallis and Futuna,WALLIS AND FUTUNA,,Wallis and Futuna,Wallis and Futuna Islands,East Asia and Pacific,country,876,FALSE,WF,WLF,-13.768752,-177.156097
+WS,WSM,Samoa,Samoa,SAMOA,American Samoa,Samoa,,East Asia and Pacific,country,882,FALSE,WS,WSM,-13.759029,-172.104629
+XK,KOS,Kosovo,Kosovo,KOSOVO,,Kosovo,,Europe and Central Asia,country,,FALSE,XK,KOS,42.602636,20.902977
+YT,MYT,Mayotte,Mayotte,MAYOTTE,,Mayotte,,,country,175,FALSE,YT,MYT,-12.8275,45.166244
+MS,MSR,Montserrat,Montserrat,,,,Montserrat,Latin America and the Caribbean,country,,FALSE,MS,MSR,16.7425,-62.1874
+,,,,East Asia & Pacific,,,,,region,,FALSE,,,,
+,,,,Europe & Central Asia,,,,,region,,FALSE,,,,
+,,,,Latin America & Caribbean,,,,,region,,FALSE,,,,
+,,,,Middle East & North Africa,,,,,region,,FALSE,,,,
+,,,,North America,,,,,region,,FALSE,,,,
+,,,,South Asia,,,,,region,,FALSE,,,,
+,,,,Sub-Saharan Africa,,,,,region,,FALSE,,,,
+,,,,World,,,,,region,,FALSE,,,,

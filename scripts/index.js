@@ -21,6 +21,8 @@ var countryLatLong = [
 
 
 var particleArray = [];
+var countryLookup;
+var usExports;
 
 
 var map = d3.select("#fpsvgbkgrd");
@@ -41,6 +43,9 @@ var proj = d3.geoEquirectangular()
 
 var path = d3.geoPath()
     .projection(proj);
+
+var destScale = d3.scaleLinear().domain([0,45000000]).range([4,10]);
+
 
 
 // the data came from some rolling up of info I got from iec.org.za site.
@@ -68,6 +73,18 @@ d3.csv("data/soilDataMapNames_mergingkeys_2_cut.csv", function (data) {
                 d.peoplePerKm2050  //13
             ]);
     })
+});
+
+
+d3.csv('data/country_names_lookup_cut.csv', function(data){
+    countryLookup = data;
+    console.log(countryLookup);
+});
+
+
+d3.csv('data/USfoodExports_totals.csv', function(data){
+    usExports = data;
+    console.log(usExports);
 });
 
 var indexToUse = 6;
@@ -110,19 +127,25 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
         .style('stroke-width',1)
         .attr("d", path);
 
-    //console.log(proj([countryLatLong[0].long,countryLatLong[0].lat])[0])
-    map.append('circle')
-        .attr('cx',proj([countryLatLong[0].long,countryLatLong[0].lat])[0])
-        .attr('cy',proj([countryLatLong[0].long,countryLatLong[0].lat])[1])
-        .attr('r',5)
+    countryDots = map.selectAll('.dots')
+        .data(countryLookup)
+        .enter()
+        .append('circle')
+        .attr('class', 'dot')
+        .attr('id',function(d){
+            return 'dot'+ d.NAME;
+        })
+        .attr('cx',function(d) {return proj([d.longitude,d.latitude])[0]})
+        .attr('cy',function(d) {return proj([d.longitude,d.latitude])[1]})
+        .attr('r',2)
         .attr('fill','gray');
 
-    map.append('circle')
+    /*map.append('circle')
         .attr('cx',proj([countryLatLong[1].long,countryLatLong[1].lat])[0])
         .attr('cy',proj([countryLatLong[1].long,countryLatLong[1].lat])[1])
         .attr('r',5)
         .attr('fill','lightgray');
-
+*/
 
 });
 
@@ -146,7 +169,7 @@ function makeParticles() {
             y: proj([countryLatLong[0].long,countryLatLong[0].lat])[1]+Math.random()*5,
             radius:1,
             velocity:{x:velocity.x, y:velocity.y+Math.random()*.5}
-        })
+        });
     //}
 
     main(0);
@@ -185,6 +208,8 @@ function updateParticles(){
     drawCanvas();
 }
 
+var t = .1;
+
 function drawCanvas(){
 
     /*particleArray.forEach(function(d){
@@ -195,39 +220,108 @@ function drawCanvas(){
         context.fill();
     })*/
 
-    /*
+
     //for(var i=0;i<10;i++){
-        var random = 0;//Math.random()*50;
-        context.strokeStyle = "gray"
-        context.beginPath();
-        context.moveTo(proj([countryLatLong[0].long,countryLatLong[0].lat])[0], proj([countryLatLong[0].long,countryLatLong[0].lat])[1]);
-        context.bezierCurveTo(
-            proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+50,  //control 1 x
-            proj([countryLatLong[0].long,countryLatLong[0].lat])[1]-(100+random),//control 1 y
-            proj([countryLatLong[1].long,countryLatLong[1].lat])[0]-50, //control 2 x
-            proj([countryLatLong[1].long,countryLatLong[1].lat])[1]-(100+random), //control 2 y
-            proj([countryLatLong[1].long,countryLatLong[1].lat])[0],  //dest x
-            proj([countryLatLong[1].long,countryLatLong[1].lat])[1]); //dest y
-        context.lineWidth = 1;
-        context.stroke();
-    //}
-    */
+    if(usExports){
+        usExports.forEach(function(d){
+            var dest = proj([d.destLong,d.destLat]);
+            var source = proj([d.sourceLong,d.sourceLat]);
+
+            var bezPoints = {
+                p0:{x: source[0], y:source[1]},
+                p1:{x: source[0]+0, y:source[1]-(150)},//control 1 y
+                p2:{x: dest[0]-0, y:dest[1]-(100)}, //control 2 y
+                p3:{x: dest[0], y:dest[1]}
+            };
+
+            context.globalAlpha = 0.5;
+            //var random = 0;//Math.random()*50;
+            context.strokeStyle = "#c1b69c";
+            context.beginPath();
+            context.moveTo(bezPoints.p0.x, bezPoints.p0.y);
+            context.bezierCurveTo(
+                bezPoints.p1.x,//[countryLatLong[0].long,countryLatLong[0].lat])[0]+50,  //control 1 x
+                bezPoints.p1.y,//control 1 y
+                bezPoints.p2.x, //control 2 x
+                bezPoints.p2.y, //control 2 y
+                bezPoints.p3.x,  //dest x
+                bezPoints.p3.y); //dest y
+            context.lineWidth = 1;
+            context.stroke();
+
+            //for (var t = .1; t < .9; t+=.1){
+
+                tempParticle = calcBezierPoint(t,bezPoints.p0,bezPoints.p1, bezPoints.p2,bezPoints.p3);
+
+                context.fillStyle = "#efd004";//'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
+                context.beginPath();
+                context.arc(tempParticle.x,tempParticle.y, 1.5, 0, 2 * Math.PI, false);
+                context.fill();
+            //}
+
+            //console.log(t);
+
+            var destTotal = d.totalTons;
+
+            if (t >= .95){
+                //console.log('here');
+                countryDot = d3.selectAll('#dot'+d.destCode);
+                if (countryDot){
+                    countryDot.attr('fill','#efd004')
+                        .attr('r',destScale(destTotal))
+                        .style('fill-opacity',.7);
+                }
+
+            }
 
 
-    for (var t = .1; t < .9; t+=.1){
-        var bezPoints = {
-            p0:{x: proj([countryLatLong[0].long,countryLatLong[0].lat])[0], y:proj([countryLatLong[0].long,countryLatLong[0].lat])[1]},
-            p1:{x: proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+50, y:proj([countryLatLong[0].long,countryLatLong[0].lat])[1]-100},//control 1 y
-            p2:{x: proj([countryLatLong[1].long,countryLatLong[1].lat])[0]-50, y:proj([countryLatLong[1].long,countryLatLong[1].lat])[1]-100}, //control 2 y
-            p3:{x: proj([countryLatLong[1].long,countryLatLong[1].lat])[0], y:proj([countryLatLong[1].long,countryLatLong[1].lat])[1]}
-        };
-        tempParticle = calcBezierPoint(t,bezPoints.p0,bezPoints.p1, bezPoints.p2,bezPoints.p3);
 
-        context.fillStyle = 'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
-        context.beginPath();
-        context.arc(tempParticle.x,tempParticle.y, 3*(t+1), 0, 2 * Math.PI, false);
-        context.fill();
+            /*
+            var country = d3.selectAll('#'+ d.destCode);
+            if (country.length != 0){
+                if(t < .9){
+                    country.attr('fill','#efa609')
+                        .style('fill-opacity',.7);
+
+                }
+                else{
+                    country.attr('fill','#efd004')
+                        .style('fill-opacity',.7);
+                }
+            }
+            */
+        });
+        /*
+        if (t >= .95){
+            //console.log('here');
+            countryDot = d3.selectAll('.dot');
+            if (countryDot){
+                countryDot.attr('fill','#efd004')
+                    .attr('r',5)
+                    .style('fill-opacity',.7);
+            }
+
+        }
+        */
+        if (t < .95){
+            t += .05;
+        }
+        else{
+            t = .1;
+            countryDot = d3.selectAll('.dot');
+            if(countryDot){
+                countryDot
+                    .transition(1000)
+                    .attr('r',2)
+                    .attr('fill','gray')
+                    .style('fill-opacity',1);
+            }
+        }
+
     }
+
+
+    //}
 
 
 }
@@ -256,7 +350,7 @@ function  calcBezierPoint(t, p0, p1, p2, p3) {
 //frame rate control from http://codetheory.in/controlling-the-frame-rate-with-requestanimationframe/
 //set up vars for controlling frame rate
 
-var fps = 1000;
+var fps = 10;
 var now;
 var then = Date.now();
 var interval = 1000/fps;
