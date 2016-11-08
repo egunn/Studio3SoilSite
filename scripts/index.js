@@ -41,7 +41,8 @@ var proj = d3.geoEquirectangular()
 var path = d3.geoPath()
     .projection(proj);
 
-var destScale = d3.scaleLinear().domain([0,45000000]).range([1.5,10]);
+var destScale = d3.scaleLinear().domain([0,45000000]).range([2,10]);
+var numParticles = d3.scaleThreshold().domain([0,100000,500000,1000000,1500000,2000000,2500000,3000000, 3500000,4000000,4500000,5000000]).range([1,2,3,4,5,6,7,8,9,10,20]);
 var countryColor = d3.scaleLinear().domain([0,45000000/2,45000000]).range(['#593c31','#a08d75','#9b9081']);//'#b5684c','#c16e4f']);//'#ad7966'
 
 
@@ -80,6 +81,37 @@ d3.csv('data/country_names_lookup_cut.csv', function(data){
 
 
 d3.csv('data/USfoodExports_totals.csv', function(data){
+
+    data.forEach(function(d){
+        var dest = proj([d.destLong,d.destLat]);
+        var source = proj([d.sourceLong,d.sourceLat]);
+        var destTotal = d.totalTons;
+        d.nP = numParticles(destTotal);
+
+        d.bezPoints = {
+            p0:{x: source[0], y:source[1]},
+            p1:{x: source[0]+0, y:source[1]-(150)},//control 1 y
+            p2:{x: dest[0]-0, y:dest[1]-(100)}, //control 2 y
+            p3:{x: dest[0], y:dest[1]}
+        };
+
+        var particleArray = [];
+        var particleRandom = Math.random()*1/d.nP;
+
+        for (var i=0; i< d.nP; i++){
+            particleArray.push(i/d.nP+particleRandom);
+        }
+
+        d.particles = particleArray;
+    });
+
+
+
+
+
+
+
+
     usExports = data;
     console.log(usExports);
 });
@@ -208,15 +240,13 @@ function updateParticles(){
  */
 
 function updateParticles(){
-    console.log('update');
     drawCanvas();
 }
 
-var t = .1;
+var t = .01;
 
 function drawCanvas(){
 
-    console.log('draw');
 
     /*particleArray.forEach(function(d){
         //console.log(proj([d.long,d.lat])[0],proj([d.long,d.lat])[1]);
@@ -230,70 +260,82 @@ function drawCanvas(){
     //for(var i=0;i<10;i++){
     if(usExports){
         usExports.forEach(function(d){
-            var dest = proj([d.destLong,d.destLat]);
-            var source = proj([d.sourceLong,d.sourceLat]);
+
             var destTotal = d.totalTons;
-
-            //add timer parameter
-            d.timer = d.destTotal;
-
-            var bezPoints = {
-                p0:{x: source[0], y:source[1]},
-                p1:{x: source[0]+0, y:source[1]-(150)},//control 1 y
-                p2:{x: dest[0]-0, y:dest[1]-(100)}, //control 2 y
-                p3:{x: dest[0], y:dest[1]}
-            };
 
             context.globalAlpha = 0.2;
             //var random = 0;//Math.random()*50;
             context.strokeStyle = "#c1b69c";
             context.beginPath();
-            context.moveTo(bezPoints.p0.x, bezPoints.p0.y);
+            context.moveTo(d.bezPoints.p0.x, d.bezPoints.p0.y);
             context.bezierCurveTo(
-                bezPoints.p1.x,//[countryLatLong[0].long,countryLatLong[0].lat])[0]+50,  //control 1 x
-                bezPoints.p1.y,//control 1 y
-                bezPoints.p2.x, //control 2 x
-                bezPoints.p2.y, //control 2 y
-                bezPoints.p3.x,  //dest x
-                bezPoints.p3.y); //dest y
+                d.bezPoints.p1.x,//[countryLatLong[0].long,countryLatLong[0].lat])[0]+50,  //control 1 x
+                d.bezPoints.p1.y,//control 1 y
+                d.bezPoints.p2.x, //control 2 x
+                d.bezPoints.p2.y, //control 2 y
+                d.bezPoints.p3.x,  //dest x
+                d.bezPoints.p3.y); //dest y
             context.lineWidth = 1;
             context.stroke();
 
             //for (var t = .1; t < .9; t+=.1){
 
-            tempParticle = calcBezierPoint(t,bezPoints.p0,bezPoints.p1, bezPoints.p2,bezPoints.p3);
+            //for (var i = 0; i < nP; i++){
+            d.particles.forEach(function(p,i){
+                tempParticle = calcBezierPoint(p,d.bezPoints.p0,d.bezPoints.p1, d.bezPoints.p2,d.bezPoints.p3);
 
-            context.fillStyle = "#efd004";//'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
-            context.beginPath();
-            context.arc(tempParticle.x,tempParticle.y, 1.5, 0, 2 * Math.PI, false);
-            context.fill();
+                context.fillStyle = "#efd004";//'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
+                context.beginPath();
+                context.arc(tempParticle.x,tempParticle.y, 1.5, 0, 2 * Math.PI, false);
+                context.fill();
+
+                if (p >= 1){
+                    //console.log('here');
+                    countryDot = d3.selectAll('#dot'+d.destCode);
+                    if (countryDot){
+                        countryDot.attr('fill','#efd004')
+                            .attr('r',destScale(destTotal))
+                            .style('fill-opacity',.9);
+                    }
+                }
+
+                if (p < 1){
+                    d.particles[i] = p + .01;
+                }
+                else{
+                    d.particles[i] = 0;
+                    countryDot = d3.selectAll('#dot'+d.destCode);
+                    if(countryDot){
+                        countryDot
+                            .transition()
+                            .duration(450)
+                            .attr('r',2)
+                            .attr('fill','gray')
+                            .style('fill-opacity',1);
+                    }
+                }
+            });
+
+            //}
+
             //}
 
             //console.log(t);
 
 
 
-            if (t >= .95){
-                //console.log('here');
-                countryDot = d3.selectAll('#dot'+d.destCode);
-                if (countryDot){
-                    countryDot.attr('fill','#efd004')
-                        .attr('r',destScale(destTotal))
-                        .style('fill-opacity',.9);
-                }
 
-            }
 
 
 
 
             var country = d3.selectAll('#'+ d.destCode);
             if (country.length != 0){
-                if(t < .9){
+                //if(t < .9){
                     country.attr('fill',function(d){return countryColor(destTotal)})
                         .style('fill-opacity',.5);
 
-                }
+                //}
                 /*else{
                     country.attr('fill','#efd004')
                         .style('fill-opacity',.7);
@@ -313,21 +355,7 @@ function drawCanvas(){
 
         }
         */
-        if (t < .95){
-            t += .05;
-        }
-        else{
-            t = .1;
-            countryDot = d3.selectAll('.dot');
-            if(countryDot){
-                countryDot
-                    .transition()
-                    .duration(1500)
-                    .attr('r',2)
-                    .attr('fill','gray')
-                    .style('fill-opacity',1);
-            }
-        }
+
 
     }
 
