@@ -10,9 +10,6 @@ var height = canvas.height;
 
 var context = canvas.getContext('2d');
 
-context.fillStyle = 'red';
-context.fillRect(10,10,200,200);
-
 var countryLatLong = [
     {country:"United States", lat:37.0902,long:-95.7129},
     {country:"Spain", lat:40.4637,long:-3.7492}
@@ -44,8 +41,8 @@ var proj = d3.geoEquirectangular()
 var path = d3.geoPath()
     .projection(proj);
 
-var destScale = d3.scaleLinear().domain([0,45000000]).range([4,10]);
-
+var destScale = d3.scaleLinear().domain([0,45000000]).range([1.5,10]);
+var countryColor = d3.scaleLinear().domain([0,45000000/2,45000000]).range(['#593c31','#a08d75','#9b9081']);//'#b5684c','#c16e4f']);//'#ad7966'
 
 
 // the data came from some rolling up of info I got from iec.org.za site.
@@ -149,6 +146,7 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
 
 });
 
+/*
 //angle off of horizontal for country-country line
 var countryAngle = (Math.atan2((countryLatLong[0].lat-countryLatLong[1].lat),(countryLatLong[0].long-countryLatLong[1].long)));
 var gravityAngle = countryAngle - Math.PI/2;
@@ -207,10 +205,18 @@ function updateParticles(){
 
     drawCanvas();
 }
+ */
+
+function updateParticles(){
+    console.log('update');
+    drawCanvas();
+}
 
 var t = .1;
 
 function drawCanvas(){
+
+    console.log('draw');
 
     /*particleArray.forEach(function(d){
         //console.log(proj([d.long,d.lat])[0],proj([d.long,d.lat])[1]);
@@ -226,6 +232,10 @@ function drawCanvas(){
         usExports.forEach(function(d){
             var dest = proj([d.destLong,d.destLat]);
             var source = proj([d.sourceLong,d.sourceLat]);
+            var destTotal = d.totalTons;
+
+            //add timer parameter
+            d.timer = d.destTotal;
 
             var bezPoints = {
                 p0:{x: source[0], y:source[1]},
@@ -234,7 +244,7 @@ function drawCanvas(){
                 p3:{x: dest[0], y:dest[1]}
             };
 
-            context.globalAlpha = 0.5;
+            context.globalAlpha = 0.2;
             //var random = 0;//Math.random()*50;
             context.strokeStyle = "#c1b69c";
             context.beginPath();
@@ -251,17 +261,17 @@ function drawCanvas(){
 
             //for (var t = .1; t < .9; t+=.1){
 
-                tempParticle = calcBezierPoint(t,bezPoints.p0,bezPoints.p1, bezPoints.p2,bezPoints.p3);
+            tempParticle = calcBezierPoint(t,bezPoints.p0,bezPoints.p1, bezPoints.p2,bezPoints.p3);
 
-                context.fillStyle = "#efd004";//'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
-                context.beginPath();
-                context.arc(tempParticle.x,tempParticle.y, 1.5, 0, 2 * Math.PI, false);
-                context.fill();
+            context.fillStyle = "#efd004";//'rgb('+ 255*(.9-t)+ ','+  255*(.9-t)+ ',' + 255*(.9-t) + ')';//"#6eebef";
+            context.beginPath();
+            context.arc(tempParticle.x,tempParticle.y, 1.5, 0, 2 * Math.PI, false);
+            context.fill();
             //}
 
             //console.log(t);
 
-            var destTotal = d.totalTons;
+
 
             if (t >= .95){
                 //console.log('here');
@@ -269,27 +279,27 @@ function drawCanvas(){
                 if (countryDot){
                     countryDot.attr('fill','#efd004')
                         .attr('r',destScale(destTotal))
-                        .style('fill-opacity',.7);
+                        .style('fill-opacity',.9);
                 }
 
             }
 
 
 
-            /*
+
             var country = d3.selectAll('#'+ d.destCode);
             if (country.length != 0){
                 if(t < .9){
-                    country.attr('fill','#efa609')
-                        .style('fill-opacity',.7);
+                    country.attr('fill',function(d){return countryColor(destTotal)})
+                        .style('fill-opacity',.5);
 
                 }
-                else{
+                /*else{
                     country.attr('fill','#efd004')
                         .style('fill-opacity',.7);
-                }
+                }*/
             }
-            */
+
         });
         /*
         if (t >= .95){
@@ -311,7 +321,8 @@ function drawCanvas(){
             countryDot = d3.selectAll('.dot');
             if(countryDot){
                 countryDot
-                    .transition(1000)
+                    .transition()
+                    .duration(1500)
                     .attr('r',2)
                     .attr('fill','gray')
                     .style('fill-opacity',1);
@@ -355,6 +366,8 @@ var now;
 var then = Date.now();
 var interval = 1000/fps;
 var delta;
+
+main(0);
 
 //main loop
 function main() {
