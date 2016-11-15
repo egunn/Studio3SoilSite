@@ -85,6 +85,14 @@ body{
     height:100vh;
 }
 
+#svgTimeline {
+    position:fixed;
+    top:80vh;
+    left:0;
+    width:100vw;
+    height:20vh;
+}
+
 /*div to hold rest of index page elements*/
 .floating{
     z-index:3;
@@ -294,3 +302,18 @@ input[type="range"]::-webkit-slider-thumb {
     background-color:#d3ccc4;
 }
 
+
+button {
+    background-color: gray; /* Green */
+    border: 1px solid gray;/*hsl(0, 10%, 90%);*/
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    border-radius: 8px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+
+}

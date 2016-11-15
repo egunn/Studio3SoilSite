@@ -12,6 +12,7 @@ function drawSquares(countryObject) {
     d3.selectAll('.squares-group').remove();
     d3.selectAll('.stats-group').remove();
 
+
     var squaresGroup = mainPlot.selectAll('.squares-group')
         .data(testArray)
         .enter()
@@ -40,7 +41,7 @@ function drawSquares(countryObject) {
     d3.selectAll('.country-name')
         .text(function(d){
             console.log(d)
-            return d.FULLNAME + ', ' + d.year });
+            return d.FULLNAME});// + ', ' + d.year });
 
     statsGroup.append('text')
         .attr('x', 0)
@@ -59,7 +60,7 @@ function drawSquares(countryObject) {
         .text(function (d) {
             return "Total Land Area: " + Number(d.landArea).toLocaleString()
         });
-
+/*
     squaresGroup
         .append('rect')
         .attr('x', function (d) {
@@ -174,6 +175,7 @@ function drawSquares(countryObject) {
             return 10;//landAreaScale(d.degradingArea)
         })
         .attr('fill', degradCol);
+    */
 
 }
 

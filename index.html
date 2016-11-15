@@ -5,13 +5,27 @@
 <link rel="stylesheet" href="./scripts/vendor/bootstrap-3.3.7-dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="style.css">
 
+
 <body>
+
 <canvas class="background" id="fpbkgrd"></canvas>
 <svg class="svgbackground" id="fpsvgbkgrd"></svg>
+
 
 <!-- Contains all page structure and menus; floats on top of canvas background -->
 <div class="floating">
       <h1></h1>
+      <select class="type-list form-control countryDropdown">
+            <option value="All">All</option>
+      </select>
+
+      <button value="US" id="USButton" onclick="update(value)">US</button>
+      <button value="CN" id="CNButton" onclick="update(value)">China</button>
+      <button value="RU" id="RUButton" onclick="update(value)">Russia</button>
+      <button value="KE" id="KEButton" onclick="update(value)">Kenya</button>
+      <button value="BR" id="BRButton" onclick="update(value)">Brazil</button>
+      <button value="TR" id="TRButton" onclick="update(value)">Turkey</button>
+      <svg id="svgTimeline"></svg>
 </div>
 </body>
 

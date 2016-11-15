@@ -34,6 +34,7 @@ function updateData() {
 
     //add another dimension that groups by country
     var byCountry = cf.dimension(function (d) {
+        //console.log(d);
         return d.country;
     });
 

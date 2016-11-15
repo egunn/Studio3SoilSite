@@ -27,7 +27,7 @@ typeCol = '#ecd9c6';
 mapCol = '#b2a394';
 mapHighlightCol = '#e8e1da';/*'#e0cebc';*/
 
-tracker = {country:'Nigeria', year:1975};
+tracker = {country:"USA", year:1975};
 importedData = [];
 
 /*
@@ -45,6 +45,6 @@ popLineScale = d3.scaleLinear().domain([0, 1750000000]).range([0, 1525]);
 
 
 //set up scale factors
-x = d3.scaleBand().rangeRound([0, ((width/2)-30)]).padding(0.1);
+x = d3.scaleBand().rangeRound([0, ((width/2)-50)]).padding(0.1);
 y = d3.scaleLinear().rangeRound([height, height/2]);
 

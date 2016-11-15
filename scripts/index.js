@@ -41,10 +41,78 @@ var proj = d3.geoEquirectangular()
 var path = d3.geoPath()
     .projection(proj);
 
-var destScale = d3.scaleLinear().domain([0,45000000]).range([2,10]);
+var destScale = d3.scaleSqrt().domain([0,45000000]).range([1,10]);
 var numParticles = d3.scaleThreshold().domain([0,100000,500000,1000000,1500000,2000000,2500000,3000000, 3500000,4000000,4500000,5000000]).range([1,2,3,4,5,6,7,8,9,10,20]);
 var countryColor = d3.scaleLinear().domain([0,45000000/2,45000000]).range(['#593c31','#a08d75','#9b9081']);//'#b5684c','#c16e4f']);//'#ad7966'
 
+d3.csv('./data/exportsbyYear.csv',function(data){
+    timelineData = data;
+    drawTimeline(timelineData);
+});
+
+
+//set up scale factors
+var x = d3.scaleLinear().rangeRound([0,width-100]);
+var y = d3.scaleLinear().rangeRound([0, 90]);
+
+var svgTime = d3.select('#svgTimeline');
+
+var timeline = svgTime.append('g')
+    .attr('class','timeline-group')
+    .attr('transform','translate(50,10)');
+
+//add axes and titles
+var xAxis = timeline.append("g")
+    .attr("class", "axis axis--x")
+    .attr("transform", "translate(0," + 90 + ")")
+    .call(d3.axisBottom(x)
+        .tickSizeOuter([0])
+        .tickFormat(d3.format("d")));
+
+xAxis
+    .selectAll("text")
+    .attr("y", 0)
+    .attr("x", 9)
+    .attr('dx','-.8em')
+    .attr("dy", "1.5em")
+    .attr('font-size','12px')
+    //.attr("transform", "translate(0,"+ -heightSB1 + ")rotate(-90)")
+    .attr('fill','gray')
+    .style("text-anchor", "center");
+
+var yAxis = timeline.append("g")
+    .attr("class", "axis axis--y")
+    .attr("transform", "translate(" + 0 + ",0)")
+    .call(d3.axisLeft(y)
+        .ticks(5).tickSizeOuter([0]));
+
+yAxis.selectAll('text')
+    .attr('fill',"gray");
+
+//area generator
+var area = d3.area()
+    .x(function(d) { return x(d.year); })
+    .y0(90)
+    .y1(function(d) { return y(d.totalTons); });
+
+function drawTimeline(timelineData) {
+
+    var timelinePoints = timelineData.filter(function(d){return d.countryCode == "US"});
+
+    timelinePoints.sort(function(a,b){return a.year - b.year});
+
+    console.log(d3.max(timelinePoints, function (d) {return +d.totalTons;}));
+
+    x.domain([+timelinePoints[0].year,+timelinePoints[timelinePoints.length-1].year]); //timelinePoints.map(function(d){console.log(+d.year); return +d.year;})]
+    y.domain([0,d3.max(timelinePoints, function (d) {return +d.totalTons;})]);
+
+    timeline.append('path')
+        .datum(timelinePoints)
+        .attr('d', area)
+        .attr('fill', '#eaead7')
+        .style('fill-opacity', .1);
+
+}
 
 // the data came from some rolling up of info I got from iec.org.za site.
 // It lists the winning party, number or registered voters and votes
@@ -77,10 +145,23 @@ d3.csv("data/soilDataMapNames_mergingkeys_2_cut.csv", function (data) {
 d3.csv('data/country_names_lookup_cut.csv', function(data){
     countryLookup = data;
     console.log(countryLookup);
+
+    //parse country list for dropdown
+    data.forEach(function(n){
+        d3.select(".countryDropdown") //class in the html file
+            .append("option") //it has to be called this name
+            .html(n.FULLNAME) //what is going to be written in the text
+                .attr("value", n.NAME); //what is going to be written in value
+    });
 });
 
+countryDispatch = d3.dispatch('changeCountry');
 
-d3.csv('data/USfoodExports_totals.csv', function(data){
+
+
+
+
+d3.csv('data/foodExports_TR.csv', function(data){
 
     data.forEach(function(d){
         var dest = proj([d.destLong,d.destLat]);
@@ -104,13 +185,6 @@ d3.csv('data/USfoodExports_totals.csv', function(data){
 
         d.particles = particleArray;
     });
-
-
-
-
-
-
-
 
     usExports = data;
     console.log(usExports);
@@ -166,8 +240,26 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
         })
         .attr('cx',function(d) {return proj([d.longitude,d.latitude])[0]})
         .attr('cy',function(d) {return proj([d.longitude,d.latitude])[1]})
-        .attr('r',2)
-        .attr('fill','gray');
+        .attr('fill',function(d){
+            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+            if(tempCountry.length != 0){
+                return '#efd004'
+            }
+            else {
+                return '#d8d3b3';
+            }
+        })
+        .attr('r',function(d){
+            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+            if(tempCountry.length != 0){
+                return destScale(tempCountry[0].totalTons)
+            }
+            else {
+                return 1;
+            }
+            //destScale(destTotal)
+
+        });
 
     /*map.append('circle')
         .attr('cx',proj([countryLatLong[1].long,countryLatLong[1].lat])[0])
@@ -175,6 +267,15 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
         .attr('r',5)
         .attr('fill','lightgray');
 */
+
+    d3.select(".countryDropdown").on("change", function () {
+        countryDispatch.call("changeCountry", this, this.value);
+    });
+
+    //dispatch function
+    countryDispatch.on("changeCountry", function(countrySelected,i) { //swimmer is the value of the option selected in the dropdown
+
+    });
 
 });
 
@@ -291,12 +392,12 @@ function drawCanvas(){
 
                 if (p >= 1){
                     //console.log('here');
-                    countryDot = d3.selectAll('#dot'+d.destCode);
+                    /*countryDot = d3.selectAll('#dot'+d.destCode);
                     if (countryDot){
                         countryDot.attr('fill','#efd004')
                             .attr('r',destScale(destTotal))
                             .style('fill-opacity',.9);
-                    }
+                    }*/
                 }
 
                 if (p < 1){
@@ -304,7 +405,7 @@ function drawCanvas(){
                 }
                 else{
                     d.particles[i] = 0;
-                    countryDot = d3.selectAll('#dot'+d.destCode);
+                    /*countryDot = d3.selectAll('#dot'+d.destCode);
                     if(countryDot){
                         countryDot
                             .transition()
@@ -312,7 +413,7 @@ function drawCanvas(){
                             .attr('r',2)
                             .attr('fill','gray')
                             .style('fill-opacity',1);
-                    }
+                    }*/
                 }
             });
 
@@ -332,7 +433,7 @@ function drawCanvas(){
             var country = d3.selectAll('#'+ d.destCode);
             if (country.length != 0){
                 //if(t < .9){
-                    country.attr('fill',function(d){return countryColor(destTotal)})
+                    country.attr('fill',function(d){return countryColor(destTotal)})//'#593c31')
                         .style('fill-opacity',.5);
 
                 //}
@@ -430,8 +531,57 @@ function main() {
 }
 
 
+function update(value){
+    d3.csv('data/foodExports_'+ value + '.csv', function(data){
 
+        data.forEach(function(d){
+            var dest = proj([d.destLong,d.destLat]);
+            var source = proj([d.sourceLong,d.sourceLat]);
+            var destTotal = d.totalTons;
+            d.nP = numParticles(destTotal);
 
+            d.bezPoints = {
+                p0:{x: source[0], y:source[1]},
+                p1:{x: source[0]+0, y:source[1]-(150)},//control 1 y
+                p2:{x: dest[0]-0, y:dest[1]-(100)}, //control 2 y
+                p3:{x: dest[0], y:dest[1]}
+            };
+
+            var particleArray = [];
+            var particleRandom = Math.random()*1/d.nP;
+
+            for (var i=0; i< d.nP; i++){
+                particleArray.push(i/d.nP+particleRandom);
+            }
+
+            d.particles = particleArray;
+        });
+
+        usExports = data;
+        console.log(usExports);
+    });
+
+    countryDots = map.selectAll('.dot')
+        .attr('fill',function(d){
+            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+            if(tempCountry.length != 0){
+                return '#efd004'
+            }
+            else {
+                return '#d8d3b3';
+            }
+        })
+        .attr('r',function(d){
+            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+            if(tempCountry.length != 0){
+                return destScale(tempCountry[0].totalTons)
+            }
+            else {
+                return 1;
+            }
+        })
+
+}
 
 
 
