@@ -1,0 +1,23 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1998,290,0,0,0,1,0,0,0,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,US,USA,country,North America,37.09024,-95.712891,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1999,405,0,32,0,0,0,0,0,372,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,US,USA,country,North America,37.09024,-95.712891,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2000,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2000,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2000,201,0,0,0,0,0,0,5,193,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,US,USA,country,North America,37.09024,-95.712891,2000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2001,139,0,0,0,0,0,0,2,135,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2002,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,CA,Canada,country,North America,56.130366,-106.346771,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2002,101,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2002,238,0,0,0,0,0,0,0,237,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,US,USA,country,North America,37.09024,-95.712891,2002,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

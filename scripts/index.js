@@ -10,19 +10,14 @@ var height = canvas.height;
 
 var context = canvas.getContext('2d');
 
-var countryLatLong = [
-    {country:"United States", lat:37.0902,long:-95.7129},
-    {country:"Spain", lat:40.4637,long:-3.7492}
-];
-
-
-
-var particleArray = [];
-var countryLookup;
 var usExports;
-
+var selectedYear = "2013";
+var selectedCountry = "US";
 
 var map = d3.select("#fpsvgbkgrd");
+
+//set up dispatcher for the dropdown
+countryDispatch = d3.dispatch('changeCountry');
 
 var worldMap = map.append("g")
     .attr("id", "world-map")
@@ -53,165 +48,181 @@ d3.csv('./data/exportsbyYear.csv',function(data){
 
 //set up scale factors
 var x = d3.scaleLinear().rangeRound([0,width-100]);
-var y = d3.scaleLinear().rangeRound([0, 90]);
+var y = d3.scaleLinear().rangeRound([90,0]);
 
 var svgTime = d3.select('#svgTimeline');
 
 var timeline = svgTime.append('g')
     .attr('class','timeline-group')
-    .attr('transform','translate(50,10)');
-
-//add axes and titles
-var xAxis = timeline.append("g")
-    .attr("class", "axis axis--x")
-    .attr("transform", "translate(0," + 90 + ")")
-    .call(d3.axisBottom(x)
-        .tickSizeOuter([0])
-        .tickFormat(d3.format("d")));
-
-xAxis
-    .selectAll("text")
-    .attr("y", 0)
-    .attr("x", 9)
-    .attr('dx','-.8em')
-    .attr("dy", "1.5em")
-    .attr('font-size','12px')
-    //.attr("transform", "translate(0,"+ -heightSB1 + ")rotate(-90)")
-    .attr('fill','gray')
-    .style("text-anchor", "center");
-
-var yAxis = timeline.append("g")
-    .attr("class", "axis axis--y")
-    .attr("transform", "translate(" + 0 + ",0)")
-    .call(d3.axisLeft(y)
-        .ticks(5).tickSizeOuter([0]));
-
-yAxis.selectAll('text')
-    .attr('fill',"gray");
+    .attr('transform','translate(80,10)');
 
 //area generator
 var area = d3.area()
-    .x(function(d) { return x(d.year); })
+    .x(function(d) { return x(+d.year); })
     .y0(90)
-    .y1(function(d) { return y(d.totalTons); });
+    .y1(function(d) { return y(+d.totalTons); });
+
+
+
+
+queue()
+    .defer(d3.json, "data/worldcountries_fromWorking_noAntartc.topojson")
+    .defer(d3.csv, "data/soilDataMapNames_mergingkeys_2_cut.csv")
+    .defer(d3.csv, 'data/country_names_lookup_cut.csv')
+    .defer(d3.csv, 'data/foodExports_byYear/foodExports_US.csv')
+    //wait for a variable to be returned for each file loaded: blocks from blk_group file, neighborhoods from bos_neighborhoods, and income from the parsed acs.csv.
+    .await(function (err, mapData, mapKeys, countryTable, foodExports) {
+
+        mapKeys.forEach(function (d) {
+            map_data.set(d.NAME,
+                [
+                    d.continent,
+                    d.country,
+                    d.landArea, //0
+                    d.arableLand, //1
+                    d.agriculturalLand, //2
+                    d.forestArea, //3
+                    d.urbanLand, //4
+                    d.urbanLand2050, //5
+                    d.degradingArea, //6
+                    d.totalPop, //7
+                    d.totalPop2050,  //8
+                    d.urbanPop, //9
+                    d.otherLand, //10
+                    d.peoplePerKm, //11
+                    d.peoplePerKmUrban, //12
+                    d.peoplePerKm2050  //13
+                ]);
+        });
+
+        console.log(countryTable);
+
+        //parse country list for dropdown
+        countryTable.forEach(function(n){
+            d3.select(".countryDropdown") //class in the html file
+                .append("option") //it has to be called this name
+                .html(n.FULLNAME) //what is going to be written in the text
+                .attr("value", n.NAME); //what is going to be written in value
+        });
+
+        foodExports.forEach(function(d){
+            var dest = proj([d.destLong,d.destLat]);
+            var source = proj([d.sourceLong,d.sourceLat]);
+            var destTotal = d.totalTons;
+            d.nP = numParticles(destTotal);
+
+            d.bezPoints = {
+                p0:{x: source[0], y:source[1]},
+                p1:{x: source[0]+0, y:source[1]-(150)},//control 1 y
+                p2:{x: dest[0]-0, y:dest[1]-(100)}, //control 2 y
+                p3:{x: dest[0], y:dest[1]}
+            };
+
+            var particleArray = [];
+            var particleRandom = Math.random()*1/d.nP;
+
+            for (var i=0; i< d.nP; i++){
+                particleArray.push(i/d.nP+particleRandom);
+            }
+
+            d.particles = particleArray;
+        });
+
+        //remove data for all but the default year
+        usExports = foodExports.filter(function(d){
+            return d.year == selectedYear;
+        });
+
+        console.log(usExports);
+
+        svgLoaded(mapData, countryTable)
+
+    });
+
+
+
 
 function drawTimeline(timelineData) {
 
-    var timelinePoints = timelineData.filter(function(d){return d.countryCode == "US"});
+    var timelinePoints = timelineData.filter(function(d){return d.countryCode == selectedCountry});
 
-    timelinePoints.sort(function(a,b){return a.year - b.year});
+    timelinePoints.sort(function(a,b){return +a.year - +b.year});
 
-    console.log(d3.max(timelinePoints, function (d) {return +d.totalTons;}));
 
     x.domain([+timelinePoints[0].year,+timelinePoints[timelinePoints.length-1].year]); //timelinePoints.map(function(d){console.log(+d.year); return +d.year;})]
     y.domain([0,d3.max(timelinePoints, function (d) {return +d.totalTons;})]);
 
+    //add axes and titles
+    var xAxis = timeline.append("g")
+        .attr("class", "axis axis--x")
+        .attr("transform", "translate(0," + 90 + ")")
+        .call(d3.axisBottom(x)
+            .tickSizeOuter([0])
+            .tickFormat(d3.format("d"))
+        );
+
+    xAxis
+        .selectAll("text")
+        .attr("y", 0)
+        .attr("x", 9)
+        .attr('dx','-.8em')
+        .attr("dy", "1.5em")
+        .attr('font-size','12px')
+        //.attr("transform", "translate(0,"+ -heightSB1 + ")rotate(-90)")
+        .attr('fill','gray')
+        .style("text-anchor", "center");
+
+
+
+    var yAxis = timeline.append("g")
+        .attr("class", "axis axis--y")
+        .attr("transform", "translate(" + 0 + ",0)")
+        .call(d3.axisLeft(y)
+            .ticks(5).tickSizeOuter([0]));
+
+    yAxis.selectAll('text')
+        .attr('fill',"gray");
+
     timeline.append('path')
         .datum(timelinePoints)
+        .attr('class','timeline-graph')
         .attr('d', area)
         .attr('fill', '#eaead7')
         .style('fill-opacity', .1);
 
+
 }
 
-// the data came from some rolling up of info I got from iec.org.za site.
-// It lists the winning party, number or registered voters and votes
-// cast per local municipality.
-d3.csv("data/soilDataMapNames_mergingkeys_2_cut.csv", function (data) {
-    data.forEach(function (d) {
-        map_data.set(d.NAME,
-            [
-                d.continent,
-                d.country,
-                d.landArea, //0
-                d.arableLand, //1
-                d.agriculturalLand, //2
-                d.forestArea, //3
-                d.urbanLand, //4
-                d.urbanLand2050, //5
-                d.degradingArea, //6
-                d.totalPop, //7
-                d.totalPop2050,  //8
-                d.urbanPop, //9
-                d.otherLand, //10
-                d.peoplePerKm, //11
-                d.peoplePerKmUrban, //12
-                d.peoplePerKm2050  //13
-            ]);
-    })
-});
-
-
-d3.csv('data/country_names_lookup_cut.csv', function(data){
-    countryLookup = data;
-    console.log(countryLookup);
-
-    //parse country list for dropdown
-    data.forEach(function(n){
-        d3.select(".countryDropdown") //class in the html file
-            .append("option") //it has to be called this name
-            .html(n.FULLNAME) //what is going to be written in the text
-                .attr("value", n.NAME); //what is going to be written in value
-    });
-});
-
-countryDispatch = d3.dispatch('changeCountry');
-
-
-
-
-
-d3.csv('data/foodExports_TR.csv', function(data){
-
-    data.forEach(function(d){
-        var dest = proj([d.destLong,d.destLat]);
-        var source = proj([d.sourceLong,d.sourceLat]);
-        var destTotal = d.totalTons;
-        d.nP = numParticles(destTotal);
-
-        d.bezPoints = {
-            p0:{x: source[0], y:source[1]},
-            p1:{x: source[0]+0, y:source[1]-(150)},//control 1 y
-            p2:{x: dest[0]-0, y:dest[1]-(100)}, //control 2 y
-            p3:{x: dest[0], y:dest[1]}
-        };
-
-        var particleArray = [];
-        var particleRandom = Math.random()*1/d.nP;
-
-        for (var i=0; i< d.nP; i++){
-            particleArray.push(i/d.nP+particleRandom);
-        }
-
-        d.particles = particleArray;
-    });
-
-    usExports = data;
-    console.log(usExports);
-});
 
 var indexToUse = 6;
 var columnString = 'people per km';
-//can be no zeros in the data! Need to change scale factor in cartogram.js (line 100) depending on magnitude of variable
 
 // this loads test the topojson file and creates the map.
-d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
+function svgLoaded(data, countryLookup) {
+
+    //set up a force simulation to use for mouse detection
+    //give it the countryLookup array as its set of nodes (things that it will compare mouse position to)
+    var mouseSim = d3.forceSimulation(countryLookup);
+
+    //set fixed x and y coordinates for each node, based on the stored lat/long values
+    mouseSim.nodes().forEach(function(d){
+        d.fx = proj([d.longitude,d.latitude])[0];
+        d.fy = proj([d.longitude,d.latitude])[1];
+    });
+
+        //set up mouse listener on the canvas, and have it use the simulation to find nodes within a given radius of the mouse cursor
+    d3.select('#fpbkgrd').on("mousemove", function() {
+
+        var closestNode = mouseSim.find(d3.mouse(this)[0],d3.mouse(this)[1],5);
+
+        if (closestNode){
+            console.log(closestNode.FULLNAME);
+        }
+    });
+
     console.log(data);
 
-    // Convert the topojson to geojson
-   /* var topoData = topojson.feature(data,
-        {
-            type: "Feature Collection",
-            geometry: data.objects
-        });z
-
-    var forBind = topojson.feature(data, data.objects.worldcountries);
-*/
-    //console.log(forBind.features);
-
     topoData = topojson.feature(data, data.objects.worldcountries);
-
-    //proj.fitExtent([[10, 10], [width/2, height]], topoData);
 
     var titleText;
 
@@ -224,11 +235,21 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
             return d.id;
         })
         .attr("fill", function (e) {
-            return 'none';//#baada9';//colour_map[vote_data.get(e.properties.landArea)[0]];
+            if(e.id == "US"){
+                return '#c49b13';
+            }
+            else {
+                return '#593c31';//#baada9';//colour_map[vote_data.get(e.properties.landArea)[0]];
+            }
+
         })
+        .style('fill-opacity','.5')
         .style('stroke','#baada9')
         .style('stroke-width',1)
         .attr("d", path);
+
+    
+    console.log(countryLookup);
 
     countryDots = map.selectAll('.dots')
         .data(countryLookup)
@@ -246,7 +267,7 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
                 return '#efd004'
             }
             else {
-                return '#d8d3b3';
+                return 'none';//'#d8d3b3';
             }
         })
         .attr('r',function(d){
@@ -257,88 +278,12 @@ d3.json("data/worldcountries_fromWorking_noAntartc.topojson", function (data) {
             else {
                 return 1;
             }
-            //destScale(destTotal)
 
         });
 
-    /*map.append('circle')
-        .attr('cx',proj([countryLatLong[1].long,countryLatLong[1].lat])[0])
-        .attr('cy',proj([countryLatLong[1].long,countryLatLong[1].lat])[1])
-        .attr('r',5)
-        .attr('fill','lightgray');
-*/
-
-    d3.select(".countryDropdown").on("change", function () {
-        countryDispatch.call("changeCountry", this, this.value);
-    });
-
-    //dispatch function
-    countryDispatch.on("changeCountry", function(countrySelected,i) { //swimmer is the value of the option selected in the dropdown
-
-    });
-
-});
-
-/*
-//angle off of horizontal for country-country line
-var countryAngle = (Math.atan2((countryLatLong[0].lat-countryLatLong[1].lat),(countryLatLong[0].long-countryLatLong[1].long)));
-var gravityAngle = countryAngle - Math.PI/2;
-var velocity = {x:4, y:-2.5};
-var acceleration = .065;
+};
 
 
-makeParticles();
-
-function makeParticles() {
-
-    //for (var i=0; i< 100; i++){
-        particleArray.push({
-            origin:"United States",
-            lat: countryLatLong[0].lat,
-            long: countryLatLong[0].long,
-            x: proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+Math.random()*5,
-            y: proj([countryLatLong[0].long,countryLatLong[0].lat])[1]+Math.random()*5,
-            radius:1,
-            velocity:{x:velocity.x, y:velocity.y+Math.random()*.5}
-        });
-    //}
-
-    main(0);
-
-}
-
-function updateParticles(){
-    if (particleArray.length < 100){
-        particleArray.push({
-            origin:"United States",
-            lat: countryLatLong[0].lat,
-            long: countryLatLong[0].long,
-            x: proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+Math.random()*5,
-            y: proj([countryLatLong[0].long,countryLatLong[0].lat])[1]+Math.random()*5,
-            radius:1,
-            velocity:{x:velocity.x, y:velocity.y+Math.random()*.5}
-        })
-    }
-
-    particleArray.forEach(function(d) {
-        if(d.x < proj([countryLatLong[1].long,countryLatLong[1].lat])[0]){ //&& d.y > proj([countryLatLong[1].long,countryLatLong[1].lat])[1]) {
-            d.x = d.x + d.velocity.x;
-            d.y = d.y + d.velocity.y;
-        }
-        else{
-            d.x = proj([countryLatLong[0].long,countryLatLong[0].lat])[0]+Math.random()*5;
-            d.y = proj([countryLatLong[0].long,countryLatLong[0].lat])[1]+Math.random()*5;
-            d.velocity.x = velocity.x;
-            d.velocity.y = velocity.y+Math.random()*.5  ;
-        }
-        d.velocity.x = d.velocity.x + acceleration*Math.cos(gravityAngle);
-        d.velocity.y = d.velocity.y+ acceleration*Math.sin(gravityAngle);
-    });
-
-
-    drawCanvas();
-}
- */
 
 function updateParticles(){
     drawCanvas();
@@ -347,16 +292,6 @@ function updateParticles(){
 var t = .01;
 
 function drawCanvas(){
-
-
-    /*particleArray.forEach(function(d){
-        //console.log(proj([d.long,d.lat])[0],proj([d.long,d.lat])[1]);
-        context.fillStyle = "gray"//"#6eebef";
-        context.beginPath();
-        context.arc(d.x,d.y, d.radius, 0, 2 * Math.PI, false);
-        context.fill();
-    })*/
-
 
     //for(var i=0;i<10;i++){
     if(usExports){
@@ -390,73 +325,22 @@ function drawCanvas(){
                 context.arc(tempParticle.x,tempParticle.y, 1.5, 0, 2 * Math.PI, false);
                 context.fill();
 
-                if (p >= 1){
-                    //console.log('here');
-                    /*countryDot = d3.selectAll('#dot'+d.destCode);
-                    if (countryDot){
-                        countryDot.attr('fill','#efd004')
-                            .attr('r',destScale(destTotal))
-                            .style('fill-opacity',.9);
-                    }*/
-                }
-
                 if (p < 1){
                     d.particles[i] = p + .01;
                 }
                 else{
                     d.particles[i] = 0;
-                    /*countryDot = d3.selectAll('#dot'+d.destCode);
-                    if(countryDot){
-                        countryDot
-                            .transition()
-                            .duration(450)
-                            .attr('r',2)
-                            .attr('fill','gray')
-                            .style('fill-opacity',1);
-                    }*/
                 }
             });
 
-            //}
-
-            //}
-
-            //console.log(t);
-
-
-
-
-
-
-
-
             var country = d3.selectAll('#'+ d.destCode);
             if (country.length != 0){
-                //if(t < .9){
-                    country.attr('fill',function(d){return countryColor(destTotal)})//'#593c31')
+                    country.attr('fill', '#593c31')//function(d){return countryColor(destTotal)})//'#593c31')
                         .style('fill-opacity',.5);
 
-                //}
-                /*else{
-                    country.attr('fill','#efd004')
-                        .style('fill-opacity',.7);
-                }*/
             }
 
         });
-        /*
-        if (t >= .95){
-            //console.log('here');
-            countryDot = d3.selectAll('.dot');
-            if (countryDot){
-                countryDot.attr('fill','#efd004')
-                    .attr('r',5)
-                    .style('fill-opacity',.7);
-            }
-
-        }
-        */
-
 
     }
 
@@ -517,22 +401,23 @@ function main() {
         // So we have to get rid of that extra 12ms by subtracting delta (112) % interval (100).
         then = now - (delta % interval);
 
-        //clear the canvas for redrawing
-        //drawingPad.clearRect(0, 0, width, height);
-        //context.fillStyle = "hsla(0,0%,100%,0.1)";
-        //context.fillRect(0, 0, width, height);
-
         context.clearRect(0, 0, width, height);
 
         updateParticles();
-
 
     }
 }
 
 
 function update(value){
-    d3.csv('data/foodExports_'+ value + '.csv', function(data){
+    d3.csv('data/foodExports_byYear/foodExports_'+ value + '.csv', function(data){
+
+        selectedCountry = value;
+
+        //reset all country colors to brown
+        map.selectAll('.country')
+            .attr('fill','#593c31')
+            .style('fill-opacity','.5');
 
         data.forEach(function(d){
             var dest = proj([d.destLong,d.destLat]);
@@ -557,37 +442,70 @@ function update(value){
             d.particles = particleArray;
         });
 
-        usExports = data;
-        console.log(usExports);
+        var usExportsLong = data;
+
+        usExports = usExportsLong.filter(function(d){
+            return d.year == selectedYear;
+        });
+
+
+        countryDots = map.selectAll('.dot')
+            .attr('fill',function(d){
+                var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+                if(tempCountry.length != 0){
+                    return '#efd004'
+                }
+                else {
+                    return 'none'; //'#d8d3b3';
+                }
+            })
+            .attr('r',function(d){
+                var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+                if(tempCountry.length != 0){
+                    return destScale(tempCountry[0].totalTons)
+                }
+                else {
+                    return 1;
+                }
+            });
+
+        var timelinePoints = timelineData.filter(function(d){return d.countryCode == value});
+
+        y.domain([0,d3.max(timelinePoints, function (d) {return +d.totalTons;})]);
+
+        var yAxis = timeline.selectAll('.axis--y')
+            .call(d3.axisLeft(y));
+
+        yAxis.selectAll('text')
+            .attr('fill',"gray");
+
+        timeline.selectAll('.timeline-graph')
+            .datum(timelinePoints)
+            .attr('d', area);
+
+
+        var getCountry = map.selectAll("#"+ value);
+
+        if (getCountry.length != 0){
+            getCountry.attr('fill','#c49b13');
+        }
+
     });
 
-    countryDots = map.selectAll('.dot')
-        .attr('fill',function(d){
-            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
-            if(tempCountry.length != 0){
-                return '#efd004'
-            }
-            else {
-                return '#d8d3b3';
-            }
-        })
-        .attr('r',function(d){
-            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
-            if(tempCountry.length != 0){
-                return destScale(tempCountry[0].totalTons)
-            }
-            else {
-                return 1;
-            }
-        })
 
 }
 
 
+d3.select(".countryDropdown").on("change", function () {
+    countryDispatch.call("changeCountry", this, this.value);
+});
 
+//dispatch function updates the selected country and calls the update function when dropdown item is selected
+countryDispatch.on("changeCountry", function(countrySelected,i) { //country is the value of the option selected in the dropdown
 
+    update(countrySelected);
 
-
+});
 
 
 

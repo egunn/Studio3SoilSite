@@ -1,0 +1,32 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1986,1480,0,0,0,0,0,1480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1986,1798,0,0,0,0,0,1798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1987,3785,0,0,0,0,0,3785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,622,0,0,0,0,0,622,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,US,USA,country,North America,37.09024,-95.712891,1987,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1989,8607,0,0,0,0,0,8607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1990,3572,0,0,0,0,0,3572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,BD,Bangladesh,country,South Asia,23.684994,90.356331,1992,9907,0,0,0,0,0,9907,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2005,410,0,0,0,0,0,392,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,BD,Bangladesh,country,South Asia,23.684994,90.356331,2005,471,0,0,0,0,0,471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2005,596,0,0,0,0,0,0,0,0,0,0,0,0,0,596,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,2005,1260,0,0,0,0,0,1260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,2005,3630,0,0,0,0,0,399,0,0,0,0,0,0,61,3170,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2005,41,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2011,188,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2011,4703,0,0,0,0,0,0,0,0,0,0,1954,0,0,2749,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2011,953,0,0,0,0,0,0,0,0,0,0,0,0,0,953,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2011,738,0,0,0,0,0,0,0,0,0,0,738,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2011,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2011,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2012,498,0,0,0,0,0,0,0,0,0,0,163,0,0,335,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2012,881,0,0,0,0,0,0,0,0,0,0,0,0,0,881,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,2012,22,19,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2012,151,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

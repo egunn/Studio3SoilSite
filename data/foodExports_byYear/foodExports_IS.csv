@@ -1,0 +1,972 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1986,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1986,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1986,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1986,5862,0,0,4,0,0,0,0,0,0,0,5192,0,13,225,99,0,322,7,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1986,1145,3,0,0,0,0,0,0,0,0,0,290,0,4,16,0,0,829,3,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1986,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1986,167,0,0,0,0,0,0,0,0,3,0,155,0,7,0,0,0,0,0,2,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1986,405,0,0,0,0,0,0,0,0,0,0,0,0,405,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,13,6,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1986,2166,0,0,0,0,0,0,0,0,0,0,217,0,0,0,0,0,1949,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,1986,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1986,575,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,14,515,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1986,5327,0,0,0,0,0,0,0,0,0,0,4816,0,0,0,0,0,498,13,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,1986,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1986,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1986,1192,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,656,88,433,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1986,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1986,2113,0,0,0,0,0,0,0,0,1028,0,569,0,281,0,8,0,8,100,119,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1986,1095,0,0,0,0,0,0,0,0,0,0,356,0,0,0,108,0,18,613,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1987,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1987,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1987,6046,0,0,0,0,0,0,0,0,2,0,5220,0,11,588,0,0,131,94,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1987,3850,2,0,0,0,0,0,0,42,0,0,3032,0,1,11,0,0,759,3,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1987,1078,0,0,0,0,0,0,0,0,0,0,1018,0,0,0,1,0,52,0,7,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1987,223,0,0,0,0,0,0,0,0,0,0,122,0,0,0,0,0,101,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,43,6,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1987,3987,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0,3862,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1987,269,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,128,115,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1987,3097,0,0,0,0,0,0,0,0,0,0,2776,0,196,0,0,0,112,13,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1987,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,1987,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1987,1693,0,0,0,0,0,0,0,0,0,0,541,0,0,0,0,0,603,160,389,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1987,3389,0,0,0,0,0,0,0,792,1437,0,680,0,0,0,1,0,362,0,117,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1987,995,0,0,3,0,0,0,0,0,0,0,337,0,1,0,46,0,69,539,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1988,15,0,0,0,0,0,0,3,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1988,98,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1988,8108,2,0,0,0,0,0,0,0,0,0,3255,0,4249,202,1,0,0,399,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1988,28115,3,0,0,0,0,0,0,0,0,0,5116,0,22114,9,84,0,787,2,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1988,1230,0,0,0,0,0,0,0,0,0,0,822,0,0,0,0,0,403,0,5,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1988,230,0,0,0,0,0,0,0,0,0,0,226,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,107,1,0,0,0,0,0,0,5,0,0,0,0,0,0,95,0,6,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1988,388,0,0,0,0,0,0,0,0,0,0,211,0,0,0,0,0,177,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1988,243,0,0,0,0,0,0,0,0,12,0,31,0,3,0,0,0,124,73,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1988,13649,0,0,0,0,0,0,0,0,0,0,3686,0,9935,0,13,0,10,5,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1988,1299,0,0,0,0,0,0,0,0,0,0,161,0,0,0,0,0,666,87,385,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1988,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1988,10643,0,0,0,0,0,0,0,0,1763,0,616,0,7395,0,812,0,0,0,57,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1988,1463,0,0,7,0,0,0,0,0,0,0,1082,0,1,0,159,0,25,189,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1989,80,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1989,4550,2,0,0,0,0,0,0,0,0,0,3413,0,726,205,0,0,0,204,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1989,40529,0,0,0,0,0,0,0,0,0,0,8484,0,31171,12,103,0,756,3,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1989,369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,345,0,6,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1989,169,0,0,0,0,0,0,0,0,0,0,167,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1989,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,34,0,0,0,0,0,0,0,7,0,0,0,0,3,0,22,0,2,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1989,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1989,347,0,0,0,0,0,0,0,0,0,0,252,0,3,0,0,0,92,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1989,59,2,0,0,0,0,0,0,0,0,0,38,0,3,0,0,0,16,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1989,19344,0,0,0,0,0,0,0,0,0,0,3000,0,16318,0,4,0,22,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1989,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1989,1954,0,0,0,0,0,0,0,0,0,0,1031,0,8,0,20,0,581,0,314,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1989,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1989,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1989,13934,0,0,0,0,0,0,0,0,1319,0,1279,0,10567,0,705,0,0,0,64,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1989,2520,0,0,12,0,0,0,0,0,0,0,297,0,1,0,2004,0,26,180,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1990,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1990,37,0,0,0,0,0,0,0,0,0,0,0,0,18,0,19,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1990,2172,0,0,5,0,0,0,0,0,15,0,2112,0,40,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1990,13652,2,0,0,0,0,0,0,0,0,0,12738,0,17,12,101,0,782,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1990,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,121,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1990,120,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1990,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,31,0,0,0,0,0,0,0,17,0,0,0,0,0,0,8,0,5,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1990,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1990,1474,0,0,0,0,0,0,0,0,0,0,332,0,2,0,0,0,1140,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1990,86,5,0,0,0,0,0,0,0,34,0,24,0,6,0,0,0,0,17,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1990,64,0,0,0,0,0,0,0,0,0,0,37,0,0,0,10,0,17,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1990,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1990,1106,12,0,0,0,0,0,0,0,0,0,40,0,28,0,10,0,644,0,372,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1990,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1990,3942,0,0,0,0,0,0,0,0,1060,0,1269,0,59,0,1529,0,0,0,25,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1990,1658,0,0,20,0,0,0,0,0,0,0,258,0,1,0,1192,0,13,174,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1991,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1991,8,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1991,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1991,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1991,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1991,1938,0,0,7,0,0,0,0,31,14,0,1731,0,47,0,9,0,26,73,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1991,9655,0,0,0,0,0,0,2,41,0,0,8744,0,0,9,168,1808,691,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1991,953,0,0,0,0,0,0,0,0,0,0,873,0,0,0,5,0,75,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1991,142,0,0,0,0,0,0,0,0,0,0,142,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1991,494,0,0,0,0,0,0,0,0,182,0,306,0,6,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1991,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,60,0,0,0,0,0,0,0,16,0,0,0,0,0,0,3,0,37,4,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,1991,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1991,21,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1991,713,0,0,0,0,0,0,0,0,0,0,292,0,0,0,0,0,421,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,1991,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,1991,783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,783,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1991,97,0,0,0,0,0,0,0,0,0,0,94,0,3,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1991,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1991,1358,3,0,0,0,0,0,0,141,0,0,274,0,0,0,8,0,175,376,381,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1991,14,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1991,2062,0,0,0,0,0,0,0,0,743,0,25,0,12,0,1282,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1991,2466,0,0,23,0,0,0,0,0,0,0,140,0,0,0,2043,0,13,247,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,1992,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1992,476,0,0,0,0,0,0,0,0,0,0,0,0,0,0,476,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1992,138,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,1992,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1992,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1992,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1992,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1992,419,0,0,7,0,0,0,0,0,22,0,0,0,105,0,10,0,77,198,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1992,1876,2,0,0,0,0,0,0,44,0,0,1111,1,13,6,199,0,496,4,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1992,811,0,0,0,0,0,0,0,0,0,0,802,0,0,0,0,0,0,0,9,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1992,170,0,0,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1992,375,0,0,0,0,0,0,0,0,110,0,251,0,14,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1992,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,16,2,1,0,0,0,0,0,11,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1992,920,0,0,0,0,0,0,0,0,0,0,765,0,0,0,0,0,155,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,1992,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,1992,517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,517,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1992,111,0,0,0,0,0,0,0,0,0,0,102,0,4,0,5,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1992,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1992,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1992,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,1992,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1992,1309,5,0,0,0,0,0,0,0,0,0,180,3,0,0,24,0,718,0,379,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1992,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1992,3106,0,0,0,0,0,0,0,0,939,0,616,0,21,0,1530,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1992,2685,0,0,32,0,0,0,0,0,0,0,400,0,0,0,1813,0,0,440,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,1992,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1993,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1993,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1993,26,2,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,10,0,3,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1993,1177,6,0,1,0,0,0,0,33,0,0,706,3,9,5,185,0,220,9,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1993,11,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,9,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1993,203,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,0,7,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1993,474,0,0,0,0,0,0,0,0,141,0,331,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1993,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,670,1,2,0,0,0,0,1,11,0,0,593,0,0,0,19,0,36,7,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,1993,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1993,546,0,0,0,0,0,0,0,0,0,0,238,0,0,0,3,0,305,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1993,218,0,0,0,0,0,0,0,0,0,0,24,0,157,0,0,0,19,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1993,689,0,0,0,0,0,0,0,0,0,0,689,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,1993,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,1993,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,1993,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1993,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,1993,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1993,246,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1993,928,4,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,520,0,397,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,1993,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1993,4412,0,0,0,0,0,0,0,0,913,0,1813,0,0,0,1570,0,36,0,80,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1993,4691,0,0,21,0,0,0,0,0,0,0,381,0,0,0,4279,0,10,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AD,Andorra,country,Europe and Central Asia,42.546245,1.601554,1994,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1994,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,1994,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1994,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1994,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1994,54,0,0,0,0,0,0,0,0,0,0,40,0,0,0,14,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,1994,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1994,365,2,0,18,0,0,0,0,0,48,0,45,3,0,0,0,0,106,0,143,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1994,2601,19,99,6,0,0,0,5,116,0,0,1133,14,35,6,309,0,783,76,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1994,1441,0,0,0,0,0,0,0,0,0,0,80,0,0,0,1316,0,0,0,45,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1994,521,0,0,0,0,0,0,0,0,0,0,521,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1994,1101,0,0,0,0,0,0,0,0,482,0,618,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,1989,1396,6,5,0,0,0,12,46,0,0,354,0,0,0,24,0,110,36,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,1994,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1994,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1994,865,0,0,0,0,0,0,0,0,0,0,328,0,2,0,0,0,535,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1994,61,0,0,0,0,0,0,0,0,0,0,56,0,5,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1994,3452,0,0,1,0,0,0,0,0,0,0,3439,0,0,0,8,0,0,0,4,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,1994,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,228,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1994,126,0,0,16,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,1994,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,266,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1994,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,144,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1994,6595,6,0,3,0,0,0,0,0,0,0,301,22,0,0,4298,0,1267,38,660,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1994,273,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,266,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1994,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1994,8955,2,0,0,0,0,0,0,0,1467,0,2449,0,0,0,4999,0,0,0,38,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1994,14675,0,0,60,0,0,0,0,0,0,0,778,0,0,0,13586,0,251,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1995,29,0,0,11,0,0,0,0,0,8,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,1995,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1995,123,0,0,0,0,0,0,0,0,0,0,122,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1995,40,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,1995,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1995,512,8,1,13,0,0,0,0,0,156,0,137,15,2,0,0,0,95,1,84,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1995,3742,62,527,3,0,0,0,17,49,0,0,2523,8,69,3,12,0,366,103,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1995,38,0,0,0,0,0,0,0,0,0,0,23,0,0,0,15,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1995,206,0,0,0,0,0,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1995,290,0,0,0,0,0,0,0,0,93,0,194,0,0,0,2,0,1,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,2028,1335,7,0,0,0,0,10,27,0,0,584,0,2,0,15,0,11,37,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1995,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,1995,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,1995,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1995,474,0,0,0,0,0,0,0,0,0,0,166,0,0,0,0,0,308,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1995,77,0,0,0,0,0,0,32,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1995,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1995,5384,0,441,0,0,0,0,0,0,0,0,4928,0,2,0,13,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1995,192,0,0,12,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1995,1761,2,25,5,0,0,0,0,0,0,0,7,4,14,0,969,0,449,0,286,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1995,60,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,57,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1995,3073,0,0,0,0,0,0,0,0,939,0,2001,0,111,0,22,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1995,5532,0,0,23,0,0,0,1,0,0,0,349,0,2,0,5047,0,110,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,1996,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1996,40,0,0,8,0,0,0,0,0,0,0,0,0,0,0,1,0,31,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1996,154,0,0,0,0,0,0,0,0,0,0,119,0,5,0,23,0,7,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1996,46,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,36,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HR,Croatia,country,Europe and Central Asia,45.1,15.2,1996,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,1996,336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1996,1033,4,0,16,0,0,0,0,0,290,0,146,32,1,0,35,0,460,1,48,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1996,1798,32,99,2,0,0,0,32,25,0,0,916,12,93,3,6,0,388,190,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1996,22,0,0,0,0,0,0,0,0,0,0,21,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1996,204,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,7,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1996,368,0,0,0,0,0,0,2,0,35,0,264,0,0,0,67,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,113,0,3,0,0,0,0,5,19,0,0,0,0,7,0,2,0,58,19,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1996,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,1996,41,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1996,427,0,0,0,0,0,0,0,0,0,0,218,0,0,0,0,0,209,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1996,45,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1996,237,1,0,18,0,0,0,1,0,0,0,135,0,0,0,1,0,80,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1996,338,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,327,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1996,858,3,0,6,0,0,0,0,0,0,0,20,4,3,0,3,0,504,0,315,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1996,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1996,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1996,3480,0,0,0,0,0,0,0,0,785,0,2247,0,101,0,29,0,318,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1996,6896,0,0,16,0,0,0,2,0,0,0,722,0,3,0,5957,0,119,77,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,1997,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1997,29,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1997,20,0,0,0,0,0,0,0,0,0,0,0,0,2,0,18,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1997,10,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HR,Croatia,country,Europe and Central Asia,45.1,15.2,1997,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1997,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,1997,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1997,361,1,0,12,0,0,0,0,0,68,0,13,46,0,0,2,0,116,0,103,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,1997,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1997,1787,12,69,4,0,0,0,10,44,0,1,867,10,3,4,8,0,490,265,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1997,40,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1997,253,3,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1997,389,0,0,0,0,0,0,3,0,23,0,191,0,0,0,172,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,160,1,10,0,0,0,0,5,16,0,0,111,0,2,0,0,0,0,15,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1997,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1997,415,0,0,0,0,0,0,0,0,0,0,306,0,0,0,0,0,109,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1997,32,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1997,22,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1997,497,0,0,8,0,0,0,0,0,0,1,454,0,19,1,14,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1997,23,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,1997,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1997,443,2,0,11,0,0,0,0,0,0,0,27,0,0,0,2,0,64,0,337,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1997,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,38,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1997,3228,0,0,0,0,0,0,0,0,793,0,1989,0,0,0,312,0,134,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1997,4693,0,0,16,0,0,0,0,0,0,0,555,0,1,0,4107,0,14,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,1998,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1998,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1998,105,0,0,0,0,0,0,0,0,0,0,92,0,12,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1998,10,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,1998,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1998,494,1,0,24,0,0,0,0,0,40,0,20,29,0,0,15,0,188,0,177,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1998,1520,21,59,2,0,0,0,18,32,0,0,569,10,2,3,5,0,430,369,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1998,82,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1998,286,13,0,0,0,0,0,0,0,0,0,273,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1998,305,0,0,0,0,0,0,5,0,42,0,235,0,0,0,23,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1998,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,313,35,9,0,0,0,0,14,32,0,0,167,1,7,0,0,0,18,30,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,1998,30,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1998,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1998,276,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0,0,114,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1998,47,0,0,5,0,0,0,0,0,0,0,40,0,1,0,0,0,1,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1998,132,0,0,1,0,0,0,0,0,0,0,71,1,0,0,52,0,2,5,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1998,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1998,306,1,0,5,0,0,0,0,0,0,0,53,0,0,0,1,0,26,0,220,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1998,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1998,3788,0,0,0,0,0,0,0,0,948,0,2655,0,0,0,185,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1998,4904,0,0,26,0,0,0,0,0,0,0,720,0,3,0,4128,0,27,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,1999,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,53,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1999,60,0,0,0,0,0,0,0,0,40,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1999,990,0,0,68,0,0,0,0,0,72,2,123,3,11,0,404,0,149,0,158,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,1999,3173,9,347,1,0,0,0,0,60,0,0,1962,5,3,1,5,0,461,319,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1999,63,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,1999,341,0,0,0,0,0,0,0,0,0,0,341,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1999,383,0,0,0,0,0,0,2,0,32,0,291,0,0,0,1,0,0,57,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,78,1,10,0,0,0,0,7,25,0,0,1,1,1,0,0,0,0,32,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,1999,101,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1999,304,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,275,0,28,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1999,285,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,141,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,1999,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1999,273,0,0,3,0,0,0,5,0,0,0,82,0,0,0,0,0,4,179,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,1999,18,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1999,280,0,50,1,0,0,0,0,0,0,0,73,0,0,0,18,0,132,6,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,1999,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1999,44,0,0,8,0,0,0,0,0,0,0,0,0,0,20,0,0,15,0,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,1999,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1999,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1999,352,1,0,0,0,0,0,0,0,0,0,62,1,0,0,22,0,20,0,246,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1999,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,1999,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1999,3883,0,0,0,0,0,0,0,85,729,0,2664,0,0,0,203,0,5,31,166,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,1999,5043,0,0,16,0,0,0,1,0,0,0,999,0,5,0,3973,0,11,38,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2000,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2000,706,0,0,0,0,0,0,0,0,0,0,52,0,639,0,0,0,0,15,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2000,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2000,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2000,25,0,0,0,0,0,0,0,0,0,0,5,0,20,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2000,15766,2,0,12,0,0,0,0,0,107,0,174,2,14543,0,515,0,206,0,205,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2000,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2000,45406,18,20,2,0,0,0,0,34,0,0,356,6,43990,1,42,0,544,393,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2000,44,0,0,0,0,0,0,0,0,0,0,0,0,22,0,2,0,20,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2000,391,0,0,0,0,0,0,0,0,0,0,219,0,172,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2000,309,2,0,0,0,0,0,0,0,30,0,56,0,109,0,8,0,0,100,4,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,120,0,8,0,0,0,0,4,20,0,0,0,0,58,0,0,0,0,30,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2000,70,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2000,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,306,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2000,228,0,0,0,0,0,0,0,0,0,0,54,0,7,0,0,0,167,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,2000,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2000,7,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2000,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2000,86,1,0,3,0,0,0,1,0,0,0,44,0,33,0,4,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2000,478,0,0,0,0,0,0,0,0,0,0,0,0,478,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2000,20330,0,0,1,0,0,0,0,0,0,0,0,1,19171,0,782,0,369,0,6,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2000,56,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2000,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2000,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2000,535,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,509,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2000,391,2,0,22,0,0,0,0,0,0,0,20,0,47,0,61,0,49,0,190,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2000,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2000,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2000,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2000,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2000,4783,8,0,0,0,0,0,0,104,379,0,1959,0,1371,0,464,0,71,49,378,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2000,4125,2,0,17,0,0,0,0,0,0,0,320,0,470,0,3279,0,36,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2001,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,2001,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2001,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2001,66,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,13,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2001,19,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2001,1358,0,0,4,0,0,0,0,0,135,0,8,0,55,0,717,0,182,3,254,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2001,2070,60,0,0,0,0,0,0,57,0,0,1395,5,25,0,33,0,404,91,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2001,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2001,41,21,0,0,0,0,0,1,0,17,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,27,0,3,0,0,0,0,0,7,0,0,0,0,1,0,0,0,0,16,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2001,102,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2001,308,0,0,0,0,0,0,0,0,0,0,308,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2001,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2001,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,201,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2001,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2001,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2001,161,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,16,140,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2001,1530,0,0,0,0,0,0,0,0,0,0,0,0,7,7,1156,0,351,0,9,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2001,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2001,82,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2001,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2001,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2001,1198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1198,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2001,386,1,0,0,0,0,0,0,0,0,0,0,1,0,0,167,0,2,0,215,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2001,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2001,2021,26,0,0,0,0,0,0,70,799,0,0,0,49,0,550,0,320,140,67,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2001,1289,12,0,16,0,0,0,0,0,0,1,0,0,10,0,1202,0,48,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2002,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2002,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2002,569,0,0,0,0,0,0,0,0,0,0,0,0,569,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2002,182,0,0,0,0,0,0,0,0,0,0,182,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2002,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2002,18569,0,0,4,0,0,0,0,0,224,0,7,3,17733,0,134,0,267,0,197,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2002,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,292,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2002,38336,58,0,2,0,0,0,0,58,0,0,699,9,37064,0,6,0,440,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2002,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2002,237,0,0,0,0,0,0,0,0,0,0,0,0,235,0,0,0,2,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2002,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2002,448,35,0,0,0,0,0,0,0,71,0,0,0,176,0,1,0,25,140,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,54,0,4,0,0,0,0,3,15,0,0,0,0,18,0,0,0,0,14,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2002,38,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2002,985,0,0,0,0,0,0,0,0,0,0,985,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2002,509,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,508,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2002,457,0,0,0,0,0,0,0,0,0,0,0,0,317,0,0,0,140,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2002,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2002,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2002,114,0,0,3,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,17,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2002,93,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2002,11170,0,0,0,0,0,0,0,2,0,0,0,0,10518,0,327,0,322,0,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2002,348,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,286,20,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2002,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2002,1295,4,0,0,0,0,0,0,0,0,0,0,0,559,0,0,0,0,0,732,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2002,351,0,0,0,0,0,0,0,0,0,0,0,1,86,0,133,0,12,0,119,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2002,1019,7,0,0,0,0,0,0,74,395,1,0,0,46,0,249,0,160,67,20,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2002,2481,0,0,14,0,0,0,0,0,0,1,0,0,829,0,1539,0,58,40,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2003,12,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,9,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2003,1318,0,0,0,0,0,0,0,0,0,0,0,0,1224,0,94,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2003,21261,0,0,2,0,0,0,0,7,197,0,7,0,20331,0,357,0,314,0,46,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2003,365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,365,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2003,38858,52,0,0,0,0,0,2,42,0,0,162,11,38080,0,41,0,466,2,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2003,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2003,209,0,0,0,0,0,0,0,0,0,0,0,0,209,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2003,426,66,0,0,0,0,0,2,0,161,0,0,0,194,3,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,194,0,4,0,0,0,0,8,16,0,0,0,0,131,0,0,0,26,9,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2003,114,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,681,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,648,0,30,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2003,978,0,0,0,0,0,0,0,0,0,0,0,0,885,0,44,0,49,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2003,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2003,3,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2003,83,0,0,3,0,0,0,0,0,0,0,0,0,79,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2003,345,0,0,0,0,0,0,0,0,0,0,0,0,345,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2003,9890,8,0,0,0,0,0,0,0,0,0,0,0,9557,0,1,0,321,1,2,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2003,50,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2003,754,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,385,327,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2003,518,0,0,0,0,0,0,0,0,0,0,0,0,496,0,0,0,0,0,22,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2003,292,0,1,0,0,0,0,0,0,0,0,0,0,58,0,58,0,31,23,121,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2003,67,0,0,0,0,0,0,0,0,0,0,0,0,5,0,62,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2003,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2003,3782,9,0,0,0,0,0,0,63,674,0,0,0,2015,0,232,0,706,66,17,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2003,2906,0,0,14,0,0,0,0,0,0,0,57,0,628,0,2135,0,72,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2004,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2004,13,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,9,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2004,1266,0,0,0,0,0,0,0,0,0,0,0,0,1264,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2004,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2004,646,0,0,0,0,0,0,0,0,79,0,522,0,45,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2004,25041,1,0,3,0,0,0,0,0,236,6,1,1,24020,0,449,0,189,61,74,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2004,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2004,21101,71,0,4,0,0,0,1,28,0,0,205,8,20329,0,83,0,372,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2004,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2004,99,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,49,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2004,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2004,500,74,0,0,0,0,0,0,0,105,0,20,0,221,0,4,0,12,0,64,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,146,0,5,0,0,0,0,7,23,0,0,94,0,3,0,0,0,1,13,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2004,1800,0,0,0,0,0,0,0,0,0,0,0,0,1800,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2004,245,0,0,0,0,0,0,0,0,0,0,10,0,1,0,19,0,156,22,37,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2004,470,0,0,0,0,0,0,0,0,0,0,0,0,304,0,0,0,166,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2004,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2004,523,0,0,3,0,0,0,14,0,2,0,24,0,230,0,1,0,49,200,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2004,74,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2004,1998,34,0,5,0,0,0,0,0,0,0,6,1,1662,0,0,0,290,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2004,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,47,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2004,399,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,221,140,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2004,928,0,0,0,0,0,0,0,0,0,0,0,0,375,0,0,0,60,0,493,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2004,110,0,0,0,0,0,0,0,0,2,0,1,0,78,0,2,0,7,20,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2004,427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,387,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2004,11347,6,0,0,0,0,0,0,93,484,0,0,0,9569,0,332,0,650,50,163,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2004,2905,0,0,15,0,0,0,0,0,0,0,21,0,714,0,2032,0,105,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2005,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,140,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2005,1384,0,0,0,0,0,0,0,0,0,0,0,0,1384,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2005,25611,2,0,4,0,0,0,0,0,173,0,12,0,22125,0,3156,0,135,0,4,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2005,14414,81,0,2,0,0,0,0,32,0,0,378,9,13422,0,75,0,415,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2005,20,0,0,0,0,0,0,0,0,1,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2005,167,0,0,0,0,0,0,0,0,0,0,0,0,136,0,7,0,24,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2005,363,36,0,0,0,0,0,0,0,96,0,7,0,104,0,1,0,1,0,118,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,73,0,3,0,0,0,0,8,23,0,0,2,0,27,0,1,0,0,9,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2005,619,0,0,0,0,0,0,0,0,0,0,14,0,0,0,38,0,356,0,211,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2005,1078,0,0,0,0,0,0,0,0,0,0,0,0,754,0,58,0,266,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2005,260,0,0,2,0,0,0,0,0,1,0,0,0,193,0,20,0,21,0,23,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2005,192,0,0,1,0,0,0,0,0,0,4,6,0,0,0,4,0,176,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2005,51,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,50,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2005,284,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,103,145,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2005,52,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2005,216,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,215,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2005,100,0,0,0,0,0,0,0,0,4,2,0,0,58,0,3,0,9,0,24,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2005,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2005,906,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,706,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2005,6941,3,0,0,0,0,0,0,82,269,0,0,0,5582,0,374,0,458,97,76,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2005,4987,0,0,8,0,0,0,0,0,0,0,9,0,955,0,3815,0,96,95,9,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2006,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2006,944,0,0,0,0,0,0,0,0,0,0,0,0,943,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2006,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2006,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2006,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HR,Croatia,country,Europe and Central Asia,45.1,15.2,2006,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2006,28640,0,0,12,0,0,0,0,0,136,0,5,0,24897,0,3522,0,58,0,10,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2006,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2006,13319,96,0,0,0,0,0,0,13,0,0,2023,7,10821,0,92,0,267,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2006,57,0,0,0,0,0,0,0,0,0,0,4,0,30,0,0,0,0,0,23,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2006,235,0,0,0,0,0,0,0,0,0,0,0,0,216,0,0,0,19,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2006,368,0,0,0,0,0,0,0,0,118,0,24,1,76,0,0,0,8,0,141,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,8,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,2,2,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2006,215,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,42,0,170,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2006,759,0,0,0,0,0,0,0,0,0,0,2,0,519,0,66,0,172,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2006,421,0,0,3,0,0,0,0,0,1,1,8,0,162,0,217,0,4,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2006,317,0,0,1,0,0,0,0,0,0,16,9,3,118,0,9,0,160,0,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2006,194,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,193,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2006,87,0,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2006,282,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,150,75,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2006,838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,838,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2006,120,0,0,0,0,0,0,0,0,5,0,2,0,79,14,17,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,2006,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2006,972,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,325,647,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2006,8066,0,0,0,0,0,0,0,0,286,0,0,0,6800,0,280,0,437,0,263,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2006,7354,0,0,5,0,0,0,0,0,0,0,18,8,1190,0,5921,0,68,144,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2007,17,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2007,2541,0,0,0,0,0,0,0,0,0,0,0,0,2541,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2007,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2007,9936,0,0,8,0,0,0,0,0,135,0,6,6,7745,0,1958,0,67,0,11,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2007,2706,123,0,11,0,0,0,0,36,0,0,1739,11,361,0,179,0,221,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2007,35,0,0,0,0,0,0,0,0,0,0,2,0,8,0,1,0,24,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2007,337,0,0,0,0,0,0,0,0,1,0,0,0,296,0,0,0,20,0,20,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2007,418,1,0,0,0,0,0,0,0,133,0,23,0,72,0,2,0,3,0,184,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,91,0,8,0,0,0,0,9,52,0,0,5,0,3,0,0,0,2,12,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2007,51,0,0,0,0,0,0,0,0,40,0,1,0,10,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2007,28,0,0,0,0,0,0,0,0,0,0,27,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2007,106,0,0,0,0,0,0,0,0,0,0,3,0,1,0,65,0,37,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2007,558,14,0,1,0,0,0,0,0,0,0,4,0,37,0,274,0,0,189,39,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2007,1357,0,0,0,0,0,0,0,0,0,0,12,6,1080,0,0,0,259,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2007,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2007,140,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,139,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2007,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2007,286,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,114,125,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2007,422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,422,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2007,67,0,0,0,0,0,0,0,0,1,0,4,0,42,16,2,0,2,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2007,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2007,329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,179,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2007,4413,24,0,0,0,0,0,0,0,304,0,6,0,3084,0,272,0,472,251,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2007,10761,0,0,15,0,0,0,0,0,0,0,0,18,1177,0,9228,0,43,280,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2008,28,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,5,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2008,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2008,2080,0,0,0,0,0,0,0,0,0,0,0,0,1662,0,415,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2008,98,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,97,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2008,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,107,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,2008,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2008,27340,0,0,3,0,0,0,2,0,38,0,6,13,26231,0,909,0,120,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2008,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2008,17121,22,0,22,0,0,0,0,55,0,0,4111,5,12374,0,175,0,271,86,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2008,32,0,0,0,0,0,0,0,0,0,0,1,1,26,0,4,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2008,193,0,0,0,0,0,0,0,0,0,0,20,0,134,0,0,0,0,0,39,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2008,524,0,0,0,0,0,0,0,0,38,0,49,0,55,0,1,0,2,0,379,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,114,1,10,0,0,0,0,12,42,0,0,0,0,23,0,3,0,4,19,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2008,13,0,0,0,0,0,0,0,0,0,0,10,0,3,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2008,457,0,0,0,0,0,0,0,0,0,0,7,0,1,0,223,0,226,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2008,211,0,0,0,0,0,0,0,0,210,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2008,1112,0,0,2,0,1,0,0,0,1,0,42,0,61,0,96,0,0,794,115,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,2008,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2008,8493,0,0,0,0,0,0,0,0,0,1,12,22,8017,40,0,0,401,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PK,Pakistan,country,South Asia,30.375321,69.345116,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2008,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2008,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2008,362,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,241,71,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2008,146,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,22,0,121,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2008,44,0,0,0,0,0,0,0,0,0,5,3,3,21,0,7,0,4,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2008,61,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,55,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2008,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2008,224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,99,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2008,7754,0,0,0,0,0,0,0,0,444,0,14,0,5888,0,523,0,722,163,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2008,15494,0,0,23,0,0,0,0,0,0,0,9,32,1156,0,14040,0,65,169,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2008,122,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,77,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2009,2272,0,0,0,0,0,0,0,0,0,0,14,0,1861,0,395,0,2,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2009,952,0,0,0,0,0,0,0,0,0,0,0,0,2,0,363,0,1,0,586,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2009,29504,0,0,15,0,0,1,1,0,0,0,6,29,28257,0,848,0,60,2,285,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2009,66,0,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2009,18520,123,0,0,0,0,0,0,23,0,0,1164,21,16557,0,209,0,351,72,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2009,57,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,46,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2009,44,0,0,0,0,0,0,0,0,0,0,0,0,37,0,4,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2009,696,0,0,0,0,0,0,0,0,0,0,21,0,31,0,0,0,1,0,643,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,63,1,7,0,0,0,0,11,28,0,0,0,0,4,1,0,0,0,11,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2009,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2009,185,0,0,0,0,0,0,0,0,0,0,3,0,1,0,34,0,147,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2009,23,0,0,0,0,0,0,0,0,19,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,1101,2,0,1,0,0,0,0,0,0,0,62,4,150,0,39,0,117,678,48,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2009,113,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,104,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2009,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2009,3420,1,0,0,0,0,0,0,3,0,2,6,29,2780,64,0,0,535,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PK,Pakistan,country,South Asia,30.375321,69.345116,2009,382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,382,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2009,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2009,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2009,21,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2009,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2009,508,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,414,0,88,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2009,355,0,0,1,0,0,0,0,0,0,0,2,7,289,0,14,0,42,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2009,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,60,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2009,352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,256,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2009,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2009,16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2009,4765,0,0,0,0,0,0,0,0,466,0,74,0,2714,0,274,0,885,138,214,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2009,7933,0,0,7,0,0,0,0,0,0,0,4,29,937,0,6767,0,57,132,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2009,187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2010,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2010,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,116,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2010,875,0,0,0,0,0,0,0,0,0,0,0,0,447,0,428,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2010,59,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,38,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2010,982,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,978,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2010,80,0,0,0,0,0,0,0,0,0,0,1,0,79,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2010,25938,0,0,12,0,0,0,0,84,25,1,13,18,24703,0,961,0,65,0,56,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2010,3907,153,0,3,0,0,0,3,23,19,0,1068,45,1974,0,174,0,331,98,16,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2010,245,0,0,0,0,0,0,0,0,0,0,1,0,216,0,0,0,8,20,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,184,0,0,0,0,0,0,0,0,0,0,27,0,102,0,19,0,36,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2010,277,0,0,0,0,0,0,0,0,33,1,23,0,43,21,1,0,4,45,106,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,91,9,4,0,0,0,0,8,25,0,0,0,1,29,0,2,0,1,12,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2010,12,0,0,0,0,0,0,0,0,0,10,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2010,43,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,220,0,0,0,0,0,0,0,0,0,2,16,0,1,0,0,0,37,0,164,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2010,795,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,792,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2010,152,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,151,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2010,47,0,0,0,0,0,0,0,0,45,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2010,419,0,0,0,0,0,0,0,0,0,0,0,0,419,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,1389,0,0,1,0,0,0,0,0,16,0,30,0,323,0,44,0,344,526,105,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2010,3684,0,0,0,0,0,0,0,17,0,0,5,21,2954,82,1,0,604,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PK,Pakistan,country,South Asia,30.375321,69.345116,2010,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2010,234,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,231,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2010,112,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,109,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2010,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2010,506,0,0,32,0,0,0,0,0,0,0,0,0,0,0,146,0,328,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2010,773,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,569,0,193,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2010,208,5,0,2,0,0,0,0,0,0,1,49,13,5,0,21,0,112,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2010,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2010,39,0,0,0,0,0,0,0,0,0,0,2,0,0,0,37,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2010,564,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,514,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2010,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2010,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2010,2321,0,0,0,0,0,0,0,0,428,2,12,0,309,0,475,0,939,142,14,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2010,13256,0,0,7,0,0,0,0,0,0,3,0,35,1090,0,11860,0,105,156,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2010,141,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,88,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2011,1685,0,0,0,0,0,0,0,0,0,0,0,0,1222,0,463,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2011,344,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,323,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2011,461,0,0,0,0,0,0,0,0,0,0,0,0,16,0,214,0,0,0,231,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2011,436,0,0,0,0,0,0,0,0,0,0,59,0,377,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2011,19537,0,0,19,0,0,0,0,0,0,1,16,21,18374,0,966,0,32,0,108,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2011,5118,97,0,3,0,0,0,9,24,0,2,1344,39,2967,0,221,0,329,83,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2011,376,0,0,0,0,0,0,0,0,0,0,5,0,122,0,5,0,0,244,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,223,0,0,0,0,0,0,0,0,0,0,182,0,1,0,40,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2011,307,0,0,0,0,0,0,0,0,58,1,48,1,2,0,3,0,45,0,149,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,66,2,4,0,0,0,0,8,22,0,0,0,0,5,0,4,0,3,18,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IN,India,country,South Asia,20.593684,78.96288,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2011,40,0,0,0,0,0,0,0,0,0,0,5,0,22,0,0,0,13,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2011,116,0,0,0,0,0,0,0,0,0,1,21,0,1,0,0,0,93,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2011,993,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,989,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2011,10,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,4,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2011,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2011,102,0,0,0,0,0,0,0,0,77,0,0,0,6,0,19,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2011,1588,0,0,0,0,2,0,0,0,0,0,108,1,70,0,99,0,364,904,40,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2011,8041,3,0,0,0,0,0,0,0,0,0,3716,10,3208,479,5,0,620,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2011,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2011,289,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,286,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2011,215,0,0,0,0,0,0,0,0,34,0,0,0,8,0,0,0,0,0,173,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2011,112,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2011,693,0,0,27,0,0,0,0,0,0,0,0,0,0,0,486,0,180,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2011,6,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2011,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,188,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2011,125,0,0,4,0,0,0,0,0,0,0,4,15,0,0,62,0,40,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2011,78,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,73,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2011,45,0,0,0,0,0,0,0,0,0,0,8,0,0,0,37,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2011,684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,684,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2011,2049,0,0,0,0,0,0,0,0,414,2,239,0,63,208,542,0,462,119,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2011,14463,0,0,7,0,0,0,0,0,0,1,1276,59,44,0,12731,0,159,186,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2011,334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,334,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2012,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2012,31,9,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,8,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2012,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,270,0,9,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2012,839,0,0,0,0,0,0,0,0,0,0,3,0,6,0,0,0,830,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,239,0,0,0,0,0,0,0,0,0,0,0,0,3,0,145,0,81,0,10,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HR,Croatia,country,Europe and Central Asia,45.1,15.2,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2012,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2012,1183,0,0,16,0,0,0,0,0,0,0,7,27,58,43,897,0,71,23,41,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2012,2397,35,0,2,0,0,0,8,40,0,0,1645,47,17,1,142,0,410,50,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2012,480,47,0,0,0,0,0,0,0,0,0,1,0,15,0,5,0,0,412,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,145,0,0,0,0,0,0,0,0,0,0,34,0,0,0,111,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2012,574,0,0,2,0,0,0,0,0,36,0,65,1,0,0,50,0,88,0,332,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,163,12,7,0,0,0,0,15,20,0,0,54,3,18,3,0,0,2,29,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2012,16,0,0,0,0,0,0,0,0,0,0,15,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2012,1169,0,0,0,0,0,0,0,0,0,0,4,0,4,0,43,0,1118,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2012,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2012,10,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2012,66,0,0,0,0,0,0,0,0,39,0,0,0,2,0,0,0,25,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2012,2769,0,0,0,0,1,0,0,0,0,0,95,0,1,0,434,0,808,1129,301,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2012,1174,1,0,0,0,0,0,0,1,0,0,0,7,1,557,10,0,597,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2012,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PK,Pakistan,country,South Asia,30.375321,69.345116,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2012,289,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,284,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2012,216,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,171,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2012,1582,0,0,20,0,0,0,0,0,0,0,0,0,0,0,618,0,944,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2012,48,0,0,0,0,0,0,0,0,0,0,0,0,2,0,46,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2012,259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,259,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2012,157,1,0,36,0,0,0,0,0,0,0,2,56,0,0,42,0,20,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2012,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2012,152,0,0,0,0,0,0,0,0,0,0,4,0,0,0,148,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2012,955,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,955,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2012,2160,0,0,0,0,0,0,0,0,440,0,153,3,8,150,663,0,581,145,17,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2012,12080,0,0,0,0,0,0,0,0,0,0,53,42,2,0,11622,0,205,156,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,50,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,47,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2013,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,193,6,0,0,0,0,0,0,0,0,0,14,0,0,0,173,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CA,Canada,country,North America,56.130366,-106.346771,2013,2709,0,0,0,0,0,0,0,0,0,0,15,0,2256,0,433,0,5,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2013,390,0,0,0,0,0,0,0,0,0,0,0,0,0,390,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2013,1591,0,0,0,0,0,0,0,2,0,0,1,0,14,0,0,0,1461,0,113,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,408,0,0,0,0,0,0,0,0,0,0,1,0,14,0,108,0,152,0,133,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HR,Croatia,country,Europe and Central Asia,45.1,15.2,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2013,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2013,30874,0,0,36,0,0,0,0,9,0,0,559,123,29706,92,288,0,23,0,38,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2013,84,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,59,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,2013,9481,60,0,1,0,0,0,3,35,0,0,1426,55,7303,1,166,0,354,52,25,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2013,671,0,0,0,0,0,0,0,0,0,0,1,0,33,0,0,0,22,615,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,FR,France,country,Europe and Central Asia,46.227638,2.213749,2013,331,0,0,0,0,0,0,0,0,0,0,18,0,178,0,135,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2013,2510,0,0,0,0,0,0,0,0,68,0,52,5,1786,44,65,0,235,0,255,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,352,14,3,5,0,0,0,34,18,0,0,1,10,215,0,1,0,4,47,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2013,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2013,166,0,0,0,0,0,0,0,0,0,0,25,0,22,5,0,0,114,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2013,12,0,0,0,0,0,0,0,0,0,0,10,0,2,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2013,603,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,536,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2013,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2013,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,6,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2013,114,0,0,0,0,0,0,0,0,77,0,0,0,13,0,0,0,24,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2013,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2013,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,2385,0,0,0,0,0,9,0,0,0,0,52,0,227,32,612,0,715,314,424,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2013,3518,2,0,1,0,0,0,0,0,0,0,83,28,1881,915,26,0,582,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2013,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2013,478,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,476,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2013,186,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,139,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2013,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2013,1674,0,0,23,0,0,0,0,0,0,0,0,0,220,0,652,0,779,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2013,68,0,0,0,0,0,0,0,0,0,0,0,0,2,0,66,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2013,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2013,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,301,0,0,0,0,0,0,0,0,64,0,0,0,2,0,10,0,42,0,183,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2013,309,0,0,6,0,0,0,0,0,0,0,2,65,72,0,156,0,8,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2013,93,0,0,0,0,0,0,0,0,0,0,0,0,3,0,30,0,59,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2013,153,0,0,0,0,0,0,0,0,0,0,1,0,0,0,152,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2013,1023,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1022,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2013,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2013,3253,1,0,1,0,0,0,0,0,298,0,128,0,218,68,1805,0,620,77,37,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,US,USA,country,North America,37.09024,-95.712891,2013,12537,0,0,6,0,0,0,0,0,0,0,22,70,1356,0,10780,0,205,98,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2013,94,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,93,0,0,0,0,0,0

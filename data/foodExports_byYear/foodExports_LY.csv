@@ -1,0 +1,65 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1990,10,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1990,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1990,224,0,150,0,0,0,0,45,3,10,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1990,95,45,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,CA,Canada,country,North America,56.130366,-106.346771,1990,90,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1990,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1990,26,0,0,0,0,0,0,4,5,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,1990,5391,0,627,0,0,90,0,174,0,2241,0,0,0,0,0,0,0,0,0,2259,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,FR,France,country,Europe and Central Asia,46.227638,2.213749,1990,1297,0,122,0,0,0,0,1045,28,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1990,15,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1990,2013,0,920,0,0,0,0,113,40,697,0,0,0,132,0,0,0,0,0,111,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1990,157,0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,68,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1990,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1990,2985,0,246,0,0,0,0,1094,20,800,0,0,0,0,12,0,0,0,0,813,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,1990,231,0,64,2,0,0,0,115,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,1990,844,0,612,3,0,0,0,73,83,0,0,0,0,3,0,0,0,0,14,56,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,1990,285,0,0,0,0,0,0,163,0,38,0,0,0,0,0,0,0,36,0,48,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,1990,1316,0,85,0,0,0,103,46,1049,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1990,11,0,0,0,0,0,0,7,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,1990,1606,0,0,0,0,0,70,0,0,70,0,0,0,2,0,0,0,0,0,1464,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1990,203,0,76,0,0,0,0,101,14,0,0,0,0,3,0,0,0,0,0,9,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,1990,14,0,2,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,1990,20,0,0,0,0,0,1,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,1990,365,0,200,1,0,0,0,156,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1990,774,0,0,0,0,0,0,0,0,130,0,0,0,0,0,0,0,0,0,644,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1990,20,0,17,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,1990,147,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,87,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1990,22181,1014,5416,26,0,33,2036,3288,7825,122,0,0,0,156,72,0,166,0,612,1581,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,1990,1627,0,6,0,0,0,0,0,5,1192,0,0,0,0,0,0,0,0,0,424,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,1990,8205,0,4201,70,0,0,124,671,587,0,0,0,0,527,0,1800,0,150,75,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1990,6337,0,1120,0,0,0,200,1163,2837,820,0,50,0,105,0,0,0,0,0,42,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,1990,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1991,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1991,41,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1991,49,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,CA,Canada,country,North America,56.130366,-106.346771,1991,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,CN,China,country,East Asia and Pacific,35.86166,104.195397,1991,3000,0,0,0,0,0,0,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1991,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,1991,246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,246,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,1991,331,0,0,0,0,4,0,0,0,27,0,0,0,0,0,0,0,0,0,300,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,FR,France,country,Europe and Central Asia,46.227638,2.213749,1991,11,0,5,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1991,158,0,151,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1991,25,0,16,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1991,141,0,133,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1991,52,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1991,1982,0,655,0,0,0,0,63,1,115,0,0,0,0,0,0,0,0,0,1148,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,1991,266,0,83,0,0,51,18,0,15,0,0,0,0,0,50,0,0,0,0,49,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,1991,185,0,0,0,0,0,0,0,0,5,0,0,0,0,7,0,0,0,0,173,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,1991,127,0,0,0,0,0,54,0,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1991,7,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,1991,673,0,0,0,0,0,40,5,0,0,0,0,0,0,0,0,0,0,0,628,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1991,22,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1991,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1991,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,1991,26,0,0,0,0,0,15,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,1991,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,257,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,1991,52,0,0,0,0,0,34,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,1991,55,0,50,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1991,117,0,0,0,0,0,0,1,0,99,0,0,0,0,0,0,0,0,0,17,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1991,21183,300,3535,17,0,0,3148,6455,4281,0,396,0,0,0,682,0,0,0,1314,1055,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,1991,1268,0,0,0,0,0,0,0,0,205,0,0,0,0,0,0,0,0,0,1063,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,1991,1965,0,568,3,0,0,310,151,933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1991,478,0,424,0,0,0,0,33,11,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,1991,96,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

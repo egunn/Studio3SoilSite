@@ -1,0 +1,376 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2000,105,12,0,0,0,0,0,0,0,0,0,0,0,20,0,30,0,0,0,43,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2000,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2000,709,52,0,0,0,169,375,0,2,0,0,0,0,51,0,0,0,0,60,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2000,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2000,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IN,India,country,South Asia,20.593684,78.96288,2000,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2000,801,500,0,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2000,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2000,1499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1499,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2000,6204,694,0,0,0,0,0,0,132,0,0,0,0,5350,0,12,0,0,16,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2000,89,0,0,0,0,0,0,0,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2000,280,93,0,0,0,0,0,25,2,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2000,4645,891,0,0,0,0,20,0,42,0,0,0,0,3673,0,19,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2000,537,0,0,0,0,0,0,0,0,0,0,0,0,537,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2000,7708,4322,0,0,0,0,0,0,7,0,0,0,0,138,0,0,0,0,2426,815,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2000,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2000,75,6,0,0,0,0,0,0,3,0,0,0,0,31,0,35,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2000,5700,0,0,0,0,0,1555,0,0,0,0,0,0,3006,0,863,0,0,0,276,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2001,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CA,Canada,country,North America,56.130366,-106.346771,2001,724,0,0,0,0,0,0,724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2001,40,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2001,543,30,0,0,0,35,8,99,0,0,0,0,0,251,0,0,0,0,0,120,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2001,162,0,0,0,0,0,0,0,0,0,0,0,0,105,0,57,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2001,594,4,0,0,0,21,358,0,1,0,0,0,0,40,0,0,0,0,170,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2001,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2001,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,3,0,16,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2001,550,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,505,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2001,14918,7216,455,0,0,0,0,0,0,0,0,0,0,6942,0,20,0,0,285,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2001,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2001,2859,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2859,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2001,306,1,0,0,0,20,20,14,0,0,0,0,0,250,0,1,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2001,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2001,9340,0,0,0,0,0,0,0,0,0,0,0,0,9254,0,0,0,0,85,1,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2001,7,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2001,454,0,0,0,0,0,0,0,0,0,0,0,0,454,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2001,2272,27,0,0,0,0,0,0,0,0,0,0,0,279,0,11,0,0,1645,310,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2001,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2001,24603,0,0,0,0,0,120,872,0,0,0,1730,0,20816,0,805,0,0,0,260,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2003,123,22,15,0,0,10,0,14,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BD,Bangladesh,country,South Asia,23.684994,90.356331,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2003,1788,1788,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CA,Canada,country,North America,56.130366,-106.346771,2003,75,0,0,0,0,73,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2003,461,344,0,0,0,29,0,0,0,2,0,0,0,66,0,0,0,0,0,20,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2003,348,0,0,0,0,0,0,0,0,0,0,0,0,115,233,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2003,1359,934,0,0,6,15,277,0,12,0,44,0,7,64,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2003,11,0,0,0,0,0,0,0,7,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2003,152,129,0,0,0,0,0,0,1,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2003,6853,0,6850,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,612,0,0,0,0,0,0,612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2003,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2003,62,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2003,8063,0,2000,0,0,0,0,0,0,0,8,0,0,3940,2060,55,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2003,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2003,80,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2003,656,0,0,0,0,0,0,139,0,0,0,0,0,517,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2003,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2003,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2003,2912,0,0,0,0,0,0,0,10,0,0,0,0,2902,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,2003,44,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2003,198,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,187,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2003,574,0,0,0,0,0,0,562,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2003,372,0,0,0,0,91,1,4,0,0,0,0,1,275,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2003,32248,0,150,0,0,2184,0,0,40,0,0,0,1,29696,20,0,0,0,2,155,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2004,173,169,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2004,943,943,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2004,1406,648,0,0,0,0,0,0,0,0,0,0,0,758,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2004,1242,0,0,0,0,0,86,10,9,0,0,0,0,833,300,4,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2004,3843,2794,0,0,24,2,917,0,20,60,9,0,0,17,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,2004,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2004,5,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2004,1856,1821,0,0,0,0,0,0,29,0,1,0,0,1,0,4,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2004,2981,0,2981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2004,1229,0,0,0,0,0,0,1229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2004,20,6,0,0,0,0,0,0,4,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2004,5831,542,0,0,0,0,0,0,0,0,0,0,0,2302,2741,246,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2004,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,2004,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2004,911,911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2004,57,0,0,0,27,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2004,1189,0,0,0,0,0,22,32,0,0,0,0,0,1135,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2004,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2004,4758,124,0,0,0,0,0,3,1,0,0,0,58,4391,100,81,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2004,360,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2004,79142,64500,0,0,0,0,14500,0,0,0,0,0,0,29,0,7,0,0,0,106,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2004,487,0,0,0,0,0,0,485,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2004,134,23,0,0,0,57,15,0,0,0,0,0,0,0,0,20,0,19,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2004,33612,1391,4900,0,0,100,80,1,17,0,0,0,0,26863,0,2,0,138,0,120,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2010,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2010,1268,1262,0,2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,2010,242,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2010,544,544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CA,Canada,country,North America,56.130366,-106.346771,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2010,104,66,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,2010,94,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2010,2385,94,0,0,0,80,26,0,26,174,0,0,0,1983,0,2,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2010,2669,1622,0,2,0,10,481,0,0,0,46,0,0,508,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2010,240,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2010,110,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2010,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2010,144,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,28943,28920,0,3,0,0,0,0,0,0,2,0,0,1,0,17,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,2010,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2010,740,740,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2010,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2010,282,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IN,India,country,South Asia,20.593684,78.96288,2010,9406,0,0,0,0,3,0,0,0,0,0,0,0,121,9282,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2010,481,0,0,0,0,0,0,0,0,0,0,0,0,481,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,2010,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,688,688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2010,23,1,0,2,0,0,3,0,0,9,2,0,0,0,0,6,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2010,214,182,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2010,456,456,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2010,3768,3768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2010,5194,1075,0,1,0,0,0,19,0,0,0,0,0,2773,1326,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,1127,1127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NU,Niue,country,East Asia and Pacific,-19.054445,-169.867233,2010,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2010,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2010,171,18,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2010,4128,4128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2010,2379,2379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2010,644,0,0,0,0,0,0,39,12,0,0,69,0,524,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2010,1752,1752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2010,340,0,340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2010,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2010,1842,405,0,10,0,0,0,0,0,0,0,0,0,1391,1,35,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2010,429,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2010,173,0,0,0,0,0,0,0,0,0,0,0,0,173,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2010,280,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2010,215,0,0,0,0,0,0,0,0,0,0,20,0,0,0,195,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2010,485,485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2010,4006,0,0,0,0,0,0,0,0,0,0,0,0,100,3906,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2010,17593,2525,2400,4000,0,0,7001,549,0,0,0,1,0,1062,0,0,0,0,0,55,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2010,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2010,238,0,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2010,10576,575,0,10000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2010,1430,827,0,1,0,0,0,0,0,0,1,599,0,2,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2010,49368,4523,13145,0,0,0,448,0,0,20,0,0,0,20143,350,10079,0,16,0,644,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2011,144,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2011,1099,1093,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2011,96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2011,7178,7175,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,2011,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2011,72,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2011,4704,4704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CA,Canada,country,North America,56.130366,-106.346771,2011,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2011,1372,1027,0,0,0,0,0,0,0,0,0,18,0,322,0,5,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,2011,492,492,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2011,10172,252,0,0,0,66,37,0,13,15,165,0,0,9587,0,21,0,0,0,16,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2011,3460,2476,0,0,71,0,185,0,0,0,88,0,0,640,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,2011,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2011,657,657,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2011,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2011,94,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2011,528,528,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,39582,39521,0,0,0,0,0,17,14,0,5,0,0,0,0,25,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2011,3690,3628,0,0,0,0,0,1,0,0,1,0,0,60,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2011,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2011,480,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2011,693,688,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IN,India,country,South Asia,20.593684,78.96288,2011,10349,0,0,0,23,373,0,0,0,0,0,0,0,403,9550,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2011,1498,0,0,0,0,0,0,0,0,0,0,0,0,1498,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2011,59,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2011,4333,4195,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2011,174,1,20,80,41,0,0,9,0,0,2,0,0,1,0,20,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,2011,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2011,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2011,3696,3696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2011,4040,4040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2011,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2011,24324,14062,0,0,0,0,0,0,17,0,0,0,0,5842,4403,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MV,Maldives,country,South Asia,3.202778,73.22068,2011,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,YT,Mayotte,country,,-12.8275,45.166244,2011,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NP,Nepal,country,South Asia,28.394857,84.124008,2011,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2011,10372,10372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2011,70,68,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PK,Pakistan,country,South Asia,30.375321,69.345116,2011,560,0,0,0,0,0,0,0,0,0,0,0,0,0,560,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2011,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2011,110,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2011,31407,31407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2011,3951,3951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2011,1345,47,0,0,0,0,0,5,0,0,0,456,0,837,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2011,5544,5544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2011,21301,21301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2011,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2011,3179,567,0,0,0,0,0,0,22,0,13,0,0,2354,0,203,0,0,20,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2011,504,504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2011,79,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2011,1711,1368,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2011,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2011,1951,1951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2011,3867,212,0,0,0,0,0,0,0,0,0,0,0,0,3655,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2011,17926,225,9350,0,30,0,7250,65,25,0,0,0,0,503,0,472,0,0,0,6,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2011,1552,1552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,2011,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2011,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2011,79,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2011,23269,4769,0,18500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2011,2660,2132,0,0,0,0,0,0,0,0,0,527,1,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2011,53898,5048,15702,1,0,0,92,0,0,35,181,0,0,27161,2100,2697,0,81,0,800,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2012,119,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2012,1271,1270,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2012,291,291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,2012,1080,1080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2012,5353,5155,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2012,790,550,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2012,168,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CA,Canada,country,North America,56.130366,-106.346771,2012,44,24,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2012,841,681,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,56,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,2012,624,624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,46666,6819,25278,0,0,193,0,0,7,0,100,0,0,14267,0,2,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2012,2135,1471,0,0,0,0,181,0,0,0,60,0,0,423,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,2012,264,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2012,2487,2487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,2012,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2012,769,695,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2012,192,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2012,280,279,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2012,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2012,216,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,47179,46837,0,3,0,0,0,134,61,0,5,0,0,77,0,62,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2012,6856,6856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,2012,360,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2012,2932,2923,0,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2012,1914,1914,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2012,298,68,0,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2012,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2012,468,332,0,0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IN,India,country,South Asia,20.593684,78.96288,2012,2937,0,0,0,0,231,0,0,0,0,0,0,0,1416,1290,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2012,1821,0,0,0,0,0,0,0,0,0,0,0,0,1821,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2012,57,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2012,2028,2027,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2012,347,1,0,0,0,29,61,0,180,0,1,0,0,41,0,26,0,8,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2012,47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,2012,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2012,1152,1152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,2012,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2012,409,0,0,0,0,0,0,0,0,0,0,0,0,409,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2012,2784,2784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2012,72,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2012,51955,24719,0,0,72,0,0,47,0,0,0,0,0,12966,14066,85,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2012,408,408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,YT,Mayotte,country,,-12.8275,45.166244,2012,384,384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NP,Nepal,country,South Asia,28.394857,84.124008,2012,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2012,13606,13606,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2012,182,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2012,603,0,0,0,0,0,0,0,0,0,0,0,0,603,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NU,Niue,country,East Asia and Pacific,-19.054445,-169.867233,2012,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2012,21,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PK,Pakistan,country,South Asia,30.375321,69.345116,2012,732,0,0,0,0,0,0,0,0,0,0,0,0,0,732,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2012,140,96,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2012,33051,32942,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2012,3361,3361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2012,998,15,20,3,0,0,218,0,0,0,0,269,0,473,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2012,9799,9799,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2012,7176,7176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2012,1200,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2012,245,245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2012,6079,3592,0,0,0,0,0,0,0,0,35,0,0,2438,0,14,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2012,335,335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2012,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2012,262,257,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2012,185,0,0,0,0,0,0,0,0,0,0,0,0,10,0,175,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2012,1551,1551,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2012,3549,0,0,0,0,0,0,1,0,0,0,0,0,0,3548,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2012,15196,0,12904,0,0,0,1250,0,0,0,0,0,1,782,0,239,0,20,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2012,96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2012,69,24,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2012,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2012,23844,8315,0,15500,0,0,0,27,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2012,2036,1389,0,0,0,0,0,0,0,0,6,406,1,231,0,3,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,72,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,2012,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,45816,547,13615,151,0,0,49,0,1,0,72,0,0,25777,0,4011,0,25,0,1568,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2013,320,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2013,745,738,0,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2013,192,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,8799,8779,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BN,Brunei Darussalam,country,,4.535277,114.727669,2013,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2013,34085,4520,0,29565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,2013,245,245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CA,Canada,country,North America,56.130366,-106.346771,2013,308,287,0,0,0,0,0,0,0,0,1,0,0,20,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2013,1273,1044,0,0,0,0,0,0,0,0,0,0,0,211,0,11,0,7,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,2013,311,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,117167,28304,52897,2,0,0,0,0,7,0,0,0,0,35880,60,17,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2013,5362,4063,20,0,0,0,44,0,0,0,101,0,0,1134,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2013,2728,2728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HR,Croatia,country,Europe and Central Asia,45.1,15.2,2013,1460,1460,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,2013,46,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2013,9215,9184,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2013,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2013,437,436,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,2013,816,816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,FR,France,country,Europe and Central Asia,46.227638,2.213749,2013,58107,57692,119,1,0,0,0,77,56,0,5,0,0,120,0,37,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2013,13486,13486,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,2013,1728,1728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2013,10122,10115,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2013,1322,1322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2013,7078,2538,0,4540,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2013,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2013,1653,1613,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IN,India,country,South Asia,20.593684,78.96288,2013,2673,0,0,0,0,110,0,0,0,0,0,0,0,763,1800,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2013,1320,0,0,0,0,0,0,0,0,0,0,0,0,1320,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2013,96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2013,455,396,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2013,12654,10182,0,2050,0,0,0,0,0,0,0,0,0,408,14,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2013,232,3,0,1,0,14,112,0,33,2,0,0,0,58,0,9,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2013,480,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2013,38,0,0,0,0,0,0,0,0,0,0,0,0,30,0,8,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2013,2064,2064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2013,3585,3585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2013,87583,52126,0,742,0,0,0,0,0,0,0,0,0,15815,18591,253,0,0,0,56,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,2013,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2013,2304,2304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,YT,Mayotte,country,,-12.8275,45.166244,2013,216,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,2013,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,36536,36302,0,200,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2013,249,248,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2013,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2013,25,20,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PK,Pakistan,country,South Asia,30.375321,69.345116,2013,862,24,0,0,0,0,0,0,0,0,0,0,0,0,838,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2013,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2013,54659,54539,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2013,5743,5743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2013,4332,0,0,1,0,0,0,0,15,0,0,3175,0,1123,0,18,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2013,2500,1875,0,625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2013,3696,3696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2013,1185,1185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2013,3311,3311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2013,96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2013,7109,3550,0,0,0,0,0,0,0,0,672,0,0,2887,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2013,635,624,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2013,214,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2013,192,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,14778,12017,0,2055,0,0,0,0,0,0,0,0,0,706,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,225,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2013,3235,3212,17,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2013,4755,25,0,0,0,0,0,0,0,0,0,0,0,0,4730,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2013,95817,12500,7125,70690,0,0,4250,0,0,0,0,0,0,350,0,902,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2013,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2013,49,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2013,73,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2013,36607,10698,0,25807,0,0,0,19,0,0,0,0,0,62,0,21,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,US,USA,country,North America,37.09024,-95.712891,2013,2453,1395,0,0,0,0,0,0,0,0,0,1058,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2013,45532,200,3380,1151,0,379,3,0,0,160,0,33,0,21081,0,17717,0,0,0,1428,0,0,0,0
