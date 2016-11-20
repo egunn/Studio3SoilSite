@@ -1,0 +1,70 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+BD,Bangladesh,country,South Asia,23.684994,90.356331,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1986,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1988,63,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1988,64,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1989,63,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1989,77,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1989,60,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1990,84,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1991,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1991,97,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1992,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1992,115,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1992,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1993,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1993,153,0,0,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1993,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,266,0,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,160,0,0,0,0,0,0,1,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,30,11,0,1,0,0,0,0,3,0,0,0,0,9,5,0,0,0,1,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1994,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,327,0,327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,22,1,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,18,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,157,0,0,0,0,0,0,0,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,163,0,0,0,0,0,0,2,0,0,0,0,0,161,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,81,0,0,0,0,0,0,0,5,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1995,13,0,0,0,0,0,0,1,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,20,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,192,0,0,0,0,0,0,2,0,0,0,0,0,190,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1996,96,0,0,13,0,0,0,14,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,87,0,0,0,0,0,0,0,0,0,0,50,0,24,0,0,0,13,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,26300,0,0,0,0,0,0,0,26300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,145,0,0,0,0,0,0,3,0,0,0,0,0,142,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1997,87,1,0,0,0,0,1,23,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,68,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,173,0,0,0,0,0,0,2,0,0,0,0,0,171,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1998,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,15561,0,0,0,0,0,0,0,15561,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,159,0,0,0,0,0,0,2,0,0,0,0,0,157,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,80000,0,0,80000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,1999,215,214,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,MC,Monaco,country,Europe and Central Asia,43.750298,7.412841,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

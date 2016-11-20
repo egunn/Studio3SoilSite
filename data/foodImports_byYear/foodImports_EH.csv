@@ -1,0 +1,28 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,EH,Western Sahara,country,,24.215527,-12.885834,1986,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,EH,Western Sahara,country,,24.215527,-12.885834,1986,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,EH,Western Sahara,country,,24.215527,-12.885834,1986,304,0,0,0,0,0,0,0,0,0,0,0,0,0,304,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,EH,Western Sahara,country,,24.215527,-12.885834,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,EH,Western Sahara,country,,24.215527,-12.885834,1991,94,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,EH,Western Sahara,country,,24.215527,-12.885834,1993,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,EH,Western Sahara,country,,24.215527,-12.885834,1994,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,EH,Western Sahara,country,,24.215527,-12.885834,1994,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,EH,Western Sahara,country,,24.215527,-12.885834,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,EH,Western Sahara,country,,24.215527,-12.885834,1995,61,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,EH,Western Sahara,country,,24.215527,-12.885834,1995,7,0,0,0,0,0,0,2,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,EH,Western Sahara,country,,24.215527,-12.885834,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,EH,Western Sahara,country,,24.215527,-12.885834,1996,9,3,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,EH,Western Sahara,country,,24.215527,-12.885834,1996,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,EH,Western Sahara,country,,24.215527,-12.885834,1997,27,0,0,0,0,0,0,24,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,EH,Western Sahara,country,,24.215527,-12.885834,1997,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,EH,Western Sahara,country,,24.215527,-12.885834,1997,23,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,EH,Western Sahara,country,,24.215527,-12.885834,1998,35,33,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,EH,Western Sahara,country,,24.215527,-12.885834,1998,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,EH,Western Sahara,country,,24.215527,-12.885834,1998,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,EH,Western Sahara,country,,24.215527,-12.885834,1998,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,EH,Western Sahara,country,,24.215527,-12.885834,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,EH,Western Sahara,country,,24.215527,-12.885834,1999,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,EH,Western Sahara,country,,24.215527,-12.885834,1999,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,EH,Western Sahara,country,,24.215527,-12.885834,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,EH,Western Sahara,country,,24.215527,-12.885834,1999,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,EH,Western Sahara,country,,24.215527,-12.885834,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

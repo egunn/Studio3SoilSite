@@ -1,0 +1,860 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,730,0,0,0,9,0,0,0,0,0,0,249,0,472,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,43,0,0,0,0,0,0,0,2,0,0,0,0,0,0,21,0,0,20,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,3,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,240,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,21,15,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1986,109,101,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,690,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,690,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,82,42,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,25,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,77,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,12896,12809,0,0,0,0,0,0,78,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1987,18999,18903,0,0,0,0,50,0,0,0,0,0,9,0,0,0,0,0,37,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,310,0,0,0,100,0,0,0,0,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,244,8,0,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,346,0,0,0,0,0,0,0,0,0,2,0,0,344,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,21,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,544,400,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,20,0,0,0,0,0,0,0,0,0,1,0,0,6,0,13,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,57,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,7,0,0,5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1988,19266,19266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,24,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,18,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,122,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,18,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,140,0,0,68,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,166,0,0,0,0,0,0,0,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,57,0,0,0,0,0,0,4,1,0,0,0,0,2,0,0,0,0,50,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,450,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1989,2377,1429,0,0,637,0,0,0,47,0,0,0,0,3,261,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,243,0,0,0,0,0,0,0,0,0,0,0,0,0,170,0,0,0,73,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,6439,6406,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,114,0,0,0,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,335,0,0,0,0,0,0,4,315,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,386,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,52,323,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,28,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,218,0,0,0,0,0,0,0,0,0,0,0,0,218,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,103,89,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,44,0,0,0,0,0,0,0,17,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1990,534,506,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,340,340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,11,0,0,0,0,0,0,0,0,8,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,46,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,46,37,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,246,0,0,0,0,0,0,0,230,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,66,20,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,252,0,0,0,0,0,0,14,0,0,0,0,0,238,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,156,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,3685,3657,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,808,791,0,0,0,0,0,14,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1991,504,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,150,15,0,0,22,0,43,0,0,0,0,65,0,0,0,5,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,2000,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,183,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,3601,0,0,0,3601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,9,3,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,139,0,0,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,32014,32000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,10,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,413,293,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,460,0,0,0,0,0,0,0,0,460,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,359,0,0,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,22,1,0,0,0,0,0,0,18,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,1029,29,0,0,41,1,0,0,20,0,0,0,0,0,938,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,656,584,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,69,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1992,496,448,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,28,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,79,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,41301,41301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,74,0,0,0,0,0,0,0,0,19,0,0,0,0,0,1,0,0,54,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,87,0,0,0,0,0,0,16,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,1686,0,0,0,0,0,0,0,0,1672,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,305,26,0,256,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,924,609,0,0,0,0,3,5,298,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,2192,198,0,45,1478,0,0,0,0,444,0,0,0,0,27,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,942,932,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1993,572,555,0,0,0,0,0,0,0,0,0,0,16,0,0,1,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,28,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,525,0,0,0,0,0,0,0,0,0,0,0,0,0,525,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,25951,25951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,19030,19030,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,250,51,0,0,0,0,0,0,0,191,0,0,0,0,8,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,144,120,0,13,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,622,120,0,0,484,0,0,0,0,0,0,0,0,3,0,0,0,15,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,72,3,0,0,0,0,0,13,50,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,24477,24295,0,0,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,9081,8925,0,0,0,0,0,0,0,0,0,0,0,0,2,101,0,53,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1994,20748,20696,0,0,0,0,0,0,0,0,0,0,41,8,0,0,58,3,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,25,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,4500,4500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,23902,23786,0,0,0,0,0,0,56,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,127,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,18658,18658,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,436,397,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,65,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,12180,131,0,12000,0,0,0,5,37,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,14,2,0,0,0,0,0,0,0,0,0,0,2,0,0,10,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,12903,12825,0,18,0,0,0,0,16,0,0,16,0,16,2,0,0,0,10,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1995,261,175,0,0,0,0,0,0,0,0,0,20,66,0,0,0,815,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,230,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,13290,0,0,0,0,0,0,0,13290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,16979,16700,0,0,0,0,0,0,229,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,8562,8562,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,3527,0,0,0,0,0,0,31,0,33,0,3463,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,233,0,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,12,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,140,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,157,2,1,0,0,0,0,20,100,0,0,4,0,30,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,13,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,36,0,0,0,0,0,0,0,0,0,0,0,3,15,0,18,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1996,1367,1294,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,785,785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,22,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,17336,17000,0,0,0,0,0,0,241,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,3642,3641,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,63,0,0,0,0,0,0,4,58,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,139,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,3683,0,0,0,0,0,457,0,0,0,0,1000,0,23,2203,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,33,0,0,0,0,0,0,1,18,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,56,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,57,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,48,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,86,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,4787,4785,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,381,0,0,0,90,0,0,0,0,40,0,251,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1997,362,311,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,1225,1225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,13067,13067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,5294,0,0,0,0,0,0,0,0,0,0,5294,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,5451,5250,0,0,0,0,0,0,0,0,0,0,0,201,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,5099,5098,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,20,0,0,0,0,0,0,0,18,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,78,8,0,42,0,2,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,143,0,0,0,0,0,0,0,0,0,0,0,0,1,0,142,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,56,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,500,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,24,2,0,0,0,0,0,0,1,0,0,0,0,0,0,20,0,0,1,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,346,0,0,0,0,0,0,0,0,89,0,0,257,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,72,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,5010,4997,0,0,0,0,0,0,0,0,0,0,0,5,0,8,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1998,842,216,0,70,0,0,0,0,0,516,0,0,20,20,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,16019,16019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,88,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,4,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,41,0,0,0,0,0,0,2,20,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,167,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,141,0,0,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,69,0,0,0,0,0,0,0,61,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,5,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,22,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,109,0,0,0,0,0,0,15,2,0,0,0,0,0,0,90,0,2,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,6791,0,0,0,0,0,6791,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,162,19,0,0,0,0,0,30,84,0,0,0,0,0,0,9,0,20,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,1375,0,0,0,0,0,0,0,0,1375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,13,0,0,0,0,0,0,0,0,0,0,0,0,3,0,10,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,29,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,5571,5550,0,0,0,0,0,0,0,0,0,19,0,2,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,377,0,0,0,0,0,0,0,0,300,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,1999,381,252,0,0,80,0,5,1,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,153,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,8,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,2,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,165,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,6011,5797,0,0,213,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,57,0,0,0,0,0,0,8,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,5,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,111,0,0,0,0,0,0,0,0,0,0,0,109,2,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,29,0,0,0,0,0,0,0,12,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,63,0,0,0,0,0,0,0,3,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,30,0,0,0,0,24,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,8,0,0,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,39,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,238,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,17170,0,0,0,0,0,17170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,5387,4474,1,3,1,0,5,17,328,0,0,0,2,526,0,1,0,29,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,1167,0,0,0,0,0,0,0,0,1105,0,0,62,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,139,0,0,0,0,0,0,0,16,0,0,11,0,112,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,446,0,0,0,0,0,0,0,0,388,0,0,38,0,0,0,0,0,0,20,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,117,12,0,97,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2000,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159,0,0,16,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,42,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,95,0,0,53,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,270,0,0,0,0,0,0,0,0,0,0,0,270,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,241,0,0,0,0,0,0,0,0,0,0,0,241,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,253,151,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,348,0,0,0,0,0,0,0,343,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,38,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,38,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,1236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1236,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,291,0,0,0,0,0,291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,1062,979,1,0,0,0,0,22,2,0,0,0,4,15,0,30,0,9,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,308,13,0,193,0,0,0,0,43,0,0,0,0,25,0,34,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2001,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,160,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1788,0,0,0,80,0,1618,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,5518,5500,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,554,1,0,0,0,0,0,0,0,0,0,550,0,3,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1078,0,0,0,0,0,0,0,0,0,0,0,1078,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,18223,18001,1,0,0,0,0,131,6,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,74,0,0,18,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,12,0,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,97,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,96,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,865,0,0,0,0,0,0,0,0,0,0,0,0,0,0,865,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,12,0,0,0,0,0,1,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,209,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,2739,0,0,0,0,0,251,0,0,0,0,0,0,75,2413,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,291,130,1,0,0,0,0,4,77,0,0,0,0,36,0,34,0,9,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,42,0,0,0,0,0,0,0,0,23,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,29,27,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,430,0,0,1,0,0,0,0,0,0,0,363,0,7,0,59,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,472,0,0,0,0,0,0,0,0,400,0,0,72,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,1133,1100,0,0,0,0,0,0,22,0,0,0,3,7,1,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,271,271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2002,119,73,0,10,0,0,0,0,34,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,212,0,0,0,0,0,0,0,0,0,0,0,0,0,212,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,27,1,0,0,21,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,35,9,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,24,0,0,0,0,0,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,587,0,0,0,587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,1410,0,0,0,0,0,972,0,0,438,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,2100,2100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,102,20,0,0,0,0,0,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,56,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,92,0,0,0,0,0,0,2,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,16,0,0,0,0,1,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,22,0,0,0,0,0,0,0,0,0,0,0,2,0,20,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,337,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,6,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,6,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,379,156,0,1,1,0,2,79,8,16,0,14,0,16,0,62,0,24,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,425,0,0,0,0,0,0,0,0,0,0,0,0,425,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,83,0,0,0,0,0,0,0,0,0,0,0,0,1,0,82,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,1037,1002,0,0,0,0,0,0,0,0,0,0,0,5,30,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2003,353,353,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,347,0,0,0,0,0,0,0,0,0,0,0,0,0,347,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,116,10,0,59,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,103,0,0,0,0,0,97,0,0,0,0,0,0,4,0,0,0,2,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,90,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,154,145,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,5,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,41,0,0,22,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,38,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,118,92,0,1,0,0,0,12,3,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,162,1,0,0,0,0,0,4,0,0,0,0,0,36,0,121,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,16,0,0,8,0,0,0,4,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,264,0,0,38,0,0,0,0,0,189,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,288,0,0,0,0,0,288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,286,168,0,0,0,0,0,18,2,0,1,0,0,36,0,61,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,232,0,0,0,0,0,0,0,0,0,0,0,0,232,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,264,0,0,0,0,0,0,0,0,0,0,0,0,5,0,259,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,2710,0,0,0,0,0,0,0,0,2690,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,698,395,0,0,236,0,0,2,0,0,0,0,0,8,47,10,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,2000,1902,0,0,76,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2004,17,0,0,0,0,0,0,0,0,0,0,0,4,13,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,211,0,0,0,0,0,0,0,0,0,0,0,0,0,195,0,0,0,16,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,86,0,0,72,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,398,0,0,0,0,0,0,0,0,0,0,0,398,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,326,0,0,0,200,0,2,1,0,0,1,0,0,24,89,0,0,9,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,12,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,2098,0,0,0,168,0,562,0,0,0,0,0,1368,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,145,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,33,0,0,0,0,0,2,0,0,0,0,0,0,2,2,0,0,0,27,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,77,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,663,625,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,55,13,0,0,0,12,0,10,0,0,0,0,19,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,36,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,53,0,0,0,0,0,0,1,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,124,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,19,0,5,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,78,50,0,0,0,0,0,0,4,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,3115,3115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,277,0,0,0,0,0,0,0,0,0,0,0,277,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,5,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,1561,1126,0,2,0,1,1,56,3,0,0,21,0,306,0,45,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,499,0,0,129,0,0,0,0,0,0,0,0,370,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,174,0,0,0,0,0,0,0,0,0,0,0,0,2,0,172,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,311,0,0,0,0,0,0,0,3,272,17,0,19,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,7446,6314,0,0,1111,0,0,0,0,0,0,0,0,16,5,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,823,789,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2005,46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,49,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,73,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,17,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,158,19,0,103,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,380,0,0,0,0,0,0,0,0,0,0,0,340,40,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,227,0,0,1,70,0,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,560,0,0,0,0,0,0,0,0,326,0,0,234,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,91,81,0,0,0,0,0,1,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,64,0,0,0,0,0,0,0,0,0,0,0,2,18,0,44,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,68609,0,0,199,0,0,0,5,3,0,0,0,0,68400,0,0,0,0,2,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,146,0,0,0,0,0,0,0,0,0,0,0,0,0,145,1,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,32,0,0,0,0,0,0,0,25,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,2659,2649,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,396,0,0,0,0,0,396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,1652,0,0,0,0,0,0,0,0,0,0,0,1652,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,5,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,305,96,0,1,0,0,2,124,12,0,0,24,0,14,0,32,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,76,0,0,0,0,0,0,0,0,0,0,0,0,1,0,75,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,1307,0,0,0,0,0,0,0,0,102,0,0,1156,0,0,27,0,0,0,22,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,6531,4356,0,0,1654,0,0,0,7,0,0,0,0,13,501,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,3338,3300,1,0,0,0,0,0,0,32,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,96,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,135,0,0,119,0,0,0,0,0,0,0,0,2,14,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,10,0,0,0,0,0,0,2,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,20,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,331,0,0,0,0,0,0,0,0,0,0,0,331,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,3,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,744,0,0,0,66,0,190,0,0,379,0,0,108,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,134,8,0,0,0,0,0,0,0,0,0,0,0,19,0,107,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1802,1802,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,43,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,213,212,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,9,0,0,0,0,0,0,5,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,11,1,0,0,0,6,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,39,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,19,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,208,0,0,0,0,0,0,0,0,0,0,0,0,0,207,1,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,22,0,0,0,0,0,0,0,0,0,0,0,17,1,4,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,72,67,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,25,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,181,0,0,0,0,0,0,0,0,0,0,0,0,0,1,180,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,2538,0,0,0,0,0,0,0,0,0,0,0,2538,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,11,0,0,1,0,0,0,0,0,0,0,0,5,1,0,4,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,1926,8,0,967,1,1,3,90,24,0,0,0,0,739,0,93,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,40,0,0,0,0,0,18,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,15,12,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,26,3,0,0,0,0,0,0,0,0,0,0,0,3,0,20,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,89,0,0,0,0,0,0,0,0,0,0,0,0,3,86,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,5889,3792,0,0,2039,20,0,0,17,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2007,540,453,0,0,10,0,22,0,0,34,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,6,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,137,0,0,0,0,0,0,0,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,395,394,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,36,0,0,35,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,1269,0,0,1181,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,878,0,0,0,0,0,0,0,0,0,0,0,738,140,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,412,108,0,21,75,0,183,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,1700,0,0,0,0,0,0,0,0,1700,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,64,0,0,0,0,0,0,0,60,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,857,0,0,0,241,0,0,0,0,345,0,0,270,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,34,4,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,570,558,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,357,25,0,0,0,0,323,3,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,864,0,0,0,0,0,0,0,0,153,0,0,0,711,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,152,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,28,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,106,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,104,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,603,0,0,0,0,0,603,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,4721,0,0,0,0,0,0,0,0,0,0,0,4721,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,24,0,0,0,0,0,3,0,0,0,0,0,0,15,0,6,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,2022,2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,17,12,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,686,127,306,0,0,0,1,7,76,0,0,0,1,18,0,150,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,2391,0,0,2329,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,36,0,0,2,0,0,0,0,0,0,0,0,0,4,0,30,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,1403,0,0,0,0,0,1222,0,0,20,0,159,0,2,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,116,31,0,0,0,0,0,0,18,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2008,1181,547,0,20,0,0,20,0,0,592,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,6,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,126,0,0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,539,538,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,794,0,0,0,0,0,0,0,0,6,0,0,0,1,0,787,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,607,0,0,588,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,663,0,0,0,0,0,0,0,0,0,0,0,663,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,24155,24149,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,771,0,0,0,0,0,0,0,0,500,0,0,270,0,0,0,0,0,1,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,166,0,0,0,60,0,0,0,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,12,0,0,0,1,0,1,2,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,531,0,0,0,0,0,494,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,123,4,0,0,0,0,0,0,0,0,0,0,0,12,0,107,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,1078,1020,0,0,0,0,0,0,0,0,0,0,0,57,1,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,12,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,114,58,0,0,0,16,38,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,68,0,56,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,2651,0,0,0,0,0,0,0,0,369,0,0,0,2282,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,643,0,0,0,0,0,0,0,0,0,0,0,0,0,643,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,476,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,474,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,73,70,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,3416,0,0,0,0,0,0,0,0,0,0,0,3397,0,19,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,44,3,0,0,0,0,7,0,0,0,0,0,0,23,2,9,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,15,6,0,0,2,1,1,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,426,186,0,1,0,0,0,4,44,0,0,0,1,172,0,18,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,60,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,1312,0,0,1312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,39,0,0,0,0,0,0,0,0,0,0,0,0,6,0,33,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,381,0,0,0,0,0,84,0,0,212,0,0,79,0,0,6,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,244,162,0,0,0,0,0,0,36,0,0,0,0,25,0,0,0,21,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,1361,519,0,0,0,0,0,0,0,842,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2009,2204,0,0,0,0,20,60,0,0,100,0,0,0,2024,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,84,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,1359,844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,515,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,114,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,5,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,18,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,479,0,0,0,0,0,0,0,0,0,0,0,479,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,39,4,0,6,0,0,25,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,4,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,116,0,0,0,0,0,0,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,11,0,0,0,0,0,0,1,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,86,0,0,0,46,0,0,0,0,0,0,0,38,2,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,50,2,0,0,0,0,0,0,0,0,0,0,0,7,0,41,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,1197,1191,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,48,31,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,27,0,0,0,0,0,0,0,20,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,7,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,582,0,0,0,0,0,0,0,0,0,0,0,0,582,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,247,0,0,0,0,0,0,0,0,0,0,0,0,0,247,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,460,0,0,0,0,0,0,0,26,0,0,0,0,0,2,0,0,432,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,62,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,245,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,6720,5499,0,0,0,0,1221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,420,0,0,0,0,0,0,0,0,0,0,0,420,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,48,0,0,0,0,3,0,2,1,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,262,95,0,0,0,0,1,109,38,0,0,0,1,15,0,3,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,152,0,0,2,0,0,0,0,0,0,0,0,0,62,0,88,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,291,0,0,0,0,0,23,0,0,52,0,0,0,5,211,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,275,35,0,0,0,82,20,0,41,0,0,0,0,52,0,45,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,940,874,0,0,0,0,26,0,0,32,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,2932,0,0,0,0,0,30,0,0,130,0,0,0,2691,0,81,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,405,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,2338,2338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,731,68,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,660,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,38,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,10,1,0,0,0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,11,2,0,6,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,415,0,0,0,0,0,0,0,119,0,0,0,0,296,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,10,0,0,0,0,0,1,1,0,0,1,0,0,1,6,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,60,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1111,0,0,0,0,0,1101,0,0,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,150,13,0,0,0,0,0,0,0,0,0,0,0,8,0,129,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,91,80,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,44,0,0,0,0,0,24,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,238,15,0,10,0,13,0,76,9,0,0,0,88,27,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,41,0,0,0,0,0,0,1,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1516,0,0,0,0,0,1,0,0,0,0,0,86,1429,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,139,0,0,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,325,0,0,0,0,0,0,0,76,0,0,0,0,0,2,0,0,247,0,0,0,0,0,0
+ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,174,0,0,0,0,0,0,0,28,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,319,0,0,0,0,0,0,0,2,0,0,0,0,0,0,317,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,22,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,52,14,0,0,0,4,0,0,2,0,18,0,14,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,7565,25,0,38,0,0,0,15,0,0,0,0,0,7487,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,293,25,0,0,0,0,0,0,0,0,0,0,0,36,0,232,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,3038,0,0,0,0,0,0,0,0,614,0,0,2085,2,337,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,273,10,0,0,0,0,0,204,0,0,0,0,0,17,0,42,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,770,330,0,0,0,0,0,0,0,440,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2011,1235,0,0,0,0,0,0,0,0,0,0,0,0,1235,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,2250,2250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,45,0,0,44,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,363,0,0,20,0,0,0,19,231,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,10,0,0,1,0,0,1,0,1,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,655,0,0,0,0,0,588,0,0,0,0,0,58,0,0,9,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,61,28,0,0,0,0,0,0,0,0,0,0,0,22,0,11,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,143,0,0,0,0,0,0,0,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,182,87,0,32,0,0,40,2,0,0,10,0,0,10,1,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,25,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,23,2,0,0,0,0,0,1,0,0,0,0,0,2,9,9,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,194,0,0,0,0,0,0,0,0,0,0,0,58,30,106,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,50,0,0,0,0,0,0,0,24,0,0,0,0,17,2,7,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,1103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1103,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,10,0,0,0,0,0,0,0,3,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,367,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,27,1,0,0,0,0,0,0,0,0,0,0,0,20,0,6,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,233,35,0,175,0,0,0,0,0,0,0,0,2,1,0,0,0,0,20,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,43,14,1,0,0,0,1,3,11,0,9,0,0,1,0,3,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,75,25,0,10,0,0,0,3,16,0,0,0,0,5,0,12,0,4,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,121,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,168,0,0,4,0,0,0,0,0,0,0,0,0,7,0,157,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,1838,0,0,0,0,0,0,0,0,0,0,900,489,46,403,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,235,0,0,0,0,152,0,0,17,0,0,0,0,10,0,56,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,5713,405,0,0,0,0,32,0,0,4454,0,57,0,765,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2012,52,0,0,0,0,0,33,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,225,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,45,0,0,0,20,0,0,0,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,112,0,0,40,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,8,0,0,0,1,0,0,2,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,251,2,0,0,247,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,17,15,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,4875,4817,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,18,0,1,0,0,0,0,0,0,0,0,0,0,1,0,16,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,22,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,217,186,0,0,0,0,0,6,8,0,1,10,0,6,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,62,2,0,2,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,5,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,5,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,396,0,0,0,2,0,0,30,0,64,0,0,84,216,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,276,6,0,0,0,0,0,0,0,0,0,0,49,32,187,0,0,2,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,1560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1560,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,232,0,0,0,0,0,0,0,6,0,0,0,0,0,0,226,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,452,0,0,0,0,0,0,0,0,0,0,0,0,0,0,452,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,7321,5585,0,0,0,0,0,0,0,0,0,1736,0,0,0,0,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,308,0,0,0,0,0,0,0,0,0,0,0,0,0,308,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,604983,167535,9543,29774,1064,657,2065,14839,47519,1099,1501,30878,1584,222226,10611,31626,2521,10177,22235,1,49,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,122,10,0,0,0,1,0,1,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,226,174,0,0,0,0,0,1,9,0,0,0,0,32,0,10,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,11,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,330,0,0,4,0,0,0,0,0,0,0,0,0,8,0,318,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,3736,0,0,0,0,0,0,0,0,825,0,1573,733,34,571,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,179,0,0,0,0,127,1,0,0,0,0,0,0,2,0,13,0,0,36,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,167,90,0,0,0,0,0,0,0,23,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2013,16,0,0,0,1,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,288 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2000,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,12,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2000,2216,1711,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,419,30,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2000,425,0,0,14,0,0,23,0,11,0,0,0,12,93,1,2,0,269,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2001,476,2,0,0,0,0,0,0,0,0,0,0,0,439,0,0,0,0,35,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2001,8646,6944,0,1677,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2001,94,4,0,27,0,0,0,0,0,0,0,0,4,59,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2002,473,0,0,0,0,0,0,0,0,0,0,0,0,454,0,0,0,0,19,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2002,6300,5613,0,645,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2002,307,6,0,260,0,1,0,6,0,0,0,0,3,13,0,11,0,0,7,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2003,110,13,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2003,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2003,742,154,0,0,0,0,0,0,0,0,0,0,0,484,0,0,0,17,87,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2003,352,0,0,215,0,0,0,0,0,0,0,0,0,7,0,91,0,0,39,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2003,119,3,0,0,0,0,0,0,0,0,0,0,18,0,0,98,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2003,7354,576,0,217,6,0,28,216,1014,0,22,0,328,307,3239,1396,0,5,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,249,1,0,0,0,0,0,0,0,0,0,0,0,211,0,0,0,0,37,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,172,0,0,0,0,0,0,0,0,0,0,0,0,8,0,130,0,0,34,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,8225,1605,0,156,16,36,7,405,1436,0,0,0,704,478,1655,1543,0,0,184,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2004,102,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,141,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,44,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,106,0,0,0,0,0,0,0,0,0,0,0,0,8,0,98,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,701,2,0,697,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,781,76,0,132,192,0,0,0,0,0,0,0,7,374,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,40,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,262,0,0,0,0,0,0,0,27,0,0,0,0,208,0,0,0,0,27,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,19144,13323,140,281,532,0,783,1002,1052,21,55,0,123,229,539,877,0,50,137,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,547,47,0,366,0,0,0,0,0,0,0,0,0,128,6,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,100,0,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,0,88,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,101,74,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,8343,1606,0,206,62,51,0,328,1147,0,265,0,178,486,1705,2094,0,58,157,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,386,5,218,63,0,0,0,0,0,0,0,0,0,28,0,0,0,0,72,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,4000,4000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,1957,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1956,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,41,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,69,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,411,0,0,0,0,0,0,0,0,0,0,0,1,410,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,5321,3194,0,142,0,0,0,0,23,0,0,0,1596,32,108,226,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,239,12,0,0,0,0,0,0,0,0,0,0,68,159,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2005,10852,10552,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,629,0,0,0,0,0,0,0,0,0,0,0,0,0,506,0,0,123,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,516,18,0,417,0,0,0,0,0,0,0,0,9,0,0,0,0,0,72,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,920,105,0,246,45,0,32,19,18,0,104,0,7,344,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,99,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,4,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,40108,25866,3349,2077,924,0,629,1126,3344,30,93,0,157,321,1629,289,0,0,274,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,212,34,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,54,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,181,0,0,179,0,0,0,0,0,0,1,0,0,1,0,0,18,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,89,0,0,0,0,0,0,0,0,0,0,0,83,6,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,140,132,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,9353,1783,0,161,41,0,8,628,1605,0,0,0,177,843,2660,1405,0,24,18,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,51,25,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,674,0,552,0,40,0,0,0,0,0,0,0,0,28,0,2,0,0,52,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,714,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,109,9,0,4,0,0,0,0,0,0,0,0,76,0,0,0,0,0,20,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,603,0,0,0,0,0,0,0,521,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,108,0,0,0,0,0,0,0,11,0,0,0,85,0,0,0,0,0,12,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,837,0,0,0,0,0,0,0,0,0,0,0,0,837,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,19066,13577,0,192,2441,0,0,2,0,0,0,0,2016,22,163,653,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,97,19,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,6918,6618,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,444,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2006,24,0,0,10,0,0,0,0,0,0,0,0,0,1,2,0,0,0,11,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,10,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,1554,131,0,421,0,0,0,555,0,0,104,0,13,330,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,88,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,235,0,0,0,0,0,0,0,0,0,0,0,0,191,0,0,0,0,44,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,23673,11471,673,2638,586,0,1600,515,2649,0,271,25,259,489,1684,0,0,0,813,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,438,100,99,108,0,0,0,0,0,0,0,0,0,131,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,6,0,0,0,0,0,0,0,0,0,1,0,1,4,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,165,146,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,13133,1239,0,371,40,0,230,1239,1590,0,2,0,121,873,1655,5357,0,47,369,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,35,22,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,407,42,103,0,0,0,0,0,0,0,0,0,121,92,0,28,80,0,21,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,45,0,0,0,0,0,0,32,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,359,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,70,14,0,4,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,5358,1190,0,60,0,6,11,54,3678,0,6,0,43,0,39,271,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,84,0,0,0,0,0,0,0,0,0,0,0,76,8,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,1126,0,0,0,0,0,0,0,0,0,0,0,0,1126,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,22930,18273,0,582,553,0,0,0,0,0,0,0,1994,15,98,1415,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,92,0,0,0,0,0,0,21,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,214,50,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,34256,30799,0,0,1906,0,0,0,0,0,0,0,0,0,1551,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2007,254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,569,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,569,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,507,0,0,507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,127,107,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,815,144,0,212,0,0,40,71,0,0,0,0,6,139,0,0,0,203,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,40,0,0,21,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,28,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,5,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,518,124,0,0,0,0,0,0,0,0,0,0,0,54,340,0,12,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,158,0,18,2,0,0,0,0,0,0,0,0,34,29,0,30,0,0,45,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,241,240,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,113,38,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,17394,1728,0,151,5,0,131,1374,2297,0,11,0,106,1062,2624,7698,0,84,123,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,71,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,8,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,299,0,0,16,0,0,0,0,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,247,0,0,0,0,0,0,0,0,0,0,0,0,123,0,0,38,0,124,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,93,42,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,25,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,83,0,0,0,0,0,0,0,0,0,0,0,79,4,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,73,0,0,0,0,6,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,1341,0,0,0,0,0,0,0,0,0,0,0,0,1341,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,10624,6726,0,508,816,92,0,0,10,0,0,0,1014,104,537,804,0,0,13,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,55,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,269,97,0,2,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2008,443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,443,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,585,0,0,575,0,0,0,0,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,72,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,1047,32,0,149,0,0,0,404,43,0,43,0,22,340,0,14,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,227,41,0,0,0,0,0,0,0,0,0,0,0,176,0,0,0,0,10,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,40124,8345,1874,2449,1330,80,2140,4892,3306,0,46,390,477,4019,5507,501,0,0,4768,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,114,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,1961,22,0,1380,0,0,0,0,0,0,0,0,0,73,486,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,171,7,75,5,0,0,0,54,0,0,0,0,17,13,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,333,91,0,0,0,0,0,241,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,18446,1795,86,77,38,10,155,1420,2190,0,35,0,170,877,1135,10050,0,396,12,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,40,38,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,16,6,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,340,11,0,72,0,0,0,0,0,0,0,0,0,237,0,0,0,0,20,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,213,7,0,0,0,0,0,87,0,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,75,26,0,3,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,33,32,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,1271,0,0,0,0,0,0,0,0,0,0,0,0,1271,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,21560,18270,0,274,71,38,0,0,0,0,0,0,680,86,1921,207,0,0,13,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,934,852,0,0,22,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,304,121,0,1,46,0,0,0,0,0,0,0,136,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2009,472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,472,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,2186,1,0,1633,0,0,0,26,0,0,0,0,2,0,524,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,108,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,2065,39,0,208,120,0,0,1024,15,0,0,0,23,588,0,0,0,48,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,204,40,0,0,0,0,0,0,0,0,0,0,0,161,0,0,0,0,3,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,152,0,0,0,0,0,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,8562,4921,0,2622,0,0,8,0,0,0,0,0,0,22,755,0,0,234,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,305,0,150,7,0,0,0,54,0,0,0,0,0,19,0,0,0,0,75,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,409,199,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,2075,1929,0,0,0,0,0,128,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,27755,1561,0,230,55,0,40,1400,2062,0,14,0,274,1051,241,20700,0,89,38,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,81,16,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,371,0,0,0,1,0,0,0,0,0,0,0,10,341,0,0,0,0,19,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,242,6,0,0,0,0,0,144,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,104,62,0,3,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,10,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,250,208,0,0,0,0,36,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,1119,0,0,0,0,0,0,0,0,0,0,0,4,1115,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,31146,24177,0,393,0,42,0,0,207,0,0,0,1576,105,3056,1590,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,5081,4854,0,0,0,20,0,0,0,0,0,0,0,0,207,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,323,170,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,363,0,0,0,115,0,0,0,0,0,0,0,0,0,248,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,84,0,0,0,0,0,0,24,0,0,0,0,0,15,0,0,0,0,45,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,1421,0,0,1380,0,0,0,0,0,0,0,0,0,11,1,29,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,39,2,0,0,0,0,0,3,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,2141,63,0,293,0,3,0,508,30,0,26,0,34,407,0,0,0,777,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,5,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,343,62,0,0,0,0,0,0,0,0,0,0,0,272,0,0,0,0,9,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,30699,3685,843,1404,219,0,421,2586,10581,0,11,0,551,1799,4976,1864,0,0,1757,2,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,76,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,3332,0,0,2898,0,0,0,0,0,0,0,0,0,22,324,0,65,88,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,240,0,223,6,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,58,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,1468,1372,0,0,0,0,0,55,0,0,0,0,0,20,0,21,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,34608,1781,0,265,45,7,49,968,7454,0,3,0,287,1535,31,21755,0,398,30,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,61,23,0,0,0,0,0,0,0,0,0,0,16,0,22,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,21,11,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,422,32,0,0,0,0,0,0,0,0,0,0,44,292,0,0,0,0,54,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,209,15,0,0,0,0,0,18,0,0,0,0,0,176,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,238,67,0,4,0,0,0,0,0,0,0,0,52,0,0,115,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,174,0,0,0,0,0,0,0,0,0,0,0,14,0,0,160,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,2148,2148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,332,292,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,899,0,0,2,0,0,0,0,0,0,0,0,16,881,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,43044,31864,0,710,675,14,0,46,208,0,26,0,1925,174,1652,5750,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,4105,4094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,423,199,0,0,0,0,0,19,0,0,0,0,164,0,0,41,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2011,95,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,282,0,0,0,0,0,0,120,33,0,0,0,0,44,0,0,0,0,85,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,2102,20,0,2070,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,53,24,0,0,0,0,0,0,22,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,1558,7,0,145,0,0,0,619,39,0,0,0,5,243,0,169,0,331,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,357,35,0,0,0,0,0,0,0,0,0,0,0,302,0,0,0,0,20,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,1425,0,0,1380,0,0,0,0,0,0,0,0,0,25,0,0,45,0,20,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,1030,0,180,439,0,0,0,72,0,0,0,0,29,16,0,4,0,0,290,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,34,0,0,0,0,0,0,0,32,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,115,0,0,0,0,0,0,0,0,0,0,0,101,14,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,509,351,0,0,0,0,0,88,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,29610,2183,44,188,50,0,67,835,3343,0,0,0,281,1377,17,21047,0,124,54,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,61,17,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,22,11,0,0,0,0,1,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,460,0,0,426,0,0,18,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,584,16,0,0,0,0,0,0,0,0,0,0,23,373,0,0,0,0,172,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,164,9,0,0,0,0,0,56,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,572,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,238,40,0,129,0,0,0,25,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,46,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,99,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,462,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,77,4,0,42,0,0,16,0,9,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,851,0,0,1,0,0,0,0,0,0,0,0,6,844,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,55385,44376,0,439,125,15,0,4,40,0,0,0,2079,107,2629,5396,0,0,175,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,15172,14177,0,0,0,0,0,0,0,0,0,0,0,0,982,0,0,0,13,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,387,198,0,0,46,0,0,0,0,0,0,0,124,0,0,19,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,325,1,0,5,0,0,0,0,0,0,0,0,35,0,0,0,0,284,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,710,0,0,12,0,0,0,363,51,0,0,0,0,46,0,0,0,0,238,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,523,18,0,0,0,0,0,0,0,0,0,0,0,0,505,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,1531,49,0,227,0,0,15,973,41,0,25,0,13,11,0,86,0,91,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,16,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,977,63,0,444,0,0,0,0,0,0,0,0,0,385,0,0,0,0,85,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,33157,1965,531,8610,317,0,424,2206,7187,0,0,0,718,1292,7037,109,0,0,2697,0,64,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,1317,0,0,805,0,0,0,0,0,0,0,0,0,0,404,0,34,98,10,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,1668,3,168,1210,0,0,0,163,0,0,0,0,55,21,0,0,0,0,48,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,926,0,0,0,0,0,0,0,0,0,0,0,0,21,905,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,148,7,0,8,0,0,0,0,0,0,0,0,0,100,0,33,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,594,460,0,0,40,0,0,92,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,33198,1873,30,172,25,0,20,811,2008,0,3,0,284,1847,0,26067,0,21,3,34,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,234,5,0,0,0,0,0,0,0,0,0,0,0,0,229,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,14,6,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,1569,0,0,446,0,0,37,0,0,0,0,0,8,0,1078,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,826,52,52,0,0,0,0,0,0,0,0,0,67,218,0,0,0,0,437,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,148,24,0,0,0,0,0,18,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,3569,90,0,2,0,0,0,0,0,0,0,0,34,0,0,3345,0,0,98,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,155,0,0,0,0,0,0,0,0,0,0,0,0,0,155,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,1392,0,0,0,0,0,0,0,0,0,0,0,33,0,0,1359,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,512,48,0,37,0,0,41,0,0,0,0,0,0,0,0,0,0,0,386,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,242,0,0,1,0,0,0,0,0,0,0,0,6,235,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,92,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,54800,46312,0,466,183,70,0,2,107,0,27,31,2072,467,4750,213,0,0,100,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,15240,12130,0,23,125,0,0,0,0,0,0,0,25,0,2937,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,427,251,0,0,0,0,0,0,0,0,0,0,154,12,0,10,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,2013,33,29,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

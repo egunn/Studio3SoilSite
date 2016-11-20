@@ -91,6 +91,7 @@ body{
     left:0;
     width:100vw;
     height:20vh;
+    margin-left:3vw;
 }
 
 /*div to hold rest of index page elements*/
@@ -319,7 +320,68 @@ button {
 }
 
 
+.navbar{
+    background: gray;
+    color: white;
+    min-height: 45px;
+    border-width: 0 0 0px;
+
+}
+
+.nav-title {
+    color: #d3cec2;
+    text-transform: uppercase;
+    font-family: "Work Sans", Arial, sans-serif;
+    /*margin-top: 1.5em;*/
+    margin-bottom: 0em;
+    letter-spacing: 2px;
+    font-size: 24px;
+    font-weight: bolder;
+    word-spacing: 4px;
+    padding-left: 0px;
+    padding-right: 75px;
+    padding-top: 14px;
+}
+
 .countryDropdown{
-    width: 25%;
-    background:lightgray;
+    display:inline-block;
+    width: 20%;
+    border: none;
+    background:darkgray;
+    margin-top:5px;
+    margin-right:10px;
+}
+
+.categoryDropdown{
+    display:inline-block;
+    width: 20%;
+    border: none;
+    background:darkgray;
+    margin-top:5px;
+    margin-right:10px;
+}
+
+.nav-button{
+    background-color: darkgray; /* Green */
+    color:#555;
+    margin-bottom: 0px;
+}
+
+
+.axis line, .axis path {
+    fill:none;
+    stroke:gray;/*#555;*/
+}
+
+/* Tooltip styling http://bl.ocks.org/Caged/6476579*/
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: darkgray;
+    border: 0px;
+    border-radius: 4px;
 }

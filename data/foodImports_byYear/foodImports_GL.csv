@@ -1,0 +1,410 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,301,21,7,0,0,0,0,126,125,0,0,0,0,2,0,0,0,20,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,41707,3665,1881,1314,2,24,39,1358,2889,8,4,270,711,1612,654,19747,0,3882,3647,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,19,0,0,0,0,0,0,0,3,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,14,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,13,6,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,146,138,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,26,0,0,0,0,0,0,0,5,0,0,0,0,1,8,12,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,128,36,0,0,0,0,0,19,0,0,0,0,0,0,0,4,0,1,68,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,43,39,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1986,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,258,0,0,0,0,0,0,115,111,0,0,0,0,21,0,0,0,10,1,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,79,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,46856,4055,1426,1343,3,14,50,1803,3055,9,4,445,814,1962,630,23100,0,4350,3793,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,15,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,43,6,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,95,54,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,20,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1987,13,0,0,5,0,0,0,2,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,257,0,28,0,0,0,0,100,100,0,0,0,0,17,0,7,0,5,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,32142,2567,1208,976,0,1,8,722,2063,2,3,915,503,508,504,16278,0,1992,3892,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,429,0,0,0,0,0,0,0,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,27,0,0,0,0,0,0,25,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,35,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,2385,0,0,0,0,0,0,0,2385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,107,1,0,0,0,0,0,0,5,0,0,0,0,0,0,95,0,6,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,46,42,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,71,18,0,0,0,0,0,0,0,0,0,18,0,6,0,29,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,36,0,0,0,0,0,0,23,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,767,25,3,102,0,0,0,66,47,0,1,31,132,272,0,15,0,0,43,30,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1988,10,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,19,0,0,0,0,0,0,4,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,48,0,0,0,0,0,0,0,0,0,0,0,35,13,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,31361,2950,1110,1320,0,3,7,822,2058,0,3,386,542,457,529,15010,0,2105,4059,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,34,0,0,0,0,0,0,0,7,0,0,0,0,3,0,22,0,2,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,9,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,65,22,0,0,0,0,0,7,0,0,0,0,0,4,0,7,0,25,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,40,35,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,944,35,2,174,0,12,6,72,56,0,0,29,208,214,4,0,0,0,102,30,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1989,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,21,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,24,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,25605,2561,1145,1128,0,2,5,657,1906,0,5,456,476,465,464,10717,0,1685,3933,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,69,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,31,0,0,0,0,0,0,0,17,0,0,0,0,0,0,8,0,5,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,44,0,13,0,0,0,0,0,1,0,0,25,3,2,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,37,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,856,41,3,187,0,0,0,48,30,0,0,40,158,212,4,33,0,1,81,18,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1990,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,60,0,0,9,0,0,0,0,0,0,0,0,4,8,0,0,0,39,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,20,3,0,0,0,0,0,5,2,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,73,0,38,0,0,0,17,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,26458,3277,1320,1443,0,4,0,859,1824,0,3,561,533,513,595,9966,0,1693,3867,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,60,0,0,0,0,0,0,0,16,0,0,0,0,0,0,3,0,37,4,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,157,142,0,0,0,0,0,0,0,0,0,0,0,5,10,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,1303,108,21,291,0,0,0,50,6,0,0,34,359,183,5,130,0,1,115,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1991,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,69,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,86,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,26627,2984,1458,1242,0,4,2,912,1852,1,4,577,496,418,528,10929,0,1546,3674,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,4,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,38,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,16,2,1,0,0,0,0,0,11,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,52,0,0,0,0,0,0,20,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,101,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,132,112,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,1335,193,0,135,0,0,0,12,0,0,0,31,364,241,5,282,0,2,70,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1992,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,22345,2298,281,1258,0,4,4,349,1527,0,2,662,118,293,491,9844,0,1564,3650,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,19,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,89,0,0,0,0,0,0,0,19,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,670,1,2,0,0,0,0,1,11,0,0,593,0,0,0,19,0,36,7,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,58,0,0,0,0,0,0,14,0,0,0,0,0,0,0,19,0,25,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,1233,204,0,142,0,0,0,6,8,0,0,85,199,303,6,197,0,3,80,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,19,0,0,0,0,0,0,0,0,0,0,0,10,0,0,8,0,1,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,11,1,0,1,0,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,20655,1592,119,1255,0,6,3,342,1330,0,1,324,154,269,483,9943,0,1559,3275,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,22,4,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,1989,1396,6,5,0,0,0,12,46,0,0,354,0,0,0,24,0,110,36,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,32,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,2094,352,44,47,0,7,0,4,55,0,0,83,373,414,4,319,0,2,390,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,1069,1069,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,18,14,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1994,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,71,68,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,60,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,109,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,17032,1295,136,1035,0,3,2,274,805,0,1,312,146,274,418,8259,0,1559,2513,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,53,32,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,95,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,2028,1335,7,0,0,0,0,10,27,0,0,584,0,2,0,15,0,11,37,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,23,20,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,40,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,16,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,2383,212,0,38,0,1,0,13,126,0,0,96,668,328,2,124,0,3,772,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,131,95,0,0,0,0,0,0,0,0,0,0,1,10,0,24,0,0,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,14,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,9,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,19519,2357,188,1459,0,2,3,349,749,0,0,1017,193,383,305,7449,0,1986,3079,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,113,0,3,0,0,0,0,5,19,0,0,0,0,7,0,2,0,58,19,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,33,21,0,0,0,0,0,3,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,46,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,1422,266,0,56,0,0,0,32,34,0,0,71,568,305,3,21,0,2,64,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1996,14,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,33751,3027,1457,3067,2,10,20,1086,2155,0,12,895,435,636,791,9271,0,4982,5905,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,41,39,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,160,1,10,0,0,0,0,5,16,0,0,111,0,2,0,0,0,0,15,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,54,18,0,0,0,0,0,2,30,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,17,0,0,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,2048,276,0,78,0,0,5,9,8,0,0,115,852,452,2,13,0,3,235,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,23,17,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1997,59,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,26778,4361,1933,3022,21,17,46,1814,2700,0,16,982,721,728,574,881,0,4386,4575,1,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,20,0,0,0,0,0,0,0,17,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,313,35,9,0,0,0,0,14,32,0,0,167,1,7,0,0,0,18,30,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,1740,258,0,45,0,0,1,7,76,4,0,46,640,427,2,2,0,0,232,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,26517,4442,1382,3303,0,37,35,1554,2868,0,16,1134,715,816,561,1125,0,3866,4663,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,280,21,0,0,0,0,54,0,0,0,0,0,17,188,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,78,1,10,0,0,0,0,7,25,0,0,1,1,1,0,0,0,0,32,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,42,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,27,0,0,0,0,0,0,0,26,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,1628,162,0,48,0,0,12,2,16,3,0,27,499,604,2,3,0,0,250,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,202,0,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,6,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,3,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,29924,4065,1902,3694,0,9,16,1689,2622,1,0,993,627,879,1747,743,0,4423,6514,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,19,0,0,0,0,0,0,0,0,0,0,0,12,0,0,7,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,120,0,8,0,0,0,0,4,20,0,0,0,0,58,0,0,0,0,30,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,51,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,1928,176,0,46,0,0,0,4,25,1,0,23,643,752,3,28,0,0,227,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2000,23,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,11,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,28348,3431,2052,3887,0,19,50,2154,2343,0,10,1137,311,740,755,1768,0,4029,5662,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,119,1,0,0,0,0,0,0,0,0,0,0,46,0,0,72,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,27,0,3,0,0,0,0,0,7,0,0,0,0,1,0,0,0,0,16,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,40,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,108,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,27,20,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,65,0,17,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,2247,241,0,51,0,0,0,2,26,0,0,5,741,804,1,35,0,0,341,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2001,33,3,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,25,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,67,0,0,2,0,0,0,0,1,0,0,0,0,48,0,4,0,12,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,32918,4013,2940,4733,0,23,43,2257,4548,3,0,1087,361,1180,565,1754,1,5012,4385,14,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,54,0,4,0,0,0,0,3,15,0,0,0,0,18,0,0,0,0,14,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,73,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,2357,251,0,61,0,0,1,14,21,6,0,7,763,827,1,45,0,0,360,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2002,8702,8550,0,0,0,0,0,0,0,0,0,0,0,8,144,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,26640,3736,1781,3527,0,5,12,1455,3764,0,10,884,346,746,304,1715,0,4687,3668,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,17,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,194,0,4,0,0,0,0,8,16,0,0,0,0,131,0,0,0,26,9,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,5,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,2257,322,0,67,0,0,2,24,42,29,0,7,748,710,0,47,0,0,259,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,29,0,0,0,0,0,0,6,6,0,2,0,0,12,0,3,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,7,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,38,0,0,0,0,0,0,0,18,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,90,13,0,8,0,0,0,4,3,0,0,0,2,3,0,35,0,21,1,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,33896,5253,2440,3738,15,28,73,2112,5001,5,14,991,887,1225,493,2735,0,4361,4525,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,146,0,5,0,0,0,0,7,23,0,0,94,0,3,0,0,0,1,13,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,16,0,6,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,2278,417,0,54,0,0,8,27,96,2,0,7,716,732,1,50,0,0,168,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,190,0,0,0,0,0,0,0,1,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2004,437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,437,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,206,63,0,1,0,33,21,15,21,0,0,1,0,24,0,25,0,2,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,32653,5245,2281,2465,3,36,87,2822,3644,0,37,1234,884,1344,604,2856,0,4428,4683,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,22,0,0,0,0,0,0,0,0,0,0,0,0,8,0,14,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,73,0,3,0,0,0,0,8,23,0,0,2,0,27,0,1,0,0,9,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,11,0,0,0,0,0,0,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,2290,444,0,71,0,0,0,2,54,0,0,10,628,762,2,134,0,0,183,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,30,8,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2005,1136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,914,222,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,56,5,1,1,0,0,0,0,23,0,0,0,0,3,0,17,0,6,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,43107,4419,2968,2170,3,32,77,2863,3603,1,13,1129,803,1015,528,14444,0,4270,4769,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,4,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,8,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,2,2,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,9,0,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,41,0,0,0,0,0,0,0,30,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,2878,215,0,82,0,1,3,29,37,0,0,25,715,882,6,641,0,0,242,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,89,5,0,35,0,0,0,0,1,0,0,0,0,3,26,16,0,2,1,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,32877,5261,2195,2435,4,39,81,3022,4002,1,25,1331,894,889,552,3021,0,4314,4811,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,87,64,0,1,0,0,0,0,0,0,0,0,1,0,0,21,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,91,0,8,0,0,0,0,9,52,0,0,5,0,3,0,0,0,2,12,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,14,0,0,0,0,0,0,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,2900,395,0,77,0,0,21,38,59,0,0,33,794,860,12,325,0,0,286,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,33,5,0,4,0,2,1,0,1,0,0,0,0,4,0,12,0,4,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,34306,5788,2236,2272,3,45,91,3056,4046,3,13,1488,804,1152,524,3157,0,4156,5472,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,49,31,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,114,1,10,0,0,0,0,12,42,0,0,0,0,23,0,3,0,4,19,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,4,1,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,5893,512,0,77,0,0,16,34,110,0,0,28,758,875,10,3153,0,0,320,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,75,48,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,49,5,0,1,0,0,0,0,1,0,0,0,0,7,0,33,0,1,1,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,35235,5920,2116,2186,2,47,85,3064,4389,0,21,1222,825,1050,466,4257,0,4245,5340,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,68,37,0,0,0,0,0,0,0,0,0,0,0,7,0,24,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,63,1,7,0,0,0,0,11,28,0,0,0,0,4,1,0,0,0,11,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,5,0,0,0,0,0,0,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,4198,721,0,57,0,0,0,12,103,0,0,30,690,666,7,1616,0,0,296,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,36,17,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,48,1,0,0,0,0,0,0,1,0,0,12,0,2,0,28,0,3,1,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,40686,6239,2229,2199,6,61,105,3258,4280,3,24,1241,836,1872,524,8297,0,4235,5267,10,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,126,97,0,0,0,0,0,0,1,0,0,0,0,14,0,14,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,91,9,4,0,0,0,0,8,25,0,0,0,1,29,0,2,0,1,12,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,24,0,0,0,0,0,0,8,0,0,0,0,1,11,0,4,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,3670,473,3,57,0,2,0,1,20,0,0,18,764,583,5,1493,0,0,251,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,50,20,0,0,0,0,0,1,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2010,50,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,42,4,0,1,0,0,0,0,0,0,0,24,0,1,0,10,0,1,1,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,41399,6144,2291,2162,2,78,89,3384,4527,5,25,1328,864,2295,547,7932,0,4573,5153,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,3,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,79,65,0,0,0,0,0,0,0,0,0,0,0,9,0,5,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,66,2,4,0,0,0,0,8,22,0,0,0,0,5,0,4,0,3,18,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,13,0,0,0,0,0,0,3,0,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,3624,427,2,49,0,0,0,7,40,0,0,14,664,673,0,1595,0,0,153,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,73,23,0,0,0,0,1,0,5,0,0,0,0,42,2,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2011,123,0,0,0,0,0,0,5,4,5,0,0,0,65,0,25,0,18,1,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,40158,6524,2236,2129,2,49,90,3183,3897,4,21,1396,842,1954,562,7338,0,4472,5459,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,58,24,0,1,0,0,0,0,0,0,0,0,0,22,0,11,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,163,12,7,0,0,0,0,15,20,0,0,54,3,18,3,0,0,2,29,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,86,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,7,2,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,2898,486,2,44,2,0,11,2,18,0,0,7,633,507,3,1070,0,0,113,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,14,4,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2012,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,20,0,0,0,0,0,0,0,0,0,0,14,0,0,0,5,0,1,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,14,0,0,0,0,3,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,38688,6203,2239,1674,2,53,94,3278,4127,5,25,624,848,2203,505,7102,0,4361,5344,1,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,94,52,0,1,0,0,0,0,1,0,0,0,1,20,0,18,0,0,1,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,352,14,3,5,0,0,0,34,18,0,0,1,10,215,0,1,0,4,47,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,29,0,0,0,0,0,0,0,6,0,0,0,1,19,0,3,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,6586,6586,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,27,6,0,2,0,0,0,16,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,3032,533,0,32,0,0,1,0,46,3,0,4,620,547,0,1138,0,1,107,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,10,6,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0

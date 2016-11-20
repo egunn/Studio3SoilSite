@@ -1,0 +1,1108 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,274113,274090,0,0,0,0,0,4,11,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,1003,227,0,19,0,0,0,0,0,0,0,0,0,6,0,0,0,0,751,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,21372,20189,0,14,0,0,0,0,0,0,0,0,0,15,17,0,0,0,1137,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,139453,138134,0,0,505,0,0,0,0,0,0,0,0,17,397,0,0,0,400,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,5806,5072,0,0,135,0,0,0,0,0,0,0,0,121,0,72,0,4,402,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,9953,9153,0,0,0,0,0,0,0,0,0,0,0,0,480,0,0,0,320,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,51071,49224,0,1222,527,0,0,6,3,0,0,0,0,5,0,81,0,0,3,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,142,0,0,0,0,0,0,0,140,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,206,9,0,0,1,0,0,0,36,0,0,0,16,144,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,950,0,535,0,0,0,0,0,0,0,0,0,0,415,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,27903,25778,0,22,0,1,2,556,200,0,0,4,0,87,1204,46,0,2,1,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,12890,11195,0,0,0,0,0,0,7,0,3,0,1637,3,45,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,8599,0,0,0,0,0,0,0,0,0,0,0,0,0,8599,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,60,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,4350,665,0,13,22,0,0,0,0,0,0,0,0,173,1980,108,0,0,1389,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,70,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,8724,8711,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,2144,0,0,0,0,0,0,0,0,0,0,0,1,2143,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,31743,31203,0,0,0,0,0,0,0,0,0,0,0,0,500,0,0,40,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,1976,1972,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,506,0,0,0,500,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,39247,34036,500,1028,1090,0,0,9,6,359,0,0,10,202,537,340,0,2,1128,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,248419,213942,0,0,2751,36,0,0,0,0,0,0,0,79,10054,0,0,0,21557,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1986,12119,11458,0,0,0,0,0,0,0,0,0,0,0,661,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,11,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,103203,102883,0,0,0,0,0,0,0,0,0,0,0,0,320,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,55,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,4220,3179,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1035,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,35,33,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,176417,175988,0,0,0,0,0,0,0,0,0,0,0,66,151,0,0,0,212,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,7528,8,0,0,0,0,0,0,0,6993,0,0,523,4,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,133,14,0,1,0,0,0,1,1,0,0,0,1,5,2,38,0,2,68,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,11162,10567,0,0,0,0,0,0,0,0,0,0,0,0,595,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,55472,55289,0,128,0,0,0,0,0,0,0,0,0,5,0,47,0,0,3,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,44,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,184,20,0,0,0,0,0,0,52,0,18,0,0,94,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,159,0,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,609,0,0,0,0,0,0,0,0,0,0,0,0,609,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,22233,21920,0,25,57,1,13,1,2,0,0,11,1,107,34,48,0,1,12,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,33647,32108,0,1,0,0,0,0,9,0,4,0,1400,5,0,0,0,0,120,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,7014,0,0,0,0,0,0,0,0,0,0,0,0,0,7014,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,7294,4380,0,9,20,1,0,1,3,0,0,0,0,187,1759,108,0,0,826,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,150,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,1867,0,0,0,0,0,0,0,0,0,0,0,0,1867,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,15358,13904,0,0,0,0,0,0,0,0,0,0,0,2,1452,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,8209,8204,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,60,0,0,0,20,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,15188,12854,0,24,0,0,0,3,2,248,1,4,5,16,6,409,4,0,1595,21,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,91093,82856,0,0,0,0,0,0,0,0,0,0,0,178,4045,0,0,0,4014,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1987,6370,5220,0,0,0,0,0,0,0,0,0,0,0,1150,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,66,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,9384,9375,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,3350,1539,0,61,0,0,0,68,0,0,0,0,2,0,1528,0,0,0,152,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,52,0,0,3,0,0,0,8,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,155957,152832,0,0,999,0,0,0,0,0,0,0,0,4,1827,0,0,0,295,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,389,0,0,0,389,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,8280,1,0,0,0,0,0,0,0,7000,0,0,1248,31,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,98,34,0,0,0,0,1,1,3,0,1,0,3,6,1,46,0,1,1,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,3833,195,0,1800,0,0,0,0,0,0,0,0,0,0,842,0,0,46,950,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,506839,505424,0,855,254,0,0,0,0,0,0,0,0,3,50,40,48,0,213,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,435,70,0,0,0,0,0,0,36,0,39,0,0,290,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,194,22,0,0,0,0,0,0,0,0,0,0,0,172,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,36821,25663,0,3,2919,3,0,24,2,0,0,19,3,98,6827,42,0,55,1163,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,3584,3200,0,2,0,0,0,0,0,0,4,3,375,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,2681,0,0,0,0,0,0,0,0,0,0,0,0,0,2681,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,42,0,0,0,0,0,0,9,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,36517,18679,0,533,200,0,0,50,1,0,0,0,0,1038,10131,106,40,300,5479,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,201,158,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,10,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,5007,5007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,1540,0,0,0,0,0,0,0,0,0,0,0,5,1535,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,11749,8500,0,0,0,0,0,0,0,0,0,0,0,45,3076,0,0,93,35,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,7,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,6386,6386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,6066,0,0,0,5328,0,0,0,738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,12575,3394,0,141,5534,0,1,3,10,298,0,50,4,87,1,1269,0,0,1783,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,295835,262949,0,0,13742,0,0,0,0,0,0,0,0,115,16343,0,0,0,2686,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1988,15043,14450,0,5,0,0,0,8,0,0,0,559,0,9,0,0,0,9,3,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,382,0,0,0,0,0,47,0,0,0,0,0,0,335,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,12100,12100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,56385,55089,0,1100,0,0,0,37,19,0,0,0,9,0,120,0,0,0,11,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,120,13,0,0,0,0,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,74634,69105,0,0,1374,0,0,0,0,0,0,0,0,44,4096,0,0,0,15,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,654,0,0,0,0,0,0,0,0,0,0,0,654,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,1354,536,0,447,200,0,0,0,0,0,0,0,0,0,0,75,0,9,87,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,2907,2900,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,2423,0,0,0,0,0,0,0,0,0,0,0,0,0,1763,0,0,0,660,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,54416,54340,0,2,0,0,0,0,0,0,0,0,0,7,0,59,58,3,5,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,379,345,0,0,0,0,0,1,16,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,23,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,416,60,0,0,0,0,0,0,0,0,0,0,0,356,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,11826,9341,0,46,0,0,0,34,10,0,0,5,1,276,1868,91,0,102,52,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,4566,0,0,0,0,0,0,0,0,0,0,0,0,0,4566,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,1874,0,0,0,0,0,76,364,77,1034,0,0,0,3,0,320,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,3494,246,0,7,0,0,0,0,0,0,0,0,0,31,1716,97,74,6,1391,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,3543,3543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,951,0,0,0,0,0,0,0,0,0,0,0,0,0,951,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,6995,5000,0,0,0,0,0,0,2,1981,0,0,0,8,1,3,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,2319,0,0,0,0,0,0,0,0,0,0,0,0,2319,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,33528,31321,0,0,0,0,0,0,0,0,0,0,0,0,1877,0,0,330,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,11,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,3,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,157,0,0,0,0,0,0,0,7,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,3153,0,0,0,0,0,0,0,153,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,22219,20003,0,4,2,0,1,3,20,351,0,2,27,11,2,1071,0,0,722,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1989,128008,106365,0,0,7419,0,0,0,0,0,0,0,0,7,14217,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,12,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,11559,11500,0,0,0,0,0,19,12,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,27,0,0,0,0,0,0,5,6,0,0,0,0,11,0,3,0,0,2,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,109167,99440,0,1600,0,0,0,21,0,0,0,905,0,3,6620,0,0,0,578,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,72759,67732,0,0,3548,0,0,0,0,0,0,0,0,42,1437,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,645,0,0,0,643,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,1472,0,0,0,1472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,30051,28163,0,2,1780,0,0,0,0,0,0,0,0,0,0,86,0,12,8,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,2378,30,0,140,0,0,0,0,0,0,0,0,0,0,165,0,0,0,2043,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,139641,139481,0,0,0,0,0,26,0,0,0,0,0,42,0,79,0,0,12,1,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,976,0,0,0,0,0,0,0,2,970,0,0,0,0,0,3,0,1,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,73,23,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,504,0,0,0,0,0,0,0,0,0,0,0,0,504,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,346,18,51,0,0,0,0,0,0,0,0,0,0,277,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,6861,5280,0,0,10,2,1,23,10,0,0,5,0,175,737,15,0,0,1,2,600,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,34,15,0,0,0,0,0,1,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,271,0,3,0,0,0,0,151,96,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,6638,734,0,8,213,0,4,5,1,0,0,16,0,26,3576,115,103,6,1934,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,912,408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,504,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,39,3,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,165,0,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,6200,6185,0,0,0,0,0,0,0,0,0,0,0,5,10,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,1277,0,0,0,0,0,0,0,0,0,0,0,0,1277,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,26394,24570,0,0,0,0,0,0,0,0,0,0,0,0,946,0,0,36,842,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,28,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,23,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,135,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,23364,19206,0,203,308,1,3,7,15,409,0,0,35,14,2020,937,0,0,206,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,256287,229073,0,0,6308,0,0,0,0,0,0,0,0,9,20897,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,659,659,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1990,555,0,0,0,0,0,0,0,0,0,0,0,0,555,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,19,0,0,0,0,0,0,3,5,0,0,0,0,0,0,6,0,0,5,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,176621,171942,0,1405,0,0,1,61,15,0,0,0,0,5,3192,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,116842,112648,0,0,2927,0,0,0,0,0,0,0,0,0,1067,0,0,0,200,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,7142,7048,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,17,1,0,0,0,0,0
+DJ,Djibouti,country,Middle East and North Africa,11.825138,42.590275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,21,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,1908,0,0,140,0,0,0,0,0,0,0,0,0,0,155,0,0,0,1613,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,144606,144340,0,1,102,0,0,16,0,0,0,0,0,0,0,60,0,0,87,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,34677,27930,0,3141,0,0,0,4,7,0,0,0,0,12,1428,57,86,175,1923,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,3588,0,0,0,0,0,0,0,13,3019,0,0,0,0,0,556,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,451,99,0,0,0,0,0,0,0,0,0,0,0,212,0,0,0,0,140,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,7336,5740,0,35,5,2,2,9,8,0,0,5,0,15,1493,20,0,2,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,15,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,994,900,0,5,0,0,0,1,3,0,0,0,57,26,0,2,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,4152,0,0,0,0,0,0,0,0,0,0,0,0,0,4152,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,34293,22785,8,57,437,0,0,10,1,1,0,994,13,18,8522,224,0,19,1204,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,180,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,11,0,0,0,0,0,0,2,7,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,1180,0,0,0,0,0,0,0,0,0,0,0,0,1180,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,1749,0,0,0,0,0,0,0,0,0,0,0,0,0,1749,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,12,4,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,26310,11000,0,0,15210,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,18806,18025,0,7,0,0,0,18,8,75,2,0,8,10,2,603,3,14,34,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1991,316056,290847,0,0,1211,0,209,27,0,0,0,0,0,11,23751,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,314,147,0,0,151,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,163796,149883,0,2124,0,0,0,94,0,0,0,700,0,1,10022,0,0,0,972,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,47672,47097,0,0,300,0,0,0,0,0,0,0,0,0,245,0,0,0,30,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,16201,16029,0,0,0,0,0,0,0,0,0,27,0,0,0,91,0,8,46,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,532,0,0,0,0,0,0,0,0,0,0,0,0,3,139,0,0,240,150,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,120336,119554,0,107,0,0,0,0,0,0,0,0,0,0,629,41,0,0,5,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,90863,80595,0,5165,0,0,0,6,13,0,0,0,0,72,4204,22,0,6,780,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,1253,998,0,0,0,0,0,175,0,0,0,0,0,77,0,3,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,11,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,67,0,0,4,0,0,0,2,47,3,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,311,27,0,0,0,0,0,0,0,0,0,0,0,282,0,0,0,0,2,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,4379,3557,0,0,5,9,0,45,16,0,0,0,0,642,58,36,0,0,11,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,92892,86128,0,4855,1437,0,50,4,0,0,0,0,75,338,0,2,0,1,2,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,5827,0,0,0,0,0,0,0,21,0,0,0,0,0,5806,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,101,0,0,0,30,0,0,42,14,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,12735,840,0,139,76,0,0,0,0,0,0,0,0,4,8972,137,5,0,2567,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,80,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,946,0,0,0,0,0,0,0,0,0,0,0,0,946,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,1620,0,0,0,0,0,0,0,17,0,18,0,0,0,1585,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,133,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,1411,0,0,0,0,0,0,0,0,0,0,0,0,1411,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,10309,10000,0,0,0,0,0,0,0,0,0,0,0,0,309,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,15,4,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,7,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,12791,12736,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,11237,0,0,0,11170,0,35,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,150742,149273,0,0,655,0,0,2,0,152,0,0,5,100,28,525,0,0,2,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,333401,308476,0,0,3710,0,0,0,0,4633,0,0,8,33,16541,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1992,150,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1993,470,20,0,0,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1993,2827,4,0,0,2816,0,0,1,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1993,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1994,4293,0,0,0,4293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1994,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1995,2011,0,0,15,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1995,5982,5982,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1995,57,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,7820,7820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,64,0,0,29,0,0,0,0,1,0,0,0,0,0,0,31,0,0,3,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,11034,5005,0,0,0,0,0,0,28,0,0,0,0,1,5884,1,0,0,115,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,14000,0,0,14000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,112,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,46342,45425,0,0,580,0,0,0,0,0,0,0,0,0,337,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,39,5,0,0,0,0,0,0,0,0,0,0,0,2,0,31,0,1,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,625,139,0,2,4,0,0,0,0,0,2,0,0,4,474,0,59,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,25451,25269,0,0,0,0,0,20,13,0,0,0,0,4,0,140,3,0,5,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,471,13,0,95,0,0,0,15,8,0,0,2,1,52,258,11,29,0,16,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,5001,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,44,26,0,8,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,273,54,0,0,0,0,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,11250,10800,0,5,0,0,0,142,39,0,2,0,2,68,34,146,0,7,5,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,3777,7,0,2600,0,0,0,9,38,0,0,0,89,232,749,46,32,3,4,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,7455,0,0,0,0,0,0,0,0,0,0,0,0,225,7230,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,3888,11,0,19,3,1,0,0,0,0,0,0,20,12,3378,78,78,0,366,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,62,3,0,54,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,635,6,0,0,0,0,0,0,0,0,159,0,0,162,308,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,14,0,0,1,0,0,0,0,0,0,0,0,1,1,0,11,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,1417,0,0,0,0,0,0,0,0,0,0,0,1,1416,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,1290,0,0,0,0,0,0,0,0,0,0,0,0,0,1290,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,60,22,0,1,0,0,1,0,0,0,0,0,15,13,0,0,0,0,8,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,580,0,0,0,0,0,0,0,4,0,0,0,0,576,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,3,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,1671,0,0,0,1424,0,0,34,200,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,6379,5023,0,25,0,0,0,13,0,876,1,0,1,83,0,357,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1996,22,3,0,17,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,20,0,0,1,0,0,0,5,10,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,42475,42000,0,172,0,0,0,0,0,51,0,4,0,0,248,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,10898,8853,0,0,500,0,0,0,0,0,0,0,0,0,1520,0,0,25,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,223,0,0,21,200,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,28374,28223,0,0,0,0,0,0,30,0,0,0,0,51,0,65,0,5,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,10737,9029,0,1011,0,0,1,0,10,0,0,0,0,15,0,567,0,0,104,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,563,376,0,22,2,0,1,1,1,0,0,2,3,35,43,35,16,0,42,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,17,0,0,0,0,0,0,0,15,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,244,18,0,0,0,0,0,0,0,0,0,0,0,226,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,4043,3644,0,23,0,0,0,116,35,0,2,0,5,33,61,108,0,11,5,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,3681,36,0,452,0,0,0,7,18,0,0,0,46,307,2593,219,125,2,1,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,212,212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,3354,96,0,481,7,0,8,12,7,0,0,32,4,14,2079,25,33,2,587,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,1350,0,0,0,0,0,0,0,17,0,240,0,0,306,787,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,23509,23343,0,91,0,0,0,4,28,0,0,0,0,35,0,3,0,1,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,1912,48,0,104,0,0,0,0,0,0,0,0,3,1,1753,3,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,1795,0,0,0,0,0,22,0,0,0,0,0,0,1773,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,75,5,0,1,0,0,0,0,0,0,0,0,55,8,0,0,0,0,6,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,82831,79902,0,1510,0,0,0,2,5,783,1,0,11,148,0,467,0,0,2,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,54444,44464,0,3,0,0,0,0,0,0,0,0,0,41,9936,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,26900,26900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,69,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,91,0,0,2,0,0,0,0,9,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,89,0,0,1,0,0,0,24,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,4182,182,0,4000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,900,137,0,3,0,18,0,3,133,0,11,0,139,0,227,226,0,3,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,650,151,0,167,0,0,0,1,39,0,0,0,0,229,0,35,0,3,9,16,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,102,0,0,0,0,0,0,5,20,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,185,0,0,0,0,0,0,0,1,0,0,0,184,0,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,206,0,0,0,0,0,0,0,0,0,0,0,145,61,0,0,37,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,179978,171645,0,0,1797,0,0,0,0,0,0,0,0,40,6495,1,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1998,2149,997,0,82,0,0,0,0,0,0,0,0,10,100,0,960,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,43136,43112,0,1,0,0,2,6,8,0,0,0,0,0,4,0,0,3,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,14198,0,0,14000,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,201,0,0,9,160,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,40,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,34,0,0,0,0,0,0,5,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,3125,320,0,2697,0,1,0,0,12,11,10,0,58,0,0,16,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,3806,1,0,513,0,0,0,0,17,0,10,0,990,261,1943,61,73,9,1,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,22,1,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,12,0,0,1,0,0,1,0,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,156,0,0,0,0,0,0,6,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,2025,0,0,0,0,0,0,0,0,0,0,0,2025,0,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,1999,197834,183920,0,0,8265,0,14,0,0,0,0,0,0,0,5603,0,0,0,32,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,25110,25000,0,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,7,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,109774,104279,0,11,4785,0,0,0,0,20,0,0,0,78,541,60,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,13799,0,0,13200,0,0,0,0,0,0,0,0,0,599,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,31480,27500,0,0,3405,0,0,0,0,0,0,0,0,301,274,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,51,0,0,45,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,182,0,0,0,0,0,0,0,0,0,0,0,0,0,182,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,752,558,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,6,163,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,12,0,0,8,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,222369,221762,0,0,0,0,0,69,5,0,0,0,1,184,19,278,0,0,51,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,4617,4358,0,98,0,0,0,1,0,0,1,2,5,99,11,32,0,2,8,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,468,39,0,5,0,3,0,0,65,0,0,0,22,302,4,18,0,4,6,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,36,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,2621,1210,0,840,117,0,0,1,47,0,52,3,1,222,3,55,0,0,70,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,3185,55,1,12,0,0,0,2,0,0,0,2300,717,0,26,44,3,0,28,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,1409,22,0,18,0,1,0,0,1343,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,423,12,0,0,0,0,0,0,0,0,0,0,0,410,0,1,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,39,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,995,457,0,1,0,1,1,195,37,4,0,0,5,154,41,83,0,12,4,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,9834,1332,0,354,0,0,0,1,7,0,0,0,537,553,7021,5,24,7,17,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,11390,0,0,0,0,0,1,13,0,0,0,0,0,1349,10027,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,85,1,0,0,0,0,0,0,5,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,42,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,5333,3025,0,1441,1,0,2,1,24,0,0,40,1,57,269,17,249,0,455,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,105,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,37,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,3680,0,0,0,0,0,0,0,0,0,14,0,0,0,3666,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,2711,64,0,2495,0,1,0,28,65,0,0,0,38,1,0,0,0,11,8,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,68,9,0,41,0,0,0,0,0,0,0,0,0,15,0,3,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,1837,0,0,0,0,0,0,0,0,0,0,0,3,1834,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,250,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,4,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,666,0,0,0,0,0,0,12,174,0,0,0,0,480,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,58013,49953,0,3327,2550,0,0,0,0,0,0,0,1,76,2106,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,261,0,0,0,0,0,0,0,0,0,0,0,261,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,2009,99,0,0,0,0,0,0,0,885,0,0,1,62,0,962,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,110,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,30,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2000,650938,625944,0,0,1653,0,0,0,0,0,0,0,0,0,23330,0,0,0,11,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,10004,10000,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,5778,4218,0,405,0,0,0,0,0,0,0,4,0,11,1080,60,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,28393,0,0,28000,0,0,0,0,0,0,0,0,0,393,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,27795,27712,0,0,0,0,0,0,0,0,0,0,0,16,67,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,560,0,0,194,0,0,0,0,0,1,28,0,0,337,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,47,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,50552,50500,0,0,0,0,0,0,23,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,83,0,0,40,0,0,0,0,29,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,40497,40388,0,3,0,0,0,0,0,0,0,0,0,1,0,103,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,2334,1998,0,155,0,0,0,4,7,0,2,9,7,53,40,39,0,5,15,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,707,60,0,3,0,0,9,1,492,0,0,0,8,106,1,16,0,6,5,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,34,0,0,0,0,0,0,12,2,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,2751,662,0,557,1450,0,0,0,34,0,0,0,16,0,6,18,0,0,8,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,378,0,0,0,0,0,0,0,0,0,45,0,64,0,269,0,1,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,141,61,0,18,0,0,0,0,60,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,336,41,0,0,0,0,0,0,0,0,0,0,0,294,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,6335,2901,0,4,0,0,0,94,74,0,0,5,8,81,39,3104,0,13,12,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,13627,0,0,173,0,0,0,0,139,0,0,0,201,1132,11967,10,0,5,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,12314,0,0,0,0,0,0,0,0,0,0,0,0,538,11776,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,40,8,0,0,0,0,0,0,3,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,844,186,0,1,40,0,10,28,20,0,0,24,13,47,223,0,181,0,252,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,22,4,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,308,308,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,72,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,914,65,95,1,0,0,0,26,249,0,0,220,0,47,36,175,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,1087,0,0,0,0,0,0,0,0,0,94,0,0,0,993,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,3887,34,0,3354,4,1,0,14,71,0,0,0,0,65,0,326,0,3,15,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,44,0,0,41,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,1069,0,0,0,0,0,0,0,0,0,0,0,1,1068,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,10,0,0,0,0,0,2,0,0,0,0,0,2,3,0,3,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,994,433,0,0,0,0,0,8,91,0,0,0,0,462,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,5155,1061,0,3396,0,0,0,0,103,0,0,0,0,217,378,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,3194,0,0,0,0,0,0,0,0,0,0,0,3193,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,32764,31424,3,1,0,0,0,11,0,850,0,0,1,75,0,395,0,0,4,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,104,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,140994,132898,0,0,2907,0,0,0,0,0,0,0,0,1,5187,1,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,22030,22000,0,0,0,0,0,0,0,0,0,0,0,8,0,22,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,2798,2233,0,16,0,0,0,0,0,0,0,0,0,69,450,30,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,17303,0,0,17026,0,0,0,0,0,0,0,0,0,277,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,85,0,0,82,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1550,1531,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,3312,1994,0,911,0,0,0,102,0,0,28,0,0,277,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,909,0,0,909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,293,9,0,215,0,0,7,2,49,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,152,0,0,10,0,0,0,0,0,4,0,0,0,6,132,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,2400,2327,0,0,0,0,0,2,0,0,0,0,0,20,0,43,0,0,8,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,3103,2138,0,12,0,0,0,41,145,3,0,2,6,136,510,42,44,8,60,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,128,41,0,1,0,0,1,4,52,0,0,0,7,9,0,6,0,4,3,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,2519,2195,0,120,0,0,0,65,92,0,1,0,0,21,15,10,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,5676,7,0,0,0,0,0,0,0,0,0,5650,19,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,230,18,0,26,0,0,0,0,186,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,338,62,0,0,0,0,0,0,0,0,0,0,0,276,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,2038,1651,0,17,0,0,0,42,46,0,0,0,14,43,88,121,0,11,5,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,6847,51,0,163,0,0,0,0,62,0,0,0,0,391,6132,8,0,3,37,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,7904,24,0,0,0,0,0,0,20,0,0,0,15,672,7173,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,908,125,77,41,5,0,20,35,61,0,7,3,14,115,81,1,55,9,314,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,160,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1495,93,0,0,0,0,0,0,0,0,0,1402,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,132,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,16,4,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1447,0,0,0,0,0,0,0,0,0,196,0,0,0,1251,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,2043,33,0,1179,43,0,0,27,199,0,0,2,0,128,0,406,7,9,17,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,28,9,0,1,0,0,0,0,0,0,0,0,1,0,17,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,48,0,0,0,0,0,0,0,0,0,0,0,4,44,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,7,1,0,0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,4,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1227,301,0,16,0,0,0,8,344,0,0,0,0,558,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,58,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1644,31,0,35,0,0,0,0,0,0,13,0,0,190,1375,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,7321,2599,0,2287,28,0,0,174,1092,0,37,0,3,25,844,215,0,1,16,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,1965,31,0,1,0,0,0,27,2,1299,0,0,1,146,1,440,0,2,15,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,149,0,0,35,0,0,0,0,0,0,0,0,114,0,0,0,27,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,47187,45389,0,0,838,0,0,0,0,0,0,0,0,0,960,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,509,509,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,22047,22001,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,20717,20379,11,19,0,0,0,1,5,0,1,19,0,11,224,30,0,0,17,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,270,0,0,42,0,0,0,0,0,0,0,0,1,227,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,100,0,0,82,0,0,0,0,1,0,0,0,10,5,0,2,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,53639,52956,0,0,0,0,0,0,0,0,0,0,0,0,683,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,11950,11508,0,94,0,0,6,45,5,0,283,0,0,9,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,456,76,0,0,0,0,0,0,26,0,0,0,0,11,331,3,0,9,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,876,0,0,28,0,0,0,90,1,0,0,0,0,0,757,0,278,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,227364,227043,0,0,0,0,0,1,44,0,0,0,8,173,0,78,12,0,17,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,28477,27523,3,178,22,0,0,12,124,4,1,4,52,112,381,35,78,8,18,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,79,25,0,2,0,2,1,2,34,0,0,0,4,0,1,0,0,4,4,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,4399,586,0,3294,0,1,0,0,140,0,14,0,22,342,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,6706,0,0,19,0,0,0,0,0,0,0,6500,41,0,146,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,79,0,0,45,0,0,0,0,0,0,0,0,0,14,0,20,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,396,59,0,0,0,0,0,0,0,0,0,0,0,312,0,0,0,25,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,1066,725,0,4,0,0,1,24,25,0,0,0,16,63,85,106,0,10,7,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,545,0,0,0,0,0,542,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,9012,0,4,505,0,0,0,3,18,0,0,0,19,3618,4835,2,0,7,1,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,6876,0,0,0,0,0,0,0,0,0,0,0,0,223,6653,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,43,0,0,0,0,0,0,0,3,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,1059,103,8,40,22,0,17,35,22,0,1,25,15,116,193,10,83,1,451,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,220,220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,759,718,0,0,0,0,0,0,0,0,0,0,0,21,0,20,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,1543,1497,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,28,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,3885,0,0,0,0,0,0,0,0,0,108,0,0,0,3742,0,0,0,35,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,2384,71,0,1802,0,1,0,34,171,0,0,7,8,57,0,209,14,9,15,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,103,53,0,3,0,0,4,0,0,0,0,0,3,2,24,6,0,8,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,92,28,0,0,0,0,0,0,0,0,0,0,4,60,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,73566,73566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,432,131,0,60,0,0,0,10,170,0,0,0,2,59,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,3194,93,0,101,0,0,0,0,0,0,0,0,5,374,2621,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,4475,1617,0,218,256,0,0,134,1417,0,250,0,1,29,298,235,0,0,20,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,31726,30048,0,0,0,0,0,0,0,985,0,0,6,188,0,499,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,217,93,0,70,0,0,0,0,0,0,0,0,54,0,0,0,1,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,788479,758127,0,0,10678,0,0,0,0,0,0,0,0,11,19358,0,0,0,305,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2003,1669,1407,0,91,0,0,0,30,0,0,0,0,57,84,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,57,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,18982,18959,0,0,0,0,0,0,0,0,0,0,1,0,0,22,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,3258,2878,22,161,0,0,0,0,0,0,0,67,1,83,17,15,0,1,13,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,28871,7,0,28547,0,0,0,0,0,0,0,0,0,317,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,23373,23373,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,2879,5,0,502,1926,0,10,49,23,3,204,0,0,153,4,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,338,0,0,338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,130,0,0,0,0,0,0,0,98,0,0,0,0,0,0,3,0,21,8,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,876,0,0,9,0,0,0,3,15,0,18,1,0,27,793,0,1261,0,10,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,2924,2726,0,0,0,0,0,0,1,0,0,0,0,90,0,88,0,0,19,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1123,31,0,240,0,5,0,20,188,0,0,19,14,245,223,49,0,7,82,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,92,34,0,3,0,2,3,0,10,0,0,0,29,2,1,2,0,3,3,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1301,483,0,136,300,1,0,6,40,0,14,0,1,42,212,3,0,0,63,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,24561,20,0,19,0,0,0,0,0,0,0,23652,43,449,378,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,98,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,779,72,0,0,0,0,0,0,0,0,0,0,0,707,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,784,0,0,0,0,0,775,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1050,655,0,7,0,0,0,43,40,0,0,0,21,68,73,116,0,18,9,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,5516,0,0,1369,0,0,0,9,0,0,22,0,22,979,3099,0,0,15,1,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,10243,0,0,0,0,0,0,0,0,0,0,0,0,98,10145,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,2561,146,0,101,23,0,27,38,9,0,0,157,1258,44,174,0,97,0,584,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,56,36,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,896,773,0,86,0,0,0,0,0,0,36,0,0,1,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,6290,6290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,34,0,0,0,0,0,0,0,0,0,0,0,0,32,0,2,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,15,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,3560,0,0,0,0,0,0,0,0,0,161,0,0,0,3375,0,0,0,24,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1082,66,0,481,12,1,1,35,127,0,0,6,2,210,0,130,0,3,8,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,24,0,0,0,0,0,5,0,5,0,0,0,1,2,3,8,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1145,0,19,536,0,0,0,5,269,0,0,0,9,307,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,3883,626,0,33,260,0,0,0,1,0,0,0,15,533,2415,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1767,34,0,0,0,0,0,0,0,712,0,0,8,163,1,847,14,0,2,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,478,0,0,473,0,0,5,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,467460,427693,0,0,20349,0,2,0,0,0,0,0,0,4,19411,0,0,1,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,1661,893,0,86,0,0,0,6,0,0,0,0,9,206,461,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2004,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,76,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,8101,8100,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,33,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16,0,0,16,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1512,0,0,0,0,0,0,0,169,1343,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,11513,10956,27,278,0,0,1,0,0,0,0,12,1,197,26,15,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,744,7,0,35,0,0,0,0,19,0,0,0,10,673,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,66811,61005,0,0,5806,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1119,0,0,906,0,0,7,4,0,0,168,0,27,7,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,15,0,8,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,398,398,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,234,42,0,2,0,0,0,0,47,0,0,20,0,0,121,2,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,2332,0,0,0,0,0,0,1,0,0,0,0,0,13,2303,0,216,7,8,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,6192,5491,0,0,0,0,0,0,0,0,0,0,0,612,0,87,1,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1152,36,0,461,0,0,0,31,175,0,1,3,38,156,129,59,0,0,63,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,397,28,0,3,0,0,6,0,61,0,0,0,287,4,3,0,0,3,2,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1607,367,0,44,610,5,0,0,6,0,0,204,0,264,9,24,0,0,74,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1055,0,0,0,0,0,0,0,0,0,0,0,0,302,742,0,0,0,0,11,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,84,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1069,163,0,0,0,0,0,0,0,0,0,0,0,906,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,57,0,0,0,0,0,0,0,11,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,12068,11691,0,3,0,0,1,40,47,0,0,0,23,48,47,143,0,14,11,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,43002257,1,0,2023,0,0,0,13,14,0,136,0,144,42997418,2471,22,3,13,2,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,10732,0,0,0,0,0,0,0,0,0,0,0,0,70,10662,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,8,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,3283,152,0,133,25,0,14,19,8,0,0,172,1699,56,336,174,97,1,494,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,135,23,0,0,0,0,0,0,0,0,0,21,27,0,0,64,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,530,210,0,290,0,0,0,0,1,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,4470,0,0,0,0,0,0,0,0,0,84,0,0,0,4273,0,0,0,113,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,323042,41,0,87,0,0,991,28,228,0,1,0,4,321512,0,139,0,3,8,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,25,0,0,0,0,0,2,0,0,0,0,0,5,13,5,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1345,0,0,990,0,0,0,6,215,0,0,0,0,124,0,10,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,2426,565,0,93,0,0,0,1,143,0,0,0,15,534,1075,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,25,0,0,0,0,0,0,1,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,4908,250,0,1264,0,0,5,160,133,0,279,0,16,1897,462,392,0,21,29,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,1776,53,0,0,0,0,0,0,0,378,0,0,16,216,2,1110,24,1,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,256,0,0,203,0,0,0,0,0,13,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,746304,653983,0,0,57016,0,0,5,0,0,0,0,0,11,35289,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,4082,589,0,65,87,0,0,266,13,0,0,0,377,49,2614,2,0,0,20,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2005,46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,13,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,5839,0,0,11,0,0,0,0,193,5635,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,23783,23094,11,507,0,0,0,0,1,0,0,33,4,93,11,28,0,0,1,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1775,0,0,1408,0,0,0,0,0,0,0,0,30,337,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,51357,47432,0,0,3925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1416,0,0,1241,0,0,15,0,0,0,122,0,10,23,3,1,0,0,1,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,29,0,0,0,0,0,0,2,20,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,176,4,0,0,110,0,0,0,37,0,0,0,0,18,0,0,0,6,1,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1176,41,0,5,450,0,0,60,0,0,0,92,0,4,523,0,8,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,3257,1727,0,4,0,0,0,0,26,0,0,0,0,1314,0,149,1,8,29,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1493,748,15,42,0,0,0,23,272,0,0,1,13,170,92,30,0,25,62,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,116,25,0,7,0,1,1,1,43,0,0,0,20,7,2,4,0,2,3,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,22363,2046,1,20050,0,0,0,0,16,0,0,15,0,74,131,10,0,0,20,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1575,0,0,17,0,0,0,0,0,0,0,0,0,512,1046,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1190,321,0,0,0,0,0,0,0,0,0,0,1,867,0,1,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,100010,0,0,0,0,0,0,0,0,0,0,0,0,100004,0,6,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1838,1227,0,7,0,1,2,145,110,0,0,0,29,68,98,116,0,23,12,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,24746606,1,0,1328,0,0,0,1,54,0,205,0,57,24741363,3580,0,0,15,2,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,13512,0,0,1,0,0,0,0,0,0,0,0,1,162,13348,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,2255,385,5,8,14,0,19,36,6,0,0,134,177,168,301,305,241,0,697,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,108,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,146,30,0,0,0,0,0,0,0,0,0,0,39,0,0,63,0,0,14,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,579,539,0,0,0,0,0,0,13,0,0,0,5,22,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,15,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,86,0,0,73,0,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1040,111,0,500,0,0,0,0,148,0,0,0,0,28,253,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,2195,0,0,0,0,0,0,0,0,0,0,0,0,0,2133,0,0,0,62,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,121760,74,16,1,1,0,0,12,156,0,1,8,3,121333,0,146,0,5,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,47,0,0,5,0,0,4,22,0,0,0,0,1,11,4,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,2377,0,19,1128,0,0,0,1,720,0,0,0,0,509,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,4904,1829,0,164,0,0,0,1,180,0,0,0,52,1311,1367,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,14,0,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,920,173,0,51,0,0,0,0,0,129,0,0,87,18,0,456,13,6,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,151,0,0,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,244743,224879,0,17,10682,0,0,0,0,0,0,0,0,6,9149,10,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,7806,1457,0,161,0,0,0,0,187,0,0,0,19,0,5938,6,0,0,38,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2006,171,0,0,0,0,0,0,0,0,0,0,0,0,171,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,104,0,0,0,0,0,0,1,8,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,9098,0,0,17,0,0,0,0,316,8765,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,29987,29573,0,164,0,0,1,0,0,0,0,104,5,79,45,14,0,1,1,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,833,0,0,70,0,0,0,0,0,0,0,0,11,752,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,24021,20754,0,0,1650,0,0,0,0,0,5,0,0,0,1612,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,3736,20,0,2876,0,0,63,26,0,0,63,0,22,401,0,0,0,0,0,0,265,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,42,0,0,0,0,0,0,2,27,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,91,0,0,0,0,0,0,0,70,0,0,0,0,0,1,0,0,11,9,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,6700,91,1,5047,0,0,0,0,212,0,0,0,24,77,1248,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,3659,3300,0,0,0,0,5,0,2,0,0,0,2,77,0,259,0,0,14,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,892,73,476,71,0,0,0,0,65,0,0,0,35,117,9,17,0,2,27,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,117,37,0,6,0,0,0,0,34,0,0,0,28,6,3,0,0,1,2,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,23425,1956,0,21079,0,27,0,0,18,0,137,0,0,122,0,1,0,0,85,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,1057,0,0,0,0,0,0,0,0,0,0,0,0,343,714,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,536,84,0,0,0,0,0,0,0,0,0,0,0,450,0,1,0,0,1,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,552208,0,0,0,0,0,0,0,0,0,0,0,0,552207,1,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,1485,860,0,5,0,0,2,124,164,0,0,0,23,81,103,84,0,23,16,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,204,14,0,0,0,0,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,2763546,27,0,5338,0,0,0,8,114,0,270,0,30,2753491,4256,0,0,11,1,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,24,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,8293,12,0,4,0,0,0,0,2,0,0,0,11,0,8149,7,0,0,108,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,20,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,1844,179,8,14,12,0,15,51,58,0,0,176,44,75,169,433,360,17,593,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,313,313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,152,36,0,11,0,0,0,28,0,0,0,0,40,0,37,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,825,596,0,102,2,0,0,0,9,0,0,0,0,116,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,43,7,0,1,0,0,0,0,28,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,80,1,0,77,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,25703,25703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,298,4,0,0,0,0,0,0,242,0,0,0,2,6,0,0,0,0,44,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,2813,0,0,0,0,0,0,0,0,0,0,0,10,1,2759,0,0,0,43,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,27539,444,0,4,0,2,1,33,116,0,1,19,1,26605,1,303,0,6,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,59,0,0,0,0,0,11,0,0,0,0,0,3,26,14,5,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,46,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,871,58,0,0,0,0,0,6,262,0,0,0,0,544,0,1,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,2967,243,0,0,0,0,0,40,72,0,1,0,0,72,1381,1143,0,0,15,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,5270,802,0,135,0,0,0,0,9,0,0,0,182,1168,2948,26,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,89,0,0,0,0,0,0,0,0,0,0,0,0,16,0,72,0,0,1,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,4732,467,15,1184,0,1,1,295,452,1,185,1,46,507,984,409,0,8,176,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,791,58,0,0,0,0,0,0,0,36,0,0,2,0,0,689,10,6,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,128,0,0,124,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,310709,281410,0,17,20033,0,0,0,0,0,0,0,0,0,9249,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2007,8845,1037,0,176,0,0,0,0,690,0,5,0,338,19,6472,0,0,0,108,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,173,0,0,0,0,0,0,1,7,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,33507,32476,0,661,0,0,0,1,10,0,1,62,20,234,14,16,0,2,10,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,464,14,0,56,0,0,0,0,0,0,0,0,97,297,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,7139,7138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,109831,109109,0,0,0,0,0,0,0,0,0,0,0,0,722,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,55,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,5772,1482,0,2847,0,0,40,2,0,0,673,0,14,589,2,0,0,0,0,0,123,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,14,0,0,0,0,0,0,3,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,560,560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,586,530,0,0,0,0,0,0,45,0,0,0,0,0,1,0,0,10,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,65400,60478,0,9,0,0,4,0,1,0,0,0,0,4678,2,177,1,0,51,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,37916,37369,100,160,0,0,0,0,34,1,0,2,20,163,8,13,0,2,44,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,96,28,0,1,0,0,0,0,39,0,0,0,21,1,1,4,0,0,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,60575,267,0,59808,0,0,0,0,13,0,388,0,0,15,82,1,0,0,0,1,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,1000,0,0,17,0,0,0,0,0,0,0,0,0,181,802,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,269,121,0,0,0,0,0,0,0,0,0,0,0,148,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,625,484,0,0,0,0,2,0,0,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,15300,14802,0,4,0,0,1,75,143,0,0,0,15,65,47,114,0,21,13,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,281,42,0,0,0,0,190,0,29,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,9596,9596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,16516,112,0,9897,0,0,0,45,158,36,302,0,68,1204,4673,0,0,20,1,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,11301,5,0,15,0,0,0,0,1,0,0,0,18,0,11174,2,0,0,86,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,2152,164,15,13,29,0,12,45,41,0,0,380,67,235,30,845,315,18,258,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,53,0,0,0,0,0,0,0,0,0,0,0,0,39,0,14,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,258,258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,137,55,0,20,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,99,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,11,2,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,28,0,0,0,0,0,0,0,0,0,0,0,0,10,0,18,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,38,13,0,21,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,332994,332994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,3150,3150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,2657,0,0,0,0,0,0,0,0,0,0,0,13,1,2584,0,0,0,59,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,15552,9609,2,2,0,0,0,6,112,0,2,38,4,5573,0,195,0,4,5,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,51,0,0,0,0,0,7,7,0,0,0,0,0,25,12,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,54,0,0,0,0,0,0,0,0,0,0,0,4,50,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,75,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,4118,3460,0,0,0,0,0,18,246,0,0,0,0,388,0,6,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,7,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,6537,761,0,14,0,0,0,220,31,0,0,0,1,28,4897,70,0,0,515,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,2831,565,0,16,0,1,3,1,127,30,0,0,127,1207,692,62,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,34018,33970,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,3960,254,1,85,162,0,1,304,1106,0,0,0,4,513,469,938,0,38,85,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,423,116,0,0,0,0,0,0,0,0,0,0,0,5,1,292,0,9,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,33,0,0,0,0,0,0,0,0,30,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,389293,340879,0,12,37673,0,2,0,14,0,0,0,0,0,10713,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2008,4428,347,0,239,0,0,0,0,367,0,0,0,186,0,3289,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,335,335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,10254,10253,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,193,0,0,0,0,0,0,5,17,0,0,0,0,0,0,159,0,0,12,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,22646,20309,216,1310,0,0,0,299,8,0,1,94,11,133,215,46,0,0,4,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,40558,14,0,39625,0,0,0,0,9,0,0,0,39,871,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,2902,60,0,2305,0,0,37,0,0,0,75,0,0,375,33,17,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,49,0,0,0,0,0,0,0,27,0,0,0,1,10,0,0,0,11,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,5131,87,0,163,0,0,0,20,352,0,0,0,13,118,4339,0,0,0,39,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,4509,3509,0,23,0,0,0,0,0,0,0,2,18,548,0,276,4,2,131,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,590,44,0,141,0,0,0,0,50,0,0,22,12,212,14,19,1,2,74,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,136,33,0,2,0,0,7,0,62,0,0,0,29,0,1,0,0,0,2,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,184,27,0,44,0,0,0,0,0,0,13,0,4,15,81,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,792,0,0,0,0,0,0,0,0,0,0,0,5,0,787,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,155,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,1591,1076,0,3,0,1,4,75,37,0,0,0,18,169,68,109,0,18,13,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,41,0,0,0,0,0,0,0,15,0,0,0,0,23,0,0,0,0,3,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,2477583,17,0,166,600,0,0,38,171,0,370,0,34,2472918,3246,0,0,22,1,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,71,0,0,0,0,0,0,0,16,0,0,0,1,0,0,54,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,17987,16,0,0,0,0,0,0,17,0,0,0,7,0,17904,43,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,4471,2868,58,2,26,0,16,41,52,0,0,363,95,180,191,158,121,14,407,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,75,55,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,629,622,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,38,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0,0,0,16,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,88,12,0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,201101,201101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,19989,19989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,22220,22220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,3383,0,0,0,0,0,0,0,0,0,0,0,15,3,3365,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,548,190,0,3,0,0,0,1,82,0,2,0,1,45,0,221,0,0,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,108,2,0,0,0,0,17,0,1,0,0,0,0,28,43,17,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,436,0,0,0,0,0,13,0,0,0,0,0,2,421,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,11,8,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,5283,2322,0,0,0,1,2,7,43,0,0,0,0,549,2359,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,7826,666,0,29,0,0,0,22,433,0,233,0,6,179,1439,4776,0,16,27,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,2756,1122,0,55,0,0,0,0,200,109,0,0,94,1061,112,0,0,2,1,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,43,0,0,0,0,0,0,0,0,0,0,0,0,35,8,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,88966,88966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,379,0,8,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,353013,319521,0,14,26502,0,1,0,2,0,0,0,0,0,6973,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,1987,620,0,56,0,0,0,0,362,0,14,0,0,2,635,0,0,0,298,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2009,48,0,0,0,2,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,1306,1256,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,2437,2437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,86,2,0,0,0,0,0,1,7,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,26139,24953,0,910,0,0,0,4,5,0,1,102,18,91,47,7,0,0,1,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,53606,7,0,52748,0,0,0,0,0,0,0,0,59,792,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,137628,137626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,400,0,0,0,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,7,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,3874,55,0,2684,10,0,35,263,0,0,25,0,23,680,10,9,0,0,0,0,80,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,31,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,419,0,0,0,0,0,0,0,59,0,0,0,0,206,0,55,0,0,99,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,5848,4461,0,15,0,0,0,0,0,0,0,14,19,674,0,269,2,0,396,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,969,279,0,248,0,0,0,12,3,0,0,15,29,192,1,11,0,11,168,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,130,16,0,2,2,0,6,1,66,0,0,0,31,2,2,0,0,0,2,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,817,76,0,41,0,0,10,36,0,523,0,1,5,40,57,3,0,0,25,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,22,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,398,60,0,0,0,0,0,0,0,0,0,0,0,297,0,0,0,0,41,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,204,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,113,13,0,0,0,0,0,0,0,12,3,0,0,85,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,6410,5847,0,0,0,2,3,41,102,0,0,0,18,82,95,188,0,16,16,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,110,0,0,0,0,0,0,0,40,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,5978,12,0,209,0,0,0,2,225,0,379,0,85,1817,3118,9,5,25,97,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,26608,26548,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,22,0,0,0,0,0,0,0,9,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,13,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,13491,21,0,0,0,0,0,0,37,0,0,0,11,82,13320,20,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,1865,80,11,171,13,0,12,45,44,0,1,383,93,255,69,260,338,21,407,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,175,130,0,0,0,5,0,27,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,1442,1436,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,59,3,0,12,0,0,0,0,28,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,10005,10005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,62784,62770,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,55109,55109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,2951,0,0,0,0,8,0,0,0,0,0,0,31,7,2905,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,3728,240,0,2,0,0,1,0,99,0,1,18,0,2373,4,987,0,1,2,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,90,0,0,0,0,0,24,0,0,0,0,0,0,8,41,17,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,19,0,0,0,0,0,0,0,0,0,0,0,3,0,0,16,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,22,19,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,24655,2215,0,21000,0,0,0,17,100,0,0,0,0,1323,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,6225,291,0,36,0,0,0,31,659,0,14,0,3,157,954,4028,0,26,26,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,3247,443,0,46,0,0,0,0,0,329,0,0,79,1088,1262,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,193601,193601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,449,36,0,34,0,0,0,0,0,0,0,0,0,5,1,360,0,13,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,609961,569430,0,51,31989,0,1,7,2,0,0,0,2,0,8450,0,0,0,29,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2010,12,2,0,0,1,0,0,0,0,0,0,0,0,9,0,0,1,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,540,540,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,1530,1527,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,172,24,0,0,0,0,0,4,20,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,15340,14220,0,535,0,1,0,30,14,0,1,77,7,132,118,2,14,0,203,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,16984,16011,0,147,0,0,0,0,0,0,0,0,34,792,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,36479,36457,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,2,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,30974,26719,0,1707,1,0,72,187,11,0,54,0,4,2191,27,1,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,327,0,0,0,0,0,0,0,0,0,0,0,0,164,0,57,0,11,95,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,10609,85,0,32,0,0,0,36,416,0,0,0,3,330,9652,5,0,0,50,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,7343,3067,9,0,0,0,0,0,0,0,0,20,15,3417,1,385,4,0,429,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,1666,761,0,356,0,0,0,27,5,0,0,0,38,262,0,0,0,11,206,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,167,27,0,2,2,0,2,1,57,0,0,0,31,25,15,3,0,0,2,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,32064,3443,0,27956,0,0,422,102,16,0,0,4,1,49,67,4,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,1139,11,0,0,0,0,0,0,0,0,0,0,0,0,1128,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,374,249,0,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,45,3,0,0,0,0,19,1,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,17708,17198,0,2,0,1,0,90,29,0,1,0,9,89,144,117,0,14,14,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,82,11,0,0,0,0,0,0,5,0,0,0,0,55,11,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,39,31,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,55818,56,0,0,0,0,5,0,1,0,0,0,9,8,55691,41,0,0,7,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,88,0,0,0,0,0,21,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,11732,9691,50,16,19,0,15,36,34,0,10,350,352,224,60,383,283,14,478,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,64,41,0,13,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,2043,2028,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,27,5,0,0,0,0,0,0,15,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,33,5,0,5,0,0,0,0,1,0,0,0,0,20,0,2,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,330001,329476,0,0,483,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,3102,0,0,0,0,0,0,0,0,0,0,0,21,2,3079,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,8605,189,0,2,0,0,0,4,69,0,0,0,1,8014,0,323,0,3,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,126,4,0,0,0,0,12,0,1,0,0,21,0,2,66,16,0,4,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,662,32,0,0,0,0,0,0,0,0,0,0,5,96,0,529,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,29,24,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,17732,5873,0,8400,0,0,0,5,510,0,0,0,0,841,2103,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,14989,6310,0,44,2,0,18,112,1024,0,50,0,7,1360,1243,4329,0,34,456,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,8982,2754,0,69,1219,0,0,4,187,685,0,0,141,1306,2594,3,0,0,20,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,11,0,0,0,0,6,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,608,4,0,0,0,83,0,28,0,0,0,0,0,8,0,472,0,13,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,260996,225154,0,42,29886,0,0,0,5,3,0,0,0,0,5906,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,3282,500,0,50,0,0,0,0,565,0,136,0,56,0,774,0,0,0,1201,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2011,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,540,540,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,191,24,0,0,0,0,0,1,9,0,0,0,0,0,0,157,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,16100,14053,0,1437,0,2,0,0,11,0,1,157,27,80,33,2,9,1,296,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,5192,15,0,4192,0,0,0,0,0,0,0,0,94,891,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,10,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,7649,2776,0,1536,0,0,38,120,180,4,236,0,10,2747,1,1,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,12843,12562,0,0,0,0,0,0,0,0,0,0,0,180,0,76,0,11,14,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,9025,6686,10,2,0,0,0,0,4,0,0,0,10,1479,0,359,11,0,475,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,1646,925,0,283,0,0,0,5,1,0,0,6,30,217,0,19,8,4,156,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,106,25,0,2,0,0,0,1,55,0,0,0,19,0,1,0,0,0,3,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,130611,115163,0,14583,0,0,365,50,42,0,0,44,0,210,53,1,0,0,100,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,3524,0,0,0,0,0,0,0,0,0,0,0,0,0,3524,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,323,247,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,32,0,0,0,0,0,0,0,27,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,8995,8327,0,2,0,0,0,106,107,0,1,0,12,131,152,132,0,14,11,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,47,0,0,0,0,0,0,0,13,0,0,0,0,28,6,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,60019,26,0,0,0,0,0,4,40,0,0,0,10,531,59389,19,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,6963,5102,10,17,31,0,22,22,17,0,12,502,341,366,42,183,394,10,286,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,78,77,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,1698,1693,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,48,0,0,0,0,0,0,0,37,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,27,0,0,10,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,2081,1900,0,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,134,0,0,0,0,0,0,0,0,0,0,0,45,13,76,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,3557,113,0,8,0,0,0,7,129,0,0,0,0,3027,0,264,0,6,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,212,7,0,0,0,0,22,0,0,0,0,0,0,35,119,19,0,5,5,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,6138,6083,0,0,0,0,0,0,0,0,0,0,24,0,0,31,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,82,55,0,1,0,0,0,0,0,0,0,0,12,7,0,0,0,0,7,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,11287,530,0,0,0,0,0,3,81,0,0,0,0,5005,5652,16,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,10749,5828,3,55,0,0,0,74,159,0,15,0,4,1598,901,2092,0,20,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,4539,1010,0,98,0,0,0,9,311,700,0,0,209,1186,907,72,0,0,37,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,62,0,0,0,0,0,0,0,0,0,0,0,19,8,0,0,0,0,35,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,678,153,11,0,0,0,0,36,0,0,0,0,0,5,0,455,0,18,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,231433,203218,0,103,19889,0,8,490,1,0,0,0,2,0,7718,4,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,3467,1176,0,75,0,0,0,0,980,0,0,0,64,104,910,71,0,0,87,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2012,6,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,746,682,0,6,0,0,0,0,3,0,0,0,5,0,50,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,206,24,0,0,0,0,0,4,10,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,12637,11603,24,486,0,2,1,3,22,0,0,237,15,66,44,13,0,4,117,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,585,0,0,59,0,0,0,0,0,0,0,0,11,515,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,5309,13,0,1975,0,0,165,140,177,0,497,0,26,2306,10,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,36,0,0,0,0,0,0,0,23,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,9621,9373,0,0,0,0,0,0,0,0,0,0,0,184,0,46,0,11,7,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,3822,45,4,85,0,0,0,0,540,0,0,0,0,1647,1463,0,0,0,38,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,9699,6663,10,0,0,0,0,0,0,0,0,0,3,2140,0,510,19,0,373,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1644,998,0,232,0,0,0,3,2,0,0,1,32,190,11,37,9,5,133,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,358,23,0,0,0,0,4,1,212,0,0,0,22,1,16,77,0,0,2,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,483957,450490,0,30111,0,0,95,0,31,1448,26,17,0,779,432,1,0,0,527,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,610,0,0,0,0,0,0,0,18,0,0,0,0,0,592,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,186,19,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,2053508,0,0,0,0,0,0,0,82,0,1,0,0,2053425,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,5083,4402,0,1,0,0,1,126,83,0,0,0,5,81,228,131,0,15,10,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,53,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1402,7,0,276,2,0,0,2,57,0,296,14,14,518,171,13,17,29,3,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,43,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,66756,8,0,0,0,0,0,0,40,0,0,0,7,2151,64521,19,0,2,8,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,3109,1135,1,10,5,0,9,0,0,0,0,504,300,152,74,414,617,28,477,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1040,0,0,1040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,83,6,0,0,0,0,0,0,27,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,36,5,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,70,0,0,44,0,0,0,0,0,0,0,0,0,2,24,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,46686,46686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,2515,2280,0,0,0,0,0,0,0,0,0,0,0,0,0,235,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,6828,1630,0,1242,0,0,0,0,3884,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,4237,220,0,21,0,0,0,18,120,0,9,26,4,3401,18,365,0,31,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,565,1,0,0,0,0,19,56,383,0,0,0,1,3,43,43,0,6,10,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,3151,3013,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,63,54,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,5735,417,0,0,0,0,0,0,456,0,0,0,0,16,4846,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,8258,4217,0,17,0,0,15,35,214,0,0,0,0,1356,360,2021,0,23,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,3874,480,0,145,0,0,0,17,87,2,0,0,241,497,2315,90,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,122976,122916,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1359,122,424,0,0,0,0,17,6,0,0,1,0,60,0,711,0,18,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,135357,111992,0,0,18588,1,2,0,1,0,0,0,1,0,4749,18,0,0,0,5,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,2258,818,0,27,0,0,19,0,935,0,0,0,157,188,0,0,0,0,114,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,2013,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

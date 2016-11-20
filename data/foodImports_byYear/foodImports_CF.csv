@@ -1,0 +1,760 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,605,605,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,1397,82,0,132,0,0,0,0,0,0,0,0,58,22,1,1100,0,0,2,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,32,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,42695,28810,11,11837,0,0,15,229,49,0,1,9,9,244,163,867,330,245,206,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,4277,4008,0,0,0,0,0,239,0,0,0,0,0,27,0,3,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,1349,76,11,0,0,0,0,0,0,0,0,0,0,16,185,101,0,0,960,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,76,8,0,2,0,0,1,2,1,0,0,0,0,4,1,56,0,1,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,3426,0,0,0,0,0,0,5,0,0,0,0,0,1,139,3279,0,0,2,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,143,0,0,0,0,0,0,0,0,0,0,0,0,1,0,142,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,1299,1221,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1986,47,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,253,252,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,538,97,0,92,0,0,0,16,0,0,0,0,36,32,0,208,0,0,57,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,32577,26579,18,4112,0,0,13,221,35,0,0,15,5,201,27,866,321,146,339,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,693,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,525,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,146,23,0,0,0,0,0,105,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,1415,27,0,0,0,0,0,0,1,0,0,0,0,13,273,121,0,0,980,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,62,4,0,0,0,0,1,2,6,0,0,0,0,0,1,48,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,2042,0,0,19,0,0,0,0,0,0,0,0,0,0,29,1994,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,13,2,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,175,0,0,0,0,0,0,0,0,0,0,0,0,1,0,154,0,0,20,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,36,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1987,124,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,1401,570,0,24,0,0,0,0,0,0,0,0,0,56,486,0,13,1,264,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,767,94,0,331,0,0,0,0,0,0,0,0,55,51,0,236,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,18,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,34837,28695,25,3808,1,0,24,165,29,0,0,6,9,270,14,1343,520,134,314,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,44,0,0,0,0,0,2,0,0,0,16,0,0,2,0,0,0,24,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,472,21,0,0,0,0,0,276,0,0,0,0,0,30,0,145,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,1077,80,0,0,0,0,0,16,23,0,0,0,0,32,231,57,0,17,621,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,58,0,0,0,0,0,0,1,3,0,0,48,0,0,0,6,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,1954,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1948,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,87,23,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,137,0,0,0,0,0,5,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1988,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,1141,592,0,0,0,0,0,0,0,0,0,0,0,154,393,0,27,2,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,1274,163,0,471,0,0,0,0,0,0,0,0,138,84,126,142,0,0,150,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,47,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,10,0,0,0,1,0,1,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,27,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,24245,22505,4,6,1,1,29,176,60,0,2,5,8,289,32,622,404,196,309,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,848,76,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,472,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,64,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,1345,0,0,0,0,0,0,217,0,0,0,0,0,90,317,721,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,1767,19,0,0,0,0,0,1,0,0,0,1,0,81,237,22,2,23,1383,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,72,2,0,0,0,0,0,3,2,0,0,0,1,0,0,63,0,0,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,1678,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1640,0,0,38,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,66,0,0,0,0,0,0,0,0,0,0,0,0,3,0,63,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1989,1779,1583,0,0,0,0,0,0,0,0,0,0,0,18,0,178,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,1802,1060,0,500,0,0,0,0,0,0,0,0,0,73,167,0,0,0,1,1,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,5558,0,0,0,0,0,0,0,0,0,0,0,0,5558,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,2046,154,12,117,0,0,0,0,0,0,0,0,80,103,1245,326,0,0,9,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,3,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,22,0,0,0,0,0,0,2,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,422,0,0,0,0,0,0,0,0,0,0,0,422,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,30354,28657,5,13,2,0,14,173,17,0,1,6,5,373,32,612,139,62,382,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,66,4,0,0,0,0,0,0,0,48,10,0,0,4,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,287,74,0,0,0,0,0,47,3,0,0,0,0,63,0,100,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,1761,8,0,0,0,0,0,0,0,0,0,0,0,101,398,125,2,0,1129,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,42,0,0,0,0,0,0,1,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,1747,0,0,0,0,0,0,0,0,0,0,0,0,27,0,1720,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,8,1,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,101,0,0,0,0,0,0,0,0,0,0,0,0,3,0,98,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1990,2302,2182,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,1752,1395,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,280,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,1349,77,2,83,0,0,0,0,0,0,0,0,32,9,1035,102,0,0,9,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,31832,29524,5,484,0,0,4,199,20,3,1,9,9,456,99,565,98,50,404,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,922,854,0,18,0,0,0,0,0,0,0,0,0,5,0,0,0,0,45,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,13429,13429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,75,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,45,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,119,36,0,0,0,0,0,52,0,0,0,0,0,17,0,13,0,0,1,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,1040,11,0,0,0,0,1,0,0,0,0,0,0,187,328,133,1,0,380,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,32,0,0,0,0,0,0,4,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,1040,0,0,0,0,0,0,0,0,0,0,0,0,95,0,945,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,46,0,0,0,0,0,0,0,0,0,0,0,0,1,45,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,280,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1991,1604,1604,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,1793,1678,0,18,0,0,0,0,0,0,0,0,0,3,45,0,0,0,49,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,315,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,268,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,139,0,0,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,27068,25307,4,40,2,0,1,221,21,0,1,8,2,320,163,598,73,63,317,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,133,0,35,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,49,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,312,52,0,0,0,0,0,258,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,1041,8,0,0,0,0,0,1,0,0,0,0,0,2,276,141,2,0,613,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,963,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,129,0,0,0,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1992,1315,1297,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,472,112,0,2,0,0,0,0,0,0,0,0,0,0,31,0,0,0,327,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,35780,33994,5,232,0,0,0,144,7,0,0,9,0,659,51,287,44,63,329,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,126,0,0,18,0,0,0,1,0,0,0,0,0,4,0,1,69,12,90,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,445,0,0,0,0,0,0,0,0,0,0,0,0,0,445,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,75,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,287,41,0,0,0,0,0,159,0,0,0,0,0,15,0,0,0,6,66,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,1132,2,0,0,0,0,0,67,0,0,0,0,20,0,128,117,0,0,798,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,755,0,0,0,0,0,0,0,0,0,0,0,0,9,0,746,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1993,954,920,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,1454,1446,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,30247,28959,0,8,0,0,9,80,28,0,0,5,1,548,60,221,135,30,298,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,15,0,0,0,0,0,0,0,5,0,2,0,0,8,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,8,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,65,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,165,16,0,0,0,0,0,33,0,0,0,0,0,16,0,100,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,520,2,0,0,0,0,0,17,0,0,0,0,0,72,48,180,0,0,201,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,27,2,1,1,0,0,0,0,2,0,0,0,3,0,0,16,0,2,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,556,0,0,0,0,0,0,0,0,0,0,0,0,18,0,538,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,322,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,120,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,11,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,2998,2995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,16,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,1567,196,0,899,0,0,0,0,0,0,0,0,142,73,115,130,2,0,12,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,32220,30699,0,11,0,0,9,84,47,0,2,4,2,659,42,286,131,29,346,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,94,0,0,0,0,0,0,0,23,0,2,36,2,1,0,0,0,0,30,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,19,0,0,0,0,0,0,0,1,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,92,30,0,0,0,0,0,26,0,0,0,0,0,34,0,2,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,1466,745,0,0,0,0,0,0,0,0,0,0,0,144,125,36,0,0,416,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,992,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,27,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1995,48,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,15,5,0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,8007,138,1,6726,0,0,0,0,0,0,0,0,81,138,53,844,2,0,26,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,28249,27022,0,0,0,0,0,24,31,0,0,4,16,469,6,447,151,23,207,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,32,28,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,46,28,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,189,2,0,0,0,0,0,0,0,0,0,0,0,0,187,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,455,208,0,0,0,0,0,16,0,0,0,0,0,5,214,12,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,807,3,0,0,0,0,0,0,0,0,0,0,0,422,69,33,0,0,280,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,117,1,0,0,0,0,0,1,0,0,0,0,0,0,0,114,0,0,1,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,282,0,0,2,0,0,1,1,12,0,0,0,0,0,0,266,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1996,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,257,251,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,582,582,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,3,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,51,48,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,32363,29068,0,2000,0,0,0,59,30,2,0,0,2,428,0,527,157,7,240,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,63,0,0,0,0,0,0,1,0,0,0,0,0,1,55,6,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,242,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,38,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,25,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,207,167,0,0,0,0,0,36,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,352,0,0,6,0,1,2,8,8,0,1,0,1,320,0,3,0,1,1,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,14,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,524,6,0,0,0,0,0,2,0,0,0,0,0,288,115,54,0,0,59,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,44,0,0,2,0,0,0,0,6,0,0,0,10,10,0,14,0,2,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,73,0,0,0,0,0,0,0,8,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,36,0,0,0,0,0,0,0,0,0,0,0,0,0,1,19,3,0,16,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1997,14,2,0,0,0,0,0,8,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,5130,5130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,1766,747,0,1000,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,2461,226,0,909,0,0,0,0,0,0,0,0,0,0,2,1231,1,5,88,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,166,152,0,10,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,39307,31871,0,6923,0,0,0,30,22,0,1,1,3,166,27,141,231,0,122,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,144,0,0,65,0,0,0,0,0,0,0,0,0,2,41,36,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,30,0,0,0,0,0,0,0,0,0,0,0,17,13,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,58,0,0,0,0,0,0,0,0,0,15,0,0,43,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,58,54,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,12,3,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,623,568,0,0,0,0,0,32,0,0,0,0,0,12,0,11,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,18,2,0,1,3,0,0,1,0,0,1,0,1,9,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,1044,48,3,4,0,0,10,30,24,0,0,0,11,446,64,45,0,15,344,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,109,0,0,0,0,0,0,0,0,0,0,0,0,0,3,106,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,13,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1998,123,1,0,0,121,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,3349,259,0,2981,0,0,0,0,0,0,0,0,0,6,0,20,0,0,83,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,2369,174,0,233,0,0,0,0,4,0,0,12,69,177,2,1674,0,5,19,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,120,110,0,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,261,90,0,0,0,0,0,0,0,171,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,41389,34581,0,5935,0,0,0,72,6,0,1,3,3,144,225,296,368,67,56,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,159,0,0,0,0,0,0,0,16,0,0,0,0,2,81,60,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,25,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,16,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,235,83,0,0,0,0,0,72,0,0,0,0,0,31,16,33,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,103,0,0,4,5,0,0,31,1,0,0,0,1,32,3,24,0,0,2,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,14,0,0,0,0,0,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,816,19,18,14,4,3,1,39,23,0,0,0,0,211,85,74,0,14,311,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,81,0,0,0,0,0,0,0,0,0,0,0,0,1,11,69,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,224,0,0,0,0,0,0,0,0,0,0,0,0,0,224,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,369,15,0,0,0,0,0,0,0,0,0,0,0,0,0,354,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,7,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1999,723,386,0,0,170,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,1680,7,0,1651,0,0,0,0,0,0,0,0,0,0,0,14,0,0,8,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,390,28,0,31,0,0,0,0,0,0,0,0,5,55,41,227,0,1,2,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,24,0,0,11,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,53,46,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,33037,29984,0,1490,0,0,1,37,13,0,1,1,3,616,623,166,295,21,81,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,150,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,151,8,0,0,0,0,0,0,0,0,0,0,0,0,93,50,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,1604,4,0,0,0,0,0,0,0,0,0,0,0,0,1600,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,34,14,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,1028,1021,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,95,20,0,0,0,0,0,32,24,0,0,0,0,6,0,13,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,44,1,0,8,0,0,0,7,7,0,1,0,0,6,0,14,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,483,9,0,1,0,0,0,0,0,0,0,0,2,8,101,5,0,0,357,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,3390,3390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,24,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,293,12,0,0,0,0,0,0,2,0,0,0,0,4,0,260,0,0,15,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,150,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2000,25,3,0,0,0,0,0,0,0,0,0,0,0,11,0,11,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,2815,1544,0,1000,0,0,0,0,0,0,0,0,1,18,214,1,0,0,37,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,66,6,0,0,0,0,0,0,0,0,0,0,0,35,11,0,0,1,13,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,43,30,0,4,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,35,0,0,0,0,0,0,4,23,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,31,0,0,0,0,0,0,0,17,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,37786,36895,0,0,0,0,0,15,7,0,3,2,7,342,341,132,112,6,36,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,42,41,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,139,0,0,0,0,0,0,0,0,0,0,0,0,2,82,55,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,45,0,0,0,0,0,18,8,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,51,6,0,0,0,0,0,0,0,0,0,0,0,5,0,8,0,0,32,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,112,18,0,0,0,0,0,16,0,0,0,0,0,2,0,74,0,2,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,110,9,0,2,3,1,0,31,14,0,1,0,4,14,13,16,0,1,1,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,453,3,0,0,0,0,0,5,16,0,0,0,0,12,58,19,0,0,340,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,4,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,470,0,0,0,0,0,0,0,0,0,0,0,0,0,0,470,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,46,28,0,0,0,0,0,0,12,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,62,13,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,197,0,0,161,0,0,0,0,0,0,0,0,0,0,0,6,0,0,30,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2001,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,2296,762,0,1000,0,0,0,0,0,0,0,0,0,20,509,0,0,0,5,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,2327,691,0,365,314,0,1,2,5,0,0,0,55,288,101,444,2,4,57,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,174,2,0,0,153,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,26500,25225,0,484,0,0,1,50,9,0,0,1,0,445,24,141,209,24,96,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,2300,0,0,2300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,11780,11659,0,0,0,0,0,0,0,0,0,0,0,1,94,0,0,0,26,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,18,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,104,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,8,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,926,770,0,0,0,0,0,75,0,0,0,0,0,18,0,63,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,245,12,0,6,24,6,0,32,72,0,3,0,12,32,9,27,0,4,6,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,582,12,0,0,0,0,0,25,0,0,0,0,0,0,108,36,0,0,401,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,347,1,0,0,0,0,0,0,0,0,0,0,0,0,0,346,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,115,50,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2002,5230,3268,0,0,198,0,0,0,0,0,0,0,0,0,1764,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,3111,1539,0,500,0,0,0,0,0,0,0,0,0,3,1016,0,0,0,53,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,1619,507,0,270,0,0,2,0,1,0,0,0,54,446,13,300,1,2,24,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,9,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,36,30,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,184,0,0,0,0,0,0,0,0,0,0,0,0,0,184,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,29955,27872,0,1447,0,0,1,31,10,0,0,4,1,317,25,111,288,93,43,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,4927,0,0,4700,0,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,390,250,0,86,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,57,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,73,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,408,65,0,0,18,0,0,273,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,325,10,0,14,11,2,0,36,118,0,1,0,3,17,12,97,0,1,3,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,60,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,23,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,434,8,0,0,0,0,0,11,0,0,0,0,0,19,63,18,0,23,292,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,331,1,0,0,0,0,0,0,6,0,0,0,0,0,0,324,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,71,32,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2003,13529,13409,0,0,0,0,61,0,0,0,0,0,0,0,35,0,0,24,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,15,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,11236,2715,0,7451,0,0,0,0,12,0,0,0,0,26,1012,0,0,0,20,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,1392,336,2,161,0,0,3,16,13,0,1,0,30,234,138,405,43,8,45,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,28044,24315,0,2736,0,0,17,51,15,0,1,4,0,581,21,257,244,16,30,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,79,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,27,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,220,90,0,0,0,0,0,129,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,287,6,0,3,1,2,1,25,96,0,1,0,12,43,13,79,0,1,4,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,6161,0,0,0,0,0,0,0,0,0,0,0,0,0,6161,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,1829,1738,0,0,0,0,0,3,0,0,1,0,0,0,67,0,0,0,20,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,696,4,0,150,0,0,0,0,0,0,0,0,10,0,102,0,0,0,430,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2004,17985,17557,0,0,100,0,0,0,0,173,0,0,0,0,120,0,0,35,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,10820,868,0,9611,0,0,0,0,0,0,0,0,0,42,253,7,0,0,39,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,109,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,27,63,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,1783,282,0,400,0,0,0,0,4,0,0,15,86,294,82,607,0,1,12,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,200,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,192,0,0,0,110,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,27549,23211,0,3901,0,0,0,40,1,0,0,0,0,175,18,184,166,0,19,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,6498,0,0,6260,0,0,0,0,0,0,0,0,0,238,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,42,0,0,0,0,0,0,0,18,0,0,0,0,1,0,23,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,165,0,0,11,0,0,0,0,0,0,0,0,0,0,136,18,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,26,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,529,218,0,0,0,0,0,297,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,782,29,0,28,16,1,1,82,48,0,3,0,22,474,8,24,0,15,31,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,388,0,0,0,0,0,0,0,0,0,0,0,0,0,388,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,3522,3443,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,9,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,244,9,29,0,0,0,0,0,0,0,0,0,0,3,60,17,0,21,105,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,54,0,0,0,0,0,0,0,5,0,0,0,0,0,20,29,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,301,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,140,0,0,0,0,0,0,0,1,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,25,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2005,662,519,22,0,99,0,0,0,0,7,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,5346,2399,0,2779,0,0,0,0,0,0,0,0,0,16,10,85,0,0,57,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,28,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,25,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,2599,477,0,140,0,0,0,0,20,0,0,0,65,841,78,959,0,6,13,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,323,0,0,0,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,724,0,0,0,723,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,30960,26886,0,3502,0,0,0,23,52,0,0,9,4,209,19,218,149,0,38,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,2064,0,0,1814,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,104,2,0,23,0,0,0,0,30,0,0,1,0,2,0,22,0,24,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,20,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,18,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,26,0,0,0,0,0,0,0,0,0,0,0,25,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,23,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,7863,7682,0,0,0,0,0,164,0,0,0,0,0,10,0,7,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,952,32,0,36,10,7,1,117,37,0,5,0,18,551,9,99,0,18,12,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,3215,3105,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,19,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,193,8,2,0,0,0,0,1,0,0,0,0,0,18,80,5,0,16,63,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,612,480,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2006,4464,2700,0,0,241,14,0,4,0,0,0,0,0,5,1500,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,48,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,3980,3170,0,608,0,0,0,0,0,0,0,0,0,51,2,145,0,0,4,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,3161,534,0,223,0,0,0,0,17,0,0,0,75,950,30,1320,0,0,12,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,125,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,76,0,0,17,0,0,0,41,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,26260,25793,0,4,0,0,3,48,4,0,0,0,2,183,26,163,294,4,30,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,94,24,0,0,0,0,0,0,0,0,0,36,0,24,0,0,0,0,10,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,8000,0,0,0,0,0,0,0,0,0,0,0,0,8000,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,2484,2323,0,0,0,0,0,145,0,0,0,0,0,15,0,1,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,1173,32,0,48,8,14,3,155,90,0,9,0,29,615,20,126,0,15,9,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,1386,50,0,0,0,0,0,0,0,0,0,0,0,0,1336,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,2607,2588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,73,3,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,14,30,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,56,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,200,0,0,0,0,0,0,0,4,0,0,0,0,0,0,196,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,26,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,25,16,0,1,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,309,169,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,13793,10099,24,0,2410,16,0,0,0,0,0,0,0,0,1244,0,325,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2007,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,4270,3907,0,116,0,0,0,0,0,0,0,0,0,5,16,173,19,0,53,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,105,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,104,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,3020,924,0,217,0,0,0,0,0,0,0,0,83,649,46,1059,0,0,42,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,325,0,0,0,325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,89,70,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,7,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,17,0,0,0,0,0,0,0,13,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,20045,19421,0,3,0,0,0,50,1,0,0,0,3,204,12,281,513,1,69,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,49,2,0,24,0,0,0,0,0,0,0,0,0,12,0,0,0,6,5,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,25,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,266,207,0,0,0,0,0,51,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,969,44,6,30,4,21,1,98,52,0,13,0,29,527,34,73,0,33,4,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,1134,0,0,0,0,0,0,0,0,0,0,0,0,0,1134,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,19,1,0,0,0,0,0,0,1,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,518,518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,93,0,0,0,0,0,0,0,2,0,0,0,0,13,17,0,0,0,61,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,94,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,389,387,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,76,22,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,36,0,0,0,0,0,0,1,0,0,1,0,21,3,0,0,0,10,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,285,218,0,0,0,0,0,1,0,0,0,0,0,12,54,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,7953,5025,0,0,2762,12,0,126,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,2821,2354,3,257,0,0,0,0,0,0,0,0,0,22,10,87,0,0,88,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,26635,0,0,26500,0,0,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,5084,1360,0,274,190,0,0,19,34,0,0,0,70,1019,308,1738,0,1,71,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,200,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,5,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,11,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,21182,20392,0,2,0,0,2,25,5,0,0,2,2,347,16,323,342,0,66,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,35,0,0,0,0,0,0,0,0,0,0,0,0,3,0,32,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,5724,5631,0,0,0,0,0,87,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,38,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,779,32,0,24,0,13,0,78,14,0,9,0,32,461,16,61,0,17,22,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,1004,0,0,968,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,577,0,0,0,0,0,0,0,0,0,0,0,0,0,577,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,16,1,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,1562,1553,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,888,271,0,396,0,0,0,0,0,0,0,0,0,73,15,0,0,7,126,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,250,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,909,700,0,0,0,0,0,0,0,0,0,0,0,0,0,209,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,44,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,93,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,110,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,109,31,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,14,0,0,0,1,0,0,7,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,1803,1803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2009,23217,23198,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,2162,1746,1,48,0,0,0,0,0,0,0,0,0,31,42,290,0,1,3,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,22477,0,0,22369,0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,6940,2312,0,259,0,0,0,30,51,0,0,0,94,1381,499,2237,5,0,77,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,32,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,40,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,26591,26003,0,0,0,0,0,57,4,0,0,13,3,287,1,173,364,0,50,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,155,0,0,0,0,0,0,0,0,0,0,0,0,101,54,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,10,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,29,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,1680,1569,0,0,0,0,0,107,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,1211,33,2,15,0,21,1,75,22,0,15,0,73,343,80,386,0,116,29,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,781,648,0,0,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,3122,3105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,452,23,0,323,0,0,0,1,0,0,0,0,0,41,0,1,0,8,55,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,19,1,0,0,0,0,0,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,414,250,0,0,0,0,0,0,11,0,0,0,0,0,20,133,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,38,0,0,0,0,0,0,0,0,0,0,0,0,2,36,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,34,28,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,359,203,0,0,0,0,0,0,1,0,0,0,0,152,0,3,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,1296,1296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2010,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,4485,3681,0,48,0,0,0,0,0,0,0,0,0,74,8,639,0,0,35,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,235,0,0,13,0,0,0,0,0,0,0,0,9,2,0,0,0,211,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,6220,1228,0,267,0,0,0,28,55,0,0,2,116,1160,1293,1954,0,0,117,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,37,0,0,0,0,0,0,0,0,0,0,0,7,4,26,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,15,0,0,0,0,0,0,0,10,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,7,0,0,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,26926,26360,0,1,0,0,2,17,10,0,0,4,3,230,7,243,346,3,46,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,286,259,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,3581,3569,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,1311,38,0,16,0,64,4,86,47,0,13,0,32,103,14,504,0,380,10,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,366,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,1359,714,0,0,0,0,0,0,0,0,0,0,0,0,645,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,321,11,0,0,0,0,0,0,0,0,0,0,0,50,51,0,0,0,209,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,478,230,0,0,0,0,0,0,0,0,0,0,0,2,17,229,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,400,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,70,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,235,112,0,1,0,0,0,0,2,0,0,0,1,119,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,1782,1782,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,578,0,0,0,470,0,0,0,0,0,0,0,1,2,92,13,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2011,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,2935,1901,25,4,0,0,0,0,0,0,0,0,0,28,8,934,0,0,35,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,592,0,0,0,0,0,0,0,0,0,0,0,0,5,26,0,0,561,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,6977,1668,0,209,0,0,0,34,67,0,0,59,110,1531,955,2215,0,0,129,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,26531,25628,0,0,0,0,0,21,45,0,0,8,1,453,1,305,376,16,53,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,72,22,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,32,0,0,0,0,0,0,0,0,0,0,0,15,0,17,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,1654,1622,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,25,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,930,30,0,17,18,17,2,133,141,0,11,0,22,95,11,331,0,95,7,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,946,274,0,0,0,0,0,0,0,0,0,0,0,0,275,0,0,0,397,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,1391,1382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,9,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,178,1,0,0,0,0,0,0,0,0,0,0,0,23,11,0,19,0,143,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,196,0,0,0,0,0,0,0,0,0,0,0,0,0,29,167,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,57,0,0,0,0,0,0,8,36,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,1036,937,0,0,0,0,0,0,4,0,0,0,0,94,1,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,3101,3101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2012,1323,789,0,0,134,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,719,7,0,0,0,0,0,0,0,0,0,0,0,4,9,682,0,0,17,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,775,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,772,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,8,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,374,0,0,374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,17,0,0,0,0,0,0,1,14,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,26,2,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,18016,17425,0,0,0,0,0,2,11,0,0,2,2,489,0,83,81,1,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,73,44,0,0,0,0,0,0,19,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,10502,0,0,0,0,0,0,0,0,0,0,0,0,0,10502,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,76,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,1512,1293,0,0,0,0,0,17,0,0,0,0,0,1,0,0,0,201,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,950,39,0,16,11,12,1,154,162,0,10,0,23,85,9,373,0,38,17,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,1824,436,0,0,0,0,0,0,0,0,0,0,0,0,692,0,0,0,696,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,1136,1044,0,0,0,0,0,0,0,5,0,0,0,0,0,0,3,0,87,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,294,9,0,23,0,0,5,0,0,0,0,0,0,37,0,125,5,0,95,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,250,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,28,0,0,0,0,0,0,0,0,0,0,0,0,0,17,11,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,222,85,0,0,0,0,0,0,0,0,0,0,0,137,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,1800,1800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,42,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

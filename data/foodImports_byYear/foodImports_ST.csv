@@ -1,0 +1,611 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,18,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,2105,898,0,651,0,0,0,0,0,0,0,553,0,0,0,3,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,1465,1461,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,601,0,0,0,249,0,0,0,0,0,0,0,0,0,250,0,0,0,102,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,917,151,26,56,18,0,1,24,10,0,1,0,1,77,185,338,0,7,22,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,17,0,3,2,0,0,0,0,0,0,0,0,0,1,0,6,31,3,2,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,498,333,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,1736,1736,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1986,118,73,10,0,0,0,0,0,0,0,0,0,17,0,0,18,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,415,15,0,25,137,0,0,0,3,0,0,229,0,0,5,1,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,73,55,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,129,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,50,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,1453,1435,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,920,916,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,849,0,0,0,62,0,0,0,0,0,0,20,0,20,500,0,0,0,247,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,750,135,25,15,5,0,0,19,0,0,0,0,0,28,41,450,0,14,18,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,3590,1423,1,993,200,0,0,0,0,0,0,0,0,307,645,19,4,1,1,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,345,106,0,0,0,0,0,0,0,0,0,0,0,0,239,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,1993,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1987,141,134,0,0,0,0,0,0,0,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,587,549,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,500,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,1075,1037,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,11,8,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,225,0,0,0,149,0,0,0,0,0,0,0,0,0,60,0,0,0,16,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,827,56,66,15,5,0,3,60,1,0,0,0,0,44,28,543,0,6,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,1171,1145,0,6,0,0,0,17,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,69,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,1222,1222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,1,5,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,599,500,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,430,0,0,0,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,400,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,2058,1409,0,500,0,0,0,0,0,0,0,0,0,67,0,2,0,40,40,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,883,0,0,0,0,0,0,40,0,0,0,0,0,0,843,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,590,0,0,39,148,0,0,0,0,0,0,0,0,4,100,0,0,0,299,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,1337,84,54,73,16,0,2,51,4,0,1,2,0,51,49,926,1,23,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,1460,1460,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,189,132,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,600,600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,103,1,0,0,100,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1989,5052,4301,0,0,295,0,0,0,0,0,0,0,0,0,456,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,2017,1600,0,36,198,0,0,0,0,0,0,27,0,0,156,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,281,0,0,0,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,80,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,3153,3001,0,150,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,892,0,14,0,540,0,0,0,0,0,0,0,0,0,279,0,0,0,59,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,1754,69,40,15,4,0,2,57,2,0,2,22,0,59,18,1452,0,11,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,1518,1517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,490,490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,64,20,0,0,39,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1990,2416,2416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,1218,250,0,808,0,0,0,0,0,0,0,0,0,0,125,0,0,5,30,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,168,40,0,17,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,45,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,32,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,2837,2580,0,50,0,0,0,0,0,0,0,0,0,0,0,24,0,40,143,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,1435,730,0,582,0,0,0,0,0,0,0,0,0,1,117,5,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,36,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,179,25,24,0,0,0,0,0,0,0,0,0,0,0,20,0,0,1,109,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,2265,63,6,13,4,0,3,18,0,0,3,18,0,61,94,1961,2,0,21,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,616,616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,186,165,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,1984,1984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,30,5,0,20,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1991,1543,1543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,2179,1398,0,531,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,341,222,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,1549,983,0,465,0,0,0,0,1,0,0,0,0,0,81,19,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,421,1,0,367,3,0,0,0,0,0,0,0,0,0,3,0,0,0,47,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,9,0,0,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,72,0,0,0,43,0,0,0,0,0,0,0,0,0,13,2,0,7,7,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,2537,204,157,19,104,4,0,34,0,0,1,85,0,113,86,1708,33,20,2,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,121,0,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,4249,4249,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1992,1703,1371,0,0,182,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,1273,1099,0,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,40,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,104,22,0,0,0,0,0,0,9,0,0,23,0,0,0,0,1,3,0,47,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,1021,749,0,251,0,0,0,0,0,0,0,0,0,2,0,19,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,806,18,0,518,0,0,0,0,0,0,0,0,0,0,157,83,0,0,30,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,1395,833,0,461,0,0,0,50,0,0,0,0,0,2,0,0,0,49,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,1709,1501,0,0,0,0,0,0,4,0,0,0,0,0,40,18,0,2,144,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,4966,826,101,53,135,0,2,50,13,1,5,66,2,131,189,3379,79,4,9,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,210,0,0,0,0,0,0,0,0,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,2821,2786,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,192,37,0,0,105,0,0,12,0,0,0,0,0,0,0,16,0,22,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1993,517,387,0,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,4011,3242,0,691,0,0,0,0,0,0,0,0,0,3,0,0,0,10,65,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,21,0,0,13,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,40,0,0,0,0,0,0,0,21,0,0,2,0,9,0,8,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,130,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,2075,1610,12,277,0,0,0,0,0,0,0,0,0,1,0,145,0,0,30,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,229,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,86,21,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,63,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,300,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,158,5,0,0,0,0,0,14,1,0,0,0,0,0,41,14,0,0,83,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,4083,64,81,11,229,0,2,91,1,1,8,113,0,110,271,3037,97,57,7,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,252,48,14,1,0,0,0,9,37,0,0,3,0,2,3,101,0,17,17,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,48,0,0,0,0,0,0,0,0,0,0,0,0,10,0,38,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,124,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,36,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,120,29,0,2,0,0,1,0,0,0,0,0,1,1,0,36,0,50,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1994,853,849,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,321,321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,39,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,1689,1689,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,34,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,1397,1229,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,934,0,0,884,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,154,143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,15,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,175,145,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,29,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,81,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,1259,1000,0,0,63,0,0,0,0,0,0,0,0,0,40,0,0,85,71,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,5348,247,75,88,223,0,0,115,21,1,3,30,5,201,501,3709,10,100,29,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,111,43,3,4,0,0,0,0,0,0,0,0,0,0,0,19,0,24,18,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1995,1554,1283,0,0,271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,5298,3598,0,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,45,0,0,0,0,0,0,0,0,0,0,0,0,20,0,25,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,40,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,90,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,23,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,272,270,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,561,0,0,561,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,66,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,67,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,8,18,38,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,7189,757,85,205,203,0,2,210,23,0,3,42,2,321,614,4541,6,133,48,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,1215,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,62,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,1647,1539,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,1550,1113,1,1,0,0,0,0,0,0,0,0,0,0,0,431,0,0,4,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1996,77,35,1,0,0,0,0,0,2,0,0,0,0,16,0,2,0,20,1,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,1834,1516,10,280,0,0,0,0,0,0,0,0,0,14,0,0,0,14,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,788,730,3,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,21,0,0,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,237,1,11,2,0,0,1,7,4,0,0,0,0,1,0,36,4,50,124,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,7784,1666,91,115,459,0,6,145,144,2,12,94,4,179,392,4359,4,83,33,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,321,0,0,1,0,0,0,0,0,0,0,0,0,52,0,254,0,10,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,173,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,900,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,265,55,0,15,0,0,0,0,0,0,0,0,0,5,70,2,0,118,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1997,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,61,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,4081,3782,0,268,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,33,10,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,84,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,609,588,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,19,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,202,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,328,328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,81,0,2,0,0,0,0,0,4,0,0,0,0,0,0,18,0,23,34,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,28229,1880,53,1376,475,1,10,176,16525,0,10,103,5,233,730,6394,9,132,126,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,5002,0,0,0,0,0,0,2,0,0,0,0,0,5000,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,696,0,0,0,0,0,0,0,0,19,0,0,677,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,70,11,0,22,0,0,0,0,0,0,0,0,0,2,0,12,0,23,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1998,8,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,3310,2996,0,215,0,0,0,0,0,0,0,0,0,0,75,8,0,0,16,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,155,59,0,80,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,96,0,0,0,0,0,0,0,0,0,0,0,0,2,0,94,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,126,0,0,0,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,1519,1300,0,215,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,84,52,0,0,0,0,0,0,0,0,0,0,0,0,1,15,0,14,2,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,19,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,445,442,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,602,602,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,135,0,0,43,0,0,1,0,0,0,0,1,0,1,0,62,0,25,2,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,11095,1466,65,913,593,2,9,365,100,0,7,288,13,192,813,5814,12,278,177,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,284,7,1,2,0,0,0,0,3,0,0,0,0,1,1,266,0,0,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,45,17,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,37,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,84,0,0,8,0,0,0,0,0,0,0,0,0,42,0,6,0,12,16,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1999,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,3406,2082,0,933,0,0,0,0,0,0,0,0,0,0,333,0,0,42,16,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,126,54,0,64,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,140,0,0,0,0,0,0,0,0,0,0,0,0,2,0,138,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,367,0,0,0,275,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,1349,1168,0,0,0,0,0,64,56,0,0,0,0,22,0,3,0,35,1,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,105,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,76,44,0,22,0,0,0,0,5,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,499,0,0,0,0,0,0,0,0,0,0,0,0,242,257,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,210,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,974,974,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,848,407,3,151,0,0,0,81,4,0,0,0,0,0,29,23,0,45,105,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,10465,1784,92,502,536,1,12,353,154,0,10,366,8,227,851,5212,20,240,117,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+LC,St. Lucia,country,Latin America and the Caribbean,13.909444,-60.978893,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,211,210,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,68,36,0,0,0,0,0,0,11,0,0,0,0,0,0,11,0,0,10,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,46,0,1,11,0,0,0,0,0,0,0,0,0,0,12,0,0,12,10,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2000,19,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,175,0,0,0,0,0,0,0,0,0,0,175,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,5642,4110,0,896,0,0,0,0,0,0,0,0,0,0,563,0,0,57,16,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,57,30,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,131,0,0,0,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,1026,507,0,323,0,0,0,8,0,0,0,0,0,20,0,50,0,84,34,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,26,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,24,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,37,34,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,4801,4801,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,1104,196,2,463,0,0,0,53,7,0,0,0,0,0,14,58,0,98,213,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,12857,1493,98,298,540,0,9,482,61,0,11,430,3,221,1123,7735,25,273,80,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,682,631,0,0,0,0,0,0,0,0,0,0,0,6,0,45,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,166,0,0,0,0,0,0,0,21,0,0,0,0,0,0,145,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,225,1,5,57,0,0,0,0,4,0,0,0,0,1,81,20,0,21,35,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2001,845,813,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,7549,5006,0,1719,0,0,0,0,0,0,0,0,0,0,614,0,0,97,113,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,30,13,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,30,1,0,0,0,0,0,3,0,0,0,0,0,0,1,24,0,1,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,362,0,0,0,0,0,0,0,5,0,0,0,2,51,0,303,0,0,1,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,72,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,126,0,0,0,0,0,0,0,0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,531,294,0,0,0,0,0,14,0,0,0,0,0,10,0,33,0,164,16,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,97,23,0,0,0,0,0,0,0,0,0,24,0,21,22,7,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,358,0,0,0,0,0,0,0,6,0,0,0,0,352,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,484,483,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,2502,2502,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,1905,830,1,432,0,0,0,84,8,0,0,0,0,0,0,45,0,241,264,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,15146,1708,118,143,636,1,33,487,142,0,20,447,11,205,1178,9611,18,358,48,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,48,8,0,0,0,0,0,15,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,310,0,0,4,0,0,0,0,0,0,0,0,0,0,0,306,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,51,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,83,0,2,51,0,0,0,0,0,0,0,0,0,6,0,0,0,9,15,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2002,223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,5442,3868,25,1012,0,0,0,0,0,0,0,0,0,0,338,0,0,132,67,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,25,0,0,8,0,0,0,0,3,0,0,0,3,0,0,0,0,11,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,180,2,0,0,0,0,0,0,0,0,0,0,3,72,0,101,0,0,2,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,334,0,0,0,241,0,0,1,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,724,321,0,0,0,0,0,0,0,0,0,0,0,54,0,51,0,246,52,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,96,0,0,74,0,0,1,0,12,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,113,42,0,0,0,0,0,2,0,0,0,0,0,10,27,0,0,0,32,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,598,484,0,0,0,0,0,0,0,0,0,0,1,0,0,19,0,94,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,83,0,0,0,0,0,0,0,0,0,0,0,0,0,83,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,2007,629,83,206,0,0,0,267,9,0,0,0,0,0,40,285,0,221,267,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,13707,1304,102,41,537,1,30,424,105,0,17,404,5,576,1003,8867,22,236,55,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,700,0,0,0,0,0,0,0,0,0,0,538,0,24,0,128,0,10,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,391,0,0,0,0,0,0,0,0,0,0,0,0,0,0,329,0,60,2,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,153,125,0,9,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,9,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2003,194,1,0,0,0,0,0,0,3,0,0,0,0,0,0,190,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,4463,2575,0,1480,0,0,0,0,0,0,0,0,0,10,237,0,0,99,62,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,52,0,0,11,0,0,0,0,0,0,0,0,5,0,0,0,0,8,28,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,83524,0,0,0,0,0,0,0,0,0,0,0,0,83500,0,10,0,0,14,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,55,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,725,384,0,0,0,0,0,0,0,0,0,0,0,44,0,17,0,257,23,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,1013,541,2,339,0,0,2,2,15,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,389,0,0,325,0,0,0,0,21,0,0,0,0,2,25,0,0,0,16,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,496,0,7,0,0,0,0,0,0,0,0,0,0,0,489,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,32,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,226,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,2000,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,271,0,0,0,0,0,0,0,74,0,0,0,0,1,0,196,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,15,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,1316,5,109,384,0,0,0,203,36,0,0,0,0,0,50,21,0,114,394,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,22,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,16415,3428,69,89,586,0,49,305,163,6,32,563,4,806,1386,8646,12,179,104,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,708,300,0,0,0,0,0,0,0,0,0,0,1,30,0,374,0,2,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,364,167,0,0,0,0,0,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,34,8,0,0,0,0,0,0,0,0,0,0,0,9,0,17,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,261,0,0,0,0,0,0,0,0,0,0,0,261,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2004,85,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,5583,3448,0,1761,0,0,0,0,0,0,0,0,0,12,0,0,0,191,171,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,308,0,0,270,0,0,0,0,9,0,0,0,0,6,0,8,0,15,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,136,0,0,0,43,0,0,76,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,13,0,0,0,0,0,0,2,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,66,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,723,410,0,0,0,0,0,4,7,0,0,2,1,71,0,7,0,221,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,1122,1,0,806,0,0,2,14,16,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,138,0,0,105,0,0,0,0,0,0,0,0,0,1,0,0,0,0,32,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,23,20,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,529,0,0,0,0,0,0,0,0,0,0,0,0,0,529,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,120,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,296,296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,492,0,0,0,0,0,0,0,0,0,0,0,0,4,0,483,0,5,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,25,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,1216,0,177,330,0,0,0,344,10,0,0,0,0,0,24,21,2,157,153,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,14031,3610,72,202,486,1,12,297,101,0,8,513,4,578,1712,6076,24,247,112,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,220,0,0,0,0,0,0,0,0,0,0,0,0,6,0,214,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,40,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,1041,826,0,0,0,0,0,199,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,44,20,0,2,1,0,0,1,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2005,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,4362,2616,3,1317,0,0,0,18,0,0,0,0,0,11,0,0,0,226,171,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,395,11,0,335,0,0,0,0,0,0,0,0,0,1,0,0,0,48,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,31,3,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,2,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,95,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,14,0,3,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,100,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,372,259,0,0,0,0,0,0,0,0,0,0,0,49,0,18,0,30,16,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,1325,10,0,1092,0,0,1,3,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,47,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,0,0,32,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,392,19,0,0,0,0,0,0,0,0,0,0,373,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,576,0,0,0,0,0,0,0,0,0,0,0,0,0,576,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,215,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,67,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,143,0,0,0,0,0,0,1,0,0,0,0,0,0,142,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,1070,1,100,0,0,0,0,217,379,0,0,0,0,0,0,105,0,26,242,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,275,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,19,0,0,0,0,0,0,0,2,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,19096,5170,84,1857,531,1,24,244,123,0,13,725,7,322,1698,7744,15,396,157,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,182,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,21,0,0,1,0,0,2,0,7,0,0,0,2,0,0,0,0,3,6,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,465,391,0,0,0,0,0,59,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,14,0,0,4,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2006,37,26,0,0,0,0,0,0,9,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,560,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,2666,2219,1,0,0,0,0,0,0,0,0,0,0,27,0,0,0,383,36,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,3614,50,0,3412,0,0,0,2,0,0,0,0,15,22,0,0,0,86,27,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,154,0,0,8,0,0,0,58,0,0,0,0,0,0,0,0,0,16,72,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,74,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,390,309,0,0,0,0,0,0,4,0,0,0,0,66,0,11,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,384,19,0,0,0,0,0,0,0,0,0,0,365,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,421,0,0,0,0,0,0,0,0,0,0,0,0,0,421,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,75,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,660,0,84,92,0,0,0,257,21,0,0,0,0,0,79,31,0,80,16,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,19711,7207,78,1430,592,1,17,559,129,0,7,973,7,444,1934,5709,10,369,255,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,126,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,150,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,36,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,525,525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,116,99,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,262,254,0,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,80,52,0,0,0,0,0,0,7,0,0,0,0,5,0,16,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,43,0,0,0,0,0,0,0,20,0,0,0,1,0,0,10,0,12,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2007,95,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,425,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,3350,2725,0,0,0,0,0,0,1,0,0,4,0,0,0,1,0,561,58,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,1063,36,0,1014,0,0,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,750,750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,160,0,0,17,0,0,0,93,0,0,0,0,0,1,0,0,0,17,32,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,429,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,112,44,0,0,0,0,1,21,0,0,0,0,0,30,0,16,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,72,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,584,10,0,0,0,0,0,0,0,0,0,0,0,0,574,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,332,171,0,0,0,0,0,0,0,0,0,0,0,16,82,0,0,0,63,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,96,5,0,0,0,0,0,0,1,0,0,0,1,26,0,63,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,145,0,0,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,7,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,663,0,134,23,0,0,0,324,10,0,0,0,0,0,112,0,0,46,14,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,33,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,14461,4162,68,345,582,1,20,173,143,0,8,1051,14,335,1966,4797,31,369,427,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,90,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,199,153,0,0,0,0,0,0,1,0,0,0,0,1,1,8,0,35,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,26,12,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,156,125,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,40,20,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,187,66,0,2,0,0,0,0,0,0,0,0,19,34,0,66,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,53,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2008,46,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,43,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,15,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,3051,2721,0,0,0,0,0,0,0,0,0,0,0,8,0,36,0,224,62,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,3523,191,0,1375,0,0,0,2,0,0,0,0,10,15,1241,0,0,689,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,10,1,0,0,0,0,2,0,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,191,0,0,13,62,0,0,92,21,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,128,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,62,0,0,2,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,112,49,13,0,0,0,0,22,2,0,0,3,0,2,0,21,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,72,25,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,45,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,602,598,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,251,5,0,0,0,0,0,0,0,0,0,0,0,0,246,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,97,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,62,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,270,35,0,0,0,0,0,0,0,0,0,0,0,0,226,0,0,0,9,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,605,40,117,0,0,0,0,290,5,0,0,0,0,1,10,50,0,32,60,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,15681,5366,120,150,605,1,33,511,181,0,7,1004,9,437,560,5700,11,480,517,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,41,1,0,0,0,0,0,0,17,0,0,0,0,1,0,21,0,1,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,60,0,0,0,0,0,0,0,20,0,0,0,0,0,0,12,0,0,28,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,164,135,0,0,0,0,0,0,18,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,2001,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,156,113,0,7,0,0,0,0,0,0,0,0,9,10,0,17,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,6,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2009,216,0,0,0,0,0,0,0,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,3207,2616,0,20,0,0,0,0,0,0,0,0,0,7,0,235,0,310,19,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,392,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,369,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,10,2,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,133,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,140,0,0,0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,113,19,0,0,0,0,0,0,0,0,0,0,0,2,0,13,0,79,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,138,137,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,478,7,0,0,0,0,0,0,0,0,0,0,0,0,471,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,74,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,137,0,0,0,0,0,0,0,39,0,0,0,0,54,0,27,0,17,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,58,19,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,504,27,107,0,0,0,0,285,13,0,0,0,0,12,1,31,0,24,4,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,21,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,22518,6690,169,760,595,0,41,594,228,1,9,1287,16,693,1790,8263,16,781,601,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,298,39,0,0,0,0,0,0,0,0,0,0,0,0,0,259,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,11,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2010,176,74,0,16,0,0,0,20,0,0,0,0,11,55,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,203,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,2371,1956,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,395,12,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,449,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,64,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,149,74,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,52,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,979,465,0,510,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,803,5,0,0,0,0,0,0,0,0,0,0,0,5,793,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,160,0,0,0,0,0,0,110,0,0,0,0,0,0,0,15,0,35,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,95,2,0,0,0,0,0,0,27,0,0,0,5,25,0,31,0,3,2,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,262,0,0,0,0,0,0,0,0,0,0,0,0,0,262,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,725,108,162,0,0,0,0,338,5,0,0,0,0,0,0,83,0,27,2,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,1855,1855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,23728,6539,213,1155,848,1,33,424,332,0,4,1385,13,572,1608,8895,24,938,768,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,6,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,160,64,0,0,0,0,0,0,22,0,0,0,0,0,0,60,0,14,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,38,0,0,0,0,0,24,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,765,765,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,125,57,0,34,0,0,0,0,0,0,0,0,9,8,0,5,0,12,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2011,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,2440,1825,0,0,0,0,0,0,0,0,0,0,0,13,0,2,0,571,29,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,295,0,0,21,192,0,0,0,0,0,0,0,0,1,0,0,0,81,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,84,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,580,0,0,0,580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,106,39,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,52,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,159,106,0,46,0,0,0,2,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,986,0,0,0,0,0,0,0,0,0,0,0,0,19,967,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,191,0,0,0,0,0,0,181,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,248,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,128,0,0,0,0,0,0,0,57,0,0,0,0,13,0,40,0,18,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,421,5,0,0,0,0,0,0,0,0,0,0,32,0,355,0,0,0,29,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,609,27,90,0,0,0,0,308,3,0,0,0,0,0,0,70,0,97,14,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,56,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,25824,8409,295,1449,680,2,47,532,278,0,8,1676,23,535,1389,8819,32,763,919,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,67,0,0,0,0,0,0,0,58,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,189,60,0,0,0,0,0,0,0,0,0,0,0,35,0,42,0,52,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,688,688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,132,66,0,0,0,0,0,0,0,0,0,0,3,63,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,2160,1474,0,276,0,0,0,0,0,0,0,0,0,22,0,5,0,355,28,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,153,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,101,0,0,0,0,0,0,83,0,0,1,0,0,0,0,0,0,17,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,60,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,41,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,394,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,320,295,0,6,0,0,0,1,1,0,13,0,3,0,0,1,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,345,11,0,0,0,0,0,0,0,0,0,0,0,0,334,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,142,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,1860,1860,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,81,0,0,0,0,0,0,0,0,0,0,0,0,21,0,60,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,272,0,0,0,0,0,0,0,0,0,0,0,0,0,272,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,465,76,55,0,0,0,0,233,0,0,0,0,0,0,0,62,0,38,1,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,30679,10887,373,1990,685,2,50,640,395,1,20,1728,35,557,1784,9339,14,1087,1106,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,100,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,213,61,0,0,27,0,0,0,2,0,0,0,0,0,0,109,0,14,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,113,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,126,31,0,0,0,0,0,0,17,0,0,0,5,58,0,15,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,108,0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2013,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,187,0,0,0,0,0

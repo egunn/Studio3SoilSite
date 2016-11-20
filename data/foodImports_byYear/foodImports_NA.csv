@@ -1,0 +1,892 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,870,0,0,0,0,0,0,0,0,0,0,0,0,67,800,0,0,0,3,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,48,14,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,1281,0,0,0,290,44,0,0,116,768,24,0,0,39,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,2840,891,14,274,13,0,5,135,299,0,2,278,18,337,38,125,4,325,86,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,37,0,0,0,0,0,0,0,0,0,0,0,8,29,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,94,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,9,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,6247,5812,0,0,240,28,0,0,109,0,56,0,0,2,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1987,2572,2572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1988,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1988,1537,168,67,54,0,0,1,34,5,0,2,0,0,2,1062,0,0,100,40,2,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1988,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1988,316,303,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1988,1525,452,0,0,576,42,1,2,160,0,69,0,0,223,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,455,162,13,88,0,0,0,25,0,0,0,0,0,1,60,0,0,65,41,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,228,0,0,0,0,0,0,0,0,0,0,0,0,0,228,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,38,6,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,2285,282,0,2,280,469,6,0,113,0,27,842,0,264,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1989,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,7000,7000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,91,0,13,17,18,0,0,0,17,0,0,0,0,0,0,2,0,24,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,9,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,81,0,0,0,0,0,0,38,0,0,0,0,0,0,0,31,0,12,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,3681,106,0,27,849,644,0,0,464,1504,40,0,8,39,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,57,0,0,0,0,0,0,0,38,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1990,3613,3545,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,544,512,10,0,0,0,0,0,0,0,0,0,6,0,0,0,0,16,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,97,40,0,0,0,0,0,24,20,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,1733,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,1455,270,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,6696,6593,0,0,0,0,1,6,2,0,1,0,33,37,1,10,0,2,10,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,175,14,0,0,0,0,28,0,1,0,0,0,0,70,16,41,0,0,5,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,8,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,524,65,0,0,0,0,0,26,23,0,0,0,0,389,0,21,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,177,0,20,0,0,0,0,3,1,0,0,0,0,22,0,8,0,28,95,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,66,0,0,2,0,0,0,44,17,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,1457,1282,7,0,5,0,0,0,17,0,5,0,0,64,77,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,96458,92829,0,23,765,666,17,75,280,1500,131,0,0,135,37,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,180,2,0,0,0,0,0,0,0,0,0,0,5,0,0,146,0,27,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1991,9042,8383,0,0,600,0,8,0,0,0,0,0,10,41,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,7,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,14562,14308,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,78,161,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,363,0,0,0,242,0,0,0,0,0,0,0,0,0,97,0,0,24,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,307,0,0,0,0,0,0,0,0,0,0,0,0,0,197,0,0,0,110,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,12000,11752,0,1,0,0,0,0,0,0,0,0,0,1,0,46,0,12,188,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,6398,4918,4,1,0,0,2,21,6,0,1,0,14,35,1056,16,0,0,324,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,665,76,0,29,0,0,22,32,12,0,1,0,13,236,66,175,0,0,3,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,84,12,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,0,64,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,49,31,0,2,0,0,0,0,0,0,1,0,1,2,0,0,0,12,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,1533,12,72,0,0,0,0,8,1,0,0,36,1,1,0,54,0,0,1348,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,30,0,0,10,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,44,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,50483,2112,44946,0,49,0,0,13,2439,240,0,270,0,322,92,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,35445,32150,0,49,786,733,0,895,536,23,150,60,30,26,7,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,376,1,0,1,1,0,0,0,0,0,0,0,0,0,0,302,0,17,54,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,16028,15738,0,0,0,0,0,234,0,32,0,0,0,0,0,8,0,16,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1992,145,1,0,0,0,0,0,0,0,0,0,0,22,2,0,0,0,0,120,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,1613,1612,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,202,20,18,18,0,0,0,89,0,0,0,0,0,0,0,14,0,8,35,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,52,12,0,0,1,0,1,0,0,0,0,0,0,35,3,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,96,0,0,0,0,0,0,0,0,0,0,0,2,0,0,94,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,24,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,15508,15500,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,6035,4477,3,302,0,0,7,52,24,0,0,0,12,47,29,24,0,0,1058,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,176,88,0,0,14,1,25,2,4,0,0,0,2,4,18,18,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,570,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,552,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,4014,3073,0,0,0,0,0,159,608,0,0,0,0,145,0,29,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,2320,0,30,0,0,0,21,10,4,0,0,37,0,5,1529,19,0,0,665,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,628,0,0,0,0,0,0,617,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,21517,3753,13541,8,209,0,0,123,608,780,6,526,0,1122,92,0,0,749,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,200,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,266,3,0,19,0,0,0,0,0,0,0,0,0,0,0,244,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,64044,52470,0,0,0,0,10500,0,0,19,0,0,0,0,1000,55,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1993,772,22,0,24,0,0,0,0,15,0,0,1,0,0,84,0,0,405,221,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,6500,0,0,0,0,0,0,0,0,0,0,0,0,0,6500,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,5,0,0,2,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,964,914,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,41,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,321,310,0,6,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,17,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,72,0,0,0,0,0,0,29,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,78,0,0,0,0,0,7,9,16,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,28355,27747,0,0,0,0,0,0,0,0,0,0,7,3,42,129,0,65,362,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,19265,18399,0,346,4,0,6,15,12,0,3,1,20,42,3,25,0,0,389,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,402,37,0,0,0,0,0,0,16,0,0,0,0,3,168,177,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,185,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,89,72,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,455,353,0,0,0,0,0,37,20,0,0,0,0,0,14,31,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,168403,63,0,60,0,0,1097,0,23,0,101,187,854,20080,145935,3,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,278,0,41,0,0,0,0,21,3,0,0,0,0,14,65,71,0,0,63,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,43,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,204,12,0,0,0,0,0,10,11,0,0,0,0,0,17,143,0,11,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,12270,2177,3501,15,176,0,1,148,1387,110,3,404,20,2086,31,2,0,2209,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,5325,5250,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1994,19067,140,0,16983,1,0,1,87,20,0,2,0,3,61,420,3,29,812,534,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,42,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,2479,2326,10,0,0,0,0,0,0,0,0,0,0,0,135,8,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,1718,1594,9,0,0,0,0,10,17,0,0,0,0,66,2,19,0,0,1,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,42,0,0,24,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,28,0,0,4,18,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,220,0,0,0,0,0,2,58,101,0,0,0,1,0,0,58,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,9024,9000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,11285,10900,0,0,0,0,0,0,0,0,0,100,0,26,0,215,0,0,44,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,8580,7309,4,517,0,0,2,23,4,0,2,0,43,27,2,44,0,0,603,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,270,123,0,0,0,0,26,0,22,0,0,0,2,7,6,84,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,162,154,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,132,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,80,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,1186,533,0,0,0,0,0,269,266,3,0,0,4,50,6,54,0,0,1,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,201309,183,0,83,0,0,1326,0,19,0,2,118,1129,21997,176437,14,0,0,0,1,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,373,0,24,0,0,0,0,0,0,0,0,0,0,0,0,267,0,0,82,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,447,0,0,0,0,0,0,321,0,0,0,0,0,0,0,0,0,57,69,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,609,0,0,0,0,0,0,458,0,0,0,0,0,0,17,120,0,14,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,52,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,36,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,11420,2518,1001,41,138,4,1,259,2734,100,4,307,0,2164,0,1,0,2148,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,31,0,0,0,0,0,0,0,4,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,30112,30100,0,0,0,0,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1995,14559,96,52,9185,1,0,8,34,174,0,0,3790,31,7,0,220,18,724,237,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,88,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,921,860,8,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,488,96,91,6,0,1,0,127,55,0,2,54,0,55,0,0,0,0,0,1,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,14000,0,0,14000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,84,20,0,36,0,0,0,0,0,0,0,0,12,0,0,0,0,16,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,5,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,117,0,0,0,0,0,1,0,0,0,0,0,1,0,0,115,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,12144,11950,0,0,0,0,0,0,0,0,0,0,0,11,0,183,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,27810,26984,8,306,0,0,2,21,5,0,1,0,75,52,10,28,0,0,318,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,163,74,0,0,0,0,9,0,0,0,0,0,0,12,35,33,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,1315,207,0,0,0,0,0,545,520,0,0,0,0,0,12,31,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,234508,483,0,55,0,11,931,0,51,0,1162,1,1590,21838,208357,29,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,49,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,37,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,227,78,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,510,510,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,10612,3173,1496,278,161,0,1,246,1685,0,22,191,50,3192,0,0,0,117,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,16,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,30763,30650,0,0,0,0,0,14,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1996,43959,61,0,30531,2,0,4,1,29,0,0,12333,68,11,0,30,0,682,207,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,63,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,62,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,2389,2389,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,332,0,19,43,0,0,0,3,80,0,0,0,0,42,25,120,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,112,2,0,23,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,23793,23000,0,0,0,0,0,0,0,0,0,0,0,7,0,786,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,13463,12486,5,5,0,0,5,29,19,0,2,0,98,56,403,63,0,1,291,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,316,149,0,0,0,0,0,0,0,0,0,0,4,10,52,101,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,517,62,0,0,0,0,5,357,0,0,0,10,0,31,21,31,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,22,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,129,0,0,0,0,0,0,0,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,190,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,169,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0,1,2,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,2467,1012,0,0,0,0,0,0,0,0,0,0,0,0,0,1444,0,0,11,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,547,0,0,547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,15847,2654,3218,280,164,0,6,138,2196,0,7,59,0,7115,1,9,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,365,5,0,0,0,0,0,0,0,0,0,3,0,0,0,341,0,0,16,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,5590,5551,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,2272,1595,2,440,0,0,0,0,0,36,0,198,0,0,0,0,0,1,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1997,17070,31,0,14187,0,0,0,0,41,0,0,2285,57,1,0,97,0,298,73,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,30,0,0,28,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,4912,4907,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,19998,19819,36,27,0,0,0,8,3,0,0,0,0,10,0,21,0,49,25,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,14,0,0,0,0,0,0,12,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,3,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,176,0,0,47,0,0,0,0,0,0,0,0,0,0,0,97,0,0,32,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,48,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,47,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,9339,8000,0,0,0,0,0,0,0,0,0,0,0,0,13,1326,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,9229,8673,1,8,0,0,8,47,15,3,2,0,118,66,11,85,0,0,192,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,340,66,0,0,0,0,1,0,0,0,0,0,11,0,20,195,0,0,47,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,23,8,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,5,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,65,0,0,3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,57,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,388,11,0,0,0,0,5,293,10,0,0,0,2,38,14,15,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,336,0,0,0,0,0,0,0,0,0,0,0,275,54,0,7,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,210518,834,20,338,0,15,637,11,82,37,86,20,1236,21782,185371,47,0,2,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,1208,0,0,0,0,0,0,0,0,0,0,0,0,0,31,1108,0,0,69,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,1360,0,0,0,0,0,3,0,0,0,0,0,0,0,31,844,0,482,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,1090,984,0,10,0,0,0,0,0,0,0,0,3,0,0,93,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,158,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,55764,38941,3721,289,108,0,17,194,1986,0,14,0,20,10169,17,13,0,275,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,47,27,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,491,1,0,1,0,0,0,0,0,0,0,0,0,0,0,487,0,2,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,75,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,29,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1998,42159,62,0,39240,0,0,0,0,45,0,0,1537,73,0,0,146,0,975,81,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,197,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,179,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,20,0,0,3,0,0,0,10,1,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,4483,3412,0,774,0,0,0,0,0,0,0,0,2,0,288,0,0,7,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,2872,576,0,26,0,0,0,0,0,0,0,209,0,1832,0,1,0,1,0,227,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,529,0,0,470,0,0,0,1,0,0,0,0,0,3,0,0,0,55,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,20895,20698,44,45,0,0,0,5,0,0,0,25,0,12,0,37,0,10,19,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,61,0,0,0,0,0,0,11,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,132,0,0,8,22,0,0,0,0,10,0,1,0,0,0,91,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,25567,24514,0,581,0,0,0,0,0,0,0,0,0,88,0,384,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,9482,8979,1,1,0,0,1,30,22,0,5,0,126,64,0,52,0,0,143,58,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,139,0,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,60,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,129,2,0,0,0,0,0,0,0,0,0,0,54,18,18,37,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,650,0,0,0,0,0,0,0,0,0,0,0,0,28,0,542,0,26,54,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,410,225,0,0,0,0,1,87,0,0,0,0,1,77,0,19,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,162676,1109,0,655,0,12,443,10,11,0,49,14,1224,21510,137592,47,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,288,211,0,0,0,0,0,1,4,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,94,2,0,0,1,0,3,1,0,0,0,0,0,1,2,84,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,18,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,539,65,0,4,0,0,0,1,17,0,0,24,1,35,0,392,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,29065,10548,8716,213,133,0,4,133,2372,0,16,76,0,6619,45,2,0,9,179,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,16,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,268,40,0,0,0,0,0,0,0,116,0,0,1,111,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,313,6,0,13,0,0,0,4,0,0,0,0,2,0,3,265,0,20,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,127,11,0,0,0,0,0,0,75,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,4073,205,0,3868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,1999,37621,97,0,35796,0,0,0,0,8,0,0,1224,82,3,0,184,0,227,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,353,46,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,32,0,0,5,0,0,0,23,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,6403,3508,0,2817,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,1082,219,0,40,0,0,0,0,0,0,0,36,0,680,0,8,0,0,0,99,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,878,0,0,860,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,16613,16569,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,16,25,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,54,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,479,0,0,0,0,0,0,0,0,0,0,0,0,49,0,66,0,0,364,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,15719,15430,0,0,0,0,0,0,0,0,0,0,0,0,0,283,0,0,6,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,11128,10494,0,4,0,0,3,24,23,0,2,0,183,142,1,72,0,0,180,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,273,0,0,0,0,0,0,0,0,0,0,0,0,6,0,267,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,187,52,0,123,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,143,0,0,0,0,0,0,0,0,0,0,0,37,0,106,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,121,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,72,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,1524,1032,0,0,0,0,0,283,8,0,0,0,0,102,99,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,57,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,217326,504,0,1861,0,0,541,2,15,1,49,9,2013,27286,184998,27,0,0,20,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,695,484,0,0,0,0,0,93,1,0,0,0,0,9,19,89,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,202,12,0,0,7,1,3,8,2,0,0,0,0,2,4,148,0,12,3,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,315,0,0,0,0,0,0,0,0,0,0,0,0,0,315,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,2096,86,0,11,0,0,0,0,0,0,0,37,1,195,0,1766,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,80,14,0,52,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,15,0,0,0,0,0,0,1,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,107,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,714,6,1,0,0,0,0,0,2,0,0,0,0,18,1,684,0,0,2,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,13721,13135,0,271,91,0,2,0,58,0,0,3,17,0,13,0,0,129,0,0,2,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2000,1378,141,0,1126,0,0,1,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,833,430,0,0,0,0,0,0,0,0,0,0,0,0,403,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,551,0,0,0,0,0,0,0,0,15,0,0,0,35,0,0,0,501,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,36,0,0,9,0,0,0,24,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,2581,2291,0,0,0,0,0,0,0,0,0,0,1,23,266,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,170,10,0,0,0,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,377,0,0,336,0,0,0,0,0,0,0,0,0,21,0,20,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,622,0,138,71,85,0,284,12,16,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,105,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,700,0,0,0,0,0,0,0,0,0,0,0,0,158,0,37,0,0,505,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,7,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,24298,23895,0,2,0,0,0,0,0,0,0,0,0,18,13,308,0,15,47,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,15684,15151,1,5,0,0,4,35,24,0,2,0,169,95,2,73,0,0,123,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,41,22,0,0,0,0,0,0,0,0,0,0,0,4,15,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,475,475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,387,0,0,0,0,0,0,0,0,0,0,0,0,44,343,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,139,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,55,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,698,116,0,0,0,0,0,536,0,0,0,0,0,4,41,0,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,84,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,235778,294,0,404,0,3,353,0,44,0,144,2032,1155,24166,207142,38,0,0,3,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,275,88,0,0,0,0,0,0,0,0,0,0,0,0,187,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,174,6,0,1,0,0,1,3,2,0,0,0,0,3,22,127,0,5,4,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,596,15,0,11,0,0,0,0,0,0,0,27,0,129,0,414,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,3742,0,0,0,0,0,3742,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,8,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,862,831,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,298,0,0,0,64,0,0,0,13,0,2,0,0,0,0,219,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,23918,23287,57,12,0,13,1,30,128,4,0,38,0,3,3,29,0,313,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,834,168,0,331,0,0,280,0,0,0,0,30,0,25,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2001,46407,0,0,46357,0,0,0,0,0,0,0,0,48,0,0,2,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,8488,8400,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,27,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,20,0,0,5,0,0,0,11,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,728,648,0,0,0,0,0,0,0,0,0,0,0,8,56,0,0,0,16,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,1674,35,0,1539,0,0,0,0,0,0,0,0,7,93,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,703,0,0,0,0,0,0,0,0,703,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,151,14,66,0,49,0,0,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,74,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,121,1,0,0,0,0,0,0,0,0,0,1,0,23,0,0,0,0,96,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,40,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,12040,11832,0,0,0,0,0,0,0,0,0,0,0,0,0,208,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,15544,14755,0,2,0,0,4,35,21,0,2,23,114,130,17,327,0,0,114,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,3695,3646,0,22,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,2681,0,0,0,0,0,0,0,0,0,0,0,112,101,2468,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,117,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,18,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,290,150,0,0,0,0,0,115,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,74,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,525,6,0,0,0,0,0,0,136,0,0,0,0,0,383,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,110,0,55,0,0,0,0,2,0,0,0,0,0,12,31,0,0,0,10,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,18,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,45,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,1125,1,0,0,42,0,1,22,13,0,0,0,0,1,576,295,0,174,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,78,52,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,129,77,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,35,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,39,0,0,6,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,195,6,85,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,142,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,172,140,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,169,169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,347,13,0,0,0,0,0,0,0,0,0,0,22,0,0,290,0,22,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,22471,17233,42,0,0,27,4200,3,81,21,0,22,4,0,18,219,0,583,18,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,3285,0,222,1122,0,0,261,0,0,0,0,1680,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2002,65512,0,0,62519,0,0,5,0,114,0,0,0,119,4,0,125,0,2600,26,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,92,43,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,43,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,19,0,0,6,0,0,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,5734,5691,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,59,2,2,1,0,0,0,3,4,0,0,8,0,0,0,0,0,4,5,30,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,6648,1,0,6576,0,0,0,0,0,0,0,0,19,0,0,0,0,52,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,93,40,2,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,205,128,0,0,0,0,0,0,0,0,0,0,0,74,3,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,28,20,0,0,0,0,0,0,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,1818,0,0,0,0,0,0,0,0,0,0,1,0,0,16,1601,0,0,200,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,22575,22288,0,1,0,0,0,0,0,0,0,0,0,0,13,273,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,10882,10211,40,89,0,0,1,22,24,0,2,0,70,96,1,206,0,0,120,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,4152,4121,0,8,0,0,0,0,16,0,3,0,3,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,298,5,0,0,0,34,0,0,6,0,0,0,71,0,182,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,464,0,0,0,0,0,0,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,69,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,33,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,413,157,0,0,0,0,0,178,0,45,0,0,3,29,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,1479,0,0,0,270,0,0,3,67,0,0,0,0,1139,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,286017,505,0,415,0,22,37,16,3,0,390,402,1156,23834,254584,4642,0,0,11,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,2059,0,0,0,0,0,0,0,0,0,0,0,1,103,0,1955,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,1609,18,0,0,0,0,9,36,0,0,0,0,0,1,475,812,0,258,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,104,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,37,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,4,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,68,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,88,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,53,21,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,289,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,162,0,0,0,0,0,0,19,0,0,0,0,0,0,0,143,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,16762,15483,20,25,0,26,5,23,79,0,0,100,3,0,47,378,0,515,58,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2003,1810,899,0,119,0,0,112,0,0,0,0,611,0,69,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,1170,175,0,5,0,0,0,0,0,0,0,0,12,0,485,0,0,493,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,21,0,0,3,0,0,0,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,6368,6329,0,23,0,0,0,0,0,0,0,0,1,2,10,0,0,3,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,1999,0,0,0,0,0,0,0,0,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,3492,13,0,2740,0,0,0,0,26,0,0,0,67,0,0,78,0,568,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,50,0,24,0,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,3167,2020,0,0,0,0,0,1067,0,0,0,0,0,79,0,1,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,328,0,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,372,1,0,0,0,0,0,0,0,0,0,0,0,0,0,354,0,0,17,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,11123,10341,0,5,0,0,2,9,17,0,1,5,142,157,2,276,0,1,165,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,422,395,0,12,0,0,0,0,0,0,10,0,0,1,4,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,36,13,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,132,0,0,0,0,0,0,0,0,0,0,0,0,70,0,26,0,0,36,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,381,139,0,0,0,0,0,225,0,0,0,0,13,4,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,84,0,0,0,0,0,0,9,21,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,301598,371,0,482,0,34,5,28,28,0,370,1136,1633,21602,273783,2086,0,0,40,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,2367,0,0,0,0,0,0,0,0,0,0,0,0,1014,0,1353,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,684,3,0,3,0,0,0,38,44,0,0,0,0,16,125,289,0,166,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,53,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,37,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,1,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,79,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,94,93,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,154,35,0,1,0,0,0,0,0,0,0,0,18,100,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,478,19,0,1,0,0,0,0,0,0,0,0,0,0,0,458,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,59386,58284,8,40,0,13,8,33,49,0,2,122,80,4,31,536,0,152,24,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,7206,2196,0,3128,6,0,640,10,0,0,0,1164,0,28,34,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2004,33156,0,0,31278,0,0,0,0,0,0,0,0,110,934,0,76,0,689,69,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,1815,507,0,0,0,0,0,0,0,0,0,0,0,0,344,0,0,964,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,25,0,0,10,0,0,0,12,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,11857,11707,47,23,0,0,0,40,0,0,0,0,6,16,18,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,3043,30,0,2785,0,0,3,11,2,0,0,0,9,15,0,30,0,158,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,289,0,0,0,192,0,0,0,0,0,0,0,0,93,0,4,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,9,0,0,0,0,0,2,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,12,20,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,6647,5672,0,8,0,0,4,14,18,0,1,0,93,102,50,523,0,0,162,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,1070,1046,0,0,0,0,0,0,2,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,15,8,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,76,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,19,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,117,48,0,0,0,0,0,65,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,1796674,0,0,0,0,0,0,1,0,0,0,0,0,1796673,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,299358,420,0,88,0,22,22,31,36,225,424,208,2099,15622,279658,483,0,0,20,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,17,1,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,72,0,0,42,0,0,0,2,0,0,0,6,0,0,0,21,0,0,1,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,439,4,1,0,0,0,0,0,70,0,0,0,0,56,8,298,0,2,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,64,22,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,6,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,14,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,71,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,274,274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,70,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,134,0,0,0,0,0,0,0,0,0,0,0,19,115,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,21949,21483,3,54,94,10,8,110,35,0,0,0,37,2,52,53,0,0,8,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,7844,286,0,5032,1,0,1678,0,0,0,0,847,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2005,22565,0,0,21611,0,0,0,0,0,0,0,300,40,62,0,16,0,536,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,2066,492,0,0,0,0,0,0,0,0,0,0,46,55,146,0,0,1327,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,88,5,0,0,0,0,0,36,38,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,293,0,0,23,0,0,0,13,1,0,0,0,1,0,0,255,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,9300,9252,25,2,0,0,0,0,0,0,0,0,0,2,0,19,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,3643,17,0,2328,0,0,2,1,8,0,0,0,43,4,0,38,0,1202,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,579,0,0,0,0,0,0,0,0,579,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,100,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,1131,4,0,0,0,0,0,1020,0,0,0,0,5,102,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,18,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,114,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,369,180,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,188,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,23012,21696,0,12,0,0,4,52,24,0,1,0,183,167,2,652,0,0,219,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,1077,634,0,115,0,0,99,187,0,0,1,0,0,7,0,34,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,27,0,0,6,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,89,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,36,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,177,121,0,0,0,0,0,36,0,0,0,0,18,2,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,63,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,28,0,0,13,0,0,0,3,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,336672,838,0,160,0,43,32,60,9,195,218,1872,2872,14158,315482,682,0,0,51,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,55,6,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,216,42,21,82,0,0,0,7,1,0,0,0,11,0,31,21,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,118,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,1229,4,0,0,1,0,5,5,51,0,0,0,0,12,67,1027,0,56,1,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,113,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,61,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,22,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,203,0,0,0,0,0,0,0,21,0,0,36,0,0,0,96,0,50,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,559,436,0,0,1,0,0,5,109,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,614,602,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,135,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,42688,42307,2,3,5,1,0,29,6,0,0,49,0,0,0,18,0,268,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,372,372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,6906,177,0,544,0,0,5808,0,0,0,0,377,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2006,34796,0,0,34105,0,0,0,0,61,0,0,184,59,183,0,0,0,0,204,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,2303,56,0,19,0,0,0,0,0,0,0,0,0,0,295,20,0,1913,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,158,0,0,0,0,0,0,8,0,0,0,0,0,0,46,0,0,104,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,490,0,0,11,0,0,0,24,0,0,0,0,1,0,0,300,0,154,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,26,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,6322,6073,23,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,210,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,1739,201,17,23,0,0,1,14,2,0,1,344,0,458,0,41,0,45,20,572,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,5848,29,0,3379,0,0,1,1,2,0,0,0,129,14,12,15,0,2191,75,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,175,0,0,0,0,0,0,0,0,175,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,13262,13200,0,0,50,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,1003,10,0,0,0,0,0,697,0,0,1,0,0,122,0,0,0,0,173,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,4406,4312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,47,0,0,11,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,4711,4232,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0,466,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,22930,22036,1,10,0,0,7,61,32,0,1,0,185,121,2,157,0,75,242,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,2900,2320,0,101,0,0,38,297,0,0,0,0,82,1,0,61,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,177331,809,0,753,0,0,1108,0,16,0,362,0,8351,32056,133858,18,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,54,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,18,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,165,144,0,0,0,0,0,17,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,120,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,11,0,0,0,0,0,0,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,320743,931,0,281,0,45,63,58,26,0,150,3119,3222,15369,296942,444,0,0,93,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,37,3,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,96,0,0,68,0,0,0,1,4,0,0,0,0,6,15,2,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,34,9,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,2567,4,0,0,0,0,1,13,121,0,0,0,0,1,42,2278,0,107,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,14,6,0,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,86,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,48,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,484,407,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,320,260,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,790,0,0,0,0,0,0,0,0,0,0,524,228,0,0,38,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,22686,21946,29,40,0,0,6,1,19,16,0,29,0,7,40,295,0,250,8,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2007,23520,9182,2,4585,0,0,3863,3,2,0,0,5883,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,19389,17570,0,0,0,0,0,0,0,0,0,0,0,168,24,0,0,1579,48,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,148,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,106,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,285,0,0,14,0,0,0,5,0,0,0,0,0,0,0,266,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,11479,10988,0,46,0,0,0,0,0,0,0,0,0,0,0,170,0,225,50,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,548,90,0,0,0,0,1,2,1,0,0,30,0,9,0,100,11,48,1,266,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,7246,734,0,2093,0,0,5,4,56,0,0,0,25,17,0,24,0,4288,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,999,14,0,29,0,0,0,694,142,0,0,0,10,110,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,1643,1557,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,4692,4521,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,152,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,11182,10443,0,7,0,0,1,49,23,0,3,0,192,122,0,180,0,77,85,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,3488,3085,0,182,0,0,0,32,0,0,0,0,99,89,0,1,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,215198,1020,0,8011,0,0,1196,0,1755,2,717,0,12220,28548,161657,72,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,142,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,118,17,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,443,232,0,0,0,0,0,185,0,0,0,0,5,21,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,1048,258,0,0,0,0,0,0,0,0,0,0,0,14,768,0,0,0,8,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,39,4,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,307,10,1,48,0,0,1,7,4,0,0,0,14,90,47,14,0,43,4,24,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,41,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,2982,5,0,2,19,0,0,1,51,0,0,0,0,38,32,2673,0,154,7,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,73,0,0,0,0,0,10,0,0,0,0,34,0,0,0,0,0,25,4,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,39,1,0,8,0,0,0,0,0,0,0,0,4,0,0,0,0,0,26,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,750,700,1,1,0,0,2,2,40,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,341,156,0,11,0,0,0,0,0,0,0,0,1,103,0,70,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,25,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,72,0,0,0,0,0,0,0,2,0,0,0,20,50,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,420,0,0,0,0,0,0,0,0,0,0,391,1,20,0,8,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,69,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,7860,6507,19,50,1,1,36,267,169,0,0,80,8,9,54,359,1,295,5,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,76,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,21945,5876,0,2139,1,0,2249,0,2,0,0,11593,0,0,21,64,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,2333,50,0,24,0,0,0,0,0,0,0,0,4,307,50,0,0,1848,50,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,72,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,44,0,0,11,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,4587,4518,25,0,0,0,0,22,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,713,82,0,1,0,0,2,1,15,3,0,504,0,1,2,47,0,0,3,52,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,25713,225,0,24055,0,0,0,0,49,0,0,0,0,10,0,0,0,1347,27,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,7026,7001,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,30,29,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,2276,720,0,76,0,0,0,1109,106,0,0,0,0,232,0,33,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,6,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,3748,3356,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,383,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,45,29,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,3484,3456,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,26,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,28496,27615,0,17,0,0,6,67,26,0,1,0,172,125,15,157,0,1,294,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,3960,3499,0,390,0,0,0,0,1,0,0,0,5,62,0,3,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,85,6,0,0,0,0,0,0,0,0,0,0,5,0,74,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,350,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,332,17,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,662,508,0,0,0,0,0,122,0,0,0,0,0,7,0,0,0,25,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,1799,262,0,0,0,0,0,1,0,0,0,0,0,0,1536,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,62,6,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,174,4,0,0,0,0,0,0,0,0,0,0,14,1,0,15,0,140,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,68,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,354,156,0,15,0,0,0,0,171,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,2002,8,0,1,17,0,0,7,13,0,0,0,0,20,41,1733,0,154,8,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,191,0,0,0,0,0,13,1,0,0,0,17,0,128,7,0,0,25,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,1975,250,0,0,0,0,0,0,0,0,0,0,0,1725,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,487,256,0,4,0,0,0,0,0,0,0,0,0,0,0,71,0,156,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,255,23,0,0,0,0,0,19,0,0,0,66,0,0,0,54,0,93,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,1028,135,37,0,0,0,158,24,74,0,0,11,6,0,22,94,0,440,27,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,378,0,0,0,0,0,0,0,0,0,0,0,0,34,27,0,0,317,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,12278,0,0,1979,0,2,2515,0,0,0,0,7756,0,0,0,0,0,26,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2009,5847,0,0,4893,104,0,0,0,0,0,0,748,63,20,0,19,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,10155,8112,0,29,0,0,0,0,0,0,0,0,210,105,0,16,0,1564,119,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,216,0,0,9,0,0,0,0,0,0,0,0,1,0,0,206,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,6422,5985,50,0,0,0,0,0,0,0,0,0,0,6,0,17,0,100,264,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,1280,351,5,0,0,0,0,4,1,0,0,415,0,205,0,7,0,164,4,124,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,3804,550,0,2153,0,0,0,0,0,0,0,0,23,0,0,0,0,1078,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,8179,8101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,3025,720,0,309,168,0,0,1474,0,0,0,0,2,344,0,8,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,18,3,0,0,1,1,5,0,0,0,0,0,0,6,1,1,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,563,5,0,0,0,0,0,0,0,6,0,0,0,0,0,111,0,0,441,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,6,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,7624,7452,0,0,0,0,0,0,0,0,0,52,0,30,37,1,0,51,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,24355,23274,1,16,0,0,5,90,30,0,1,0,233,170,0,208,0,0,327,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,2848,2093,0,660,0,0,0,0,1,0,0,0,5,26,0,63,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,656,0,0,0,0,0,0,0,1,0,0,0,0,0,655,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,677,544,0,0,0,0,0,54,0,0,0,0,0,0,0,29,0,50,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,103,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,568,364,0,0,0,0,0,0,0,0,0,0,0,0,204,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,303,7,0,69,0,0,0,4,4,0,0,0,19,15,1,47,56,6,131,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,631,181,0,7,0,0,0,4,410,0,0,0,0,3,0,26,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,9,0,2,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,1746,0,0,1,3,0,0,4,2,0,2,1,0,1,183,1549,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,95,0,0,0,0,0,2,0,0,0,0,49,0,23,10,11,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,2390,1083,0,0,0,0,0,0,66,0,0,0,0,1241,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,738,491,0,2,0,0,0,0,0,0,0,0,0,0,0,28,0,217,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,299,23,0,0,0,0,0,0,3,0,0,132,0,0,0,93,0,48,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,64,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,8221,7535,12,0,0,20,0,0,1,0,0,113,16,0,8,2,0,455,59,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,21606,336,0,5248,0,0,5941,0,14,32,2,10022,0,11,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2010,251,3,0,4,0,0,0,5,9,0,0,84,70,21,0,55,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,10720,8259,0,8,0,0,0,0,0,0,0,0,190,8,24,20,0,2124,87,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,281,0,0,10,0,0,0,0,0,0,0,0,1,0,0,242,0,0,28,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,7443,7417,0,10,0,0,0,0,0,0,0,0,0,0,0,15,0,0,1,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,3835,31,1,4,0,3,0,13,94,0,0,3628,0,40,1,6,0,5,8,1,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,6650,2215,0,2802,0,0,0,0,0,0,0,0,0,24,0,0,0,1609,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,8575,8500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,82,14,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,2373,240,0,947,24,0,0,484,35,0,8,0,0,625,0,10,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,50,1,0,0,1,0,7,0,0,0,0,0,0,3,0,38,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,37,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,1008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,967,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,44,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,33,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,7334,7181,24,0,0,0,0,0,0,0,0,70,0,40,0,0,0,17,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,49193,48090,2,27,0,0,5,105,47,0,2,0,200,131,4,170,0,57,353,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,8936,8385,0,330,0,0,4,0,0,17,0,0,16,37,0,147,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,118,5,0,0,0,0,0,0,0,0,0,0,0,14,99,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,382,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,333,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,664,511,0,0,0,0,0,38,0,0,0,0,0,7,58,25,0,25,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,76,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,909,98,0,0,0,0,0,0,0,0,0,0,0,17,622,0,0,0,172,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,155,8,0,0,0,0,0,6,1,0,1,0,20,6,15,62,94,36,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,146,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,749,724,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,868,8,0,12,0,0,0,15,0,0,0,0,0,18,150,553,0,112,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,849,0,0,0,0,0,0,0,0,0,0,0,0,10,839,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,263,12,0,0,0,0,15,1,0,0,0,34,0,0,26,0,0,175,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,4081,2350,0,1500,0,0,0,0,32,0,0,0,0,0,0,113,0,0,86,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,415,316,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,544,0,0,0,0,0,0,20,0,0,0,0,0,2,0,412,0,110,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,31748,24882,10,0,0,0,0,60,47,0,0,198,76,0,2,12,0,6428,33,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,896,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,821,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,35295,19659,0,4313,0,0,558,0,14,0,1,10686,0,61,0,0,0,0,3,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2011,847,3,0,39,0,0,0,0,0,0,0,224,75,18,0,488,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,28065,25480,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0,2127,296,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,386,0,0,9,0,0,0,0,0,0,0,0,0,0,0,357,0,0,20,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,10035,9783,0,23,0,0,0,0,0,0,0,0,0,17,0,15,0,179,18,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,455,126,23,4,0,1,0,21,72,0,2,5,5,12,3,52,0,96,15,18,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,7596,1500,0,4142,0,0,0,0,0,0,0,0,14,38,0,0,0,1902,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,18200,18002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,171,0,0,0,0,137,0,0,0,0,0,0,0,15,0,0,0,19,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,3858,0,0,517,49,0,2,2663,0,0,0,0,0,617,0,10,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,18,3,0,0,0,0,8,1,0,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,3983,3617,0,0,0,0,0,0,0,0,0,0,0,11,0,4,0,27,324,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,8014,7806,25,0,0,0,0,0,0,0,0,79,0,34,0,6,0,49,15,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,24637,23242,0,29,0,0,6,93,41,0,1,0,225,237,7,303,0,50,403,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,17209,13509,0,3596,0,0,0,0,0,0,0,0,3,7,20,74,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,213,1,0,0,0,0,0,0,0,0,0,0,0,66,146,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,627,0,0,0,0,0,0,0,0,0,0,0,0,60,174,0,0,393,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,296,175,0,0,0,0,0,94,0,0,0,0,1,16,7,2,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,113,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,944,173,0,0,0,0,0,0,0,0,0,0,0,0,672,0,0,0,99,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,127,13,0,0,0,0,0,97,1,0,0,0,0,0,0,0,0,1,15,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,67,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,790,382,0,0,0,0,0,0,0,0,0,0,11,0,0,107,132,270,20,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,157,105,0,41,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,931,18,0,0,0,1,0,14,2,0,0,0,0,1,28,838,0,29,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,2091,0,0,0,0,0,0,0,0,0,0,0,0,63,2028,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,10581,829,562,6495,1,1,14,889,634,0,58,118,5,183,614,81,17,0,72,25,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,64,0,0,0,0,0,20,0,0,0,0,33,0,0,10,1,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,2119,1400,0,0,0,0,0,0,227,0,0,0,0,420,0,50,0,0,22,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,646,502,0,26,0,0,0,0,0,0,7,0,23,16,16,0,0,56,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,2355,1904,0,0,0,0,0,0,0,0,0,25,2,0,0,272,0,152,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,23457,18686,28,0,0,0,0,21,15,0,0,36,75,0,4,11,0,4578,3,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,522,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,496,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,57553,40466,1,3901,0,0,5202,5,0,0,7,7934,4,30,0,0,0,3,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,75,9,0,0,0,0,0,0,0,0,1,0,65,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,1853,1,0,5,0,0,0,0,0,0,0,0,29,56,0,20,0,1598,144,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,17480,17050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,430,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,350,0,0,16,0,0,0,0,0,0,0,0,1,0,0,320,0,0,13,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,3241,3022,0,0,0,0,0,145,1,0,0,1,0,1,0,41,0,27,3,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,520,10,2,40,0,0,0,11,3,0,1,330,0,22,1,40,0,24,7,29,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,8319,1005,0,5205,0,0,0,0,0,0,0,0,19,10,0,0,0,2080,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,14430,14233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,3696,13,0,118,0,0,3,2340,0,0,0,160,0,1057,0,5,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,14,1,0,0,0,0,7,1,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,6745,6480,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,27,232,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,26,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,6051,5979,0,0,0,0,0,0,0,0,0,39,0,30,0,2,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,35688,34303,0,29,0,0,9,91,28,0,1,0,193,194,1,377,0,155,307,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,28716,27198,0,1384,0,0,0,0,0,0,0,0,33,34,0,67,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,201,0,0,5,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,344,111,0,0,0,0,0,134,0,0,0,0,2,8,27,11,0,51,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,118,0,0,0,0,0,0,0,0,0,0,0,0,118,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,41,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,44,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,2912,174,0,0,0,0,0,0,0,0,0,0,10,5,2698,0,0,0,25,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,124,31,0,0,0,0,0,74,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,2801,2654,50,0,0,0,0,0,0,0,0,0,25,0,0,72,96,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,318,52,0,185,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,878,30,0,1,0,0,1,24,18,0,0,0,0,17,26,722,0,37,2,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,1045,0,0,0,0,0,0,0,0,0,0,0,0,0,1045,0,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,1716709,274173,26231,135744,680,336,891,28583,65771,82,4198,124577,4763,770598,25906,202773,385,18472,32883,48,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,96,0,0,0,0,0,11,1,0,0,0,51,0,0,8,0,0,25,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,14496,1435,0,12850,0,0,0,10,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,951,895,0,7,0,0,0,0,0,0,0,0,9,14,0,0,0,26,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,779,2,0,1,0,0,0,0,0,0,0,189,2,7,0,304,40,274,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,14360,12199,0,2,0,0,0,0,2,0,0,20,73,0,0,11,0,2053,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,545,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,519,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,31867,2916,0,5040,7,0,9706,0,0,219,26,13873,11,0,0,44,0,25,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,343,0,0,0,0,0,0,0,0,0,0,284,34,0,0,0,0,0,25,0,0,0,0,0

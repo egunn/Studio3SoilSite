@@ -1,0 +1,596 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,6683,2731,31,549,0,0,2,53,384,0,2,57,16,168,146,2282,0,58,204,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,393,14,54,57,0,0,0,152,11,0,0,0,6,0,1,2,76,16,80,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,63,19,0,4,0,0,4,0,9,0,0,0,0,2,0,25,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,6,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,61,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,40,19,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,170,97,0,11,0,0,0,0,0,0,0,0,5,4,53,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,446,120,0,10,0,1,0,9,5,0,1,0,0,17,150,129,0,3,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,9,0,0,0,0,0,0,0,0,0,0,0,8,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,4,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,87,0,0,1,0,0,0,0,1,0,0,0,0,0,0,48,0,37,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,393,14,54,57,0,0,0,152,11,0,0,0,6,0,1,2,76,16,80,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,17,1,0,0,0,0,0,0,3,0,0,0,0,10,2,1,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1986,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,5830,2375,103,21,0,0,0,103,104,0,2,849,18,32,123,1798,0,90,212,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,60,5,0,0,0,0,24,0,15,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,127,3,0,0,0,0,11,3,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,28,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,181,83,0,11,0,0,0,0,0,0,0,0,5,8,72,0,2,2,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,269,20,1,7,0,0,3,2,0,0,1,0,1,8,82,144,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,22,3,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,311,1,42,0,1,0,0,126,2,0,0,0,2,0,0,4,69,28,105,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,13,3,0,0,0,0,3,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1987,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,4541,3094,79,33,0,0,9,149,140,0,6,183,8,49,105,422,0,84,180,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,1138,0,1138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,51,26,0,5,0,0,12,0,0,0,0,0,0,2,0,2,0,4,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,130,5,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,276,61,0,28,0,0,0,1,4,0,1,0,10,17,106,0,0,48,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,281,1,0,14,0,0,1,4,0,0,1,0,0,4,124,92,0,40,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,1109,3,0,1,0,0,0,0,0,0,0,0,0,1,1,1089,0,9,5,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,4,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,24,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,408,2,64,0,0,0,0,106,16,60,0,0,1,15,0,18,14,33,93,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,51,7,0,1,0,3,19,0,0,0,0,0,0,10,11,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1988,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,6905,3102,10,1022,0,0,7,56,58,1,4,367,13,37,83,1877,0,52,216,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,1091,0,0,0,0,0,0,0,0,0,0,1091,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,81,16,0,2,0,0,9,4,2,0,0,0,0,6,0,3,0,39,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,206,6,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,242,44,0,108,0,0,0,1,2,0,0,0,4,12,45,0,0,23,3,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,271,1,0,8,0,0,1,7,0,0,0,0,1,13,43,173,0,24,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,102,1,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,5,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,8,3,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,404,2,64,0,0,0,0,102,16,60,0,0,1,15,0,18,14,33,93,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,37,0,0,3,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1989,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,5617,2447,72,227,0,0,8,55,91,0,1,977,16,62,116,1299,0,58,188,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,83,21,0,4,0,0,30,3,1,0,0,0,0,16,0,0,0,8,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,112,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,164,68,0,10,0,0,0,1,3,0,0,0,8,18,45,0,0,11,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,200,0,0,0,0,0,2,4,0,0,0,0,0,3,56,133,0,2,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,364,6,0,1,0,0,0,1,0,0,0,0,0,0,0,350,0,3,3,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,17,0,0,0,0,0,0,0,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,45,15,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,4,3,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,604,24,64,3,0,0,0,180,7,0,0,0,0,0,0,16,17,16,294,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,33,0,0,0,0,0,0,0,0,0,0,0,0,4,0,29,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,4954,2210,101,421,161,0,7,75,97,0,4,294,13,32,117,1066,0,161,195,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,116,28,0,9,0,0,54,2,2,0,0,0,0,11,0,1,0,9,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,107,3,0,0,0,0,5,1,1,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,420,339,0,15,0,0,0,0,0,1,0,0,4,17,26,1,0,17,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,251,0,0,5,0,0,0,4,0,0,0,0,0,1,52,164,0,0,25,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,265,2,0,0,0,0,0,3,0,0,0,0,0,0,0,250,0,5,5,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,1757,0,0,0,0,0,1757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,140,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,31,0,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,560,11,77,44,0,0,0,182,24,0,0,0,0,0,23,16,52,12,171,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,34,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,4780,1244,85,296,841,0,9,72,102,0,3,171,23,36,140,1171,0,239,348,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,63,1,0,2,0,0,28,3,0,0,0,0,0,12,0,0,0,17,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,57,1,0,0,0,0,16,1,0,0,0,0,0,0,0,1,0,38,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,204,0,0,5,0,0,1,5,1,0,0,0,0,0,59,128,0,0,5,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,21,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,880,0,3,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,665,12,90,0,0,0,0,201,90,0,0,0,0,0,47,58,128,8,159,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1992,12,0,0,0,0,0,0,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,4504,1552,73,56,318,2,2,126,89,0,4,137,15,56,113,1341,0,282,338,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,300,0,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,178,6,0,4,0,0,45,2,0,0,0,0,0,28,0,92,0,1,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,82,7,0,0,0,0,8,0,2,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,180,0,0,5,0,0,1,1,0,0,0,0,0,0,59,114,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,27,0,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,11,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,805,71,80,15,0,0,0,168,67,0,0,4,2,0,17,183,82,6,192,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1993,41,26,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,487,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,5991,2430,177,481,0,0,9,293,73,0,1,233,35,163,195,1027,0,440,434,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,169,5,0,5,0,0,29,3,0,0,0,0,0,32,0,90,0,5,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,138,2,0,0,0,0,44,0,0,0,0,0,0,15,2,0,0,75,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,927,801,0,77,0,0,0,0,0,0,0,0,6,7,23,5,0,8,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,202,3,0,8,0,0,0,8,3,0,0,0,2,5,50,120,0,3,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,255,0,5,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,859,94,37,11,0,0,0,161,48,0,0,0,1,0,8,266,93,2,231,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1994,38,0,0,0,0,0,0,0,0,0,0,36,2,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,4992,1934,74,548,0,0,0,172,53,0,1,2,21,177,116,1056,0,472,366,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,104,5,0,4,0,0,24,2,0,0,0,0,0,19,0,49,0,1,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,94,0,0,0,0,0,9,0,0,0,0,0,0,10,0,0,0,75,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,22,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,243,2,0,2,0,0,0,3,0,0,0,0,2,15,45,170,0,4,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,15,0,10,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,13,2,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,21,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,935,85,92,3,0,0,0,145,35,0,0,1,2,1,2,367,75,15,187,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,190,12,0,1,0,0,1,2,7,0,0,0,2,1,139,25,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1995,56,0,0,0,0,0,0,14,0,0,0,40,0,0,0,2,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,5821,2521,105,430,0,0,4,105,77,0,2,271,42,62,106,1110,0,481,505,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,39,6,0,8,0,0,8,3,0,0,0,0,0,11,0,1,0,2,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,107,5,0,0,0,0,27,0,0,0,0,0,0,22,0,0,0,53,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,198,4,0,0,0,0,0,16,2,0,0,0,1,16,60,98,0,1,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,5,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,1418,96,132,4,0,0,0,220,38,0,0,0,1,2,1,735,90,6,183,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,3,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,231,11,0,6,0,0,0,0,12,0,0,0,1,2,170,27,0,2,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,333,0,0,0,0,0,0,0,0,0,0,0,0,333,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1996,29,0,0,0,0,0,0,2,20,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,6020,2776,60,583,0,0,0,118,59,0,4,38,37,88,148,1100,0,501,508,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,50,4,0,6,0,0,11,4,0,0,0,0,0,22,0,3,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,100,1,0,0,0,0,18,0,0,0,0,0,0,19,0,0,0,62,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,306,14,4,1,0,0,0,10,3,0,0,0,15,47,76,134,0,2,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,14,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,1260,97,139,4,0,0,0,227,47,0,0,0,1,1,1,545,99,7,191,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,251,14,0,7,0,0,1,0,8,0,0,0,1,0,107,111,0,0,2,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,7230,3407,66,829,3,0,0,81,121,0,7,7,43,74,198,1144,0,622,628,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,30,3,0,0,0,0,9,5,1,0,0,0,0,6,4,2,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,105,0,0,0,0,0,37,0,0,0,0,0,0,35,0,9,0,24,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,271,1,0,0,0,3,0,10,0,0,0,0,1,27,58,151,0,19,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,28,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,40,0,0,0,0,0,0,0,0,0,0,0,0,0,14,26,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,953,101,170,1,0,0,1,247,47,0,0,0,2,1,0,147,125,6,230,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,398,18,0,8,0,0,0,4,29,0,0,0,0,0,134,176,0,0,29,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1998,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,7015,3086,30,1127,0,0,0,83,61,0,4,43,35,75,222,996,0,749,504,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,190,0,0,0,0,0,0,0,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,18,5,0,0,0,0,2,1,1,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,155,0,0,0,0,0,38,0,0,0,0,0,0,25,0,12,0,80,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,172,1,0,0,0,0,1,15,2,0,0,0,2,13,66,65,0,7,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,545,3,0,24,0,0,0,0,0,0,0,0,1,0,0,517,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,3,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,34,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,1069,87,164,5,0,0,0,337,72,0,0,0,2,7,1,97,90,7,290,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,228,22,0,17,0,0,0,5,12,0,0,0,1,0,101,64,0,0,6,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,1267,2,0,0,0,0,0,0,0,0,0,0,0,1228,0,37,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,6594,2600,16,1426,0,0,0,109,90,0,2,2,29,287,185,583,0,806,459,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,27,3,0,0,0,0,2,2,2,0,0,0,0,9,8,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,147,0,0,0,0,0,39,0,0,0,0,0,0,24,0,13,0,71,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,1775,1519,0,61,0,0,0,4,0,0,0,0,3,87,13,32,0,47,9,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,139,2,0,1,0,0,0,16,2,0,0,0,3,7,28,75,0,5,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,31,0,0,0,0,0,19,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,81,14,0,2,0,0,0,0,0,0,0,0,0,0,32,32,0,0,1,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,12,2,0,0,0,0,0,8,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,106,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,1224,96,279,45,0,0,0,406,41,0,0,1,2,43,0,27,61,21,263,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,284,14,0,11,0,2,0,8,20,0,0,0,7,0,83,135,0,0,4,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,1295,0,0,0,0,0,0,0,1,0,0,0,0,1294,0,0,0,0,0,0,0,0,0,0
+TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2000,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,6813,2798,1,1609,0,0,0,74,89,0,3,3,9,253,176,603,0,807,388,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,62,0,0,0,0,0,0,13,25,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,16,2,0,1,0,0,3,0,2,0,0,0,0,3,4,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,208,0,0,0,0,0,53,0,0,0,0,0,0,40,0,5,0,110,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,1958,1606,0,59,0,0,1,1,0,0,0,0,11,109,11,7,0,44,109,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,119,4,0,0,0,0,0,7,1,0,0,0,6,4,20,73,0,4,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,39,15,0,4,0,0,0,0,0,0,0,2,0,0,17,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,119,0,0,0,0,0,0,0,0,0,0,0,0,0,104,15,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,40,2,0,1,0,0,0,2,1,0,2,2,2,10,1,10,0,3,4,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,953,28,256,7,0,0,0,308,20,0,0,0,2,21,1,48,23,4,258,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,29,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LC,St. Lucia,country,Latin America and the Caribbean,13.909444,-60.978893,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,158,30,0,11,0,1,0,10,12,0,0,0,1,5,43,42,0,0,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,188,0,0,0,0,0,0,0,3,0,0,0,0,185,0,0,0,0,0,0,0,0,0,0
+TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,7969,3951,17,1834,0,0,0,22,78,0,5,19,14,205,180,423,0,871,350,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,36,5,0,2,0,0,9,0,1,0,0,0,0,4,1,8,0,6,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,222,0,0,0,0,0,31,0,0,0,0,0,0,45,0,0,0,146,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,1557,1157,0,57,0,0,0,2,35,0,1,0,4,62,0,88,0,107,44,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,112,4,0,1,0,0,0,7,1,0,0,0,5,7,38,47,0,1,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,74,15,0,0,0,0,0,0,0,0,0,0,0,0,22,34,0,0,3,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,15,2,0,0,0,0,0,0,0,0,0,0,0,7,0,6,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,62,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,79,4,3,2,0,0,0,6,1,0,0,0,2,22,7,13,0,6,13,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,1080,15,241,16,0,0,0,280,27,0,0,0,1,10,2,249,9,6,233,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,176,18,0,19,0,0,1,0,18,0,0,0,3,8,55,50,0,0,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,6766,2784,0,1815,0,18,0,49,117,0,2,77,18,166,161,379,0,792,388,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,25,3,0,7,0,0,11,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,1207,1020,0,0,0,0,37,0,0,0,0,0,0,30,0,0,0,120,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,2894,2442,33,60,0,0,1,3,2,0,0,0,11,164,27,47,0,92,12,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,207,10,0,0,0,0,0,16,6,0,0,7,7,12,47,97,0,3,2,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,20,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,173,11,0,18,0,0,1,0,0,0,0,0,0,1,141,0,0,0,1,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,14,9,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,117,10,0,0,0,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,50,4,1,0,0,0,0,1,1,0,0,2,2,5,4,9,0,3,18,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,1222,13,252,26,0,0,0,298,66,0,3,0,2,22,7,286,12,9,238,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,274,59,0,19,0,0,0,2,30,0,0,0,13,34,48,64,0,0,5,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,196,23,0,0,0,0,0,0,5,0,0,0,0,167,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,7270,3184,18,1906,0,4,0,82,263,0,2,15,12,220,129,313,0,715,407,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,202,165,0,12,0,0,16,0,2,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,1332,896,0,9,0,0,43,12,3,0,0,0,0,52,0,0,0,317,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,3272,2779,0,66,0,0,0,7,12,0,3,0,3,186,18,70,0,126,2,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,119,4,0,0,0,0,0,3,2,0,0,2,8,28,15,57,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,3,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,46,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,529,32,0,95,0,0,0,0,1,0,0,0,13,27,313,48,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,9,1,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,62,23,0,0,0,0,0,0,0,0,0,0,2,0,16,21,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,41,12,0,2,0,0,0,0,1,0,0,0,1,12,1,7,0,3,2,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,1453,15,305,29,0,0,0,418,98,0,1,0,3,26,24,226,27,39,269,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,48,5,0,0,0,1,0,1,3,0,0,0,0,5,0,33,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,325,57,0,13,0,0,0,8,17,0,2,0,11,73,17,125,0,0,2,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,1885,0,0,0,0,0,1885,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,230,196,0,0,0,0,0,0,22,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,1302,1298,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,6057,2385,22,1587,0,11,0,90,203,0,2,30,13,198,131,357,0,676,352,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,47,24,0,6,0,0,9,2,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,452,0,0,0,0,0,44,12,4,0,0,0,0,73,0,0,0,319,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,4246,3399,0,23,0,0,0,7,3,0,2,0,7,157,22,438,0,186,2,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,236,5,0,0,0,0,0,3,7,0,0,4,2,37,28,132,0,18,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,582,93,0,41,0,0,0,0,19,0,0,0,11,14,306,91,0,0,7,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,19,1,0,0,0,0,0,0,0,0,0,0,0,4,12,2,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,59,33,0,1,0,0,0,0,1,0,0,0,1,0,3,20,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,70,4,0,2,0,0,0,1,1,0,0,40,2,7,0,5,0,5,3,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,1402,14,332,37,0,0,0,395,98,0,0,18,3,19,20,121,32,70,275,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,51,19,0,1,0,0,2,0,0,0,0,0,0,24,0,5,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,333,44,0,7,0,2,0,7,9,0,0,104,22,28,58,50,0,0,2,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,1035,0,0,0,0,0,1035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,374,323,0,0,0,0,0,0,4,0,0,0,1,18,0,25,0,0,3,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,1573,1573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,3981,971,31,1091,0,0,0,100,119,0,2,12,11,175,115,331,0,700,323,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,73,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,15,0,0,7,0,0,5,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,497,0,0,5,0,0,71,4,0,0,0,0,0,153,0,0,0,264,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,6333,5484,4,57,0,0,2,0,0,0,1,41,3,93,17,379,0,246,6,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,221,3,9,0,0,0,0,3,11,0,0,7,2,20,15,145,0,2,4,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,614,13,0,64,0,0,0,0,7,0,0,0,29,19,340,134,0,0,8,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,51,38,0,0,0,0,0,0,0,0,0,0,0,6,1,6,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,89,2,0,1,0,1,0,0,0,0,0,65,1,4,0,5,0,6,4,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,1608,14,386,27,0,0,0,431,107,0,1,7,1,14,15,160,29,173,272,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,296,78,0,34,0,1,0,8,11,0,1,0,23,70,36,32,0,0,2,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,116,29,0,0,0,0,0,0,0,0,2,0,6,2,0,73,0,0,4,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,80,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,5325,1053,0,1838,0,0,0,110,173,0,1,7,11,649,123,426,0,469,465,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,34,9,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,88,66,0,11,0,0,5,0,2,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,502,4,0,7,0,0,163,2,0,0,0,0,0,99,0,32,0,195,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,7809,5950,1,451,0,0,0,5,3,0,1,25,8,237,49,727,0,247,105,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,228,31,17,1,0,0,10,6,3,0,0,17,4,23,18,92,0,4,2,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,926,34,0,106,0,0,0,0,17,0,0,0,11,28,426,292,0,0,12,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,48,13,0,0,0,0,0,1,0,0,0,0,0,5,29,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,96,38,0,4,0,0,0,0,3,0,0,0,0,0,13,38,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,26,2,0,0,0,0,0,1,0,0,0,2,3,5,0,3,0,6,4,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,1964,18,414,45,0,0,0,459,139,0,0,10,3,11,27,215,39,283,340,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,42,7,0,4,0,0,0,0,13,0,0,0,3,15,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,551,160,0,26,0,1,17,12,23,0,1,0,55,62,40,148,0,0,6,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,167,28,0,0,0,0,1,1,1,0,1,98,3,6,0,16,0,0,12,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,6450,1788,1,1637,0,0,1,150,223,0,5,29,20,309,133,443,0,1002,709,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,12,0,0,2,0,0,4,0,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,709,79,0,0,0,0,127,0,0,0,0,0,0,148,0,33,0,322,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,17627,4408,0,601,1,0,0,7,7,0,1,14,8,186,83,11845,26,293,173,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,153,9,0,1,0,0,0,1,1,0,0,10,2,1,32,78,0,17,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,882,60,0,67,0,0,0,45,3,0,0,0,2,33,456,209,0,0,7,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,38,6,0,0,0,0,0,0,0,0,0,0,2,0,30,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,301,73,0,37,0,1,0,1,16,0,0,0,12,29,29,97,0,1,5,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,2027,45,526,23,0,0,1,510,152,0,0,1,3,13,4,193,29,221,335,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,118,48,0,11,0,0,0,0,1,0,0,0,1,17,0,40,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,815,358,0,96,0,1,1,18,73,0,0,0,23,31,27,180,0,0,7,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,481,175,0,231,0,0,0,0,0,0,0,40,9,5,0,19,0,0,2,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,91,46,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2008,370,365,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,5726,1614,3,1267,0,0,0,179,219,0,5,20,20,249,207,392,0,1010,541,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,105,85,0,7,0,0,2,0,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,944,222,0,0,144,0,224,1,0,0,0,44,0,116,0,0,0,193,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,6257,3939,0,582,1,0,0,4,5,0,2,54,6,133,58,884,12,452,137,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,112,8,0,1,0,0,0,11,0,0,0,0,5,1,15,70,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,453,28,0,69,0,0,1,0,3,0,0,0,1,66,220,54,0,0,11,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,7,4,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,301,29,0,18,0,0,0,0,0,0,0,0,10,2,73,169,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,188,3,0,0,0,0,0,1,2,0,0,20,1,24,1,128,0,5,3,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,2392,123,591,33,1,0,0,571,162,0,0,1,3,47,2,278,26,101,479,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,174,35,0,10,0,0,2,0,25,0,0,0,2,44,0,56,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,31,18,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,884,252,2,431,0,0,25,6,26,0,0,0,21,29,38,49,0,0,5,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,536,265,0,203,0,0,1,0,1,0,0,0,11,17,26,11,0,0,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,513,509,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,7830,2106,21,1160,0,3,0,186,378,0,7,92,17,317,197,1021,0,1701,624,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,70,43,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,64,45,0,4,0,0,3,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,427,45,0,0,0,0,40,0,0,0,0,66,0,149,0,0,0,127,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,22754,5494,0,5,0,0,0,16,8,0,1,0,10,189,34,16412,0,399,186,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,371,55,0,1,0,1,0,14,5,0,0,14,13,53,28,186,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,660,57,0,94,0,1,10,0,8,0,0,0,1,48,344,85,0,0,12,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,543,100,0,41,0,1,0,1,13,0,9,0,19,5,191,163,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,92,3,0,0,0,0,0,1,0,0,0,1,2,4,10,61,0,4,6,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,2672,40,638,45,1,0,0,614,146,0,1,3,4,78,0,432,28,173,497,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,74,19,0,8,0,0,0,0,37,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,47,0,0,38,0,0,0,0,0,0,0,0,0,3,0,6,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,1311,224,0,618,0,0,0,13,19,0,1,0,37,102,189,96,0,0,12,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,1694,142,0,883,2,0,3,0,0,0,0,0,5,640,0,16,0,0,3,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,32,3,0,0,0,0,0,22,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,7837,2622,20,664,0,0,0,168,294,0,6,946,18,330,182,392,0,1659,536,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,24,0,8,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,160,33,0,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,26,3,0,4,0,0,4,0,1,0,0,0,0,9,4,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,412,32,0,0,0,0,12,1,0,0,0,44,0,187,0,0,0,136,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,20,0,0,0,0,0,0,1,17,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,7286,5945,0,6,0,0,1,6,25,0,5,53,0,78,34,954,0,102,77,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,1047,192,5,6,0,17,3,89,55,0,0,56,41,159,56,361,0,6,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,52,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,749,55,0,112,0,0,0,0,78,0,0,0,5,74,309,106,0,0,10,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,22,9,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,571,89,0,136,0,0,0,0,55,0,0,0,12,5,135,139,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,121,10,0,33,0,0,0,2,1,0,0,11,6,14,1,1,0,4,38,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,1864,30,454,32,0,0,0,467,145,0,0,1,3,25,7,180,30,191,329,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,122,25,0,6,0,2,0,0,20,0,0,0,4,24,0,41,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,1077,226,0,536,4,1,31,3,46,0,0,0,24,106,22,70,0,0,8,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,5091,241,0,713,1,0,6,0,0,0,0,0,6,4097,2,23,0,0,2,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,220,220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,787,778,0,0,0,0,0,1,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,9063,1990,0,575,0,6,0,221,297,95,5,1786,36,371,222,849,0,1763,847,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,79,0,0,0,0,0,0,16,6,0,0,0,0,0,0,20,0,36,1,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,162,8,0,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,72,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,21,2,0,6,0,0,5,0,1,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,536,0,0,0,0,0,136,0,0,0,0,0,0,181,0,0,0,219,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,6385,5650,0,1,1,0,0,7,11,0,3,90,12,66,19,301,0,74,150,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,604,61,0,7,0,2,1,40,19,0,0,39,43,75,16,291,0,4,6,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,29,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,188,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,756,60,0,95,0,0,1,0,27,0,0,0,2,39,456,72,0,0,4,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,15,11,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,456,46,0,10,0,0,0,0,100,0,0,0,12,1,115,148,0,0,24,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,13,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,2,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,122,9,0,0,0,0,0,0,1,0,1,0,2,7,2,2,0,4,94,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,2559,19,617,51,0,0,0,681,214,0,0,0,1,18,4,120,67,206,628,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,123,8,0,80,0,0,0,0,19,0,0,0,2,7,0,7,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,1995,515,0,605,0,0,24,2,46,0,0,0,83,139,192,373,0,0,16,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,1060,42,0,577,0,0,6,1,4,0,0,13,4,386,4,22,0,0,1,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,121,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,723,716,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,7976,1777,15,528,0,10,0,222,350,0,4,1846,22,361,228,506,0,1188,800,119,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,0,3,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,41,0,10,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,208,0,0,208,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,11,0,0,3,0,0,3,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,542,6,0,0,0,0,76,1,0,0,0,0,0,178,0,25,0,256,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,9623,7123,15,16,2,2,4,37,30,0,3,2,19,164,19,1357,0,595,235,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,782,145,0,7,1,1,2,49,29,0,0,60,28,108,12,329,0,8,3,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,140,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,72,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,149,98,0,50,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,729,67,0,44,0,0,0,0,19,0,0,0,0,16,537,42,0,0,4,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,40,11,0,0,0,0,1,8,0,0,0,0,0,0,6,14,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,410,47,0,2,0,0,0,0,198,0,0,0,8,1,90,64,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,53,5,0,0,0,0,0,0,1,0,1,0,1,4,2,24,0,5,10,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,3192,46,678,109,0,0,0,682,179,0,0,0,4,22,4,151,47,704,613,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,125,7,0,49,0,0,0,0,58,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,2433,556,0,700,0,0,48,2,60,0,0,0,48,116,72,824,0,0,7,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,188,0,0,0,0,0,0,0,4,0,0,0,0,0,0,184,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,1172,69,0,1021,0,0,0,1,4,0,0,0,5,24,1,47,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,513,497,0,0,0,0,0,0,0,0,0,0,2,0,0,14,0,0,0,0,0,0,0,0

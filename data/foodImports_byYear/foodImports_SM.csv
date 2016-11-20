@@ -1,0 +1,84 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1986,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1991,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1991,475,0,0,0,0,0,475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1992,63,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1992,172,0,0,0,0,0,132,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1992,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1993,1088,0,0,0,0,0,36,942,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,131,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,215,0,0,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,555,0,0,0,0,3,12,20,388,48,22,0,0,20,0,42,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,243,0,0,0,0,0,30,30,14,0,0,0,0,0,156,0,0,0,13,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,121,0,0,0,0,31,2,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,180,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1994,83,0,0,0,0,0,0,1,0,0,0,0,51,4,2,12,0,12,1,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,28,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,1,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,189,0,0,0,0,0,0,0,9,0,0,7,0,7,0,0,0,166,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,34,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,378,30,0,77,0,20,0,0,142,14,0,0,46,33,16,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,22,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,247,0,0,0,0,15,34,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1995,57,0,3,0,0,0,0,0,0,0,0,9,0,0,0,17,0,28,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,121,0,0,0,0,0,0,0,4,0,0,30,0,1,0,0,0,86,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,72,0,0,43,0,0,0,0,0,0,0,5,0,8,13,0,0,3,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,264,0,0,0,0,0,0,0,0,0,0,58,0,1,0,0,0,205,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,443,22,0,2,0,66,1,22,106,37,11,0,63,0,0,113,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,598,0,0,0,0,0,124,391,73,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,23,0,0,0,0,0,0,4,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1996,113,0,0,0,0,0,0,0,0,0,0,0,0,12,0,92,0,8,1,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,3322,0,0,0,0,0,0,0,3,0,0,50,0,4,3101,2,0,162,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,47,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,44,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,39,0,0,0,0,0,0,0,0,0,0,0,0,3,0,24,0,9,3,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,520,1,0,0,0,24,0,0,0,0,0,114,0,2,0,19,0,360,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,1147,259,0,5,0,0,0,42,58,0,0,0,613,1,1,10,0,0,158,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,157,0,46,0,0,0,0,28,46,0,0,0,0,0,19,0,0,18,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,47,15,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,199,50,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,73,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1997,50,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,1,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,8424,0,0,0,0,0,0,20,0,0,0,0,0,0,8403,1,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,25,0,0,0,0,0,0,22,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,32,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,27,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,70,0,0,0,0,0,0,0,0,0,0,44,0,0,0,24,0,2,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,124,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,60,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,84,0,21,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,26,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,757,0,0,95,0,0,194,394,54,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,19,4,0,0,0,10,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,2075,2075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1998,90,0,0,42,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,4,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,33,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,65,0,0,0,0,0,0,0,0,0,0,2,0,6,0,32,0,0,25,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,79,0,0,0,0,0,0,1,0,0,0,2,0,3,0,53,0,0,20,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,24,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,23,1,0,3,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,239,0,0,0,0,0,149,59,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,11,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SM,San Marino,country,Europe and Central Asia,43.94236,12.457777,1999,48,0,0,0,0,14,0,0,0,0,0,5,0,29,0,0,0,0,0,0,0,0,0,0

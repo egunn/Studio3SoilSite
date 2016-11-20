@@ -1,0 +1,59 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1986,1488,35,32,5,0,0,0,0,766,0,0,30,0,13,0,576,0,26,5,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1986,479,32,30,30,0,0,0,46,58,0,0,2,8,0,15,16,0,73,169,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1986,479,32,30,30,0,0,0,46,58,0,0,2,8,0,15,16,0,73,169,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1987,1020,32,15,26,0,0,0,52,142,0,0,46,0,7,0,670,0,30,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1987,16,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1987,747,28,29,29,0,0,0,38,63,0,0,2,11,0,19,10,0,95,423,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1988,460,77,2,14,0,0,0,14,0,0,0,79,17,6,3,212,2,30,6,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1988,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1988,576,8,11,3,0,0,0,34,38,0,0,0,5,12,13,12,0,52,388,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1989,701,41,0,10,0,0,0,10,0,0,0,74,15,5,3,498,1,35,10,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1989,27,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1989,576,8,11,3,0,0,0,34,38,0,0,0,5,12,13,12,0,52,388,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1990,1025,10,17,4,0,0,0,2,43,306,0,66,3,6,0,545,2,6,17,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1990,27,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1990,359,20,7,20,0,0,0,44,54,0,0,1,1,0,16,11,0,57,128,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1990,16,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1991,608,12,2,3,6,0,0,3,8,17,0,28,6,3,0,482,3,35,3,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1991,21,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1991,16,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1991,535,68,28,35,0,0,0,59,47,0,0,2,2,0,10,18,0,94,172,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1992,770,74,6,4,11,0,0,6,15,0,0,26,2,4,41,495,1,62,24,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1992,15,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1992,626,56,32,27,102,0,0,63,22,0,0,6,5,0,16,16,0,83,198,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1992,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1993,722,60,2,10,0,0,0,1,6,0,0,49,2,3,14,512,2,63,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1993,64,0,0,0,0,60,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1993,592,62,21,18,1,0,0,39,13,0,0,4,5,0,27,112,0,74,216,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1994,633,79,3,13,0,0,0,14,13,0,0,6,6,5,17,379,0,98,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1994,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1994,462,27,19,14,0,0,0,26,20,16,0,3,4,0,17,99,0,52,165,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1994,21,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1995,965,106,9,5,0,0,0,0,11,0,1,66,1,12,10,622,1,104,18,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1995,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1995,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1995,500,36,16,30,0,0,0,39,80,0,0,6,7,0,12,45,0,49,180,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1995,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1995,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1996,2376,116,23,5,0,0,0,1,14,1003,0,59,1,233,9,790,2,110,12,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1996,9571,0,0,0,0,0,0,0,9571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1996,578,48,12,30,0,0,0,60,82,0,0,7,6,7,17,79,0,26,204,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1997,1085,115,15,0,0,0,0,2,27,0,0,56,1,17,19,718,2,114,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1997,51,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1997,527,21,14,33,0,0,0,51,67,0,0,9,6,4,14,85,0,35,188,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1997,1200,1141,0,0,0,0,0,30,0,0,0,0,0,0,17,0,0,0,12,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1998,1115,129,13,10,0,0,0,7,14,0,0,52,1,17,19,739,3,95,19,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1998,16,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1998,12,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1998,680,45,13,32,3,0,0,53,37,0,0,6,9,0,7,210,0,61,204,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1998,66,0,0,0,0,0,0,27,31,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1999,1291,148,7,11,0,0,0,0,43,42,0,55,0,19,23,829,1,108,6,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1999,307,5,0,0,0,0,0,0,192,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1999,797,31,8,31,3,0,0,66,71,69,0,12,8,0,9,161,0,59,269,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,NF,Norfolk Island,country,East Asia and Pacific,-29.040835,167.954712,1999,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

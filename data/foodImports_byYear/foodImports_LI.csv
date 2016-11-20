@@ -1,0 +1,103 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1986,8,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1986,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1986,1010,0,0,17,265,0,0,237,0,0,0,0,0,491,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1986,91,2,0,0,0,0,0,5,1,0,0,0,0,83,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1986,40,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1987,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1987,381,0,0,0,0,0,0,33,0,0,0,0,0,348,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1988,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1988,236,0,0,0,0,0,0,0,0,0,0,0,0,236,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1988,40,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1988,165,0,0,0,0,0,0,13,44,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1989,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1989,126,65,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1989,143,0,0,0,0,117,0,0,0,0,0,10,0,0,0,0,0,16,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1989,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1990,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1990,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1990,48,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1990,390,0,0,0,0,0,0,0,0,0,0,0,20,370,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1991,338,0,0,0,0,0,0,63,20,0,0,0,0,128,99,0,0,28,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1991,215,0,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1991,68,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1991,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,878,0,0,0,0,0,0,351,215,0,0,0,0,212,95,5,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,328,0,0,328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,383,0,0,0,0,0,0,0,188,0,0,0,0,20,0,0,0,0,175,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,60,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,1293,0,0,0,0,0,0,0,0,0,0,1293,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,448,0,0,0,0,0,0,0,0,0,0,0,0,448,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1992,119,0,0,0,0,0,88,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,26,1,0,0,0,0,0,0,0,0,0,0,0,0,1,24,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,1512,0,0,0,0,0,20,5,1393,0,0,0,0,16,68,10,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,23,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,839,0,0,0,0,0,0,0,0,0,0,0,0,839,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,49,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1993,14,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,32,2,0,0,0,0,0,0,20,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,10,0,0,0,0,0,0,0,0,0,0,0,6,0,0,4,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,609,60,0,15,0,0,0,175,160,0,0,0,2,5,124,48,0,20,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,1300,0,0,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,122,1,0,0,0,0,0,0,21,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,23,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1994,158,0,0,0,0,0,0,0,0,0,0,0,0,158,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,12,0,0,0,0,0,0,0,0,0,2,0,0,10,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,217,147,0,0,0,0,2,0,1,0,0,0,0,0,40,27,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,457,25,0,1,0,0,3,161,30,0,0,0,0,3,3,231,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,158,0,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,192,0,0,12,0,0,0,0,169,0,0,0,2,9,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1995,67,0,0,0,0,0,0,0,0,0,0,0,0,50,0,17,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,134,19,0,18,0,0,33,0,0,0,0,0,27,0,0,37,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,588,17,0,3,0,0,0,104,65,0,0,0,289,0,0,41,0,69,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,20505,0,0,0,0,0,11346,0,0,0,0,9159,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,12,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1996,54,0,0,0,0,0,0,0,18,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,3000,0,0,0,0,0,0,0,0,0,0,3000,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,54,25,0,0,0,0,19,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,1053,74,0,17,0,0,0,97,86,0,2,0,676,0,22,23,0,56,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,814,0,0,0,0,0,0,0,814,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,26,0,0,7,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,72,0,0,0,0,0,0,17,35,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1997,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,149,82,0,0,0,0,29,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,1475,511,0,24,0,0,0,33,87,0,7,0,749,1,0,21,0,42,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,34,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,178,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1998,186,0,0,0,0,0,0,0,0,0,0,0,0,186,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,242,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,105,0,0,0,0,0,0,0,0,0,0,0,0,61,0,44,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,1834,90,0,48,4,0,0,740,81,0,9,0,862,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,9,3,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LI,Liechtenstein,country,Europe and Central Asia,47.166,9.555373,2003,3911,74,0,1,0,1,1,51,15,1,27,1959,6,671,11,1061,0,27,5,0,0,0,0,0

@@ -1,0 +1,833 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,27717,1664,368,11,0,0,0,356,23821,0,2,2,35,600,22,51,0,394,391,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,16822,7217,429,1913,0,2,0,808,920,0,0,1,5,19,104,666,0,3459,1274,5,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,163,0,0,0,0,0,2,47,112,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,1112,38,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,1015,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,48,43,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,44990,16189,1803,3694,14,50,113,2268,609,4,26,1242,344,1209,2760,7763,0,2776,4126,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,96,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,93,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,98,67,0,4,0,0,0,0,1,0,0,0,0,1,0,25,0,0,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,2017,21,204,14,0,0,0,1,2,0,3,0,66,217,76,648,0,477,288,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,16187,7291,435,1911,0,2,0,798,955,0,0,1,39,16,25,7,0,3432,1270,5,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,276,0,0,0,0,0,0,0,0,0,0,0,276,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,223,6,0,0,0,0,5,0,0,0,0,0,0,30,149,33,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,50,31,0,3,0,0,0,0,0,0,0,0,9,0,0,7,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1986,589,4,0,39,0,1,0,0,0,0,0,0,0,2,0,349,0,194,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,4814,1234,83,14,0,0,0,598,1326,0,1,174,46,49,42,960,0,219,68,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,838,2,0,0,0,0,0,46,2,0,0,0,0,4,137,589,0,37,21,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,61,4,0,0,0,0,3,30,4,0,0,0,9,3,0,0,0,8,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,253,1,0,0,0,0,2,55,193,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,1283,6,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,1235,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,93,89,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,33950,7697,1220,4582,4,40,117,1325,530,1,34,565,275,1190,1942,8040,0,1932,4456,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,270,0,0,2,0,0,0,0,0,0,0,0,4,0,0,1,0,263,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,29,14,0,5,0,0,0,0,4,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,1091,28,140,8,0,0,0,9,15,0,3,0,43,89,53,25,0,557,121,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,17223,5977,627,2475,0,0,0,916,844,0,0,29,37,12,36,16,7,4349,1905,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,244,0,0,0,0,0,0,0,0,0,0,0,243,1,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,338,8,0,0,0,0,0,0,20,0,21,3,0,11,275,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,48,0,0,0,0,37,0,0,0,0,0,0,5,0,2,4,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1987,578,11,0,37,0,0,0,0,0,0,0,0,0,9,0,121,0,205,195,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,5447,1376,318,20,0,0,6,566,767,278,1,148,30,49,19,1696,0,136,37,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,1956,14,0,0,0,0,0,26,2,0,0,0,2,0,104,1747,0,58,3,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,178,11,163,0,0,0,0,1,2,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,21,12,0,0,0,0,0,0,7,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,161,0,0,0,0,0,0,49,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,727,8,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,697,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,123,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,37126,10742,923,3811,8,15,109,1810,554,0,23,1060,346,904,2033,7876,0,1847,5065,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,388,0,0,2,0,0,0,0,0,0,0,0,13,3,0,1,0,369,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,51,32,0,5,0,0,0,0,6,0,0,0,1,1,0,6,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,913,23,94,1,0,0,0,10,16,0,2,34,6,9,21,13,0,628,56,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,11634,162,632,2490,0,1,0,826,693,15,0,2,32,174,23,194,0,4700,1690,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,118,0,0,0,0,0,0,0,0,0,0,0,118,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,75,19,0,1,0,0,5,3,27,2,0,0,0,7,0,11,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,10,0,0,3,0,0,1,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,874,3,0,35,0,0,0,0,0,0,0,0,1,9,0,357,0,469,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1988,29978,5370,500,11,554,45,118,2436,2389,0,2,9601,36,24,1,2961,172,5557,373,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,2964,1128,52,58,0,0,6,151,344,278,1,19,47,50,26,584,0,189,31,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,2040,10,35,2,0,0,0,38,10,0,0,0,7,4,244,1633,0,41,16,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,258,4,138,0,0,0,0,0,98,0,0,0,0,0,0,15,0,0,3,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,953,193,0,0,0,0,0,16,176,0,0,528,0,29,0,11,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,48,3,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,41,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,61,0,0,0,0,0,0,18,38,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,763,16,0,0,0,0,0,0,0,0,0,0,0,0,2,64,0,680,1,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,98,96,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,38740,9388,856,5259,0,23,78,2041,661,0,27,1142,392,773,2020,9103,0,1761,5216,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,661,0,0,0,0,0,0,0,0,0,0,0,7,14,0,3,0,637,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,43,32,0,0,0,0,0,0,0,1,0,0,0,1,0,9,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,1156,6,108,337,0,0,0,22,6,0,1,122,21,17,20,36,0,377,83,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,11634,162,632,2490,0,1,0,826,693,15,0,2,32,174,23,194,0,4700,1690,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,69,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,97,23,33,3,0,0,1,0,4,0,0,0,1,17,4,9,0,2,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,34,2,0,27,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,1340,7,0,32,0,0,0,0,0,0,0,0,0,16,0,501,0,784,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1989,30575,10642,411,11,614,51,119,2612,1401,0,0,4590,32,37,8,4071,235,5922,54,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,4074,1567,295,925,0,0,3,135,361,0,2,31,41,62,25,426,0,147,54,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,3792,1890,32,3,0,0,0,24,295,0,0,0,6,6,1267,182,0,68,19,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,228,0,0,0,0,0,0,0,0,0,0,0,228,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,261,2,82,0,0,0,0,0,51,0,0,0,0,0,0,30,0,96,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,5387,792,90,2,0,0,0,132,681,0,0,3084,16,49,0,20,0,521,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,12,5,0,3,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,78,0,0,0,0,0,0,39,35,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,331,12,0,0,0,0,0,0,0,0,0,0,0,0,1,117,0,198,3,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,86,84,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,35153,10388,643,1984,0,18,61,1452,472,0,16,1185,317,937,2160,8542,0,1525,5453,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,1532,0,0,0,0,0,0,0,0,0,0,0,16,11,0,2,0,1503,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,88,70,0,4,0,0,0,0,0,0,0,0,1,5,0,8,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,680,6,91,3,0,0,0,11,2,0,2,70,27,13,64,27,0,290,74,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,10747,80,881,2497,0,0,0,783,709,0,0,206,9,14,30,268,0,3543,1727,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,193,60,0,5,0,0,7,1,17,0,0,0,0,0,0,89,0,6,8,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,14,0,0,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,1060,3,0,66,0,0,0,0,0,0,0,0,0,9,0,254,0,728,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1990,22223,4604,498,4,455,22,145,2871,1872,0,0,3039,31,17,0,3181,128,5401,83,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,4511,1390,314,1214,0,0,6,140,232,0,2,399,47,44,42,542,0,114,25,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,1138,380,30,3,0,0,0,120,116,0,0,0,3,4,165,206,0,101,10,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,144,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,282,7,74,0,0,0,0,0,66,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,5918,751,103,0,0,0,0,113,1216,0,0,3008,6,32,0,36,0,638,15,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,13,11,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,27,2,0,0,0,0,0,2,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,1272,8,0,0,0,0,0,0,0,0,0,0,0,0,1,218,0,1045,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,209,110,0,87,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,34424,9278,456,1690,2,5,54,971,369,0,11,1422,374,1090,1904,9752,0,1219,5827,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,315,40,0,18,0,2,0,0,0,0,0,1,0,128,0,126,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,1328,7,0,0,0,0,33,775,2,0,0,9,0,416,0,12,0,70,4,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,1012,0,0,0,0,0,0,0,0,0,0,0,4,5,0,2,0,1001,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,158,117,0,5,0,0,0,21,0,0,0,0,0,5,0,10,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,696,11,87,3,0,0,0,1,0,0,1,32,54,12,46,57,0,254,138,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,13515,247,955,4210,0,0,0,1370,889,0,0,0,29,11,56,84,0,3893,1771,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,70,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,100,40,3,1,0,0,2,13,19,0,0,0,2,0,0,20,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,41,19,0,13,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,118,21,48,2,0,0,0,20,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,877,11,0,12,0,0,0,0,0,0,0,0,0,13,0,252,0,589,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1991,23230,4259,436,7,633,36,113,2744,1797,0,1,2945,101,22,4,4385,150,5652,95,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,3674,917,179,59,0,0,2,109,353,0,3,1715,54,31,31,53,0,127,41,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,1579,558,15,1,0,0,0,102,126,0,0,0,2,4,448,190,0,128,5,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,54,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,197,1,83,0,0,0,0,0,0,0,0,0,0,5,0,0,0,108,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,42,3,0,0,0,0,0,16,17,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,1703,5,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,1592,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,34516,5439,336,1363,1,5,40,944,517,5,21,1467,397,1263,1995,13626,0,1431,5666,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,176,60,0,17,0,2,0,0,0,0,0,0,0,17,0,80,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,890,45,0,19,0,0,0,41,0,0,0,28,8,21,0,670,0,50,8,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,58,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,789,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,782,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,132,91,0,1,0,0,0,7,23,4,0,0,1,2,0,3,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,31,0,0,0,0,0,0,0,16,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,638,7,51,2,0,0,0,0,0,0,2,62,48,78,33,48,0,292,15,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,17509,1467,1546,5984,0,0,0,1406,1007,0,0,2,5,12,82,78,6,3873,2047,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,143,34,0,3,0,0,11,20,35,0,0,0,0,0,18,11,0,11,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,53,17,0,19,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,38,26,0,0,0,0,0,4,6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,628,6,0,0,0,0,0,0,0,0,0,0,0,29,0,200,0,393,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1992,24842,3533,507,7,534,11,101,2823,2417,0,0,2369,67,17,4,6366,247,6039,47,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,6043,1390,194,89,0,0,2,67,407,0,3,3119,127,37,21,74,0,437,76,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,1948,1064,33,0,0,0,0,84,186,0,0,0,2,8,231,295,0,42,3,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,90,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,25,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,22,5,0,0,0,0,9,0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,23,0,0,0,0,0,0,5,16,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,1203,10,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,1122,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,47654,16700,485,2160,2,7,65,1016,424,1,33,1388,499,1312,1946,13758,0,1485,6373,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,136,0,0,7,0,5,0,0,0,0,0,1,0,6,0,117,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,9940,7932,0,306,0,0,0,347,177,228,0,110,112,24,60,436,0,130,78,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,507,0,0,2,0,0,0,0,0,0,0,0,11,3,0,1,0,490,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,113,85,0,1,0,0,0,0,16,0,0,0,1,7,0,3,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,81,80,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,648,10,91,3,0,0,0,0,0,0,1,4,54,18,13,160,0,260,34,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,14213,78,1213,5151,0,0,0,1033,803,0,2,0,2,10,96,80,60,3695,2050,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,66,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,259,82,0,14,0,0,3,3,44,0,0,0,0,0,54,59,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,146,9,0,2,0,0,0,0,40,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,79,29,1,2,0,0,0,12,33,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,645,0,0,0,0,0,0,0,0,0,0,54,0,5,0,220,0,366,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1993,23166,5281,442,33,589,18,184,2899,1692,0,0,2020,86,10,3,2819,75,7011,79,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,4166,1492,182,95,0,0,2,166,590,0,5,709,332,68,14,45,0,357,109,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,1323,567,0,0,0,0,0,145,89,0,0,0,2,8,302,127,0,80,3,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,108,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,65,3,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,35,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,8,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,18,0,0,0,0,0,0,0,12,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,1284,9,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,1235,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,330,325,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,39922,12761,422,1733,1,9,139,1079,656,1,15,1511,482,1255,2254,10106,2,1571,5927,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,140,0,0,10,0,2,0,0,0,0,0,8,1,2,0,117,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,13797,8147,21,101,0,0,130,1474,809,1434,0,42,328,57,191,686,0,85,263,29,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,446,0,0,0,0,0,0,0,0,0,0,0,0,3,0,9,0,434,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,145,120,0,3,0,0,0,9,3,0,0,0,1,5,0,4,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,573,26,33,2,0,0,0,0,0,0,2,0,40,0,14,241,0,188,27,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,17854,3746,1131,4514,0,0,0,968,699,0,0,635,2,8,89,192,31,3667,2203,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,15,2,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,236,72,0,4,0,0,8,6,47,0,0,0,0,5,52,39,0,3,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,172,14,0,5,0,0,0,1,17,0,0,0,2,0,0,133,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,22,2,11,1,0,0,0,2,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,995,0,0,0,0,0,0,0,0,0,0,0,0,4,0,148,0,843,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1994,17669,2559,627,4,476,32,117,2374,1370,0,0,1136,7,11,2,2290,51,6523,141,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,5677,2591,215,105,0,1,0,142,643,0,3,0,411,77,33,58,0,1261,137,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,800,38,0,7,0,0,0,128,36,0,0,0,18,8,352,165,0,45,3,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,144,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,21,0,0,0,0,0,0,0,20,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,380,2,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,318,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,43312,15123,224,743,1,15,132,1202,656,0,13,1647,456,1764,2179,11482,16,1618,6057,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,291,0,0,24,0,2,0,0,0,0,0,4,3,4,0,140,0,0,114,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,68563,33183,0,4203,0,0,2,17617,7556,2269,40,27,694,665,125,1529,0,273,209,171,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,503,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,497,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,265,249,0,0,0,0,0,0,0,0,0,2,5,5,0,4,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,3924,3373,9,0,0,0,0,0,30,0,2,0,23,6,20,161,0,266,34,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,15630,128,1280,5200,0,1,1,1320,727,0,1,0,8,7,91,531,0,4044,2291,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,54,19,0,1,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,369,57,30,2,0,1,14,43,79,0,2,0,0,0,98,43,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,108,8,0,5,0,0,0,0,0,0,0,0,1,0,0,94,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,169,70,27,0,0,0,1,8,60,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,859,0,0,0,0,0,0,0,0,0,0,16,0,3,0,115,0,725,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1995,20774,3120,828,36,564,37,146,2803,1890,0,0,1383,44,12,12,3411,86,6254,234,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,17686,13178,188,106,0,0,0,95,693,0,5,1046,325,64,36,55,0,1817,78,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,613,41,9,13,0,0,0,94,0,0,0,0,36,9,278,116,0,14,3,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,162,0,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,18,0,0,0,0,0,0,16,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,314,7,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,238,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,36866,8338,203,549,1,4,118,1077,688,2,4,1864,450,2611,2031,11321,85,1406,6199,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,264,0,0,22,0,2,0,0,0,0,0,9,0,10,0,221,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,401,30,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,369,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,333,320,0,2,0,0,0,0,0,0,0,0,4,6,0,1,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,77,69,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,420,44,54,0,0,0,0,0,0,0,16,35,23,1,26,107,0,98,16,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,21128,4212,1515,6089,0,0,1,1206,713,0,0,0,2,13,68,640,0,4562,2107,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,47,13,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,215,53,49,2,0,1,2,20,45,0,0,0,0,0,21,20,0,0,2,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,201,0,0,19,0,0,0,0,0,0,0,0,5,0,0,177,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,280,115,75,0,0,0,0,14,64,0,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,396,0,0,0,0,0,0,0,0,0,0,0,0,4,0,130,0,262,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1996,24058,4155,1046,78,704,59,158,2932,1353,0,2,1244,57,11,46,3499,123,8443,271,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,7506,3260,51,96,0,0,1,726,576,0,2,0,408,101,12,84,0,1816,373,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,763,74,17,1,0,0,1,72,9,0,0,0,11,8,295,234,0,5,36,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,108,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,31,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,137,0,0,0,0,0,0,0,0,0,137,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,340,4,0,0,0,0,0,0,0,0,0,0,0,1,0,41,0,294,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,48004,17300,427,2188,1,5,33,1154,582,0,29,1973,506,3186,2326,10423,119,1694,6177,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,408,0,0,26,0,0,0,0,0,0,0,5,5,9,0,363,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,355,0,0,1,0,0,0,0,0,0,0,0,23,2,0,0,0,329,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,473,422,0,15,0,0,0,0,0,0,0,0,4,7,0,25,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,1105,963,0,1,0,0,0,51,0,0,3,18,17,1,3,11,0,37,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,21300,3726,1481,6351,0,1,1,1313,929,0,0,0,8,14,85,563,0,4788,2040,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,25,9,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,211,43,28,3,0,3,1,9,72,0,0,0,0,0,41,11,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,377,4,0,21,0,0,0,1,31,0,0,0,3,0,0,317,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,204,99,47,0,0,0,0,9,29,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,300,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,21,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,119,0,0,0,0,0,0,0,0,0,0,0,0,4,0,115,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1997,22122,1530,1128,38,621,68,157,2499,1746,0,0,1589,93,7,13,4013,109,8432,188,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,12908,8867,103,100,0,1,1,227,679,1,6,1,392,104,59,78,0,2161,128,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,1032,246,0,2,0,0,4,32,59,0,0,0,26,18,381,208,0,39,17,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,145,0,0,0,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,8,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,362,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,355,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,44096,12732,618,1408,1,6,55,1109,734,0,5,2118,485,3524,2461,10998,148,1907,5935,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,383,0,0,23,0,5,0,0,0,0,0,1,4,2,0,348,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,246,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,244,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,555,506,0,1,0,0,0,0,0,0,0,0,10,6,1,31,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,59,0,0,2,0,0,0,7,0,0,0,0,10,5,15,20,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,508,9,0,1,0,0,0,47,18,0,10,0,13,0,1,312,0,97,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,20177,1868,1592,6052,0,0,1,1800,1001,0,0,0,10,12,114,74,1,5258,2395,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,79,21,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,277,75,15,5,0,0,8,17,81,0,2,0,0,0,62,10,0,1,1,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,30,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,723,4,0,18,0,0,0,3,33,0,0,0,7,0,0,658,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,42,0,0,0,0,0,0,0,0,29,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,515,130,99,0,0,0,0,5,21,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,144,0,0,0,0,0,0,0,0,0,0,0,0,6,0,138,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1998,24408,1541,1221,7,561,36,233,2666,2483,0,0,1901,100,11,30,5017,87,8398,203,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,13965,10072,144,118,0,0,18,232,1286,0,6,5,421,96,67,23,64,1175,302,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,1386,270,0,1,0,0,3,77,45,0,0,0,28,12,440,471,0,16,23,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,109,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,127,2,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,943,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,938,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,42565,11284,413,959,1,13,105,1207,551,1,10,2146,516,3545,2448,11942,115,2065,5359,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,390,0,0,19,0,0,0,0,0,0,0,2,3,1,0,365,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,62,2,0,2,0,0,0,0,1,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,417,0,0,1,0,0,0,0,0,0,0,0,31,3,0,0,0,382,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,550,472,0,1,0,0,0,0,0,0,0,0,6,9,12,35,0,15,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,73,4,0,0,0,0,0,9,0,0,0,0,19,17,0,24,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,1237,838,0,3,0,0,0,192,0,0,0,0,24,0,19,19,0,142,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,24393,3044,1961,7002,0,0,1,1780,1115,0,0,11,19,19,159,136,9,5918,3228,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,88,25,0,0,0,0,0,0,31,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,4,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,219,71,3,20,0,1,15,5,64,0,3,0,0,0,20,14,0,0,3,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,46,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,839,0,0,29,0,0,0,1,21,0,0,0,2,23,0,763,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,339,106,59,0,0,0,0,6,38,0,0,0,0,130,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,124,0,0,0,0,0,0,0,0,0,0,0,0,6,0,118,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,1999,24114,2194,1344,2,503,67,220,2395,2276,4,0,1243,143,11,19,6170,116,7207,316,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,12309,7578,128,189,0,0,0,242,1063,0,2,332,335,305,99,61,0,1319,656,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,1772,124,9,1,0,0,0,8,69,0,0,0,18,12,484,1018,0,0,29,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,108,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,497,8,173,0,0,0,19,0,0,0,0,0,0,0,0,0,0,297,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,52,0,0,0,0,0,42,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,20,0,0,0,0,0,0,0,8,0,0,8,1,3,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,759,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,742,1,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,35,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,772,675,0,37,0,0,0,0,16,0,1,0,0,0,0,8,0,35,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,51447,17552,367,1804,2,26,89,1359,860,0,28,2109,591,3716,2693,13081,106,2047,5123,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,264,6,0,17,0,0,0,0,0,0,0,0,5,0,0,236,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,392,0,0,0,0,0,0,0,0,0,0,0,32,1,0,0,0,359,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,775,560,0,1,0,0,0,0,0,0,0,0,15,44,1,103,0,51,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,110,9,0,1,0,0,0,11,0,0,0,0,0,3,0,86,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,958,700,0,1,0,0,0,67,12,0,2,0,16,12,0,6,0,142,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,27847,5419,2561,6472,1,0,1,2280,748,0,0,24,22,59,255,240,2,6058,3707,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,83,44,0,0,0,0,0,0,38,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,287,97,0,11,0,0,0,11,92,0,2,0,1,4,62,6,0,1,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,967,0,0,14,0,0,0,0,6,0,0,0,0,0,0,947,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,16994,74,28,0,0,0,0,14,20,0,0,0,0,16858,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,25792,2444,1184,1,550,84,152,2662,2407,0,0,717,77,14,0,5253,77,9926,321,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2000,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,15927,9864,93,199,4,0,4,138,835,0,13,2082,306,328,128,223,0,1090,620,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,1603,107,24,0,0,1,4,2,70,0,0,0,13,13,345,1014,0,2,8,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,72,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,347,5,166,0,0,0,0,1,0,0,0,0,0,8,0,0,0,167,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,51,0,0,0,0,0,9,0,0,0,0,0,0,5,1,36,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,6,0,0,0,0,1,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,408,2,0,0,0,0,0,0,0,0,0,0,0,1,0,63,0,342,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,695,651,8,1,0,0,0,0,33,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,43417,10397,507,2769,1,35,215,1666,1029,0,43,549,850,3155,2584,12437,114,1674,5506,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,342,4,0,19,0,2,0,0,0,0,0,1,9,0,0,304,0,0,3,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,34,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,36,0,0,1,0,0,0,0,19,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,47,0,0,1,0,0,0,0,0,0,0,0,31,0,0,0,0,15,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,1848,717,0,0,0,0,0,21,65,0,0,0,12,13,6,1014,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,120,16,0,0,0,0,0,14,0,0,0,0,2,0,62,26,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,6769,6493,0,0,0,0,0,84,0,0,1,0,5,10,0,21,0,155,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,47,0,0,2,0,0,0,0,13,0,0,23,1,0,0,0,2,0,8,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,24125,2563,2679,4991,6,0,4,1910,426,0,1,116,23,51,176,459,40,7041,3679,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,81,43,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,214,110,0,7,0,1,2,1,51,0,1,0,1,22,1,17,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,239,0,0,0,0,0,0,0,0,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,951,6,0,32,0,0,0,0,5,0,0,0,0,1,0,907,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,1648,179,59,0,0,0,5,7,70,0,0,0,0,1328,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,22,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,220,1,0,0,0,0,0,0,0,0,0,0,0,16,0,203,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,22493,4594,948,37,293,98,446,1956,2610,0,4,454,240,18,51,1553,77,8999,192,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,15011,9486,94,198,2,0,3,129,872,0,6,1561,313,207,231,147,0,1235,527,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,1468,100,0,0,0,1,6,6,72,0,0,0,18,10,392,863,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,443,8,0,0,0,0,0,3,15,0,0,0,1,25,0,131,0,260,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,95,29,0,0,0,0,10,40,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,35,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,403,1,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,325,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,728,706,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,39251,5718,508,580,2,74,169,1878,886,0,91,1058,816,3195,2835,13769,37,1787,5885,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,722,0,0,22,0,0,0,0,0,0,0,2,10,2,0,686,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,239,6,0,0,0,0,0,0,0,4,0,21,208,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,23,0,0,1,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,2348,650,0,1,0,0,0,0,108,0,0,0,13,20,19,1537,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,210,0,0,0,0,0,0,0,18,0,0,1,0,191,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,132,3,0,0,0,0,0,16,0,0,0,0,7,0,36,70,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,8316,8095,0,0,0,0,0,104,0,0,1,0,5,20,0,2,0,89,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,79,1,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,25244,310,2882,6897,1,0,4,2008,854,0,1,210,23,85,195,276,83,7781,3717,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,90,22,0,0,0,0,0,0,30,0,0,0,0,1,0,37,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,5,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,351,177,1,5,0,0,1,9,104,0,0,0,1,10,1,42,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,720,0,0,0,0,0,0,0,533,0,0,187,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,1765,15,0,28,0,0,0,0,41,0,0,0,1,0,0,1680,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,277,52,89,0,0,0,0,8,114,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,41,0,0,0,0,0,0,0,17,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,207,0,0,0,0,0,0,0,0,0,0,0,0,16,0,191,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,24007,5609,585,22,297,80,338,2032,1662,0,2,818,71,0,67,1680,71,10538,206,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,9189,2232,248,107,0,0,0,1633,980,0,6,1131,302,148,256,181,0,1305,660,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,3620,2280,0,3,0,0,11,4,58,0,0,0,24,12,458,756,0,2,12,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,27,0,0,8,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,741,26,1,0,0,0,13,19,71,0,0,0,0,71,5,267,0,268,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,31,12,0,0,0,0,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,296,26,0,0,0,0,0,0,0,0,0,0,0,0,20,70,0,180,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,1058,867,0,46,0,0,0,0,32,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,47307,12444,545,2804,5,57,54,1826,1219,0,85,1709,659,3720,2816,11233,24,2222,5909,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,1322,0,0,18,0,0,0,0,0,0,0,13,15,9,0,1267,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,37,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,174,18,0,1,0,0,0,0,0,0,0,0,20,101,34,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,1127,719,0,0,0,0,0,2,81,0,0,0,62,42,14,205,0,0,2,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,212,11,0,0,0,0,0,0,26,0,0,1,0,174,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,134,22,0,0,0,0,0,15,0,0,0,0,0,0,45,52,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,7671,7003,0,0,0,0,0,150,231,0,3,0,27,23,5,58,0,171,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,61,21,0,0,0,0,0,28,0,0,0,0,7,1,0,3,99,1,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,25073,274,3440,5566,1,0,4,2461,1116,1,1,401,26,124,138,352,47,7257,3911,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,51,21,0,0,0,0,0,0,28,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,252,182,0,2,0,1,0,14,37,0,0,0,0,8,2,6,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,273,0,0,0,0,0,0,6,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,1529,17,0,11,0,0,0,0,64,0,0,0,1,7,0,1390,0,0,39,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,41,7,0,0,0,0,0,0,0,0,0,0,3,0,0,31,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,9199,111,74,0,0,0,5,0,143,0,0,0,0,8866,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,29,0,0,0,0,0,0,0,22,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,25,24,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,228,0,0,0,0,0,0,0,0,0,0,0,0,29,0,199,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,25782,7168,506,32,493,72,310,1960,1320,0,5,1136,95,0,92,1763,8,10641,189,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,8458,2212,198,149,0,18,0,288,1605,0,2,1304,272,283,189,172,0,1252,514,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,2079,374,0,1,0,0,16,7,92,0,0,70,18,26,648,823,0,2,2,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,91,17,0,7,0,0,0,0,0,0,0,0,19,0,0,0,0,48,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,827,7,1,47,0,0,0,4,77,0,0,0,27,40,5,147,0,461,11,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,706,11,0,0,0,0,1,634,31,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,280,13,0,0,0,0,0,0,0,0,0,0,0,0,21,70,0,176,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,359,0,0,0,0,0,0,0,177,0,0,0,182,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,1766,1725,0,0,0,0,0,0,16,0,0,0,0,7,0,18,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,56495,20820,559,1783,3,10,93,1650,1016,0,25,2191,597,4101,2917,12298,6,2273,6159,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,1168,4,0,23,0,0,0,0,0,0,0,1,20,10,0,1092,0,16,2,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,69,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,102,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,101,96,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,22,0,0,1,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,1238,773,0,1,0,0,0,2,12,0,0,0,30,74,7,338,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,246,0,0,0,0,0,0,0,20,0,0,1,0,225,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,95,18,0,0,0,0,0,18,0,0,0,0,2,0,18,39,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,7,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,1832,1134,0,0,0,0,0,169,158,0,1,0,0,112,6,11,0,241,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,238,228,0,0,0,0,0,1,0,0,0,0,0,1,0,2,52,6,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,28791,873,3884,6851,0,0,9,2916,1367,0,1,606,41,176,207,170,56,7832,3858,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,85,28,0,0,0,0,0,0,52,0,0,0,1,3,0,0,0,0,1,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,394,237,0,3,0,0,1,20,84,0,1,0,1,15,1,28,0,0,3,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,174,0,0,0,0,0,0,7,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,2130,22,0,11,0,0,0,0,72,0,0,0,0,0,0,1965,0,0,60,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,6784,3285,90,5,0,0,0,27,181,0,0,0,0,3196,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,129,43,0,3,0,0,0,0,0,0,0,0,5,78,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,273,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,27985,5797,606,41,556,103,198,1926,2073,0,7,1958,209,3,98,2362,0,11795,253,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,8989,2084,211,197,0,0,2,363,1581,0,12,1563,396,198,300,188,0,1221,673,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,15,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,3399,1083,0,5,0,0,15,5,80,0,0,0,27,7,1285,891,0,1,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,126,0,0,9,0,0,0,0,0,0,0,0,21,0,0,0,0,59,37,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,938,12,22,20,0,0,0,9,93,0,0,0,30,23,0,129,0,588,12,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,441,38,0,0,0,0,1,158,117,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,253,23,0,0,0,0,0,0,0,0,0,0,0,0,0,83,0,147,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,29,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1268,1157,0,1,0,0,0,1,58,0,0,0,0,1,0,50,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,56114,19627,525,2503,3,8,88,1696,1158,0,42,2537,640,4422,2668,12398,0,2188,5611,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1239,5,0,27,0,0,0,0,0,0,0,1,22,2,0,1182,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,170,17,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,112,80,0,13,0,0,5,0,4,0,0,0,6,3,1,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,392,360,0,12,0,0,0,0,0,0,0,0,19,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1159,652,0,0,0,0,0,2,0,0,0,0,94,35,23,352,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,245,0,0,0,0,0,0,0,17,0,0,1,0,227,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,47,17,0,0,0,0,0,4,0,0,0,0,6,5,0,15,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1887,1397,0,0,0,0,0,0,132,0,0,0,0,151,5,95,0,107,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1583,80,0,0,0,0,0,0,0,0,0,1151,0,352,0,0,44,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,26686,595,3835,5937,0,0,8,2461,1329,0,0,671,19,194,165,209,36,7411,3852,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,166,61,0,6,0,0,0,0,85,0,0,0,13,1,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,40,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,489,238,0,16,0,0,0,36,149,0,0,0,1,17,2,22,0,0,8,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,198,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1977,15,0,13,0,0,0,0,4,0,0,0,0,0,0,1927,0,0,18,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,7867,7409,73,3,0,0,0,59,156,0,0,0,0,167,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,87,22,0,1,0,0,0,0,0,0,0,0,2,62,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,307,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,35840,14151,540,78,539,59,237,3287,1363,0,4,2810,99,0,101,2364,0,10067,141,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1003,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,7781,1777,84,468,0,0,3,170,1015,0,93,1368,456,319,286,164,0,1437,141,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,5238,1777,20,13,0,1,22,15,13,0,0,0,24,22,1720,1600,0,1,10,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,383,0,0,8,0,0,0,0,0,0,0,0,20,0,0,1,0,335,19,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,988,16,0,0,0,0,0,0,37,0,0,6,9,19,0,229,0,669,3,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,872,51,0,0,0,1,28,224,253,0,0,0,0,312,2,1,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,266,14,0,0,0,0,0,0,0,0,0,0,0,0,30,58,0,164,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,1469,1396,16,0,0,0,0,0,15,0,0,0,0,0,0,34,0,0,8,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,51101,14357,514,2953,3,23,62,1762,1454,1,45,3261,550,4731,2704,10694,0,1859,6128,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,1681,199,0,17,0,0,0,0,0,0,0,3,24,2,0,1399,0,2,35,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,368,140,0,0,0,0,0,0,225,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,157,48,0,4,0,0,34,0,24,0,0,0,5,4,38,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,19,0,0,8,0,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,1395,767,0,0,0,0,0,4,28,0,0,0,232,32,58,274,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,272,0,0,0,0,0,0,0,13,0,0,2,0,257,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,55000,0,0,0,0,0,0,0,0,0,0,0,0,55000,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,154,31,0,0,0,0,0,3,0,0,0,0,11,20,0,72,0,0,17,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,805,17,0,1,0,0,0,97,278,0,3,0,0,40,26,180,0,163,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,1574,123,0,0,0,0,0,0,0,0,0,1382,0,0,0,69,23,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,28157,452,4300,6348,0,0,5,3241,1150,0,10,458,32,293,202,308,35,6385,4973,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,103,47,0,2,0,0,0,0,51,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,605,283,0,16,0,0,0,5,269,0,0,0,3,20,3,4,0,0,2,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,2326,9,0,19,0,1,12,0,23,0,0,0,0,0,5,1929,0,300,28,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,7345,4869,101,89,0,0,0,72,134,0,0,0,0,2080,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,70,31,0,1,0,0,0,0,0,0,0,0,6,32,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,35203,11230,420,52,550,57,293,4613,812,0,3,3996,142,0,97,1510,0,11391,37,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,825,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,9103,1995,11,274,0,0,2,52,981,0,0,1773,472,331,273,191,0,2508,240,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,3470,109,186,0,0,0,0,0,69,0,0,0,10,15,1052,2028,0,1,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,909,0,0,237,0,0,0,0,0,0,0,0,25,0,0,1,0,646,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1170,11,133,0,0,0,0,0,1,0,0,4,0,15,0,210,0,796,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,450,291,0,2,0,0,0,0,51,0,0,0,2,0,0,27,0,77,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1244,47,0,2,0,0,59,297,360,0,0,0,0,390,0,89,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,181,18,0,0,0,0,0,0,0,0,0,0,0,0,18,60,0,85,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1341,1302,5,2,0,0,0,0,0,0,0,0,0,0,0,30,0,2,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,53347,18573,279,512,1,27,82,1727,1179,2,31,3778,664,5280,2595,11074,0,1852,5691,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1069,59,0,23,0,0,0,0,13,0,0,1,24,1,1,916,0,0,31,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,206,0,0,26,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,187,72,0,8,0,0,57,0,17,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,11,0,0,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1225,632,0,0,0,0,0,44,9,0,0,0,212,36,4,287,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,307,0,0,0,0,0,0,0,19,0,0,1,0,287,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,15,2,0,0,0,0,0,0,0,0,0,0,2,11,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,413,49,0,0,0,0,0,12,256,0,0,0,6,11,0,70,0,0,9,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1353,462,0,0,0,0,0,44,371,0,2,0,1,66,4,184,0,173,46,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1840,75,0,0,0,0,0,5,0,0,0,1720,1,6,0,33,20,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,29210,634,4809,5532,0,0,6,3293,1535,0,21,867,24,290,402,485,32,5812,5500,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,78,46,0,0,0,0,0,0,30,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,447,221,0,17,0,1,0,3,167,0,0,0,2,22,7,2,0,0,5,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,48,1,5,41,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1562,42,0,12,0,2,10,0,19,0,0,0,0,0,0,1028,0,425,24,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,38,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,6320,4141,104,1278,0,0,1,122,265,0,0,0,0,409,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,30,26,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,33105,7242,553,39,523,67,259,3726,1101,0,8,5924,177,0,82,1698,0,11329,377,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1033,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,8378,1779,31,203,0,0,0,172,812,0,140,1401,290,374,302,203,0,2222,449,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,3168,81,99,2,0,0,0,3,71,0,0,3,5,1,995,1840,0,0,68,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,604,0,0,183,0,0,0,0,38,0,0,0,50,0,0,2,0,331,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1328,11,85,0,0,0,0,0,7,0,0,22,0,23,0,271,0,909,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1123,73,0,0,0,0,43,297,192,0,2,0,0,479,1,36,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,184,20,0,0,0,0,0,0,0,0,0,0,0,0,19,51,0,94,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1748,1677,0,2,0,0,0,0,42,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,53747,19611,431,500,1,21,38,1590,1463,0,97,3916,556,5226,2501,10486,0,1491,5819,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1288,26,0,20,0,0,0,0,0,0,0,2,20,2,0,1157,0,0,61,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,191,0,0,26,0,0,0,0,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,88,80,0,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1331,733,0,1,0,0,0,20,0,0,0,0,238,37,7,294,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,350,17,0,0,0,0,0,0,21,0,0,2,1,305,0,3,0,0,1,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,9,1,0,0,0,0,4,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,347,32,0,0,0,0,0,16,115,0,0,0,35,44,31,74,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1011,8,0,0,0,0,0,37,115,0,3,27,0,214,9,385,0,187,26,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,25984,666,3916,5131,0,1,6,2916,1254,0,11,312,17,230,157,281,33,5737,5349,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,121,45,0,0,0,0,0,0,18,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,6,3,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,15,0,0,0,0,0,0,2,5,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,39,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,574,243,0,13,0,1,0,8,184,0,0,0,0,38,2,73,0,0,12,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1440,25,0,26,0,0,0,1,119,0,0,0,1,0,1,998,0,232,37,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,24,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,56,9,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,10880,7867,73,2332,0,0,0,189,198,0,0,0,0,221,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,31,28,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,155,0,0,0,0,0,0,0,0,0,0,0,1,0,0,154,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,33065,7580,822,30,933,159,236,3790,1175,0,14,1132,123,1,101,1616,0,15036,317,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2008,1193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1193,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,8047,2530,0,163,0,0,0,23,774,0,22,1068,295,473,337,166,0,1922,274,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,5400,201,404,0,0,0,0,0,131,0,0,0,5,0,2245,2414,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,111,0,0,15,0,0,0,0,0,0,0,0,45,0,0,0,0,51,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,1333,0,109,0,0,0,0,0,183,0,0,12,0,0,0,17,0,1012,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,307,8,0,0,0,0,0,0,85,0,0,0,1,0,0,152,0,61,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,994,4,0,0,0,0,24,358,185,0,0,0,0,368,2,53,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,21,0,0,0,0,0,0,9,0,0,0,0,0,4,1,1,0,6,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,114,7,0,0,0,0,0,0,0,0,0,0,0,0,10,48,0,49,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,1088,1072,0,1,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,50650,18298,453,504,0,11,42,1503,1267,0,62,4069,589,5526,2636,9606,0,1098,4986,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,1077,20,0,19,0,0,18,0,0,0,0,1,39,0,0,975,0,0,5,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,225,0,0,0,0,0,0,0,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,108,106,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,1270,707,0,3,0,0,0,19,0,0,0,0,204,30,20,286,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,333,12,0,0,0,0,0,0,5,0,0,3,0,313,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,158,23,0,0,0,0,0,24,50,0,0,2,4,24,22,9,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,1062,3,0,3,0,0,0,94,99,0,3,0,1,242,16,382,0,201,18,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,255,88,0,0,0,0,0,0,1,0,0,152,0,14,0,0,30,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,28793,1729,4092,5059,0,0,21,3300,1637,0,2,328,17,110,266,322,58,6642,5268,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,98,46,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,68,0,0,0,0,0,0,1,24,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0
+ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,93,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,551,268,0,15,0,2,0,16,106,0,0,0,1,14,1,126,0,0,2,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,104,0,0,0,0,0,0,0,102,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,1275,9,0,17,0,0,0,1,45,0,0,0,0,2,0,851,0,333,17,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,27,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,21519,6532,104,2054,0,1,0,104,210,0,0,0,0,12514,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,25,21,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,29945,5373,568,49,1498,84,266,4040,659,0,9,495,132,18,170,1590,0,14835,159,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,897,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,897,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,6615,3172,1,138,0,0,3,17,352,0,25,692,228,276,334,161,0,966,250,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,54,0,0,1,0,0,0,0,14,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,3234,529,429,0,0,0,9,5,27,0,0,43,5,3,1382,729,0,23,50,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,86,10,0,33,0,0,0,0,0,0,0,0,26,0,0,0,0,17,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1068,0,130,11,0,0,0,0,203,0,0,12,0,0,0,30,0,682,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,285,218,0,1,0,0,0,0,22,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,980,8,0,0,0,0,20,221,218,0,0,0,0,445,1,67,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,6,1,0,2,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,396,8,0,0,0,0,0,0,0,0,0,0,0,274,10,37,0,67,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1793,1750,0,42,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,51497,16183,240,1061,0,15,77,1415,1301,2,127,4526,657,5626,1557,11811,0,1497,5402,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1281,11,0,18,0,0,0,0,0,0,0,4,44,1,0,1100,0,0,103,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,267,0,0,0,0,0,0,0,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,83,78,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,220,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1438,767,0,3,0,0,0,52,3,0,0,0,198,55,32,328,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,335,1,0,0,0,0,0,0,5,0,0,2,0,327,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,189,44,0,1,0,0,0,21,77,0,0,2,5,39,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,2004,1080,0,4,0,0,0,60,136,0,3,0,7,254,9,301,0,150,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,165,21,0,0,0,0,0,0,0,0,0,91,0,53,0,0,52,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,30464,834,4903,4995,0,1,42,3618,2015,0,3,348,29,208,222,486,64,6785,5975,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,156,55,0,1,0,0,0,0,90,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,119,20,0,0,0,0,0,0,15,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,39,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,436,198,0,12,0,1,0,26,55,0,0,0,0,32,1,111,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,102,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1608,16,0,29,0,0,1,2,39,0,0,0,0,2,0,1155,0,344,20,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,37,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,28,0,0,0,0,0,0,0,0,0,0,0,7,0,0,21,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,16688,5989,76,2295,0,0,1,167,201,0,0,0,0,7959,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,22,20,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,428,0,0,0,0,0,0,0,0,0,0,0,13,0,0,78,0,337,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,31521,5878,546,12,1475,114,271,4432,345,0,19,531,135,2,204,2182,0,15211,164,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,1071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1071,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,8581,2043,29,122,0,0,2,57,444,0,12,3361,245,604,296,116,0,1044,206,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,87,0,0,0,0,0,0,0,15,0,0,0,0,0,0,61,0,0,11,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,4709,603,811,16,0,0,11,6,31,0,0,15,8,28,2101,794,0,0,285,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,201,0,0,94,0,0,0,0,0,0,0,0,38,0,0,0,0,69,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,786,0,0,11,0,0,0,0,71,0,0,0,0,24,0,0,0,680,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,447,185,0,1,0,0,0,23,184,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,1228,3,0,0,0,0,30,335,225,0,0,0,0,541,1,93,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,34,2,0,0,0,0,1,11,1,0,0,0,0,5,1,2,0,11,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,12,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,382,6,0,0,0,0,0,0,0,0,0,0,0,248,0,53,0,75,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,54,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,1380,1380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,55686,18885,235,935,1,23,61,1498,903,0,41,4320,740,6660,1782,12609,0,1663,5330,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,1374,0,0,12,0,0,0,0,0,0,0,1,42,14,5,1127,0,0,173,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,19446,2526,0,7210,0,0,0,0,264,0,0,9425,21,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,172,97,0,2,0,0,0,0,0,0,0,0,1,2,70,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,1457,692,0,3,0,0,0,133,9,0,0,0,209,77,25,308,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,392,0,0,0,0,0,4,0,0,0,0,1,0,387,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,350,81,0,1,0,0,0,21,199,0,0,1,8,29,0,10,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,819,54,0,0,0,0,0,88,165,0,1,0,6,248,8,112,0,137,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,56,15,0,1,0,0,0,0,0,0,0,1,0,38,0,0,3,1,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,20505,353,3458,4153,0,0,0,2504,1124,0,0,237,14,157,139,174,76,4554,3638,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,131,66,0,6,0,0,0,0,54,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,38,21,0,0,0,0,0,0,1,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,517,286,0,15,0,1,1,4,83,0,0,0,1,9,2,115,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,171,0,102,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,1550,6,0,59,0,0,1,2,36,0,0,0,0,3,0,1065,0,355,23,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,41,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,20,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,10358,5269,144,1276,0,0,0,189,223,0,0,0,0,3257,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,18,16,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,570,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,0,469,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,34152,4677,515,16,1292,95,296,3577,388,0,35,3985,136,0,101,1705,0,17159,175,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,832,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,832,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,11648,4464,9,133,0,0,1,4,661,0,8,3274,287,214,298,182,0,1645,468,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,73,0,0,0,0,0,0,0,16,0,0,0,0,0,0,42,0,0,15,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,3687,203,878,16,0,0,11,44,30,0,0,92,4,8,1127,575,0,1,698,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,190,0,0,119,0,0,0,0,0,0,0,0,19,0,0,0,0,52,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,954,12,28,0,0,0,0,0,61,0,0,9,0,11,17,18,0,798,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,245,153,0,1,0,0,0,0,44,0,0,0,0,0,0,28,0,19,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,865,7,0,0,0,0,13,237,109,0,0,0,0,443,2,54,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,5,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,116,0,0,0,0,0,0,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,430,8,0,0,0,0,0,0,0,0,0,0,0,251,0,65,0,106,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,57,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,1567,1553,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,50038,15251,412,733,2,16,53,1674,1485,0,22,4181,793,5209,2053,10511,0,1770,5873,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,1018,0,0,16,0,1,0,0,2,0,0,2,28,0,0,837,0,0,132,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,334,0,0,0,0,0,0,0,324,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,192,100,0,0,0,0,0,0,0,0,0,0,0,7,85,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,1630,816,0,7,0,0,0,185,7,0,0,0,212,66,32,304,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,351,0,0,0,0,0,0,0,0,0,0,2,0,349,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,440,104,0,96,1,0,0,27,139,0,0,0,13,47,3,10,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,1271,453,0,9,0,0,0,32,74,0,1,0,29,129,12,380,0,152,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,95,18,0,0,0,0,0,0,0,0,0,22,0,55,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,26188,1581,3850,5929,0,0,1,2670,1083,0,1,328,34,311,277,197,33,5530,4396,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,135,9,0,11,0,0,0,0,106,0,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,519,317,0,27,0,0,0,2,9,0,0,0,2,93,2,67,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,68,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,1498,3,0,82,0,0,0,1,64,0,0,0,2,1,0,944,0,393,8,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,21,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,10592,3206,155,1171,0,0,0,175,223,0,0,0,0,5657,0,5,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0,153,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,31195,3882,556,25,1715,141,362,3482,924,2,24,643,190,1,88,1242,41,17306,612,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,833,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,11522,4417,23,279,0,0,0,12,728,0,5,3359,320,84,225,92,0,1465,513,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,62,0,0,0,0,0,0,0,20,0,0,0,0,0,0,34,0,0,8,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,5427,92,1178,12,0,0,8,47,60,4,0,89,15,42,2218,969,0,0,693,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,90,0,0,71,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,1220,6,34,10,0,0,0,0,0,0,0,0,0,0,27,0,0,1138,5,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,252,141,0,1,0,0,0,0,79,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,1279,3,0,22,0,0,29,349,182,0,0,0,0,674,2,18,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,11,0,0,0,1,0,2,0,4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,39,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,369,13,0,0,0,0,0,0,2,0,0,0,0,225,0,56,0,73,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,1660,1595,0,2,0,0,0,0,0,0,0,0,0,0,0,9,0,1,53,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,50570,16518,327,523,0,22,69,1632,1176,1,43,4264,710,5308,1748,10458,0,1833,5938,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,950,0,0,13,0,0,0,0,1,0,0,2,35,0,0,753,0,0,146,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,271,0,0,0,0,0,0,0,255,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,260,108,0,29,0,0,0,0,0,0,0,0,0,5,118,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,1715,921,0,4,0,0,0,124,1,0,0,0,237,45,15,368,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,364,0,0,0,0,0,0,0,0,0,0,2,0,362,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,974,522,0,168,0,0,0,40,86,0,0,2,54,42,0,60,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,2126,1122,0,14,0,0,0,0,120,0,2,0,33,124,0,548,0,155,8,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,157,15,0,0,0,0,0,0,0,0,0,42,0,91,0,0,0,9,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,26176,662,3966,6122,0,0,2,2889,1235,0,0,330,54,286,194,254,95,5511,4671,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,39,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,85,10,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,564,331,0,8,0,1,0,0,10,0,0,0,0,75,5,133,0,0,1,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,69,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,960,0,0,82,0,0,1,1,17,0,0,0,0,0,0,510,0,349,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,16,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,4500,3041,146,837,0,0,0,101,247,0,0,0,0,123,0,5,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,85,0,0,1,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,28967,2628,459,56,1478,126,281,3704,834,6,24,1263,103,0,74,1367,154,16072,492,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,915,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,915,0,0,0,0,0,0

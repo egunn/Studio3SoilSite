@@ -1,0 +1,271 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,YT,Mayotte,country,,-12.8275,45.166244,1998,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,1999,44,0,0,4,2,0,0,2,19,0,1,0,7,0,0,9,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2001,411,0,0,0,0,0,0,0,0,0,0,0,1,0,333,32,0,45,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2001,17662,2103,266,51,16,8,12,1192,278,0,12,993,108,443,460,3394,93,6085,2241,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2001,298,0,0,0,0,0,0,0,2,0,0,0,0,0,0,27,0,269,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2001,731,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,731,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2001,663,94,0,0,0,0,0,294,210,0,0,0,0,0,4,0,0,61,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2001,350,0,0,0,0,0,0,0,0,0,0,0,0,8,0,166,0,106,70,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2001,852,11,0,783,0,0,0,1,54,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2001,918,1,0,0,0,0,0,0,132,0,0,0,0,0,0,590,0,190,5,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2001,126,86,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2001,27,0,0,0,0,0,0,0,0,0,0,0,0,9,0,18,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2002,1553,3,53,43,0,0,0,3,0,0,0,0,3,0,765,4,0,674,5,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,YT,Mayotte,country,,-12.8275,45.166244,2002,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,YT,Mayotte,country,,-12.8275,45.166244,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2002,17747,2235,461,59,13,8,35,1216,521,0,7,1049,123,537,279,3827,118,4535,2842,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2002,408,174,0,0,0,0,0,0,4,0,0,0,0,0,0,46,0,184,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2002,105,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2002,556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,556,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2002,877,48,0,0,0,0,0,558,252,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2002,523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,357,0,85,81,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2002,208,27,0,12,0,0,0,6,146,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2002,1089,4,0,0,0,0,0,0,87,0,0,0,0,0,0,815,0,179,4,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2002,928,852,0,2,0,0,0,2,18,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,YT,Mayotte,country,,-12.8275,45.166244,2002,60,0,0,0,0,0,0,10,23,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2003,1828,11,112,0,0,0,0,42,0,0,0,0,4,0,810,0,0,849,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2003,16678,3505,345,16,4,16,20,1176,492,0,4,1041,191,407,115,3505,101,3354,2487,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2003,964,138,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,825,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2003,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2003,1088,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1088,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2003,1411,64,0,0,0,0,0,794,157,0,0,0,2,0,3,0,0,390,1,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2003,170,19,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,YT,Mayotte,country,,-12.8275,45.166244,2003,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2003,686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,491,0,103,92,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2003,461,52,0,98,0,0,0,3,233,0,0,0,1,0,0,74,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2003,1017,28,0,0,0,0,0,0,103,0,0,0,0,0,0,639,0,239,8,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2003,42,3,0,0,0,0,3,2,15,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,YT,Mayotte,country,,-12.8275,45.166244,2003,125,13,0,1,0,0,0,0,68,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2003,147,0,0,0,0,0,0,0,0,0,0,0,0,147,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2004,1554,10,111,0,0,0,0,70,1,0,0,0,4,0,859,0,0,499,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2004,16168,2817,290,8,0,1,21,1090,775,0,9,833,112,385,177,4329,88,2650,2671,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2004,971,402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,569,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2004,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2004,363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,363,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2004,1705,23,0,0,0,0,0,1375,24,0,0,0,2,0,0,99,0,182,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,YT,Mayotte,country,,-12.8275,45.166244,2004,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2004,163,47,0,0,0,0,0,0,0,0,0,0,0,0,116,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,YT,Mayotte,country,,-12.8275,45.166244,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2004,859,29,0,0,0,0,0,0,0,0,0,0,0,0,0,636,0,76,118,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2004,980,40,29,116,0,0,0,10,130,0,0,0,0,0,0,655,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2004,1185,24,0,0,0,1,0,0,64,0,0,0,0,0,0,796,0,287,13,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2004,203,138,0,0,0,0,0,1,62,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2004,49,0,0,0,0,0,0,0,0,0,0,0,0,36,0,13,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2005,2017,19,169,0,0,0,0,61,0,0,0,0,31,40,918,17,0,745,17,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2005,16,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2005,17013,3281,298,16,2,16,26,789,1017,1,6,847,262,603,78,4664,36,2422,2685,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2005,442,393,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,48,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2005,931,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,931,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2005,1656,65,0,0,0,0,0,1254,64,0,0,0,0,0,5,79,0,189,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,YT,Mayotte,country,,-12.8275,45.166244,2005,38,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,YT,Mayotte,country,,-12.8275,45.166244,2005,115,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2005,112,7,0,6,0,0,0,0,8,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2005,137,64,0,0,0,0,0,2,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,YT,Mayotte,country,,-12.8275,45.166244,2005,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2005,1594,78,0,0,0,0,0,0,0,0,0,0,0,0,0,1085,0,27,404,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,YT,Mayotte,country,,-12.8275,45.166244,2005,155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,155,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2005,25,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,22,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2005,2108,38,15,142,0,0,0,0,202,0,0,0,0,0,0,1711,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2005,1010,23,0,0,0,0,0,0,86,0,0,0,0,0,0,763,0,123,15,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2005,3856,3758,0,0,0,0,3,3,51,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2005,83,0,0,0,0,0,0,0,0,0,0,0,0,36,0,22,0,25,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2006,2115,52,221,0,0,0,0,86,0,0,0,0,16,9,1024,0,0,683,24,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2006,36,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,YT,Mayotte,country,,-12.8275,45.166244,2006,63,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2006,17294,2994,319,20,5,2,34,900,999,1,3,1080,97,691,76,4329,37,2836,2908,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,YT,Mayotte,country,,-12.8275,45.166244,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2006,845,486,0,0,0,0,0,0,4,0,0,0,3,0,0,19,0,333,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2006,38,1,0,0,0,1,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2006,489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,487,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2006,1055,17,0,0,0,0,0,828,0,0,0,0,16,0,3,44,0,147,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2006,121,9,0,1,0,0,0,0,7,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2006,13,12,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,YT,Mayotte,country,,-12.8275,45.166244,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2006,2309,50,0,2,0,0,0,0,0,0,0,0,0,10,6,1910,0,179,152,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2006,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2006,2146,42,29,244,0,0,0,0,308,0,0,0,3,12,0,1508,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2006,834,24,0,0,0,1,0,0,29,0,0,0,0,0,0,544,0,207,29,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2006,11210,11024,0,0,0,0,26,7,48,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2006,208,0,0,0,0,0,0,0,0,0,0,0,0,208,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2007,2587,159,260,0,0,0,0,8,0,0,0,0,6,17,1332,74,0,643,88,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2007,113,38,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2007,19854,3840,424,48,1,0,33,1022,1552,0,4,862,226,804,118,5351,43,1836,3733,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2007,1109,462,0,0,0,0,0,0,5,0,0,0,3,0,0,66,0,573,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2007,175,62,0,0,0,1,0,1,8,0,0,0,61,2,4,36,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2007,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2007,1300,39,0,1,0,0,0,837,39,0,0,0,9,17,5,83,0,270,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,YT,Mayotte,country,,-12.8275,45.166244,2007,58,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2007,2082,1038,24,4,13,2,74,367,79,0,35,201,0,1,1,243,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2007,175,53,0,0,0,0,0,12,55,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2007,4009,1692,0,26,0,0,0,10,4,0,0,80,1,5,0,2191,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2007,2860,105,0,0,0,0,0,10,0,0,0,0,0,34,5,2006,0,162,538,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2007,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2007,316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,316,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2007,3259,41,7,1056,0,0,0,2,410,0,0,0,3,0,0,1740,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2007,962,23,0,0,0,0,0,0,33,0,0,0,0,0,0,745,0,132,29,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2007,18299,18153,0,0,0,0,5,12,24,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,YT,Mayotte,country,,-12.8275,45.166244,2007,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2007,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2007,370,0,0,0,0,0,0,0,0,0,0,0,0,370,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,YT,Mayotte,country,,-12.8275,45.166244,2007,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2007,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2008,2395,726,93,0,0,0,0,17,0,0,0,0,4,36,1107,108,0,257,47,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2008,230,0,0,0,0,0,11,217,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2008,19250,3823,371,18,4,10,30,966,1657,0,2,725,278,889,187,4700,56,2210,3380,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2008,1168,519,0,0,0,0,0,0,5,0,0,0,3,0,0,76,0,565,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2008,270,128,0,0,0,1,1,3,14,0,0,0,52,1,0,70,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2008,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2008,1451,65,0,0,0,0,0,1004,10,0,0,0,10,0,1,61,0,300,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2008,3149,1238,350,8,18,1,79,558,148,0,54,311,0,0,1,383,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2008,664,64,0,0,0,0,0,20,0,0,0,0,0,0,137,443,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2008,4392,1684,0,31,0,7,1,209,31,0,0,114,2,5,98,2209,0,0,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2008,2433,73,0,0,0,0,0,0,0,0,0,0,0,1,0,2166,0,43,150,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2008,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,YT,Mayotte,country,,-12.8275,45.166244,2008,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2008,476,190,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,193,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2008,3193,46,4,642,0,0,0,4,627,0,0,0,0,0,0,1870,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2008,689,29,0,0,0,0,0,0,54,0,0,0,0,4,0,521,0,27,54,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2008,15213,14443,0,518,0,0,5,14,52,0,0,0,1,180,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2008,164,148,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2008,218,0,0,0,0,0,0,0,16,0,0,0,0,171,0,31,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2008,848,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,848,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2009,1904,515,346,0,0,0,0,21,0,0,0,0,3,0,420,99,0,431,69,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,YT,Mayotte,country,,-12.8275,45.166244,2009,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2009,134,6,0,0,0,0,0,106,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2009,21650,4617,411,32,1,8,49,935,1410,0,20,807,288,702,632,5170,58,2732,3836,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2009,1444,775,0,0,0,0,0,0,1,0,0,0,0,0,0,74,0,432,162,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2009,169,58,0,0,0,0,0,0,19,0,0,0,52,7,32,0,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2009,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,307,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2009,1454,25,0,1,0,0,0,1148,21,0,0,0,10,0,0,1,0,248,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,YT,Mayotte,country,,-12.8275,45.166244,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2009,2604,585,438,8,19,6,53,446,308,0,34,96,0,0,0,611,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2009,313,43,0,0,0,0,0,16,14,0,0,0,0,0,76,164,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2009,3592,2462,0,30,0,0,0,25,1,0,1,86,3,9,10,965,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2009,2203,125,0,0,0,0,0,0,0,0,0,0,0,0,0,1748,0,27,303,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2009,257,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,255,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,YT,Mayotte,country,,-12.8275,45.166244,2009,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,YT,Mayotte,country,,-12.8275,45.166244,2009,19,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2009,740,99,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,473,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2009,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,231,0,0,6,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2009,2710,55,6,832,0,0,0,14,703,0,0,0,0,0,0,1100,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2009,783,41,0,0,0,0,0,16,40,0,0,0,0,0,0,598,0,3,85,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2009,16925,16676,0,0,0,0,1,45,14,0,0,0,0,164,0,25,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,YT,Mayotte,country,,-12.8275,45.166244,2009,8,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2009,100,89,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2009,62,0,0,0,0,0,0,0,16,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,YT,Mayotte,country,,-12.8275,45.166244,2009,364,0,0,0,70,0,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2009,617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,617,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2010,1860,321,420,0,0,0,0,21,1,0,0,1,2,1,243,174,0,650,26,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2010,315,3,0,0,0,0,0,200,108,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2010,22591,5221,242,66,0,10,84,1138,1209,0,10,812,198,780,833,5411,97,2745,3832,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2010,1566,636,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,799,73,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2010,101,0,0,0,0,0,0,0,0,0,0,0,68,4,29,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2010,732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,732,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2010,1736,43,0,0,0,0,1,1125,58,0,0,0,11,0,0,0,0,475,23,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,YT,Mayotte,country,,-12.8275,45.166244,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2010,2679,1116,311,2,13,10,70,550,124,0,34,1,0,0,1,447,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2010,384,57,0,0,0,0,0,13,10,0,0,0,1,0,161,142,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2010,3022,2531,0,12,0,0,0,0,0,0,0,15,7,33,1,423,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2010,2905,103,25,0,0,0,0,0,0,0,0,0,0,0,0,2388,0,315,74,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2010,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2010,1025,135,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,871,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2010,236,21,0,0,0,0,0,0,0,0,0,0,0,0,17,198,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2010,3057,27,3,1072,0,0,0,11,816,0,3,0,0,0,0,1125,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2010,634,23,0,0,0,0,0,18,75,0,0,0,0,0,0,401,0,16,101,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2010,14648,14500,0,0,0,0,1,4,3,0,0,0,0,106,0,34,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2010,257,126,0,0,0,0,0,0,25,0,0,0,0,55,0,40,0,11,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2010,137,0,0,0,0,0,0,0,0,0,0,0,0,49,0,14,0,74,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,YT,Mayotte,country,,-12.8275,45.166244,2010,11393,11184,0,8,0,0,0,19,103,0,0,0,0,0,5,0,27,74,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2010,677,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,677,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2011,2808,361,341,0,0,0,0,54,1,0,0,0,4,11,645,1232,0,86,73,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,YT,Mayotte,country,,-12.8275,45.166244,2011,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2011,273,3,0,0,0,0,8,191,47,0,0,0,0,6,0,18,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,YT,Mayotte,country,,-12.8275,45.166244,2011,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,YT,Mayotte,country,,-12.8275,45.166244,2011,41,0,0,0,0,0,0,0,30,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2011,22513,4075,284,52,1,21,99,1108,1263,0,7,906,341,789,536,6628,90,2272,4131,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2011,1971,610,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,1109,159,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2011,87,0,0,0,0,0,1,0,18,0,0,0,38,0,30,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2011,1007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2011,1327,36,0,0,0,0,1,953,0,0,0,0,10,2,0,0,0,324,1,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,YT,Mayotte,country,,-12.8275,45.166244,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2011,3501,1658,413,5,28,25,132,764,150,0,26,0,2,1,0,297,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2011,559,92,0,0,0,0,0,44,0,0,0,0,0,0,293,130,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2011,3502,2582,0,166,0,0,0,0,0,0,0,82,1,8,0,663,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2011,2739,177,24,0,0,0,0,0,0,0,0,0,0,0,0,2254,0,181,103,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2011,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2011,749,168,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,580,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2011,117,55,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,YT,Mayotte,country,,-12.8275,45.166244,2011,173,0,0,0,0,0,0,0,0,0,0,0,0,0,138,35,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2011,2875,32,2,965,0,0,0,28,846,0,1,0,0,0,0,1001,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2011,894,38,0,0,0,0,0,0,12,0,0,0,0,4,0,593,0,159,88,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2011,12238,12082,0,0,0,0,1,2,4,0,0,0,0,144,0,5,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2011,310,94,0,0,0,0,0,0,54,0,0,0,6,23,0,133,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2011,101,0,0,0,0,0,0,0,0,0,0,0,0,67,0,9,0,25,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,YT,Mayotte,country,,-12.8275,45.166244,2011,231,71,0,0,0,1,37,0,22,37,0,0,0,0,0,45,0,18,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2011,1058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1058,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,YT,Mayotte,country,,-12.8275,45.166244,2012,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,43,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2012,2026,195,346,0,0,0,0,80,3,0,0,0,0,0,406,606,0,292,98,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,YT,Mayotte,country,,-12.8275,45.166244,2012,384,384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2012,235,6,0,0,0,0,6,175,30,0,11,0,0,7,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,YT,Mayotte,country,,-12.8275,45.166244,2012,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,YT,Mayotte,country,,-12.8275,45.166244,2012,19,0,0,0,0,0,0,0,14,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,YT,Mayotte,country,,-12.8275,45.166244,2012,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2012,24256,4192,369,46,0,6,74,1003,813,0,20,1288,235,897,594,7294,102,2932,4493,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2012,2706,943,0,0,0,0,0,0,0,0,0,0,0,7,0,158,0,1474,124,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2012,71,0,0,0,0,0,1,0,0,0,0,0,23,0,47,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,YT,Mayotte,country,,-12.8275,45.166244,2012,119,0,0,1,0,0,0,0,0,0,0,0,0,60,58,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2012,460,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,460,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2012,1645,47,0,1,0,0,0,1136,24,0,0,0,11,0,0,0,0,425,1,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2012,2539,1460,290,8,13,30,3,283,241,0,20,26,3,2,1,159,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2012,342,128,0,0,0,0,0,38,0,0,0,0,0,0,74,102,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2012,4234,2854,0,229,0,0,0,0,2,0,1,561,0,6,0,554,0,27,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2012,2632,178,0,0,0,0,0,0,0,0,0,0,0,0,0,2137,0,189,128,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2012,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135,17,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2012,873,6,0,0,0,0,0,0,45,0,0,0,0,0,0,20,0,802,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2012,221,59,0,0,0,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,YT,Mayotte,country,,-12.8275,45.166244,2012,182,0,0,0,0,0,0,0,0,0,0,0,0,16,95,71,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2012,3192,27,8,1432,0,0,0,41,822,0,1,0,0,0,0,861,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2012,793,38,0,0,0,0,0,0,9,0,0,0,0,11,10,391,0,237,97,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2012,9823,9598,0,110,0,0,0,30,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2012,343,74,0,0,0,0,0,0,76,0,0,0,3,24,0,166,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2012,43,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,25,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,YT,Mayotte,country,,-12.8275,45.166244,2012,11079,0,19,2,0,0,10459,0,19,0,5,20,0,1,364,0,0,166,24,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2012,1122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1122,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,YT,Mayotte,country,,-12.8275,45.166244,2013,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,YT,Mayotte,country,,-12.8275,45.166244,2013,2851,22,397,0,0,0,0,88,0,0,0,8,0,0,671,1295,0,337,33,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,YT,Mayotte,country,,-12.8275,45.166244,2013,216,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,YT,Mayotte,country,,-12.8275,45.166244,2013,231,6,0,0,0,0,1,193,23,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,YT,Mayotte,country,,-12.8275,45.166244,2013,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,YT,Mayotte,country,,-12.8275,45.166244,2013,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,YT,Mayotte,country,,-12.8275,45.166244,2013,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,YT,Mayotte,country,,-12.8275,45.166244,2013,25965,4208,360,55,1,16,57,944,880,0,20,752,175,1094,409,8447,100,3774,4773,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,YT,Mayotte,country,,-12.8275,45.166244,2013,1842,990,0,0,0,0,0,0,0,0,0,0,0,4,0,162,0,637,49,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,YT,Mayotte,country,,-12.8275,45.166244,2013,77,0,0,0,0,0,1,0,0,0,0,0,27,0,49,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,YT,Mayotte,country,,-12.8275,45.166244,2013,48,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,YT,Mayotte,country,,-12.8275,45.166244,2013,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,YT,Mayotte,country,,-12.8275,45.166244,2013,348,0,0,0,0,0,0,0,0,0,0,0,0,40,308,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,YT,Mayotte,country,,-12.8275,45.166244,2013,488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,488,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,YT,Mayotte,country,,-12.8275,45.166244,2013,1339,33,0,1,0,0,0,1180,14,0,0,0,10,0,0,0,0,101,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,YT,Mayotte,country,,-12.8275,45.166244,2013,75,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,YT,Mayotte,country,,-12.8275,45.166244,2013,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,YT,Mayotte,country,,-12.8275,45.166244,2013,2250,108,726,3,20,5,1,855,386,0,36,0,6,15,2,87,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,YT,Mayotte,country,,-12.8275,45.166244,2013,465,81,0,0,0,0,0,49,37,0,0,138,0,0,86,74,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,YT,Mayotte,country,,-12.8275,45.166244,2013,5950,4087,0,40,0,0,0,0,0,0,0,912,0,18,0,893,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,YT,Mayotte,country,,-12.8275,45.166244,2013,32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,YT,Mayotte,country,,-12.8275,45.166244,2013,3509,138,0,0,0,0,0,0,0,0,0,0,2,4,0,2553,0,552,260,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,YT,Mayotte,country,,-12.8275,45.166244,2013,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,17,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,YT,Mayotte,country,,-12.8275,45.166244,2013,877,0,0,0,0,0,0,0,19,0,0,0,0,0,0,15,0,843,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,YT,Mayotte,country,,-12.8275,45.166244,2013,268,31,0,0,0,0,0,0,0,0,0,0,0,0,0,237,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,YT,Mayotte,country,,-12.8275,45.166244,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,YT,Mayotte,country,,-12.8275,45.166244,2013,101,0,0,0,0,0,0,0,0,0,0,0,0,0,84,17,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,YT,Mayotte,country,,-12.8275,45.166244,2013,4018,14,48,2267,0,0,0,48,886,0,0,0,1,1,0,753,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,YT,Mayotte,country,,-12.8275,45.166244,2013,878,21,0,0,0,0,0,0,39,0,0,0,0,0,0,435,0,321,62,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,YT,Mayotte,country,,-12.8275,45.166244,2013,12266,11877,0,252,0,0,0,0,0,0,0,0,0,137,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,YT,Mayotte,country,,-12.8275,45.166244,2013,249,80,0,1,0,0,0,0,65,0,0,0,2,28,0,73,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,YT,Mayotte,country,,-12.8275,45.166244,2013,407,0,1,0,0,0,0,0,38,0,0,0,9,57,0,0,0,291,11,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,YT,Mayotte,country,,-12.8275,45.166244,2013,2248,84,18,1523,189,0,40,0,64,0,0,0,0,0,4,0,0,285,41,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,YT,Mayotte,country,,-12.8275,45.166244,2013,552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,552,0,0,0,0,0,0

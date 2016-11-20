@@ -1,0 +1,33 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TK,Tokelau,country,,-8.967363,-171.855881,1987,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TK,Tokelau,country,,-8.967363,-171.855881,1987,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TK,Tokelau,country,,-8.967363,-171.855881,1987,36,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TK,Tokelau,country,,-8.967363,-171.855881,1988,62,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TK,Tokelau,country,,-8.967363,-171.855881,1988,182,26,0,2,0,0,41,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,TK,Tokelau,country,,-8.967363,-171.855881,1988,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TK,Tokelau,country,,-8.967363,-171.855881,1989,62,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TK,Tokelau,country,,-8.967363,-171.855881,1989,300,6,0,0,0,0,25,0,0,0,0,0,0,13,0,0,0,256,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,TK,Tokelau,country,,-8.967363,-171.855881,1990,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TK,Tokelau,country,,-8.967363,-171.855881,1990,373,4,0,0,0,0,35,0,0,0,0,0,0,46,0,0,0,288,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TK,Tokelau,country,,-8.967363,-171.855881,1991,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TK,Tokelau,country,,-8.967363,-171.855881,1992,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TK,Tokelau,country,,-8.967363,-171.855881,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TK,Tokelau,country,,-8.967363,-171.855881,1995,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,TK,Tokelau,country,,-8.967363,-171.855881,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TK,Tokelau,country,,-8.967363,-171.855881,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TK,Tokelau,country,,-8.967363,-171.855881,1996,35,0,0,0,0,0,0,0,0,11,0,0,0,0,20,4,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TK,Tokelau,country,,-8.967363,-171.855881,1997,14,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TK,Tokelau,country,,-8.967363,-171.855881,1997,151,3,0,0,108,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TK,Tokelau,country,,-8.967363,-171.855881,1997,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,TK,Tokelau,country,,-8.967363,-171.855881,1997,31,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TK,Tokelau,country,,-8.967363,-171.855881,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TK,Tokelau,country,,-8.967363,-171.855881,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,TK,Tokelau,country,,-8.967363,-171.855881,1998,77,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TK,Tokelau,country,,-8.967363,-171.855881,1998,33,0,0,0,0,0,0,0,18,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,TK,Tokelau,country,,-8.967363,-171.855881,1998,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,464,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TK,Tokelau,country,,-8.967363,-171.855881,1998,402,0,0,0,0,0,0,0,0,400,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,TK,Tokelau,country,,-8.967363,-171.855881,1998,176,0,0,0,0,0,0,0,0,0,0,0,0,176,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TK,Tokelau,country,,-8.967363,-171.855881,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TK,Tokelau,country,,-8.967363,-171.855881,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,TK,Tokelau,country,,-8.967363,-171.855881,1999,4443,0,0,0,0,0,0,0,0,0,0,0,0,4443,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TK,Tokelau,country,,-8.967363,-171.855881,2000,100,1,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0

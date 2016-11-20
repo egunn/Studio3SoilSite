@@ -1,0 +1,1096 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,1353,850,0,0,0,0,0,0,0,0,0,501,0,0,0,2,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,10438,10299,0,0,0,0,0,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,10,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,149,0,0,0,0,0,0,0,0,0,0,0,0,49,0,65,0,0,35,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,191,40,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,5279,4800,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,400,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,44,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,36,6,0,0,0,0,0,0,0,0,28,0,0,2,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,14,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,44,4,0,0,0,0,0,7,0,0,0,29,0,0,0,4,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,98,2,0,0,0,0,0,0,0,0,0,0,17,3,0,0,0,0,76,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,51436,51356,0,1,0,0,0,0,0,0,2,0,10,67,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,1181,0,0,0,0,0,0,0,0,0,0,0,0,1181,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,573,40,0,17,0,0,0,0,0,0,0,22,0,26,30,55,0,0,383,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,565,0,0,0,0,0,0,0,0,0,0,0,0,5,560,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,100,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,2000,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,2228,1773,0,0,0,0,0,1,5,0,0,21,5,44,7,364,0,0,8,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,58423,45493,0,0,0,0,0,0,0,0,0,0,0,4,12862,0,16,0,64,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1986,11146,10145,12,13,0,0,244,0,8,10,0,177,2,23,272,22,2,0,218,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,3603,3550,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,32220,31800,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,405,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,508,0,0,0,0,0,0,0,0,0,0,0,0,19,0,78,0,13,398,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,285,60,0,150,0,0,0,0,0,0,0,0,0,0,33,0,0,2,40,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,1135,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,9,51,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,11,4,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,18,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,276,2,0,0,253,0,0,0,0,0,0,2,0,1,0,15,0,3,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,11557,11500,0,0,0,0,0,0,0,0,0,0,0,42,15,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,72,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,58,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,269,17,0,4,2,0,0,0,0,0,0,0,0,50,33,108,0,0,55,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,1998,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,199,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,35,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,554,5,0,1,0,0,0,7,0,1,0,25,9,9,16,397,0,3,81,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,7189,0,0,0,0,0,0,0,0,0,0,0,0,2,7187,0,10,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1987,33597,32895,0,63,0,0,0,13,15,0,0,78,2,26,167,26,4,1,311,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,1500,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,7268,4419,0,0,0,0,0,0,0,0,0,0,0,0,2844,5,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,424,423,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,11541,11234,0,0,36,0,0,0,0,0,0,0,0,15,0,0,4,0,256,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,6,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,135,0,0,0,0,0,10,0,0,0,0,0,0,6,0,69,0,50,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,53,20,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,2339,2142,0,0,0,0,0,0,0,0,0,0,0,0,0,197,5,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,218,210,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,76,70,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,410,19,0,24,1,0,0,306,26,0,0,0,0,4,1,29,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,30228,30012,0,0,0,0,0,0,0,0,0,0,0,0,0,190,0,0,26,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,2616,2110,0,0,0,1,0,0,0,0,33,0,54,398,0,20,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,434,0,0,0,0,0,0,0,0,0,0,0,0,434,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,375,0,0,48,5,0,0,0,0,0,0,4,0,79,63,136,0,0,40,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,44,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,185,75,0,0,0,0,0,0,0,0,0,0,0,25,85,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,1252,1252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,545,32,0,18,0,0,0,0,0,1,0,41,43,5,0,331,6,1,73,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1988,25333,17055,0,0,0,0,0,0,0,0,0,0,0,0,8278,0,14,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,2133,1473,0,0,0,0,0,0,0,0,0,0,0,0,660,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,2751,2751,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,14072,14042,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,16,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,70,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,65,10,0,0,0,0,0,0,0,0,0,0,0,24,0,23,0,0,8,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,62,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,5,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,4252,4070,0,0,0,0,0,1,0,0,0,0,0,1,0,173,2,6,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,79,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,105,12,0,0,0,0,0,65,4,0,0,0,0,16,0,2,0,0,6,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,740,686,0,0,0,0,0,0,0,0,9,0,16,21,0,8,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,736,0,0,0,0,0,0,0,0,0,0,0,0,736,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,219,74,0,16,4,0,0,0,4,0,0,27,0,24,0,38,0,3,29,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,276,0,0,0,0,0,0,0,0,0,0,0,0,128,148,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,63,0,0,0,0,0,0,0,0,0,0,0,0,1,62,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,27,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,6,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,608,12,0,4,0,3,3,8,0,82,0,52,74,36,14,312,14,3,5,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1989,33675,18661,0,0,0,0,0,0,0,0,0,0,0,0,15014,0,33,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,1251,1214,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,697,179,0,0,0,0,0,0,0,0,0,0,0,8,30,0,0,0,480,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,462,176,0,14,0,0,0,4,29,0,3,66,22,15,30,101,0,0,2,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,59,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,2,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,150,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,234,4,0,0,0,0,0,0,0,0,0,0,0,8,0,144,0,78,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,273,14,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,17,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,691,522,0,0,0,0,0,0,0,0,0,0,0,3,0,166,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,43,27,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,70,3,0,0,0,0,0,33,0,0,0,0,0,30,1,2,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,20,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,360,0,0,0,0,0,0,0,0,0,0,0,0,360,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,251,56,1,22,33,0,0,2,0,0,0,0,0,40,3,90,0,0,4,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,304,0,0,0,0,0,0,0,0,0,0,0,0,0,304,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,3060,0,0,0,0,0,0,0,0,0,0,0,0,0,3060,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,961,16,0,0,12,0,0,6,2,195,0,178,20,19,0,489,32,0,24,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,5790,0,0,0,0,0,0,0,0,0,0,0,0,1,5789,0,34,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1990,6581,3370,80,58,120,0,80,5,95,25,0,60,10,614,1795,7,4,2,260,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,6601,6601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,1190,1133,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,322,12,0,16,0,0,0,0,3,0,0,0,18,5,0,22,0,245,1,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,282,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,170,0,0,0,0,0,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,1049,965,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,225,0,0,50,0,0,0,0,0,0,0,0,0,0,0,70,0,0,105,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,81,20,0,0,0,0,0,42,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,229,113,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,100,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,54,10,0,0,20,0,0,0,9,0,0,0,0,9,0,0,0,0,6,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,31,0,0,0,0,0,0,0,0,0,0,0,0,19,12,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,149,2,0,3,0,0,0,0,2,0,0,36,0,7,0,88,0,0,11,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,23,5,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,366,0,0,0,0,0,0,0,0,0,0,0,30,0,336,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,295,4,0,2,0,0,0,2,0,0,0,113,1,3,1,169,34,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1991,29686,25372,0,60,0,0,1,3,84,385,0,0,0,463,2406,401,2,0,511,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,84005,84005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,2920,0,0,0,0,0,0,0,0,0,0,0,0,0,2920,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,14424,14304,11,0,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,435,393,0,3,0,0,0,0,0,0,0,0,3,2,25,9,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,24465,24298,0,0,46,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,2880,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,368,7,0,0,0,0,0,0,48,0,0,0,192,103,0,18,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,1341,0,0,0,1020,0,0,0,0,0,0,0,0,0,0,55,0,266,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,109164,108449,0,0,0,0,0,0,0,0,0,0,0,0,665,50,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,206,5,0,4,0,0,0,0,0,0,0,0,0,2,46,18,0,0,131,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,13036,12987,0,0,0,0,0,0,0,0,4,0,0,0,0,43,0,0,2,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,22,18,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,191,73,0,0,0,0,0,0,0,0,0,0,0,2,18,98,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,83,70,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,3115,2955,0,0,0,0,0,0,0,0,130,0,6,23,0,1,6,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,254,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,2557,40,0,0,492,0,2,0,0,0,0,0,0,1,1966,56,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,243,16,0,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,115,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,15,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,282,0,0,0,3,0,0,0,0,0,0,126,1,0,0,144,19,0,8,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,417031,417031,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1992,12256,6843,77,495,0,0,16,8,160,68,0,49,61,416,2071,1083,52,56,853,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,1769,0,0,4,0,0,0,0,0,0,0,0,0,0,1763,0,0,0,2,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,7812,6795,0,0,0,0,0,0,0,0,0,0,0,0,1000,17,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,534,446,1,0,0,0,0,0,0,0,0,0,0,0,1,83,0,0,3,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,61,0,0,0,0,16,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,230,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,85,10,0,0,0,0,0,1,9,0,0,29,0,4,7,21,0,0,4,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,163,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,1342,1000,0,0,0,0,0,0,0,0,0,0,0,0,194,31,0,60,57,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,1500,774,0,0,0,0,0,0,0,0,0,125,0,0,76,164,0,0,361,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,118,50,0,0,0,0,6,22,0,20,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,141,27,0,0,0,0,0,2,1,0,6,49,0,9,0,47,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,89,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,24,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,1064,387,0,18,0,0,0,542,0,0,0,0,3,41,21,21,0,25,6,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,382,28,0,0,0,0,0,0,4,0,0,0,4,12,10,319,0,1,4,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,115,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,85,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,234,13,0,0,0,0,0,0,0,0,0,13,0,3,31,30,0,0,144,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,571,313,0,236,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,1,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,420,0,0,0,0,0,0,0,0,0,0,0,14,0,406,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,428,0,0,0,0,0,0,0,0,0,0,219,18,2,0,174,12,0,15,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,102853,102809,0,0,0,0,0,0,0,29,0,0,0,0,0,15,7,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1993,16274,10529,86,536,300,0,2,83,168,193,9,79,86,276,1460,1280,932,37,1120,30,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,4026,3997,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,466,337,0,0,0,0,0,1,5,0,0,2,0,0,4,86,0,30,1,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,61,27,0,0,0,0,0,0,30,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,125,3,0,0,0,0,0,0,0,0,0,1,0,89,0,30,0,2,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,173,0,0,0,0,0,0,0,0,0,0,1,0,5,0,20,0,147,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,8365,8339,0,0,0,0,0,0,0,0,0,0,0,0,6,14,0,0,6,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,1181,758,0,54,0,0,0,0,0,0,0,0,1,0,353,0,0,0,15,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,88,34,1,3,0,1,1,0,1,0,25,0,0,12,0,10,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,35,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,37,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,254,119,0,0,0,0,0,0,0,0,0,0,0,62,60,13,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,57,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,672,671,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,233,0,0,0,0,0,0,0,0,0,0,0,0,6,138,34,0,30,25,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,2461,2275,0,169,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,1075,0,0,0,0,0,0,0,0,0,0,0,0,0,1075,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,25221,5050,252,2020,2,4,203,98,4914,62,35,1207,461,591,2366,7392,50,22,542,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,18,9,0,0,2,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,40,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,38,6,9,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,10681,10500,0,0,0,0,0,0,0,0,0,0,0,0,0,181,5,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1994,90057,53703,1647,1072,210,0,4261,742,1156,0,20,14449,129,1147,3172,389,507,181,7779,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,480,0,0,0,0,0,0,0,0,0,0,0,0,0,480,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,3311,3235,0,0,0,0,0,0,0,0,0,0,0,0,18,38,0,20,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,537,82,0,2,0,0,0,0,3,0,0,0,3,3,49,383,0,0,12,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,708,519,0,0,164,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,313,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,22512,22442,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,40,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,13978,13838,0,0,0,0,0,1,0,0,0,11,0,8,0,0,10,0,120,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,916,900,1,5,0,0,0,0,0,0,5,0,0,1,0,4,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,207,80,0,0,8,0,0,49,11,0,0,0,0,17,0,31,0,0,11,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,42,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,216,215,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,314,0,0,0,3,0,0,0,1,0,0,0,0,1,255,23,3,0,31,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,482,152,0,207,0,0,0,0,0,0,90,0,33,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,572,0,0,0,0,0,0,0,0,0,0,0,0,0,572,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,92,0,0,3,1,0,0,9,0,0,0,8,10,5,0,47,108,9,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,20150,20040,0,0,0,0,0,0,0,0,0,0,0,1,0,109,5,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1995,123391,78894,1187,2057,193,0,1677,428,1877,469,55,19900,122,1326,3331,6409,0,8,5458,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,479,0,0,0,0,0,0,0,0,0,0,0,0,0,478,1,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,780,520,0,0,0,0,0,0,0,0,0,0,0,0,260,0,1,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,1340,723,0,0,0,0,0,1,0,0,1,0,5,4,402,195,0,1,8,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,200,0,0,0,180,0,0,0,0,0,0,0,0,1,0,19,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,327,265,0,0,0,0,0,0,0,0,2,0,0,18,0,25,0,17,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,49779,49742,0,12,0,0,0,0,0,0,0,6,0,8,0,10,2,0,1,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,12147,12100,0,37,0,0,0,0,0,0,1,0,1,0,0,8,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,150,68,0,8,0,0,0,32,0,0,0,0,14,8,0,20,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,296,156,0,3,0,0,0,0,0,0,0,0,3,113,20,1,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,78,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,65,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,237,0,0,0,3,0,0,0,0,0,0,0,0,1,87,0,151,0,146,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,528,275,0,229,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,411,0,0,0,0,0,0,0,0,0,0,0,0,0,411,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,721,0,0,0,0,0,721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,261,40,0,4,0,0,0,0,0,0,0,41,0,24,0,126,77,19,7,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,6,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0,11,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1996,61499,33095,1021,1307,42,1,548,543,2429,1035,151,9910,160,1044,3375,265,0,4,6569,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,36,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,242,0,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,1194,1085,0,0,0,0,0,0,0,0,8,0,1,0,95,0,0,0,5,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,36,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,9,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,12,6,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,1,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,470,407,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,40,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,123,3,0,22,0,0,0,0,0,0,0,0,0,8,1,0,0,1,88,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,39,21,0,0,0,0,0,17,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,70,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,298,24,0,0,0,0,270,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,53,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,2095,1879,0,0,0,0,0,164,0,0,0,0,0,34,1,17,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,209,0,0,0,0,0,0,9,0,0,0,0,0,140,55,5,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,102,3,0,2,0,1,0,8,1,0,0,0,1,14,53,15,0,1,3,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,3671,79,0,0,3,0,300,12,0,2684,0,0,28,339,0,226,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,1939,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1913,0,6,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,264,0,0,0,4,0,0,0,0,0,8,0,0,2,0,0,448,0,250,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,41,0,1,0,0,0,0,0,0,0,0,0,0,3,37,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,4035,3658,0,352,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,1119,0,0,0,0,0,0,0,0,0,0,0,0,0,1119,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,47394,16118,1935,1855,2937,17,66,940,4232,2,75,2347,514,2199,9502,2210,7,718,1727,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,102,0,0,0,0,0,12,0,0,0,1,0,55,34,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,88,0,0,44,0,0,0,0,0,0,0,0,15,0,29,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,420,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,140,0,0,55,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,165,17,0,13,0,0,0,1,0,0,0,19,3,49,0,60,109,0,3,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,1660,1044,0,0,0,0,0,0,0,18,11,529,21,3,32,1,0,0,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,172,0,0,0,0,0,0,0,0,0,0,0,0,5,167,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1997,120950,89344,764,3743,37,1,820,534,2346,575,125,5542,160,955,7953,342,0,29,7680,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,2994,2994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,6636,6600,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,31,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,839,535,0,0,0,0,0,4,0,0,0,0,0,0,298,0,0,0,2,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,672,0,0,0,0,0,0,0,0,0,0,0,672,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,45,26,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,96,35,0,0,0,0,0,0,0,0,0,0,3,23,0,19,0,0,16,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,74,16,0,43,0,0,0,0,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,241,0,0,0,0,0,0,128,57,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,141,48,0,91,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,77,59,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,1229,1196,0,0,0,0,0,0,0,0,0,0,0,6,1,26,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,206,12,0,4,0,0,0,1,0,0,0,0,19,170,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,41,3,0,1,2,1,1,3,4,0,1,0,6,8,3,5,0,1,2,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,586,45,0,0,6,0,91,1,0,0,0,250,15,20,0,158,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,12113,0,0,248,0,0,0,0,0,0,0,0,0,0,41,11818,0,6,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,70,5,0,0,8,0,0,0,0,0,2,0,0,7,0,36,50,0,12,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,1277,1223,0,37,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,68,42,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,825,0,0,0,0,0,0,0,0,0,0,0,0,0,825,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,188833,160917,2641,642,34,22,74,1434,5053,125,155,1200,610,1902,9447,1793,106,1198,1586,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,106,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,548,0,0,287,0,0,0,0,0,0,0,0,39,0,215,7,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,7,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,1500,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,100,20,0,0,0,0,0,1,0,1,0,15,5,29,1,25,58,0,0,3,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,5627,5019,8,14,458,0,0,0,0,75,23,6,1,22,1,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,5505,5437,0,0,0,0,0,0,0,0,0,0,0,1,0,47,7,20,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1998,382056,343379,374,7827,212,0,254,459,2824,4989,105,11905,111,1742,4632,981,0,24,2235,3,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,201,54,0,0,0,0,0,0,0,0,0,0,3,0,144,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,2259,50,6,1,0,0,1565,0,47,0,0,4,9,5,516,56,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,44,0,0,11,0,0,0,25,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,69,0,0,0,0,0,0,5,47,0,0,0,0,5,0,12,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,49,0,0,0,0,0,0,0,18,0,0,0,0,1,30,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,59,26,0,0,0,0,0,0,0,0,0,0,0,5,0,27,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,107,0,0,18,0,0,0,0,0,0,0,0,0,18,0,0,0,0,71,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,77,0,0,0,0,0,0,42,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,139,45,0,28,0,0,0,0,0,0,17,0,0,2,47,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,61,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,243,56,0,0,0,0,0,4,0,0,0,0,0,2,181,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,124,0,0,11,0,0,0,9,15,0,0,0,0,63,0,26,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,47,2,0,2,3,1,1,8,0,0,3,0,4,6,2,3,0,1,11,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,508,0,0,0,0,0,0,0,0,0,0,0,0,0,508,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,2055,0,0,169,0,0,0,0,0,0,0,0,0,160,0,1716,0,0,10,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,259,0,0,0,1,0,0,0,0,0,0,40,0,1,0,179,89,0,38,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,379,350,0,16,0,0,0,8,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,636,0,0,0,0,0,0,0,0,0,0,0,0,0,636,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,77566,49091,2461,1139,431,27,23,2154,4390,16,115,635,712,4477,7370,1831,66,732,1962,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,132,0,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,3750,3750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,11,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,90,1,0,0,2,0,0,0,0,0,8,0,1,3,0,48,70,0,6,21,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,16294,15994,0,0,104,0,0,1,0,145,3,30,4,12,1,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,549,0,0,0,301,0,0,0,0,0,0,0,0,3,245,0,3,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1999,78439,38199,860,11585,67,1,29,274,4616,1495,294,11782,271,829,4182,1934,2,16,2005,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,141,70,0,0,0,0,0,0,0,70,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,3760,41,0,0,0,0,1345,0,2,0,0,40,1,0,2199,125,0,1,6,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,39,0,0,0,21,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,8,0,0,0,1,0,0,1,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,30,17,0,0,1,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,88,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,75,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,34,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,136,0,0,0,0,0,0,33,87,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,93,6,0,56,0,0,0,8,0,0,0,0,3,1,0,0,0,0,19,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,60,47,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,74,50,0,0,3,0,0,0,0,0,0,0,0,16,2,3,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,418,0,0,177,0,0,0,10,0,0,0,0,1,53,172,0,0,5,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,9,0,0,0,0,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,5289,0,0,0,0,0,0,0,14,0,0,0,0,360,0,4914,0,0,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,45,0,0,0,22,0,0,0,0,0,0,0,0,21,0,2,192,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,530,512,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,41798,8770,1015,1510,275,13,25,1339,4176,48,198,24,3478,745,18587,0,54,403,1192,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,93,0,0,0,0,0,0,0,0,0,0,0,0,0,8,41,0,0,44,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,155,26,0,29,0,0,0,0,0,0,0,0,9,2,0,89,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,238,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,58,4,0,41,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,69,0,0,1,0,0,17,0,0,0,0,0,3,25,0,22,15,0,1,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,4574,2740,0,0,322,6,2,2,0,1341,7,0,65,27,0,0,0,2,54,6,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2000,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,68,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,3691,3675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,67,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,150,147,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,629,4,26,0,0,0,70,5,0,0,0,0,0,0,399,125,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,13,1,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,176,96,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,19,0,0,0,0,0,0,1,4,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,306,0,0,0,305,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,33,26,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,58,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,47,0,0,0,0,0,0,37,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,80,11,1,3,0,0,0,0,1,0,36,0,5,0,1,0,0,0,22,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,13,11,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,37,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,88,18,0,0,0,0,0,52,0,0,0,0,0,15,1,1,0,0,1,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,3309,0,0,125,0,0,27,41,0,0,0,0,0,219,2897,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,5024,1515,3,1055,717,0,525,10,0,92,0,510,7,576,0,4,0,0,0,10,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,824,20,0,0,0,0,0,0,0,0,0,0,0,0,795,0,0,0,9,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,484,484,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,527,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,51,2,0,0,22,0,0,24,0,0,0,0,0,1,0,2,123,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,532,450,0,0,0,0,0,0,0,0,0,0,0,70,12,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,281,263,0,13,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,159890,123366,1478,1091,1373,23,102,2139,5957,2,319,5515,807,3000,10601,2213,0,59,1845,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,32,0,0,17,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,68,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,29,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,8844,8844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,116,1,0,4,0,0,0,0,0,0,0,0,2,58,0,48,20,0,3,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,7402,2538,0,584,1358,1041,18,2,1,0,5,253,332,275,766,13,0,2,214,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,3588,3588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2001,11491,4448,10,6262,120,0,0,25,68,0,1,90,42,291,67,27,0,0,40,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,416,0,0,0,0,0,0,0,0,0,0,0,0,0,334,0,0,18,64,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,33,25,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,4,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,25,0,0,0,0,0,0,0,0,0,0,0,22,3,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,1745,0,0,0,1735,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,488,114,0,374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,31,0,0,0,0,0,0,1,14,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,95,0,0,0,0,0,0,0,0,0,0,0,0,1,94,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,522,500,0,0,0,0,0,0,7,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,90,88,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,37,0,0,5,0,0,0,0,0,0,0,0,0,13,0,0,0,0,19,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,2356,2323,0,0,0,0,0,0,0,0,0,5,0,27,0,0,0,0,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,234,0,0,0,0,0,0,0,0,0,0,0,41,96,0,0,0,0,97,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,20,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,16,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,9,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,149,60,0,0,0,0,0,76,0,0,0,0,0,11,1,0,0,1,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,22966,18218,0,0,0,0,0,2,95,0,0,0,0,39,4600,1,0,0,11,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,29,1,0,0,0,0,0,2,12,0,0,0,2,5,2,1,0,2,2,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,4492,240,9,300,32,0,123,1,0,1009,0,2138,26,563,0,0,0,0,5,46,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,1683,3,0,0,0,0,0,0,0,0,0,0,0,0,1680,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,1562,1562,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,69,1,0,0,8,0,0,0,0,0,0,0,0,5,0,54,307,0,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,44,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,27,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,72,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,182,166,0,13,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,342420,305647,1269,995,705,327,604,1966,6395,1,328,7747,1249,3673,7885,2285,7,104,1240,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,136,0,0,4,0,0,0,0,0,0,0,0,43,0,0,89,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,462,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,16989,16801,0,160,18,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,71,21,1,0,1,0,0,0,0,0,0,0,0,37,0,11,5,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,70127,65345,2,7,769,0,200,10,0,1,3,0,40,88,3657,5,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,41381,30025,0,0,11336,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2002,63556,28521,5981,2912,915,13,54,1316,16713,56,644,2279,577,898,1859,542,43,4,272,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,520,0,0,0,0,0,0,0,0,0,0,0,0,0,472,0,0,0,48,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,23,0,0,0,0,0,0,0,0,0,0,21,2,0,0,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,246,155,0,0,9,0,0,3,0,0,0,0,0,49,2,28,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,459,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,459,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,443,0,0,440,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,7995,4500,0,21,3335,0,0,19,0,0,0,0,0,119,0,1,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,11168,56,0,10990,0,0,0,1,0,0,0,0,0,15,106,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,10,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,4013,4000,0,0,0,0,0,0,0,0,0,0,0,13,0,0,51,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,32,25,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,3649,3543,0,23,6,3,0,0,3,0,36,9,2,13,1,0,0,0,10,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,35,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,26,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,137,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,109,68,0,0,0,0,0,24,0,0,0,0,0,10,6,0,0,1,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,16050,0,0,64,418,0,750,35,0,0,3,0,20,422,14189,16,0,0,133,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,38,1,0,1,0,0,0,3,0,0,1,0,4,7,4,10,0,2,5,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,5985,151,14,2886,31,7,1242,2,0,916,0,10,29,677,3,2,0,0,15,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,448,0,0,0,0,0,0,0,0,0,0,0,0,0,448,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,1694,1694,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,25,0,0,0,3,0,0,1,0,0,0,18,0,3,0,0,131,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,71,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,4826,4805,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,149219,121900,891,1387,231,14,83,2007,3831,5,189,6677,890,3283,4259,1978,17,94,1477,23,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,194,0,0,0,0,0,0,0,0,0,0,0,0,194,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,2012,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,77,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,44,0,0,1,0,0,0,0,0,0,0,0,1,1,0,25,4,0,16,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,91836,88166,87,107,1022,0,868,48,0,4,1,0,25,303,1180,25,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2003,4433,1720,0,0,2699,0,0,0,0,0,0,0,14,0,0,0,6,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,31,4,0,0,0,0,0,0,0,0,0,13,0,10,0,0,0,0,4,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,15,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,83,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,1085,0,0,32,960,0,0,66,0,0,1,0,0,21,5,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,71,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,41,0,0,0,0,0,0,1,9,0,0,0,1,0,0,30,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,1524,0,0,0,827,0,0,0,0,0,0,0,0,2,695,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,146,36,0,0,0,0,0,0,0,0,0,0,3,43,63,0,0,0,1,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,670,0,0,0,670,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,163,29,0,17,0,0,0,0,0,0,58,5,19,25,6,0,0,4,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,111,0,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,95,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,83,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,79,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,156,95,0,0,0,0,2,1,0,0,0,0,2,19,4,26,0,5,2,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,16697,0,0,293,0,0,0,27,0,0,1,0,92,1833,14428,23,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,36,9,0,1,0,0,0,12,0,0,1,0,3,3,2,3,0,0,2,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,124,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,1645,1608,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,2382,11,25,2256,0,0,0,0,0,0,0,0,51,2,0,0,236,0,37,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,95,28,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,42,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,1403,1222,0,144,0,0,0,0,0,0,16,0,0,21,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,74,0,0,1,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,62,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,55356,33299,1568,1018,5,9,250,2164,4939,112,159,1366,892,3605,2459,2208,17,136,1167,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,7,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,7240,6998,0,231,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,300,0,0,5,0,0,0,0,0,0,0,200,1,10,0,64,6,0,20,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,2764,1281,45,68,504,0,0,71,0,0,5,0,9,511,258,12,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,20045,18427,0,0,1618,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2004,21847,6778,1163,1216,50,4,6,448,6860,1566,109,6,370,931,1856,141,0,26,317,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,344,0,0,0,0,0,0,0,0,0,0,0,0,0,244,0,0,52,48,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,67,28,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,9,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,123,17,0,35,0,0,0,0,0,0,0,0,8,0,0,0,0,16,47,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,712,0,0,0,440,0,0,0,0,0,0,0,0,5,267,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,62,0,0,20,0,0,1,35,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,57,0,0,0,0,0,0,0,11,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,727,0,0,0,110,0,0,0,0,0,0,0,0,0,617,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,472,0,0,430,0,0,0,0,0,0,0,0,0,41,0,0,0,0,1,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,207,0,0,0,80,0,0,0,0,0,0,0,90,0,0,0,0,0,0,37,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,243,209,0,0,0,0,0,0,0,0,0,0,0,1,0,33,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,5,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,6,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,177,73,0,4,0,0,0,0,1,0,32,0,1,46,0,20,2,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,39,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,30,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,6,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,264,149,0,0,0,0,0,1,0,0,0,0,1,10,5,92,0,3,3,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,27435,0,0,577,0,0,4,1,0,0,14,0,164,10875,15800,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,56,3,0,1,0,0,0,0,0,0,0,0,1,8,0,38,0,5,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,236,0,0,0,0,0,0,0,0,0,0,0,0,0,236,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,550,385,0,5,0,0,0,16,34,0,0,0,1,2,0,107,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,83,11,0,0,0,0,0,0,0,0,0,0,40,6,0,0,138,0,26,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,408,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,296,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,505,459,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,128234,94475,1828,4278,14,7,69,2838,4874,403,120,1905,725,13519,963,910,21,145,1161,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,23,0,0,0,0,0,2,0,0,0,0,0,9,12,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,43,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,1500,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,136,28,0,0,0,0,0,21,0,0,0,0,23,64,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,160,0,0,1,0,0,0,18,1,0,0,0,0,16,0,123,25,0,1,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,4521,4410,5,59,18,0,0,0,20,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,28325,20528,0,0,7777,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2005,108082,5498,349,4562,50,24,40,240,90178,2851,83,1036,261,1385,1186,51,0,0,288,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,66,0,0,46,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,146,53,0,71,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,1753,0,0,0,1750,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,137,0,0,28,0,0,0,39,0,0,0,0,16,0,0,54,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,7,0,0,0,0,0,0,2,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,430,0,0,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,171,0,0,0,88,0,0,0,0,0,0,0,0,0,83,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,100,5,0,0,0,0,0,0,55,0,0,0,0,39,0,0,0,0,1,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,110,0,0,0,0,0,0,19,0,0,0,0,54,2,0,0,0,0,0,35,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,46,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,40,0,0,0,0,0,0,0,0,0,0,0,13,27,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,238,82,0,11,23,0,0,1,7,1,28,11,24,20,26,3,55,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,201575,0,0,0,0,0,0,0,0,0,0,0,0,201575,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,218,44,0,0,0,0,0,30,0,0,0,0,9,36,5,24,0,66,4,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,79146,0,0,954,0,0,0,0,0,0,164,0,80,53991,23942,0,0,0,15,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,29,5,0,0,0,1,0,8,4,0,0,0,0,7,1,0,0,2,1,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,508,0,0,0,0,0,0,0,0,0,0,0,0,0,508,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,935,556,0,7,0,0,1,3,22,0,0,0,2,115,0,229,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,148,28,0,0,0,0,0,0,0,0,0,12,82,8,0,0,140,0,18,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,79,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,1582,1582,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,6,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,192434,141054,1935,11604,22,11,143,3976,9220,7,348,1237,1293,14002,2513,3226,24,169,1674,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,6,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,67,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,65,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,794,44,0,0,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,35,32,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,107,5,0,1,0,0,0,0,0,0,2,0,2,11,0,85,17,0,1,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,13023,11835,0,40,276,0,0,0,0,0,0,47,0,0,632,193,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,63283,57294,0,0,5989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2006,22369,4819,0,3336,0,0,0,0,9465,1239,0,30,386,977,1223,0,0,0,894,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,1030,1010,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,19,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,2939,41,0,0,0,0,0,0,53,0,0,40,0,0,1,2804,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,495,79,0,183,0,0,0,0,0,0,0,0,14,0,0,24,0,0,195,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,20,16,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,119,4,0,68,0,0,2,40,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,833,0,0,800,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,56,0,0,0,0,0,0,0,0,0,0,0,0,0,2,54,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,856,600,0,0,0,0,0,0,12,0,0,0,21,223,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,160,2,0,0,1,0,0,0,0,0,0,0,0,64,0,92,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,265,264,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,254,84,0,5,3,0,0,0,5,2,18,71,3,25,12,1,0,0,25,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,102,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,57,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,38,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,105661,0,0,0,0,0,0,0,0,0,0,0,0,105661,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,228,42,0,1,0,0,0,19,0,0,0,0,9,93,14,39,0,7,4,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,132958,30,0,1143,0,0,0,4,122,0,102,0,23,103284,28250,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,25,1,0,2,0,3,0,5,0,0,0,0,1,8,0,0,0,2,3,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,28907,23530,351,0,2169,35,1242,749,0,0,1,1,57,735,28,9,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,752,0,0,0,0,0,0,0,0,0,0,0,0,13,739,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,507,33,0,8,0,0,0,0,0,0,0,0,1,168,0,297,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,138,18,38,0,1,0,0,0,0,0,0,0,38,1,0,0,169,0,42,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,201,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,48,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,613,568,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,96,32,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,130054,20466,2609,4084,19,12,169,4032,11766,34,488,1215,1074,61166,2748,18298,16,109,1765,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,40,5,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,29,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,100,99,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,58,44,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,49,12,0,12,0,0,0,0,0,0,0,0,0,19,0,0,0,0,6,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,249,0,0,6,0,0,0,5,1,0,1,83,1,3,0,139,15,0,10,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,2630,308,0,144,0,0,39,0,0,0,0,30,3,85,1930,25,0,0,66,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2007,10859,9997,0,0,843,0,0,0,0,0,0,2,0,0,0,0,408,17,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,349,0,0,1,0,0,0,0,0,0,0,0,5,109,0,0,0,209,25,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,3457,3434,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,8,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,4603,263,1,0,0,0,0,0,2,0,0,112,0,162,52,4008,0,0,3,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,453,263,0,134,0,0,0,0,0,0,0,0,7,0,0,0,0,49,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,328,5,0,231,0,0,1,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,846,0,0,708,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,58,0,0,0,0,0,0,0,0,0,0,0,0,0,1,57,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,240,30,0,0,0,0,0,0,0,0,0,0,0,180,0,25,0,0,5,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,131,5,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,94,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,575,234,0,85,0,0,0,0,100,0,14,100,20,21,0,0,0,0,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,85,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,281,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,28,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,447,142,0,0,0,0,0,31,0,0,0,0,23,154,40,44,0,7,6,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,22761,143,0,424,0,0,0,0,263,0,117,0,77,1672,20055,0,7,10,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,64,3,0,2,0,2,0,15,0,0,2,0,3,18,3,12,0,3,1,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,8971,4747,421,780,578,95,1145,0,119,1,0,0,63,599,0,405,0,0,18,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,408,0,0,0,0,0,0,0,0,0,0,0,0,0,408,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,351,39,0,12,0,0,0,0,0,0,0,0,1,151,0,148,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,433,17,100,0,9,0,0,0,0,0,0,166,58,2,0,81,354,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,106,22,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,95,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,583,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,213430,136288,3815,3978,134,36,422,3693,16305,173,729,10035,1965,12414,4635,12733,16,228,5847,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,221,36,0,12,0,0,0,0,35,0,0,0,19,53,44,22,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,274,178,0,0,0,0,0,2,74,0,0,0,0,2,0,18,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,637,6,0,1,0,0,0,0,2,0,0,498,5,8,0,117,27,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,2499,106,24,26,5,0,0,8,10,0,10,1,0,70,1844,94,0,0,301,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2008,2932,2139,0,0,682,0,0,0,0,0,0,78,0,0,15,0,1123,18,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,329,100,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,114,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,112,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,8876,8815,18,0,0,0,0,0,0,0,0,0,0,3,0,0,0,22,18,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,6435,32,0,22,0,0,0,0,0,1,0,1741,0,53,5,4562,0,19,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,170,65,0,104,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,50,0,0,0,0,0,0,0,0,0,0,25,0,1,0,0,0,24,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,16,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,366,73,0,178,2,0,7,48,0,1,0,0,16,21,14,5,0,0,1,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,912,0,0,565,0,0,0,0,0,0,0,0,347,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,49,4,0,3,0,0,0,0,0,0,0,0,36,1,5,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,40,0,0,0,0,0,0,0,0,0,0,0,1,0,1,38,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,354,50,0,98,0,0,0,0,52,0,0,0,0,57,51,0,0,0,0,46,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,228,82,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,6,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,99,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,48,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,21,0,0,0,0,0,0,0,0,0,0,0,0,0,14,7,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,253,44,0,11,0,0,1,10,20,0,57,46,0,54,10,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,296,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,135,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,198,100,0,0,0,0,3,17,1,0,0,0,5,40,20,5,0,4,3,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,27801,63,0,193,0,1,42,2,213,0,93,0,38,9219,17917,0,3,0,20,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,108,8,0,1,2,4,0,18,2,0,4,0,15,22,11,10,0,6,5,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,16,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,54769,947,426,968,31,77,34616,5,27,12326,0,0,171,694,4289,144,0,0,48,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,153,0,0,0,0,0,0,0,0,0,0,0,58,95,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,128,37,0,11,0,0,0,2,0,0,0,0,1,76,1,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,362,43,100,0,0,0,0,4,0,0,0,0,74,1,0,78,229,0,62,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,78,54,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,129,128,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,512,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,84,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,179464,81717,3851,2015,25,23,401,3572,45358,4,991,2056,2535,14510,7596,9889,16,205,4716,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,267,23,0,11,0,0,0,0,7,0,0,0,3,199,24,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,856,0,0,1,0,0,0,0,0,0,0,676,0,3,0,126,49,0,50,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,4764,72,1,0,0,9,1335,12,76,1,0,28,0,222,2876,92,0,1,39,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,1683,1376,0,0,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2009,9175,440,26,127,0,11,0,41,5134,132,114,102,346,1273,285,422,16,4,718,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,4297,3746,194,0,0,0,0,0,0,0,0,0,0,1,0,14,0,324,18,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,3321,57,0,2,0,0,0,0,0,0,0,1,0,180,0,3033,0,48,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,255,37,0,73,0,0,0,0,0,0,0,0,13,0,0,0,0,132,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,24,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,471,158,0,30,2,0,13,144,0,0,5,50,0,30,25,13,0,0,1,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,161,0,0,134,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,6,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,19,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,5210,5021,0,0,0,0,0,0,0,0,0,0,0,143,0,43,0,0,3,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,19,3,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,6,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,343,31,0,50,1,0,0,10,59,1,35,86,4,56,8,2,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,1078,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,532,374,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,53,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,354,153,0,0,0,0,0,33,0,0,0,0,9,21,102,28,0,5,3,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,9782,103,0,458,0,0,0,0,360,0,0,0,63,2189,6390,0,7,0,219,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,133,0,0,7,0,5,2,15,1,0,1,0,22,22,0,50,0,5,3,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,10309,2124,662,149,514,36,2757,2,178,137,0,1257,259,666,1174,386,0,0,8,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,81,0,0,0,0,0,0,0,0,0,0,0,51,30,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,259,54,0,5,0,0,0,20,0,0,0,0,1,132,0,47,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,400,29,146,41,0,0,0,7,1,0,0,0,88,6,0,30,272,0,52,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,102,54,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,395,395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,27,17,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,84387,9914,3237,5635,16,46,217,5565,16450,22,897,2768,1723,20834,4632,10052,20,297,2078,1,3,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,89,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,20,9,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,453,21,0,1,0,0,0,0,0,40,0,0,5,384,2,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,318,1,0,2,0,0,0,0,0,0,0,132,4,17,0,36,48,50,76,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,12206,363,0,0,0,0,3548,0,74,20,0,0,20,1862,6273,0,0,0,46,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,934,746,0,0,178,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2010,10000,501,44,114,7,5,0,4,6862,0,62,10,398,1086,319,527,6,0,61,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,72,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,23,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1534,995,202,0,0,0,0,0,0,0,0,0,0,3,0,14,0,270,50,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,5947,139,0,0,1,0,0,0,197,0,0,60,0,15,0,5533,0,2,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,86,20,0,58,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,947,149,0,77,4,4,21,151,9,6,0,350,2,99,46,28,0,0,1,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,253,0,0,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1975,1135,0,48,0,0,0,0,428,4,0,0,0,50,278,32,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,146,8,0,0,0,0,0,0,0,0,0,0,0,21,0,45,1,72,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,31,14,0,2,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1745,1267,4,246,3,0,3,1,2,1,49,76,22,53,8,9,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1261,257,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,793,180,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,334,161,0,0,0,0,0,16,0,0,0,0,5,14,124,6,0,4,4,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,119,5,0,1,0,8,1,18,1,0,1,0,16,14,2,33,0,10,9,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,9070,1715,448,30,1497,221,2352,874,211,0,0,243,182,1013,0,233,0,0,51,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,163,0,0,0,0,0,0,0,0,0,0,0,40,29,94,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,250,70,0,6,0,0,0,8,1,0,0,0,1,152,0,10,0,0,2,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,491,81,172,0,0,0,0,0,0,0,0,0,12,16,2,52,321,0,156,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,129,81,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,26,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,17,12,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,36,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,123784,28553,3734,1051,369,18,167,6428,19367,53,1098,4131,1747,36722,3259,14175,16,857,2054,0,1,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,260,0,0,0,0,0,0,0,0,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,434,335,0,2,0,0,0,0,0,0,0,0,7,90,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,99,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,83,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1633,6,0,0,0,0,0,0,1,0,0,0,9,18,0,80,74,1367,152,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,23847,0,0,1,0,0,86,0,193,53,21,18848,7,538,3404,125,0,0,571,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,1244,197,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,1039,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2011,10783,1125,0,275,332,5,630,5,5020,0,261,346,386,1295,460,481,13,28,134,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,655,2,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,158,457,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,45,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,5364,4988,101,0,0,0,0,0,0,0,0,4,0,0,10,28,0,108,125,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,2153,210,0,0,0,0,0,35,30,0,0,26,0,6,4,1819,0,23,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,140,19,0,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,4574,0,0,0,0,0,0,0,0,0,0,0,0,4500,0,74,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,848,0,0,89,0,0,0,145,0,0,0,600,6,2,6,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,689,0,0,678,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,7,0,0,0,0,1,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,862,782,0,0,0,0,0,0,0,0,0,0,0,23,0,49,17,8,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,144,35,0,0,0,0,0,0,0,0,0,0,0,77,2,30,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,1360,690,0,169,2,6,0,0,11,5,115,248,3,41,19,50,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,1918,493,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1206,212,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,257,102,2,0,0,0,0,13,0,0,0,0,3,40,78,11,0,3,5,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,88,6,0,1,0,4,1,13,2,0,1,0,17,15,6,9,0,3,10,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,127,0,0,0,0,0,0,0,0,0,0,0,33,51,43,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,468,124,0,4,0,0,0,45,0,0,0,0,1,156,0,129,0,9,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,25,0,0,20,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,14933,84,7,0,0,0,1,2,34,0,0,1454,0,104,3,13115,0,128,1,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,621,33,226,0,0,0,0,2,5,0,0,13,2,28,3,59,329,0,250,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,122,26,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,91,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,226934,29588,6104,1514,99,61,390,10846,23818,62,1488,7284,1879,112089,6054,22139,51,854,2664,1,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,14,0,0,0,0,0,0,0,0,0,0,1,0,1,12,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,18,0,0,0,0,0,12,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,24,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,19,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,184,4,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,607,432,0,0,0,0,0,0,0,0,0,0,28,129,18,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,1789,5,0,0,0,0,0,1,4,0,0,0,6,20,0,73,93,1429,251,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,16116,2323,0,2,265,0,199,2,141,0,0,10000,0,409,1413,66,0,1250,46,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,1544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1544,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,15791,6832,0,434,167,0,38,3,4379,9,314,252,500,992,547,1012,35,0,312,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,390,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,359,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,356,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,7097,6768,25,0,0,0,0,0,0,0,0,16,0,2,0,15,0,189,82,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1359,963,0,0,0,0,0,0,0,0,0,0,0,81,7,293,0,15,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,151,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,135,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,22,0,0,0,0,0,0,0,0,0,0,0,0,4,0,18,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,512,0,0,36,0,0,3,18,0,0,0,400,8,46,1,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,811,0,0,778,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,18,0,0,0,0,1,0,0,0,0,0,0,1,0,5,11,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,62,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,2255,1474,0,129,0,0,1,1,424,0,0,0,0,140,86,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1745,1232,0,0,0,0,0,0,0,0,0,0,1,14,0,14,81,235,249,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,444,129,0,0,0,0,0,0,0,0,0,25,0,255,1,9,17,0,25,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1873,546,1,986,0,5,0,1,34,9,4,145,4,38,46,0,0,4,50,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,942,493,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,422,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,52,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,352,211,0,0,0,0,1,18,0,0,0,0,4,28,57,13,0,19,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,9727,162,0,386,0,1,0,106,456,0,66,76,36,3143,5289,6,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,146,6,0,2,3,7,2,33,4,0,2,0,17,28,7,20,0,3,12,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,14424,2085,884,32,508,66,8835,2,566,67,0,87,443,278,28,533,0,2,8,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,226,0,0,0,0,0,0,0,0,0,0,0,52,32,142,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,414,0,0,0,0,0,0,0,0,0,0,121,0,251,0,42,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,16745,73,189,2,0,0,0,0,5,0,0,1400,1,541,175,14294,0,61,4,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1045,31,251,1,0,0,6,2,5,0,0,3,1,7,2,66,443,0,670,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,141,129,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,71,0,0,0,0,0,0,0,2,0,0,0,1,4,0,0,0,0,64,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,171,0,0,0,0,0,0,0,0,0,0,11,0,0,160,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,351054,17622,7708,4030,95,42,291,10573,30642,72,2107,7810,2649,229790,14294,17728,38,1176,4423,0,2,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,17,0,0,0,0,0,0,0,0,0,0,2,0,1,14,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,29,0,0,0,0,0,0,0,0,0,0,0,3,0,0,26,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,26,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,19,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,179,129,0,29,0,0,0,0,0,0,0,0,1,0,1,0,0,0,19,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,943,7,0,3,0,0,0,1,1,0,0,45,8,11,0,21,111,653,193,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,1637,612,8,0,0,0,269,26,89,45,0,12,2,464,0,47,0,0,63,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,376,0,0,0,0,0,0,0,0,0,0,0,0,3,6,11,0,356,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,22,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2013,17840,9230,0,223,4,0,300,11,4228,2,227,178,448,1000,447,1440,17,1,101,0,0,0,0,0

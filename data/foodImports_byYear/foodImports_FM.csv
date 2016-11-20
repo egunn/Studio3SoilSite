@@ -1,0 +1,269 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1991,272,100,0,5,0,0,123,20,0,0,0,0,0,14,0,10,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1992,2557,16,0,1001,0,0,0,87,108,0,0,0,10,2,0,83,0,421,829,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1992,8,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1992,274,74,0,1,0,0,149,14,0,0,0,0,0,3,0,33,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1992,34,0,0,0,0,0,0,0,0,0,0,0,0,33,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1992,42,0,0,21,0,0,0,5,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1993,2236,4,0,622,0,0,0,1,138,0,0,40,20,3,0,26,0,412,970,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1993,222,65,0,0,0,0,131,20,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1993,55,1,0,0,0,0,0,15,0,0,0,0,20,4,0,15,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1993,64,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1994,3365,30,0,966,0,0,0,23,110,0,0,83,34,2,0,27,0,621,1469,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1994,203,69,0,1,0,0,103,19,0,0,0,0,0,5,0,6,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1994,89,8,0,0,0,0,0,1,0,0,0,0,1,49,0,0,0,0,30,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1994,272,3,0,144,0,0,7,19,0,0,0,0,27,3,0,69,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1994,131,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1995,3125,24,0,1221,0,1,0,16,76,0,0,0,21,3,0,65,0,506,1192,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1995,116,21,0,0,0,0,76,18,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1995,638,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,636,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1995,166,1,0,38,0,0,0,34,0,0,0,0,27,12,0,54,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1995,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,2791,10,0,1202,0,0,0,0,67,0,0,4,7,2,0,42,0,407,1050,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,134,25,0,0,0,0,89,17,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,39,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,22,2,0,5,0,0,0,0,1,0,0,0,1,5,0,6,0,0,2,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,211,2,0,83,0,0,1,26,0,0,0,0,23,48,0,28,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,1635,1629,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,2328,12,0,1158,0,0,0,0,33,0,1,0,7,3,0,100,0,395,619,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,126,16,0,1,0,0,88,17,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,49,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,36,6,0,7,1,0,1,0,0,0,0,0,1,2,3,15,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,276,252,1,0,0,0,0,1,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1997,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1998,3218,1,0,1447,0,0,0,0,57,0,0,0,5,4,0,110,0,626,968,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1998,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1998,182,19,0,0,0,0,125,21,0,0,0,0,0,2,1,14,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1998,63,15,0,10,0,1,3,0,24,0,0,0,2,3,2,1,0,0,2,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1998,605,11,0,325,0,0,13,19,0,0,0,0,21,193,0,23,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1998,169,152,0,0,1,0,0,0,1,0,0,0,2,0,2,11,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,3220,50,0,1490,0,0,0,0,38,0,0,0,6,3,0,103,0,569,961,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,176,15,0,1,0,0,137,19,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,83,30,0,23,0,5,3,0,17,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,1449,42,0,1081,0,0,2,37,0,0,0,0,25,234,13,15,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,2052,45,0,1500,0,0,104,1,9,0,0,0,1,0,6,304,0,1,81,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,603,576,0,0,0,0,0,0,4,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,3909,689,0,1520,0,0,0,4,49,0,1,0,11,29,1,163,0,755,687,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,370,149,0,4,0,0,29,3,1,0,0,0,41,25,2,116,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,24,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,14957,5069,79,667,0,0,298,74,42,9,28,41,12,571,710,6551,15,0,806,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,151,15,0,0,0,0,92,23,0,0,0,0,0,3,1,17,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,11,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,362,57,0,60,0,4,6,0,34,0,0,0,4,88,0,106,0,0,3,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,1332,48,0,799,0,0,0,116,0,0,1,0,20,307,2,33,0,0,6,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,467,49,0,0,0,0,83,4,10,0,0,0,0,0,8,244,0,0,69,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2000,779,416,0,21,0,0,0,0,5,0,0,0,2,330,0,5,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,5305,1037,0,2217,0,0,0,13,45,0,0,0,15,39,4,130,0,1152,653,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,139,37,0,3,0,0,9,1,4,0,0,0,16,3,2,64,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,66,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,59,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,260,16,0,1,0,0,137,27,0,0,0,0,6,4,0,69,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,64,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,428,80,0,61,1,0,5,0,25,0,0,0,5,112,3,134,0,1,1,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,1313,61,0,866,0,0,4,68,8,0,1,0,20,211,1,73,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,549,55,0,2,0,0,0,4,13,0,0,0,2,19,10,363,0,0,81,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,68,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2001,675,273,0,0,0,0,2,0,6,0,0,0,5,376,0,13,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,4367,948,0,1473,0,0,0,36,130,0,0,0,11,29,4,96,8,690,950,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,96,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,24,8,0,2,0,0,0,0,3,0,0,0,9,0,0,0,0,0,2,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,242,22,0,0,0,0,127,27,0,0,0,0,0,5,6,55,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,755,77,0,31,1,1,5,0,39,0,0,0,6,93,2,497,0,3,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,1329,83,0,832,0,0,1,54,9,0,0,0,20,258,0,72,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,448,58,0,0,0,0,31,3,15,0,0,0,0,30,2,244,0,0,65,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,24,1,0,0,0,0,0,1,1,0,0,0,3,0,0,18,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2002,18830,8137,8,5,0,0,16,15,5,0,0,3607,5,6,8,4217,0,2708,93,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,4130,1775,0,972,0,0,0,31,57,0,0,20,7,29,2,69,0,606,562,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,1947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1947,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,756,0,0,0,0,0,0,0,0,0,0,0,756,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,382,129,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,248,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,74,35,0,0,0,0,0,0,8,0,0,0,21,0,0,0,0,0,10,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,298,20,0,0,0,1,168,37,0,0,0,0,1,16,2,52,0,0,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,871,129,0,55,0,3,50,0,42,0,0,41,4,171,2,372,0,1,1,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,1783,44,0,1163,0,0,1,45,0,0,0,34,27,319,0,150,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,48,23,0,0,0,0,0,3,0,0,0,14,2,0,0,6,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2003,19370,7629,32,2,0,0,28,11,8,0,0,5165,6,4,79,3896,0,2380,130,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,3302,1083,2,1020,0,0,0,90,25,0,0,20,3,30,1,64,0,404,560,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,7356,0,0,255,0,0,0,0,0,0,0,0,0,0,55,0,0,7046,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,0,214,11,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,2524,0,0,0,0,0,0,0,0,0,0,0,2524,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,96,44,0,0,0,0,0,0,0,0,1,0,0,2,0,6,0,43,0,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,13645,4494,4,223,0,0,66,395,668,681,18,42,104,573,2339,2879,0,1,1158,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,212,24,0,0,0,0,140,41,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,114,0,0,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,667,80,0,47,0,0,23,0,59,0,0,0,2,151,5,292,0,5,3,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,1949,52,0,990,0,0,2,62,3,0,0,198,23,256,1,362,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,202,193,0,0,0,0,0,2,4,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2004,16433,6746,0,0,0,0,0,4,18,0,0,4825,5,0,70,3303,0,1425,37,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,2019,862,1,589,0,0,0,15,6,0,0,40,0,9,1,64,0,192,240,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,20363,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,20308,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,1599,129,0,0,0,0,128,0,0,0,0,0,0,403,0,910,0,0,29,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,8162,0,0,0,0,0,0,0,0,0,0,0,8162,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,97,20,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,73,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,9214,2465,127,221,0,1,227,18,55,363,15,61,209,1242,2096,1253,0,0,861,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,212,31,0,0,0,0,113,39,0,0,0,0,1,7,0,21,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,26,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,17,2,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,994,101,0,59,0,2,19,1,78,0,0,1,6,186,5,438,0,90,8,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,1685,34,0,1313,0,0,0,47,1,0,0,0,23,129,0,138,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,71,46,0,0,0,0,0,7,7,0,0,5,6,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2005,13343,6257,10,14,0,0,0,0,2,0,0,2616,9,9,10,2899,0,1457,60,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,1284,710,0,148,0,0,0,2,14,0,0,80,0,7,0,43,0,126,154,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,28176,0,0,7,0,0,0,0,0,0,0,0,8,0,122,0,0,28039,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,1937,249,0,0,0,0,109,1,0,0,0,0,0,435,1,1110,0,0,32,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,525,56,0,2,0,0,0,0,1,0,0,0,197,21,0,248,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,100713,0,0,0,0,0,0,0,0,0,0,0,100713,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,41,16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,24,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,4201,938,5,159,176,0,32,9,139,0,0,0,95,565,1277,515,0,0,291,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,182,16,0,0,0,0,113,25,0,0,0,0,2,8,1,17,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,284,0,0,0,0,0,0,0,0,0,0,0,0,1,0,283,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,1015,118,0,63,0,0,23,1,74,0,0,1,10,189,14,438,0,76,8,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,887,20,0,640,0,0,0,31,0,0,0,0,12,82,2,100,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,19,0,0,0,0,0,0,2,5,0,0,0,5,1,5,0,0,0,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2006,12657,4825,9,5,0,9,0,0,0,0,0,2469,5,52,7,3577,0,1657,42,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,1315,604,0,342,0,0,0,0,4,0,0,0,1,14,0,10,0,138,202,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,19101,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,19075,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,1971,724,0,0,0,0,92,11,0,0,0,0,0,582,0,535,0,0,27,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,53561,0,0,0,0,0,0,0,0,0,0,0,53561,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,32,31,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,277,137,0,0,0,0,0,0,8,0,0,0,2,1,75,10,0,0,44,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,120,22,0,1,0,1,48,30,0,0,0,0,2,6,0,10,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,2425,0,0,0,0,0,0,0,2425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,713,94,0,48,3,0,8,1,50,0,0,1,17,149,11,323,0,5,3,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,620,16,0,346,0,0,0,39,0,0,0,0,14,113,2,90,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,106,1,2,84,0,0,0,0,4,0,0,0,9,2,4,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2007,11718,4537,47,0,39,0,0,18,10,0,0,2328,3,4,5,3059,0,1536,132,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,1160,631,0,151,0,0,0,0,11,0,0,0,0,6,0,19,0,139,203,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,39185,74,0,0,0,0,0,0,0,0,0,0,0,0,130,0,0,38981,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,138,0,0,0,0,0,0,0,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,1323,365,0,0,0,0,131,0,0,0,0,0,0,514,0,313,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,70102,0,0,0,0,0,0,0,0,0,0,0,70102,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,52,48,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,288,78,0,1,0,0,0,0,2,0,0,0,1,1,94,36,0,0,75,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,165,15,0,1,0,0,106,23,0,0,0,0,3,6,3,8,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,18,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,589,84,0,52,3,3,4,1,40,0,0,2,24,124,9,237,0,2,4,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,693,6,0,513,0,0,0,29,0,0,0,0,8,98,2,37,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,1170,18,0,1132,0,0,0,0,1,0,0,0,5,1,0,13,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2008,13593,5998,0,3,33,0,0,0,3,0,0,2135,0,31,8,2906,0,2311,165,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,1424,837,0,92,0,0,0,0,23,0,0,0,0,13,0,7,0,217,235,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,49,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,12173,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,12152,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,1432,462,0,0,238,0,128,0,0,0,0,0,0,604,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,403,49,0,1,0,0,0,0,1,0,0,0,129,25,0,198,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,59,57,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,206,22,0,4,0,0,0,0,0,0,0,0,0,1,175,4,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,148,14,0,1,0,0,89,22,0,0,0,0,2,8,2,10,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,69,15,0,5,0,0,0,0,0,0,0,0,0,1,0,48,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,7,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,883,81,0,52,2,2,15,4,57,0,0,3,90,162,10,401,0,0,4,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,553,14,0,275,0,0,0,41,0,0,0,0,44,105,0,74,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,1567,48,1,1449,0,0,0,0,14,0,0,0,28,27,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,16,2,5,0,0,0,0,2,2,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2009,16279,7055,5,1,94,0,64,4,0,0,0,1853,1,3,103,3714,0,2979,403,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,2556,1385,0,676,0,0,0,0,6,0,0,0,0,18,3,21,0,217,230,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,7191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7191,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,663,45,0,0,0,0,216,0,0,0,0,2,0,384,0,0,0,16,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,467,54,0,0,0,0,0,0,1,0,0,0,136,22,0,254,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,64,43,0,0,18,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,120,30,0,0,0,0,0,0,0,0,0,0,3,5,75,7,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,152,18,0,0,0,0,75,26,0,0,0,0,3,9,3,18,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,121,20,0,0,0,0,0,0,0,0,0,0,0,0,14,87,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,972,105,0,44,0,0,31,2,84,0,0,2,51,195,17,437,0,3,1,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,555,60,0,241,0,0,0,44,0,0,0,0,44,126,2,38,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,933,47,2,840,0,0,0,0,5,0,0,0,17,22,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2010,17770,7252,63,7,0,0,24,24,0,0,0,1902,11,3,166,3947,0,3959,412,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,3193,1850,0,615,0,0,0,1,10,0,0,357,0,9,11,5,0,186,149,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,5008,0,0,0,0,0,0,0,0,0,0,0,0,89,0,0,0,4919,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,419,0,0,0,0,0,89,0,2,0,0,0,0,328,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,380,72,0,0,0,0,1,0,1,0,0,0,60,22,0,224,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,55,52,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,136,31,0,13,0,0,0,0,0,0,0,0,4,0,67,21,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,152,21,0,0,0,0,68,20,0,0,0,0,2,7,3,31,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,163,20,0,0,0,0,0,0,0,0,0,0,0,0,7,136,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,1624,202,0,174,0,0,62,0,107,0,1,0,167,296,16,586,0,9,4,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,503,10,0,161,0,0,0,84,0,0,0,0,27,130,0,90,0,0,1,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,1177,75,0,1062,0,0,0,1,0,0,0,0,6,31,0,2,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2011,17198,6974,21,6,0,0,20,2,0,0,0,1731,8,17,40,3407,0,4594,378,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,3168,2038,0,384,0,0,0,0,1,0,0,387,0,1,4,5,0,202,146,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,8146,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,8075,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,646,0,0,0,0,0,125,0,0,0,0,39,0,482,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,366,41,0,0,0,0,0,0,0,0,0,0,41,18,0,266,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,50,49,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,151,10,0,5,0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,154,13,0,1,0,0,75,7,0,0,0,0,2,13,3,40,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,71,33,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,767,104,0,37,0,0,45,1,24,0,0,25,67,200,9,250,0,2,3,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,363,24,0,116,0,0,0,51,0,0,0,0,18,100,0,54,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,382,177,0,4,0,0,0,29,59,0,0,0,3,25,0,85,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,1608,24,0,1539,0,0,0,0,0,0,0,0,23,22,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2012,13582,6290,41,10,0,0,11,32,0,0,0,1247,6,27,50,1980,0,3419,469,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,1818,996,0,232,0,2,0,0,0,0,0,337,0,5,3,4,0,117,122,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,13057,0,0,0,0,0,0,0,0,0,0,0,0,143,0,0,0,12914,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,681,0,0,0,0,0,168,0,0,0,0,0,0,513,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,344,57,0,1,0,0,0,0,0,0,0,0,27,13,0,246,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,83,66,0,0,0,0,0,0,0,0,0,14,0,0,0,2,0,1,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,269,2,0,3,0,0,0,0,0,0,0,0,0,1,226,37,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,157,18,0,0,0,0,59,27,0,0,0,0,4,15,2,32,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,1792,334,1,25,0,1,19,0,44,0,0,410,5,881,0,45,0,27,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,208,13,0,19,0,0,0,36,0,0,0,0,29,101,2,0,0,8,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,346,239,0,0,0,0,0,18,25,0,0,0,0,2,0,62,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,1405,0,0,1335,0,0,17,3,14,0,0,0,12,23,0,1,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,2013,15142,6844,36,6,0,0,28,26,0,0,0,995,10,71,246,2728,0,3703,449,0,0,0,0,0

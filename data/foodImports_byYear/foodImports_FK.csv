@@ -1,0 +1,238 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1986,268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256,0,12,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FK,Falkland Islands,country,,-51.796253,-59.523613,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1986,2862,301,78,40,0,4,0,62,63,0,0,48,38,147,14,1829,0,129,109,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1987,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,209,0,6,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FK,Falkland Islands,country,,-51.796253,-59.523613,1987,150,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FK,Falkland Islands,country,,-51.796253,-59.523613,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1987,1029,188,34,44,6,2,0,32,67,0,0,85,20,138,8,279,0,58,68,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1988,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,4,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,FK,Falkland Islands,country,,-51.796253,-59.523613,1988,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,1988,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FK,Falkland Islands,country,,-51.796253,-59.523613,1988,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1988,891,127,9,35,0,2,0,24,11,2,6,85,10,113,11,323,0,76,57,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1989,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,0,2,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,FK,Falkland Islands,country,,-51.796253,-59.523613,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FK,Falkland Islands,country,,-51.796253,-59.523613,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1989,1264,164,9,35,0,1,0,31,19,5,0,87,24,443,2,354,0,19,71,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,229,0,4,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,316,0,0,0,0,0,0,0,0,307,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,11,0,0,0,0,0,4,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,10,0,0,3,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,1403,103,10,43,0,1,1,38,3,31,0,149,15,175,5,680,0,65,84,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,1990,391,0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,18,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,5,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,26,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,1310,0,0,0,0,0,0,0,0,1310,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,22,9,0,0,0,0,0,8,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1991,1917,137,3,15,0,0,0,18,16,105,0,135,12,204,30,1101,0,57,84,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243,0,4,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,36,0,0,0,0,0,0,0,25,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,33,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1992,2468,228,20,23,0,0,0,28,12,3,0,78,12,214,10,1680,0,49,111,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1993,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,0,4,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1993,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,FK,Falkland Islands,country,,-51.796253,-59.523613,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,FK,Falkland Islands,country,,-51.796253,-59.523613,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1993,2305,190,11,32,0,0,0,17,23,6,0,56,15,375,11,1358,0,115,96,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0,3,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,289,210,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,52,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,53,0,0,0,0,0,0,17,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1994,2055,208,45,38,0,0,0,18,30,57,0,56,22,62,7,1338,0,53,121,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,5,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,55,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,22,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1995,3336,332,121,50,0,0,0,278,90,100,1,124,25,122,65,745,0,257,1026,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,26,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,2,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1996,1614,198,49,47,0,0,0,72,21,20,0,114,17,103,3,394,0,256,320,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,1,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1997,318994,157,53,68,0,0,0,77,24,9,0,128,25,78,9,317787,1,253,326,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,97,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1998,1973,278,198,22,0,1,0,76,40,92,0,186,17,261,14,458,1,195,135,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,1220,0,0,0,0,0,0,0,0,0,0,0,0,0,1220,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,1999,1578,107,129,18,0,0,0,64,109,0,0,214,28,127,20,549,1,110,103,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,17,0,0,0,0,0,0,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,30,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,49,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,3,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,14,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2000,2820,151,111,38,0,1,0,58,36,0,0,345,46,912,10,650,0,101,361,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,23,0,0,0,0,0,0,0,6,0,4,0,3,2,0,8,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,2796,257,200,29,0,0,0,49,90,0,0,291,39,512,5,1122,0,100,102,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2001,6,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,16,0,0,0,0,0,0,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,113,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,17,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,25,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,34,0,0,0,0,0,0,2,3,0,0,0,0,1,0,28,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,2585,151,233,24,0,0,0,80,140,0,0,216,10,487,9,967,0,142,125,1,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,FK,Falkland Islands,country,,-51.796253,-59.523613,2002,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,15,6,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,11,3,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,23,0,0,0,0,0,0,1,3,0,1,0,0,1,0,17,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,39,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,10839,4613,239,16,0,0,0,123,68,0,0,174,17,41,33,5206,1,160,149,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,19,0,0,0,0,0,0,1,2,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2004,2251,149,247,44,0,0,2,109,236,0,0,101,27,58,37,869,0,159,213,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,44,0,0,22,11,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,60,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,14,0,0,0,0,0,0,0,0,0,1,0,0,1,0,12,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2005,2271,249,312,28,0,1,4,131,137,0,0,109,21,75,35,785,0,172,212,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,18,0,0,0,0,0,0,0,0,8,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,14,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2006,2306,179,199,17,1,0,6,86,47,0,0,156,26,120,28,1149,0,114,178,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,20,0,0,0,0,0,0,2,15,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,6,0,0,0,0,0,0,0,0,0,0,3,0,0,1,2,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,11,0,0,0,0,0,0,0,1,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,3456,237,102,21,0,0,4,111,28,0,0,139,47,160,21,2260,0,151,175,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,18,1,0,0,0,0,0,0,1,0,1,0,0,1,0,14,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,2629,211,374,25,0,3,1,125,69,0,3,113,127,77,38,993,0,201,269,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,51,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,2865,179,365,21,0,0,0,130,43,0,0,137,298,34,14,1040,0,326,278,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2009,90,34,0,0,0,0,1,32,0,0,0,0,3,0,0,0,0,14,6,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,5,1,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,3859,254,349,72,0,0,0,150,237,0,0,173,410,441,38,1282,0,164,289,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2010,35,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,40,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,27,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,73,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,45,39,0,0,0,0,0,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,4011,244,337,32,2,0,0,163,303,0,0,217,530,491,44,1131,0,176,341,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2011,17,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,32,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,14,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,12,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,38,0,7,4,0,0,0,7,2,0,0,0,2,0,0,8,0,0,8,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,3841,294,102,82,0,1,0,91,200,0,0,262,588,383,24,1259,0,368,187,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2012,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,9,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,3299,269,60,27,2,1,0,53,157,0,1,246,609,469,9,1163,0,75,158,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,FK,Falkland Islands,country,,-51.796253,-59.523613,2013,28,0,2,0,0,0,0,0,0,0,0,0,0,0,7,3,0,16,0,0,0,0,0,0

@@ -1,0 +1,864 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,38,0,0,0,0,0,0,7,21,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,1028,12,0,12,0,0,0,0,0,0,0,0,1003,0,0,0,0,0,1,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,306,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,15275,2,0,0,0,0,0,0,0,0,0,62,0,0,100,0,8,15111,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,160,24,0,0,0,0,0,3,103,0,0,0,0,1,10,19,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,54095,0,324,3,0,0,0,0,0,0,0,400,0,0,0,74,0,53180,114,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,119,0,10,19,0,0,0,28,17,0,0,0,0,5,17,9,0,0,14,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,92135,2540,86437,1060,0,0,0,0,2098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1992,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,36,0,0,0,0,0,0,24,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,1844,0,0,79,0,0,0,0,0,0,0,0,1765,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,19224,13265,0,3779,0,0,0,0,312,45,0,0,117,0,0,799,0,167,740,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,376,0,0,0,0,0,0,0,0,13,0,0,0,0,0,28,0,335,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,11571,0,0,7928,0,0,0,0,23,0,0,0,17,80,158,151,0,3214,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,983,0,0,0,0,0,0,0,852,0,0,0,0,0,0,131,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,8876,1923,0,0,0,0,0,1582,2426,0,0,0,0,50,55,2822,0,18,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,647,15,0,0,0,0,0,61,28,0,0,0,0,4,5,530,0,3,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,1184,929,100,17,0,1,0,21,72,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,57836,0,56536,0,0,0,0,113,0,0,0,0,30,80,0,954,0,73,50,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,31,0,0,19,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,68,2,0,1,1,0,0,53,3,0,0,0,0,1,4,0,0,2,1,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,82627,82015,0,128,57,0,4,55,27,0,0,0,54,7,119,144,0,0,17,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,104100,104085,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1993,113005,113005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,843,0,0,0,0,0,3,1,4,10,0,0,1,0,2,208,0,598,16,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,16926,15750,0,357,0,0,0,0,0,0,0,0,815,4,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,735,16,0,179,0,0,0,1,3,137,0,0,7,4,0,281,0,58,49,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,30,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,625,0,0,3,0,0,0,0,5,0,0,0,29,30,0,108,0,0,450,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,570,1,0,0,0,0,0,0,0,12,0,0,64,15,7,30,0,424,17,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,4369,27,0,6,0,0,1,0,0,0,0,0,63,8,0,941,0,3323,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,155,0,0,2,0,0,0,0,150,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,7897,7730,0,0,0,0,0,47,83,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,184,0,0,0,0,0,90,0,0,0,28,0,66,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,1460,10,0,0,1,0,0,15,33,0,0,0,13,4,24,487,0,867,6,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,585,1,0,3,0,0,0,0,4,0,0,0,10,19,4,114,0,420,10,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,5688,24,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,4064,1500,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,6110,23,5518,0,1,0,0,8,106,0,0,0,1,1,31,349,0,70,2,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,6,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,1681,0,0,0,0,0,0,0,0,0,0,0,170,0,0,1191,0,0,320,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,109,0,0,72,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,643,0,0,0,0,0,0,5,289,0,0,0,0,12,0,25,0,168,144,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,762,0,0,0,0,0,0,13,2,0,0,0,0,0,1,0,0,745,1,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,118,0,0,0,0,0,0,0,0,0,0,0,0,0,118,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,1277,221,375,190,0,0,0,1,0,0,0,0,52,0,0,438,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,2650,0,0,0,0,0,0,0,0,0,0,0,36,0,10,2568,0,36,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,34956,31826,0,328,99,0,55,85,393,16,32,0,136,14,362,1491,0,81,38,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,44,12,0,0,0,0,0,0,0,0,0,20,0,0,0,12,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1994,55771,41500,0,0,0,0,517,0,0,0,0,0,0,0,0,0,0,13754,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,25,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,103,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,692,3,0,0,0,0,0,0,0,0,0,0,0,38,641,9,0,1,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,537,0,0,0,0,0,0,0,0,0,0,0,537,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,6377,0,0,115,0,0,0,0,0,0,31,0,100,50,0,6081,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,35100,35100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,132,0,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,3315,2802,0,0,0,0,0,0,0,0,0,0,5,0,0,508,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,94,31,0,6,0,2,3,11,6,0,0,0,4,5,4,11,0,11,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,79,3,0,2,0,0,0,5,3,0,0,0,0,11,1,51,0,2,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,8389,0,0,3001,0,0,0,0,2,0,0,1,3,161,0,590,0,4631,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,1276,0,0,0,0,0,0,0,1240,0,0,0,0,23,0,13,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,2700,1685,0,0,0,0,0,0,12,0,0,0,0,0,0,102,0,901,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,26,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,1216,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1213,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,19,2,0,0,1,0,0,0,0,0,0,0,0,0,1,15,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,56,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,1818,30,3,53,60,1,7,41,305,0,0,0,0,16,67,109,0,1074,52,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,156,1,0,108,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,270,0,0,0,0,0,0,0,0,0,0,0,0,51,0,19,0,200,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,32,0,0,0,0,0,0,6,0,0,0,0,0,0,1,23,0,1,1,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,197,0,0,0,0,0,0,0,4,0,0,0,9,0,0,184,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,7569,1709,22,233,51,6,8,116,176,4,3,0,302,29,147,4691,0,2,70,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1995,53323,53300,0,19,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,3062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1014,2048,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,204,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,981,0,0,0,0,0,0,1,0,0,0,0,0,0,261,197,0,390,132,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,334,0,0,0,0,0,0,0,0,0,0,0,46,0,0,288,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,2228,1607,0,27,0,0,0,0,0,0,0,0,0,3,160,431,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,20,1,0,0,0,0,0,1,3,0,0,0,1,0,0,13,0,1,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,307,0,0,20,0,0,0,0,0,0,0,0,0,3,0,284,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,9573,0,0,0,0,0,0,0,0,0,0,21,78,90,280,796,0,8256,52,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,188,0,0,0,0,0,0,0,20,0,0,0,0,13,0,155,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,1344,0,0,0,0,0,0,59,3,0,0,0,0,1,0,994,0,287,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,2191,2191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,214,0,23,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,1663,5,0,0,0,0,0,37,10,0,0,0,0,1,1569,40,0,1,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,521,5,0,14,0,0,0,82,111,0,0,0,14,41,0,254,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,339,0,0,7,0,0,0,0,0,0,0,0,5,0,23,0,0,15,289,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,6057,15,0,18,0,0,0,0,208,0,0,0,0,8,2315,107,0,3295,91,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,402,63,0,80,0,0,208,0,20,0,0,0,13,18,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,1120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1120,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,44,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,143,3,0,3,0,0,0,2,1,0,0,0,0,6,2,124,0,0,2,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,21875,21875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,230,7,0,0,0,5,0,0,14,0,0,0,0,0,0,60,0,144,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,9006,2850,196,206,129,3,11,272,172,16,20,7,769,64,110,3996,0,35,150,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,68,0,0,0,0,0,0,0,0,0,0,0,0,31,0,37,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1996,41783,41783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,31,0,0,0,0,0,0,0,6,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,138,37,0,0,0,0,0,0,10,0,0,0,7,27,0,0,0,57,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,378,0,0,0,0,0,0,2,0,0,0,0,307,0,0,69,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,277,0,0,0,0,0,0,0,0,0,0,0,0,277,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,42,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,93,4,0,50,0,0,0,0,0,0,0,0,5,0,0,0,0,2,32,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,1029,954,0,0,0,0,0,4,1,0,0,0,0,11,0,19,0,28,12,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,5916,0,0,701,0,0,0,0,1,0,0,0,6,0,82,410,0,4716,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,28,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,964,671,0,5,0,0,0,0,0,0,0,0,0,3,148,137,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,122330,26621,9576,10065,27,192,4,3984,60110,0,60,0,1369,307,1247,5334,0,63,3371,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,77,20,1,0,0,0,0,1,2,0,0,0,0,1,3,22,0,23,4,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,633,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,825,45,0,16,20,7,18,61,122,0,0,0,3,39,1,413,0,54,26,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,91,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,744,21,23,9,0,0,2,13,16,0,0,0,8,10,460,104,0,8,70,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,255,237,0,0,0,0,0,0,5,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,15,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,39,0,0,0,37,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,115,0,0,0,0,0,0,0,64,0,0,0,0,34,6,11,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,5,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,18099,5190,68,1532,114,5,19,343,466,23,8,0,2471,29,1781,5660,0,50,340,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,90,5,0,0,0,0,0,0,0,0,0,0,1,15,58,11,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,1138,0,0,1050,0,0,0,0,4,0,0,0,0,0,0,52,0,15,17,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,81,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,375,0,0,0,0,0,0,0,0,0,0,0,0,0,19,205,0,135,16,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,2664,0,0,0,120,0,0,0,0,0,0,0,2244,0,0,0,0,0,300,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,148,0,0,0,0,0,0,1,0,0,0,0,0,146,0,1,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,1512,0,0,1344,0,0,0,0,0,0,0,0,0,0,0,76,0,92,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,74,0,0,8,0,0,0,0,0,0,0,0,0,47,0,0,6,19,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,627,0,0,581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,235,59,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,74,24,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,5325,29,0,1201,0,0,0,3,4,0,0,0,9,193,118,1469,21,2238,61,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,1584,2,0,1507,0,0,0,0,1,0,0,0,1,10,0,55,0,8,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,89,0,0,40,0,0,39,0,0,0,1,0,1,8,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,127589,20527,8099,4872,39,44,2,2615,82267,0,47,0,1290,590,1882,1348,0,7,3960,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,489,285,0,0,0,1,0,0,6,0,0,154,0,2,5,31,0,2,3,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,47744,47577,0,0,0,0,0,0,0,0,0,0,0,96,5,61,0,0,5,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,82,2,0,13,0,0,0,9,1,0,0,0,8,2,0,0,0,47,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,2359,160,1416,449,3,17,0,113,32,0,0,0,12,157,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,198,0,0,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,641,17,12,7,0,0,0,18,15,0,0,0,18,35,71,129,1,209,110,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,57,0,0,0,0,0,6,0,0,3,0,0,0,48,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,516,0,0,8,0,0,0,0,0,0,0,0,0,508,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,41,36,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,4339,3234,7,76,8,4,0,3,12,0,0,0,33,58,5,367,0,31,501,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,67,0,0,10,0,0,0,0,34,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,21,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,17,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,16209,4409,1,1690,41,20,7,141,457,1,5,13,2462,8,515,6142,2,3,294,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,68,13,0,0,0,0,0,0,0,0,0,0,6,1,0,48,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1998,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,332,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,151,0,0,0,0,0,0,0,5,0,0,0,0,24,0,122,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,120,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,106,10,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,796,0,0,60,0,0,0,0,0,0,0,0,0,102,485,0,0,94,55,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,1952,0,0,1952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,530,111,0,0,0,0,0,2,0,0,0,0,0,9,37,327,0,44,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,4086,0,0,0,0,0,0,0,0,0,0,0,4081,5,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,279,70,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,160,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,620,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,431,124,1,0,0,0,0,7,0,0,0,13,0,65,1,0,0,220,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,4117,9,0,1300,0,0,0,0,0,9,1,0,27,8,129,8,0,2490,136,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,56,0,0,0,0,0,0,0,0,0,0,0,0,0,38,18,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,1055,24,0,40,0,0,0,322,0,0,0,0,26,7,72,282,0,142,140,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,172,56,0,0,0,0,0,0,0,0,1,0,102,13,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,115610,20689,13706,6944,1,61,1,2901,57719,210,87,0,6654,1848,2002,1465,1,19,1303,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,53,0,0,0,0,0,0,0,16,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,435,167,0,2,1,0,0,2,6,0,0,206,0,1,3,42,0,4,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,13350,12804,25,6,0,0,0,0,66,0,4,0,4,0,44,0,0,360,37,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,61,4,0,30,0,0,2,9,2,0,0,0,1,4,4,4,0,0,1,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,775,0,607,64,0,0,0,44,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,129,0,0,0,0,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,671,5,3,2,0,4,0,2,0,0,0,0,25,22,5,545,0,3,55,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,1021,467,0,504,0,0,0,0,0,0,0,0,0,13,0,37,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,2282,0,0,0,0,0,0,2,0,0,0,0,0,2280,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,213,5,0,36,3,0,0,14,1,0,0,0,0,0,2,91,0,4,57,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,2334,622,0,549,15,0,0,3,131,0,2,0,90,92,15,571,0,93,151,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,19,0,0,1,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,50,0,0,29,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,157,0,0,0,0,0,0,0,0,0,0,0,157,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,28,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,26,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,18724,4459,5,5739,67,17,14,219,505,1,24,263,2813,43,2037,1768,184,32,718,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,55,0,0,0,0,0,0,0,0,0,0,0,0,32,1,22,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,1961,198,0,0,0,0,0,0,0,0,0,0,0,5,117,0,0,1641,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,127,0,0,0,0,0,0,0,20,0,0,0,0,26,0,81,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,827,0,0,250,0,0,0,0,2,0,0,0,0,2,305,34,0,232,2,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,971,301,0,0,0,0,0,0,0,0,0,0,0,2,452,196,0,20,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,3097,121,0,0,0,0,1,0,0,0,0,0,2856,9,0,0,0,110,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,1346,263,0,900,0,0,0,0,0,0,0,0,0,4,0,179,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,255,30,0,0,0,0,20,1,0,0,0,0,0,39,6,3,0,156,0,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,80,0,0,0,0,0,0,0,0,0,0,0,39,41,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,2905,50,0,0,0,0,0,4,18,0,0,406,4,52,263,312,42,1702,44,50,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,20,0,0,0,0,0,0,0,8,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,658,70,0,9,0,0,0,173,0,0,0,0,28,1,58,295,0,22,2,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,227,190,0,0,0,0,0,0,0,0,2,0,34,1,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,91244,11484,905,4813,2,54,1,1692,56935,0,57,270,4159,2613,3110,1098,275,37,4014,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,72,0,0,0,0,0,0,0,1,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,522,2,0,0,0,0,0,5,13,0,0,195,2,240,0,60,0,4,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,5091,4942,0,5,0,0,0,12,60,0,0,0,24,17,0,0,0,0,31,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,32,11,0,0,0,0,5,8,0,0,4,0,3,1,0,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,336,0,0,0,0,0,0,8,12,0,0,0,0,0,0,19,0,0,297,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,1885,0,0,1274,0,0,0,0,0,0,0,0,12,0,0,26,0,497,76,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,113,0,0,0,0,0,0,0,0,0,0,0,53,0,60,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,360,11,0,2,0,0,0,0,1,0,0,0,5,17,41,234,0,39,10,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,3090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3090,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,668,485,0,0,0,0,0,0,15,0,32,0,0,14,0,122,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,18082,0,0,17837,0,0,0,0,0,0,0,0,0,0,215,0,0,0,30,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,2210,7,0,0,0,0,0,7,0,0,0,0,0,2195,1,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,1206,0,0,189,0,0,0,0,0,0,0,0,0,0,0,118,0,899,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,8501,1941,0,2335,120,0,0,60,26,0,0,0,206,14,509,632,0,1769,889,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,84,0,0,0,0,0,6,0,46,0,0,0,0,31,1,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,21,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,9937,1797,0,1141,114,10,8,231,409,2,22,205,2478,574,1462,1346,39,8,130,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,69,20,0,0,0,0,0,0,0,0,0,0,13,24,0,12,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2000,6261,1275,0,0,0,0,0,0,0,0,0,0,0,2,340,0,0,4644,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,305,85,0,1,0,0,0,0,0,0,0,0,0,1,87,0,0,131,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,337,0,0,0,0,0,0,0,0,0,0,0,0,246,60,31,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,44,14,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,1558,313,0,1000,0,0,0,0,0,0,0,0,1,27,25,192,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,519,20,0,0,0,0,0,0,0,0,0,0,0,232,0,247,0,0,0,20,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,5340,5,0,0,0,0,2,3,0,0,0,0,5321,9,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,705,402,0,300,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,118,99,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,96,0,0,0,0,0,0,15,0,0,0,0,6,22,0,4,0,48,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,4938,4145,0,26,0,0,0,9,31,0,0,1,96,36,191,268,0,20,26,89,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,31,0,0,0,0,0,0,0,0,0,0,0,0,13,0,18,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,376,113,0,29,0,0,0,8,7,0,0,0,23,2,0,135,0,59,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,531,78,0,382,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,53240,7074,60,5032,169,59,0,1192,24554,0,0,50,2076,3687,4686,2946,105,32,1623,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,315,47,0,22,0,0,0,2,0,0,0,184,0,20,20,19,0,1,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,9208,9087,0,5,0,0,0,8,78,0,0,0,6,24,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,32,0,0,0,0,0,0,1,26,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,265,0,0,0,0,0,0,0,0,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,521,0,0,0,0,0,0,0,0,0,0,0,61,0,460,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,270,59,0,0,0,0,0,0,0,0,0,0,0,76,0,116,0,19,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,2993,2268,0,11,0,0,0,0,631,0,0,0,0,52,0,18,0,0,13,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,2724,7,0,0,0,0,0,0,0,0,0,0,0,2717,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,2311,52,0,30,0,0,10,3,31,0,0,0,11,0,0,136,0,1870,168,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,3739,1264,0,93,70,0,0,11,152,0,0,0,642,57,29,159,0,391,871,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,130,100,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,8045,1319,0,2550,104,5,18,95,330,8,4,481,1055,108,1410,367,0,2,189,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,22,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2001,2049,1450,0,0,590,0,0,0,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,82,0,0,2,0,0,0,0,0,0,0,0,1,0,0,57,0,22,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,825,0,0,0,0,0,0,0,0,0,0,0,0,177,36,612,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,696,0,0,533,0,0,0,19,22,0,0,0,0,4,0,118,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,582,0,0,0,0,0,96,46,3,0,0,112,0,39,0,286,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,3326,0,0,0,0,0,0,0,0,0,0,0,3324,2,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,213,188,0,0,0,0,0,0,0,0,0,0,0,4,0,21,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,94,2,0,0,0,0,0,0,0,0,0,0,0,41,0,2,0,33,16,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,32726,0,0,31780,0,0,0,0,0,0,0,0,281,48,0,257,0,360,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,1878,434,0,0,0,0,0,6,3,0,0,0,11,34,1,294,47,1054,0,41,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,347,41,0,11,0,0,0,9,1,0,0,0,26,1,105,150,0,3,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,345,200,0,90,0,0,0,0,0,0,0,0,17,38,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,49631,4571,157,6635,104,15,0,599,21645,2,0,44,1921,1496,9144,1231,119,0,2067,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,303,1,0,0,0,0,0,1,2,0,0,191,0,15,0,90,0,2,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,53590,53381,0,4,0,0,0,0,0,0,0,0,5,39,161,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,355,301,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,29,15,0,0,0,0,0,2,9,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,453,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0,0,288,40,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,120,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,823,82,0,0,0,0,0,0,0,0,0,0,0,30,0,111,0,600,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,4360,2577,0,39,6,0,0,0,1665,0,16,0,0,26,0,18,0,0,13,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,250,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,4711,0,0,0,0,0,0,0,0,0,0,0,0,4711,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,1004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,0,886,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,14221,5288,5,445,578,24,76,16,734,0,0,14,743,623,304,4718,0,52,601,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,330,300,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,55,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,40,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,71,0,0,0,0,0,0,0,0,0,0,0,64,7,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,26,24,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,127,126,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,7390,1286,0,754,96,7,41,200,598,4,4,60,614,407,2068,1028,0,61,162,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,5522,1693,0,1419,198,0,6,41,24,0,0,0,584,29,318,124,0,0,1086,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,21035,1205,3,12853,2,49,19,6,106,0,44,126,956,70,3138,197,0,2116,145,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2002,5274,0,0,14,0,0,0,0,0,0,0,0,0,8,0,0,0,5252,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,80,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,141,100,0,3,0,0,0,0,0,0,0,0,3,4,0,0,0,31,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,2198,0,0,0,0,0,0,5,0,0,3,0,0,1,37,2152,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,1221,17,0,1118,0,0,0,0,0,0,0,19,20,0,9,38,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,426,0,0,0,0,0,0,41,0,0,0,0,0,0,0,385,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,99,40,0,0,0,0,0,0,0,0,0,0,0,1,0,58,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,252,0,0,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,39,0,0,0,0,0,0,5,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,124,0,0,0,0,0,0,0,0,0,0,0,62,26,0,9,0,11,16,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,32409,0,0,31405,0,0,0,0,0,0,0,0,428,219,0,177,0,180,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,4985,0,0,1,0,0,0,0,0,0,0,0,89,68,0,221,27,4561,45,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,378,145,0,0,0,0,0,16,0,0,0,0,31,0,152,17,0,17,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,1475,0,0,1447,0,0,2,0,0,0,0,0,23,3,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,61271,5963,1821,8305,5,105,1,4449,25304,75,2,339,1770,3452,4079,1447,134,0,4153,0,1,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,163,1,0,0,0,0,0,1,0,0,0,97,0,10,0,50,0,3,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,24181,24071,0,4,0,0,0,0,0,0,0,0,7,57,0,42,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,47,3,0,0,0,0,0,14,3,0,0,0,0,0,0,2,0,25,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,630,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,590,40,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,234,0,0,0,0,0,0,0,0,0,0,0,134,0,100,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,1628,9,0,0,0,0,0,0,0,0,0,0,0,34,504,165,0,912,4,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,961,326,340,0,0,0,4,40,200,0,0,0,0,34,0,0,0,17,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,300,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,4,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,7498,0,0,0,0,0,0,0,0,0,0,0,6,7492,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,3045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,2966,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,18173,1916,0,631,82,11,16,46,452,0,3,22,1348,960,254,11805,0,194,433,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,441,397,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,96,0,0,17,0,0,12,1,0,0,0,0,0,64,2,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,51,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,82,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,68,44,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,11983,1369,0,1033,112,28,68,273,1824,1,8,60,1229,219,4038,1408,0,67,246,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,7176,842,0,1107,530,0,2,9,194,0,0,0,2042,6,253,110,0,234,1847,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,9088,1247,0,4033,33,0,0,49,35,0,0,107,997,175,1605,30,0,645,132,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,51,46,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,3659,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,3653,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,47,0,0,4,0,0,0,0,18,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,20,0,0,4,0,0,0,0,0,0,0,0,1,3,0,0,0,12,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,653,0,0,0,0,0,0,0,0,0,0,0,1,0,386,266,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,1505,8,0,299,0,0,0,0,0,0,0,0,0,0,1188,10,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,919,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,791,113,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,407,32,0,0,0,0,0,0,0,0,0,0,0,1,0,374,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,263,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,262,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,694,1,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,675,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,84,5,0,0,0,0,0,0,0,0,0,0,0,2,0,37,0,0,40,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,1500,0,0,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,86,4,0,0,0,0,0,8,0,0,0,0,9,36,0,11,0,0,18,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,44295,0,0,43098,0,0,0,0,0,0,0,0,541,214,0,172,0,270,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,1215,8,0,0,0,0,0,0,0,0,0,0,84,1,0,66,27,1046,10,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,1119,5,0,15,0,0,0,79,11,0,0,0,23,2,837,111,0,35,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,347,109,0,23,0,0,0,0,0,0,1,109,105,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,47917,3138,0,9407,0,100,3,1567,25036,4,20,550,1524,2025,3397,371,144,0,773,0,2,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,486,3,0,0,0,0,2,267,5,0,0,145,0,22,15,25,0,1,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,2322,1351,0,650,0,0,0,0,29,0,0,0,65,227,0,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,92,17,60,1,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,44,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,42,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,814,0,0,813,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,436,0,0,0,0,0,0,12,0,0,0,0,149,0,275,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,395,16,1,0,0,0,0,2,0,0,0,0,15,92,0,0,0,267,2,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,181,49,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,117,6,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,2310,0,0,2200,0,0,0,0,0,0,0,0,21,3,0,0,0,86,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,2293,0,0,0,0,0,0,0,0,0,0,0,12,2281,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,290,0,157,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,21117,1070,0,885,181,14,10,30,302,0,6,31,1559,1356,471,13714,0,1075,413,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,688,594,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,118,0,0,0,0,0,8,0,0,0,0,0,3,101,6,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,44,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,188,0,0,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,87,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,157,0,0,0,0,0,0,75,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,13358,1591,0,698,204,11,50,204,340,3,9,205,1260,520,4753,2635,4,612,263,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,12564,1719,0,1838,1283,0,0,8,112,0,0,0,3969,85,192,57,0,232,3069,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2004,1363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1363,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,30,0,0,0,0,0,0,5,21,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,204,162,0,5,0,0,0,0,0,0,0,0,0,25,0,0,0,12,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,260,0,0,0,0,0,0,0,20,0,0,0,0,0,240,0,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,403,200,0,28,0,0,0,0,0,0,0,0,7,0,0,30,0,0,138,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,608,23,0,0,0,0,0,0,5,0,0,20,0,0,560,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,304,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,267,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,250,24,0,0,0,0,0,0,0,0,0,0,0,2,1,223,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,384,0,0,0,24,0,0,0,0,0,0,0,0,0,1,0,0,359,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,5270,9,0,0,0,0,0,0,0,0,0,0,5251,10,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,27,13,0,0,0,0,0,0,5,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,385,385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,1225,0,0,1053,0,0,0,0,0,0,0,0,1,0,0,0,0,0,171,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,88,0,0,0,0,0,0,0,0,0,0,0,13,57,0,0,0,0,18,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,6883,0,0,5985,0,0,0,0,0,0,0,0,192,0,0,699,0,0,7,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,245,0,0,1,0,0,0,0,0,0,0,26,167,4,0,46,27,0,1,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,777,1,0,17,0,0,0,129,41,0,0,0,0,0,550,0,0,39,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,226,2,0,54,0,0,0,17,0,0,1,54,47,19,0,18,0,0,14,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,46750,2933,9885,2610,2,99,9,2662,19932,0,10,445,1420,2355,2894,246,2870,0,1248,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,404,0,0,0,0,0,0,0,9,391,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,286,14,0,0,0,0,4,36,1,0,0,198,0,4,0,17,0,3,9,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,4168,3687,0,2,0,0,0,9,39,0,0,0,100,326,0,0,0,0,5,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,24,0,0,0,0,0,0,1,4,0,1,0,0,1,0,3,0,14,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,2375,0,0,2375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,670,0,0,0,0,0,0,0,0,0,0,0,332,0,338,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,78,56,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,43169,2,2,43101,0,0,0,0,27,0,0,0,10,0,0,27,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,42,0,0,0,0,0,1,1,0,0,0,0,0,0,0,39,0,1,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,182,0,0,0,0,0,0,0,0,0,0,0,0,182,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,486,0,0,0,0,0,0,0,0,0,0,0,0,18,47,421,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,227,0,0,0,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,27678,1324,0,3480,9,4,18,43,283,0,3,50,1558,2434,386,15450,0,2020,616,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,562,546,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,215,0,0,17,0,0,0,0,0,0,0,0,43,135,20,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,70,0,0,0,0,0,0,0,12,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,107,0,0,0,0,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,331,0,0,0,0,11,0,151,0,0,0,0,164,5,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,15102,1211,7,473,100,12,61,73,696,0,7,215,1076,1006,6067,2611,0,1137,350,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,14697,4156,0,2947,1301,0,0,11,106,10,0,13,3459,280,290,174,0,0,1950,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,3534,294,0,680,10,0,0,34,20,0,48,0,1162,555,377,0,0,170,184,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2005,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,95,0,0,0,0,3,0,14,50,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,63,50,0,3,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,3520,0,0,3520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,328,56,0,25,0,0,0,0,1,0,0,0,10,0,0,236,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,52,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,885,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,867,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,669,124,0,0,0,0,0,162,51,0,0,0,0,14,20,298,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,321,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,2472,7,0,0,0,0,0,0,0,0,0,0,2445,20,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,141,0,0,0,0,0,0,0,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,55,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,1439,0,0,1346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,155,6,0,0,0,0,0,0,0,0,0,0,63,50,0,25,0,0,11,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,1690,0,0,0,0,0,0,0,0,0,0,0,171,0,0,1031,0,488,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,323,37,0,9,0,0,0,0,0,7,0,26,160,56,0,27,51,0,1,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,265,11,0,18,0,0,0,204,4,0,0,0,0,1,0,0,0,27,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,237,116,0,2,0,0,0,0,35,0,0,0,22,20,0,0,0,0,42,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,324,13,0,0,0,0,0,124,0,0,0,149,0,17,0,18,0,2,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,17099,16660,0,1,0,0,0,11,41,0,0,0,59,327,0,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,55,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,271,220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,701,136,0,0,0,0,0,0,0,0,0,0,14,0,551,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,25,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,404,152,0,0,0,0,0,200,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,19662,0,0,19650,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,212,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,31900,2633,137,6701,14,11,93,70,241,0,6,67,1534,2608,965,15712,0,124,984,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,794,794,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,71,0,0,0,0,0,35,0,0,0,0,0,0,16,20,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,316,0,0,0,0,5,0,195,1,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,14351,1195,490,641,114,15,46,63,241,2,10,160,1219,1361,5711,2775,0,6,282,0,20,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,17946,3211,0,4269,610,0,3,80,481,18,0,6,3686,243,2770,1035,0,5,1529,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2006,444,0,0,91,0,0,0,0,0,0,0,0,0,0,84,0,0,269,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,86,51,0,5,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,12624,0,0,12419,0,0,0,0,15,0,0,0,0,0,190,0,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,1195,0,385,435,0,0,0,0,0,0,0,0,54,0,0,181,0,0,140,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,189,0,0,0,0,0,0,0,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,36,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,3358,393,0,40,0,0,0,34,0,0,0,0,2854,14,0,0,0,0,23,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,66,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,44,0,0,0,0,0,0,14,0,0,0,0,4,0,0,0,0,13,13,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,1570,0,0,0,0,0,0,0,23,0,0,0,119,0,0,1416,0,0,12,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,291,79,0,4,0,0,0,0,0,0,0,0,18,60,21,63,26,0,46,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,164,0,0,11,0,0,0,59,15,0,0,0,0,1,0,1,0,59,18,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,4158,0,0,3955,0,0,0,0,0,0,1,0,18,34,0,0,0,0,150,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,265,0,0,0,0,0,0,0,0,0,0,0,0,0,265,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,317,4,0,0,0,0,0,263,2,0,0,0,0,27,0,18,0,2,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,162232,161941,0,0,0,0,0,9,0,0,0,0,3,279,0,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,436,385,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,48,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,607,58,0,0,0,0,0,0,0,0,0,0,72,0,458,0,0,0,19,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,1268,105,1095,0,2,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,15967,0,10,15950,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,108,0,0,0,0,0,0,0,32,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,116,0,0,0,0,0,0,0,0,0,0,0,0,17,0,99,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,43973,4910,298,18519,303,6,73,43,79,0,14,33,1689,4731,2455,9355,0,128,1337,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,150,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,80,0,0,0,0,0,47,0,0,0,0,0,0,32,1,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,210,0,0,0,0,2,0,164,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,15449,1424,523,828,169,23,51,68,444,0,14,398,1512,1447,6569,1689,0,4,286,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,15229,2503,0,4377,473,0,0,33,577,0,0,464,3681,365,70,877,0,44,1765,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,3080,112,10,1574,0,0,23,309,56,0,7,5,95,101,18,409,0,295,66,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,63,61,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,147,0,0,7,0,3,4,37,13,0,0,0,12,24,0,47,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,194,0,0,6,0,0,0,0,0,0,0,0,0,14,0,0,0,145,29,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,23004,38,0,21850,0,0,0,0,79,0,0,0,39,0,422,543,0,33,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,3583,0,0,3156,0,0,0,0,1,0,0,0,63,0,0,147,0,0,216,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,236,0,58,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,3420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3420,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,7982,3300,0,0,0,0,0,480,24,0,0,0,4154,0,0,0,0,0,24,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,23,16,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,134,0,0,0,0,0,0,0,0,0,0,0,0,45,1,24,0,13,51,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,1717,0,0,0,0,0,0,0,0,0,0,0,177,0,0,1540,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,234,15,0,6,0,0,0,0,0,0,0,0,1,105,0,0,26,14,93,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,167,0,0,10,0,0,0,84,12,0,0,0,0,0,0,2,0,59,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,3122,0,0,2226,0,0,0,0,6,0,0,0,43,8,0,0,0,0,839,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,532,0,0,0,0,0,0,0,0,0,0,0,0,0,532,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,162,5,0,0,0,0,0,71,3,0,0,0,0,30,50,0,0,2,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,444636,443824,0,0,81,0,0,9,0,0,0,128,0,594,0,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,1051,851,0,0,0,8,0,57,24,0,0,0,0,0,0,111,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,327,275,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,50,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,42,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,2016,18,0,0,0,0,0,0,0,0,0,0,178,0,38,0,0,0,1782,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,302,0,0,0,0,0,0,0,302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,76,16,0,10,0,0,20,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,43,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,115,32,54,8,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,8750,0,0,8750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,83,0,0,0,0,0,0,0,0,0,0,0,0,0,47,36,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,47307,12971,55,8178,1062,45,58,125,243,0,23,38,1759,4435,5744,10004,0,1095,1472,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,600,600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,120,0,0,0,0,0,98,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,96,0,0,0,0,0,0,0,0,0,0,0,94,2,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,1000,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,41,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,15,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,16833,1999,10,1380,110,82,89,66,494,2,12,459,3271,450,5721,2373,0,9,306,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,26536,7280,450,4153,1244,0,3,43,939,0,0,78,4754,612,1872,1638,0,0,3470,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,2519,571,0,36,20,10,32,277,242,0,4,0,393,246,95,223,0,225,145,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,41,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,3329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3329,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2008,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,14194,0,12410,0,0,0,0,1742,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,255,0,0,0,0,1,0,1,27,0,0,0,1,57,0,168,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,1056,496,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,454,73,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,38458,427,0,36726,0,0,0,1,780,0,8,0,0,0,419,54,0,43,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,7921,137,0,6924,0,0,0,16,15,0,0,0,180,0,0,250,0,0,399,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,114,22,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,285,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,5812,1300,0,0,0,0,0,466,68,1,0,0,3915,38,0,0,0,0,24,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,136,113,0,0,0,0,18,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,201,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,197,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,235,0,0,0,0,0,0,0,0,0,0,12,40,71,1,82,0,0,29,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,2521,0,0,0,0,3,0,1,113,0,0,0,130,0,0,2274,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,848,440,0,7,0,0,0,0,0,22,0,7,15,46,0,35,0,0,276,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,301,108,0,85,0,0,0,51,20,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,183,0,0,30,0,0,0,0,0,0,0,0,19,0,3,0,0,0,131,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,251,0,0,0,0,0,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,161,23,0,0,0,0,0,88,2,0,0,0,0,1,13,33,0,0,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,140310,138322,0,333,136,0,0,143,0,0,0,0,296,672,31,167,0,17,193,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,11,0,0,0,0,0,0,7,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,1555,36,0,0,0,0,0,2,0,0,2,0,1438,0,76,0,0,1,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,91,0,0,0,0,0,0,0,81,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,117,0,0,0,0,0,0,0,0,0,0,0,0,76,0,25,0,0,16,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,91,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,543,476,0,0,0,0,0,27,8,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,68,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,199,0,0,0,0,0,0,15,29,0,0,0,0,0,94,61,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,81012,30360,66,11586,1147,75,36,760,1124,0,34,290,2715,5328,12455,10316,0,2139,2581,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,564,564,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,47,0,0,0,0,0,42,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,73,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,91,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,31,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,22957,2975,187,873,254,186,155,4335,1099,27,35,662,3805,432,5398,2144,0,18,372,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,39401,10527,0,5512,478,0,19,328,1873,0,0,730,7684,1657,3253,2914,0,1,4425,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,208,0,0,0,0,0,0,0,0,208,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2009,5543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5543,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,21454,0,19067,0,0,0,0,1983,353,0,44,0,0,0,0,0,0,0,0,7,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,805,0,286,0,0,3,1,9,30,0,1,0,0,289,0,186,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,938,0,0,3,0,0,0,0,0,0,0,0,0,87,0,0,0,812,36,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,29096,358,0,27836,0,2,29,9,535,0,22,0,123,1,150,16,0,15,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,22090,730,0,20067,0,0,0,209,12,0,0,1,106,0,0,586,0,0,379,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,111,0,0,0,0,0,0,0,3,0,0,0,99,0,0,9,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,828,0,0,0,0,0,0,0,0,0,0,0,126,0,0,0,0,702,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,79,45,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,4750,238,0,0,24,0,0,896,70,0,0,0,3380,142,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,121,110,0,0,0,0,0,0,4,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,16,7,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,184,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,271,0,0,0,0,0,0,18,0,0,0,11,0,100,0,17,0,20,105,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,3194,0,0,195,0,1,0,3,72,0,0,0,120,0,0,2567,0,172,64,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,1707,1105,0,8,0,0,0,0,0,0,0,0,29,55,0,18,0,0,492,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,118,0,0,21,0,0,3,60,0,0,0,0,0,6,0,0,0,28,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,800,20,0,714,0,0,0,0,0,0,0,0,42,0,4,0,0,0,20,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,157100,8984,43506,8289,0,472,104,25169,49762,33,0,3210,2609,3485,3125,278,5537,1,8073,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,180,32,0,3,0,0,0,36,9,0,0,0,22,3,13,41,0,1,20,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,3510,15,815,0,23,0,0,2577,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,573,0,0,504,0,0,0,0,0,0,0,0,0,25,0,0,0,44,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,264,1,0,253,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,1861,39,0,0,0,0,0,5,0,0,4,0,1661,1,151,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,167,21,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,40,19,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,81,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,6556,219,0,5511,0,0,0,0,0,0,0,0,31,3,0,0,0,442,350,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,16,9,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,242,0,0,0,0,0,0,105,14,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,84016,28933,84,7047,1233,151,24,61,1107,0,28,93,3192,6029,17036,13565,0,1424,4009,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,1452,1450,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,154,3,0,0,0,0,105,0,0,0,0,0,5,0,41,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,125,0,0,0,0,0,0,0,0,0,0,0,124,1,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,327,0,0,0,0,0,0,0,97,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,29005,4192,30,1032,313,284,168,1539,3232,3,42,1333,4110,661,6669,4777,0,61,559,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,35815,7511,0,6773,206,95,303,215,1987,0,1,832,5586,1986,3257,3918,0,52,3093,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2010,1842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1842,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,10025,0,7642,0,0,0,0,2200,180,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,518,0,0,0,0,1,0,19,38,0,0,0,0,220,0,239,0,1,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,1795,0,0,2,0,0,0,0,0,0,12,0,0,84,0,156,0,1491,50,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,21592,152,0,20413,0,0,0,3,608,0,14,0,304,0,67,0,0,31,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,5460,364,0,3937,0,0,0,81,9,0,0,0,198,0,0,582,0,0,289,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,11,5,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,227,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,76,59,0,0,0,0,0,0,7,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,6321,1675,0,0,0,0,0,1412,123,0,0,0,2868,243,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,155,118,0,0,0,0,0,0,1,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,405,9,0,0,0,0,0,0,0,0,0,0,0,18,26,0,0,352,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,298,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,462,9,0,0,0,0,0,85,48,0,0,5,0,26,0,60,0,0,229,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,3457,0,0,0,0,1,0,0,0,0,15,0,217,0,0,3077,0,147,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,1849,950,0,10,0,0,0,0,11,0,2,0,43,92,24,82,0,1,634,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,311,88,0,31,0,0,3,80,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,1774,54,0,1535,0,0,0,39,0,0,0,0,145,0,0,0,0,1,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,537,0,0,0,0,0,0,0,0,0,0,0,0,0,537,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,2229,123,0,10,0,0,0,0,45,0,0,53,53,1916,12,16,0,0,1,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,75831,57696,0,263,268,0,5,8082,10,0,0,0,386,2184,0,6765,0,10,162,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,9229,929,526,0,0,0,0,7417,152,0,0,0,0,205,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,125,1,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,119,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,174,115,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,58,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,861,0,0,0,0,0,0,0,26,0,0,0,598,0,237,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,389,12,5,6,0,0,0,0,1,0,0,23,12,101,0,56,0,111,62,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,229,0,0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,1842,66,390,0,0,0,0,0,1386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,24,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,955,251,0,16,0,0,0,15,2,0,0,0,19,13,298,19,0,222,100,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,81,1,0,0,0,0,0,20,0,0,0,0,1,25,0,34,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,151,0,0,0,0,0,0,27,4,0,0,0,0,0,47,73,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,75,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,96124,31632,0,12211,797,49,68,2845,1043,0,51,64,3939,13247,11522,13008,11,1499,4149,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,475,0,0,0,0,0,0,0,0,0,0,0,468,7,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,1554,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,306,6,0,19,0,0,124,0,0,0,0,0,2,50,78,0,0,27,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,178,0,0,0,0,0,0,0,0,0,0,0,176,1,0,1,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,6,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,126,48,0,0,0,0,0,45,9,0,0,11,0,13,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,41,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,39683,5341,22,1641,339,643,317,577,6058,6,39,1732,4826,816,6920,6926,0,506,2974,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,46701,12939,0,6075,520,2236,5,165,1243,0,3,992,8355,2606,2474,3843,0,6,5239,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2011,397,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,378,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,48,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,1387,0,0,0,0,1,0,5,54,0,0,0,1,1088,0,238,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,3740,372,0,4,0,0,0,0,0,0,7,1,0,136,0,0,0,3141,79,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,34822,112,0,33984,0,1,0,17,322,0,13,0,278,0,75,20,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,14990,671,0,12861,0,0,0,7,2,0,0,0,262,0,0,384,0,0,803,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,142,82,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,1653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1653,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,150,87,0,0,0,0,0,14,0,0,0,0,0,25,0,24,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,7356,2411,0,33,0,17,2,1619,291,0,0,0,2938,45,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,1846,1793,0,0,0,0,0,0,4,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,489,13,0,0,0,0,0,0,0,0,0,0,0,11,20,0,0,445,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,320,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,861,9,0,0,0,0,1,15,178,0,0,22,0,71,7,60,0,0,498,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,2605,0,0,0,0,0,0,0,0,0,12,0,161,0,0,2432,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,2990,2085,0,15,0,0,0,1,4,0,0,0,43,235,0,47,0,2,558,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,382,50,0,10,0,0,3,150,0,0,0,0,14,0,0,0,13,155,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,485,216,0,47,0,0,4,22,0,0,1,70,94,3,0,0,0,28,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,356,0,0,0,0,0,0,0,0,0,0,0,17,0,339,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,912,115,0,7,0,0,0,0,5,0,0,18,73,596,27,44,0,21,6,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,101300,73211,0,351,680,0,0,17087,41,0,0,19,432,2110,297,6768,0,131,173,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,3306,0,0,0,22,0,0,3284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,239,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,196,39,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,962,754,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,152,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,478,15,0,5,0,0,0,0,59,0,0,0,201,0,198,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,487,1,0,0,0,0,2,0,31,0,0,87,6,266,0,78,0,0,16,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,82,10,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,3529,456,2,849,4,0,0,137,0,0,0,0,83,29,749,120,0,984,116,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,1134,2,0,0,0,0,0,0,0,0,0,0,61,71,0,1000,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,81,0,0,0,0,0,0,43,1,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,42,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,115113,52863,0,7912,1236,34,53,110,811,0,30,146,3863,10394,16740,14145,14,1558,5218,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,882,0,0,0,0,0,0,0,0,0,0,0,871,11,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,952,952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,236,0,0,0,0,0,66,0,0,0,0,0,0,0,25,0,0,145,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,130,0,0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,11,0,0,2,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,102,65,0,0,0,0,3,0,19,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,49194,5842,123,1884,587,1652,510,916,4758,7,65,2668,3744,8707,7024,8291,0,542,1874,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,49862,11049,0,10057,72,1673,44,276,1210,0,1,1683,7416,2746,1903,3618,0,7,8107,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2012,7280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7280,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,89,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1533,0,215,0,0,14,0,107,81,0,0,0,0,877,0,123,0,116,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,3925,3,0,5,0,0,0,0,0,0,0,0,0,198,0,0,0,3677,42,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,40486,98,0,38035,0,0,1,65,769,0,43,0,313,2,536,621,0,3,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,4609,1936,0,100,0,0,2,82,27,0,0,0,130,18,46,1431,0,19,818,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,346,120,0,0,0,0,0,2,1,0,0,2,19,0,200,0,0,2,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,556,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,492,126,0,0,0,0,0,41,20,0,0,0,0,288,0,17,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,221,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,5896,583,0,0,0,171,133,1699,50,0,0,0,2262,978,1,19,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1696,1342,0,50,0,0,0,0,90,0,0,0,2,158,0,47,0,0,7,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,463,14,0,0,0,0,0,0,0,0,0,0,0,12,5,0,0,432,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,48,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,10,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,272,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,714,10,0,0,0,0,0,5,1,0,1,33,1,74,4,61,0,33,491,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,2865,0,0,0,0,0,0,0,0,0,0,0,137,0,0,2593,0,135,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,2298,1033,0,32,0,0,0,10,33,0,1,1,126,139,139,37,0,418,329,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,69,0,0,0,0,0,0,0,40,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,193,0,0,16,0,0,7,48,0,0,0,0,11,0,0,0,39,111,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1764,1583,0,2,72,0,0,0,0,0,2,0,54,1,0,40,0,10,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1137,0,0,0,0,0,0,0,0,0,0,0,14,0,1123,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1702,159,0,3,0,0,0,0,0,0,0,2,81,1325,23,63,0,41,5,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,92067,64960,2559,474,340,0,0,13115,75,0,0,0,548,2039,43,7532,0,253,129,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,860,12,0,0,0,0,0,32,0,0,0,0,16,0,0,51,0,652,97,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,3119,2697,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,414,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,645,0,0,0,0,0,0,0,54,0,0,0,175,0,416,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,578,2,70,2,0,0,2,1,70,0,0,110,8,246,0,26,0,0,41,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,68,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,4637,255,1,238,1,0,0,16,14,0,0,0,172,73,1459,68,0,2321,19,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1393,0,0,0,0,0,0,0,0,0,0,0,62,76,0,1255,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,185,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,21,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,95774,36544,0,2288,1119,124,35,114,790,0,52,202,4840,7843,20881,14494,14,165,6283,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1088,0,0,0,0,0,0,0,0,0,0,0,1077,11,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,1348,1348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,60,7,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,249,0,0,0,0,0,169,0,6,0,0,0,0,1,35,0,0,38,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,46,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,21,0,0,4,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,110,0,0,0,0,0,0,91,0,0,0,15,0,0,0,0,0,4,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,41,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,52831,6649,135,1871,599,1343,449,942,7734,19,49,3284,3194,10419,4868,9612,0,500,1164,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,61655,13910,0,16943,401,1507,1448,285,1064,19,2,731,6507,3461,2316,3921,0,1339,7801,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2013,23366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23366,0,0,0,0,0,0

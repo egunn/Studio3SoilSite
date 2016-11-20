@@ -1,0 +1,277 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,20674,19,0,28,0,0,0,2645,0,0,25,351,2935,5265,72,5258,0,4029,47,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,20064,149,172,19525,0,0,0,0,0,0,0,0,0,1,0,0,0,217,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,20,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,499,93,0,36,0,0,0,35,5,0,0,0,80,160,6,77,0,0,7,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,3253,3200,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,185,2,0,0,0,0,0,0,0,0,0,0,14,0,0,149,0,20,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,3294,162,0,1,0,0,5,66,9,22,0,500,415,397,124,261,0,81,1134,117,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,4651,0,0,0,0,0,1018,0,379,0,0,1566,3,1459,212,14,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,20995,242,0,14828,0,24,10,17,158,0,0,2844,71,105,0,1617,0,413,666,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,10549,5578,26,0,0,87,2,889,704,0,0,832,957,165,425,706,52,103,75,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,6812,39,275,4,0,2,1,219,107,0,8,331,28,307,94,1880,0,3445,72,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,3276,59,0,0,0,0,0,0,0,0,0,0,0,3214,0,0,0,0,3,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,1578,0,0,1574,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,7524,26,0,1,0,0,0,294,2829,0,0,60,52,399,0,3760,21,101,2,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,6752,16,0,3345,0,0,0,4,3314,0,0,0,0,1,0,21,0,0,51,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2006,444,14,0,0,0,0,0,0,0,0,0,0,0,0,0,430,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,74,24,0,4,0,1,0,14,22,0,0,0,6,0,0,3,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,12905,60,0,25,0,0,0,251,79,0,0,0,594,223,208,2663,0,8782,20,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,39,14,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,5760,2030,137,35,0,3,0,915,318,0,2,106,231,523,177,373,33,442,468,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,628,302,0,0,0,0,0,0,0,0,0,0,43,155,123,0,0,0,5,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,456,0,52,0,404,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,1339,0,0,5,68,0,34,1166,17,0,0,0,0,38,0,0,0,11,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,11530,3136,10,150,0,1,25,144,173,0,9,0,349,2398,649,2744,12,170,1572,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,524,400,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,22,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,70,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,22,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,513,0,0,11,0,0,0,0,0,0,0,14,333,84,0,71,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,3344,636,41,18,0,0,63,27,29,0,0,141,110,288,1,91,0,417,1482,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,1655,1,0,76,0,0,50,0,1045,0,0,0,13,289,16,157,0,0,8,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,2328,1285,40,5,0,24,7,4,276,0,0,88,9,15,0,306,0,224,45,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,6107,2579,1,1,29,34,6,674,997,0,0,774,201,324,84,146,35,224,33,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,8237,60,640,0,0,7,1,143,60,0,0,240,68,155,72,3287,0,3504,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,893,109,284,27,0,0,0,0,0,0,0,32,141,300,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,9721,9721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,5830,146,4,5,3,8,1,739,2704,0,2,20,86,97,145,628,0,946,296,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,997,5,0,8,0,0,0,39,685,0,0,0,1,0,0,18,0,189,52,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,1207,0,0,1000,0,0,0,0,0,0,0,0,0,207,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,81,16,0,5,0,0,0,0,0,0,0,0,0,4,0,56,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2007,338,7,0,0,0,0,0,5,0,61,0,165,19,1,0,7,46,72,1,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,932,0,46,21,0,4,1,795,27,0,0,0,33,0,0,5,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,2862,75,0,0,196,0,0,0,2491,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,13592,106,0,25,0,0,0,99,51,0,4,0,572,78,127,2836,0,9694,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,329,0,86,1,0,0,0,21,0,0,0,120,11,3,0,27,0,60,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,9397,2938,714,41,0,5,4,859,388,0,0,139,275,800,204,803,3015,730,1497,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,869,658,0,0,0,0,0,0,0,0,0,0,65,146,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,2737,20,292,0,378,0,0,0,1,0,0,0,0,0,0,0,0,2046,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,2220,0,0,50,367,0,135,1383,35,0,151,0,0,79,0,0,0,0,20,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,14054,4695,9,200,0,2,37,359,209,0,4,5,360,1982,665,2919,0,707,1901,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,1318,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,46,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,90,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,20,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,340,0,71,0,0,0,0,0,0,0,0,43,0,112,0,114,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,4774,713,0,22,0,5,57,62,38,0,0,142,187,199,5,126,0,1694,1524,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,806,3,0,0,0,0,111,0,373,0,0,0,0,169,28,122,9,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,11882,9840,0,17,1,16,6,15,265,0,0,270,35,22,715,304,0,327,49,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,8898,2974,5,2,51,51,5,983,2061,0,0,1131,307,382,83,497,0,331,35,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,587,10,0,0,0,0,0,0,0,0,0,0,0,323,254,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,12410,57,830,0,1,8,0,1039,33,0,0,167,62,324,184,4139,0,5514,52,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,1123,165,528,34,0,0,0,0,40,0,0,46,187,107,0,0,0,0,16,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,701,611,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,28,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,43,24,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,7157,147,59,40,3,7,10,1037,3217,0,2,22,102,297,79,628,0,1247,260,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,1256,8,1,23,0,0,0,117,733,0,0,0,0,59,13,12,0,236,54,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,2000,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,49,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,281,65,0,0,0,0,0,59,0,0,0,0,3,19,0,105,0,30,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2008,4751,440,80,0,0,0,11,0,0,0,0,0,11,0,45,673,0,3472,19,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,1565,0,92,6,1,8,0,1429,13,0,0,0,7,0,0,9,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,2181,175,0,0,417,0,0,0,1469,0,0,0,0,0,0,10,0,110,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,11699,85,0,61,0,2,0,156,282,0,5,0,462,68,158,1934,0,8486,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,1220,0,42,5,0,0,0,13,2,0,0,291,6,11,23,11,0,808,8,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,8123,1312,63,34,0,9,4,636,473,0,0,159,118,917,365,987,552,924,2122,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,1286,696,0,0,0,0,0,20,0,0,0,0,0,366,182,10,20,0,12,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,481,0,0,0,481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,1748,0,18,0,159,3,121,1287,71,0,17,0,60,12,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,9398,808,10,192,0,1,40,317,268,0,2,12,371,2331,555,2330,25,795,1366,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,89,8,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,39,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,57370,0,0,0,0,0,0,0,57370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,1387,1004,117,0,0,0,0,171,78,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,87,0,24,0,0,0,0,0,0,0,0,44,0,10,0,9,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,5304,679,20,15,0,5,69,94,110,0,0,196,173,100,80,92,0,1437,2234,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,763,56,0,0,0,0,40,0,243,0,0,0,0,182,27,205,10,0,10,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,5554,4139,0,14,0,27,13,36,172,0,0,353,27,32,3,507,0,112,119,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,7765,2661,109,26,219,64,3,759,1426,0,0,1126,285,353,86,365,0,229,54,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,168,0,0,0,0,0,0,0,0,0,0,0,0,103,65,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,12648,60,1032,1,0,3,5,710,285,0,2,6,125,209,88,3340,0,6698,84,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,77,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,977,155,143,21,0,0,0,0,505,0,0,9,134,3,0,0,0,0,7,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,795,645,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,33,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,46,0,0,10,0,0,0,0,0,0,0,0,0,9,0,27,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,7641,56,12,55,1,5,8,801,3294,0,3,29,66,1120,4,763,0,1220,204,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,2023,22,0,25,0,0,0,318,1163,0,0,0,0,58,69,1,0,361,6,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,160,0,0,0,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,7,0,0,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,3,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,73,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,54744,1765,34,1209,10,1,24,15323,29370,0,0,0,280,2482,700,2792,0,263,491,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,173,50,0,0,0,0,0,9,6,0,0,0,5,20,0,83,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2009,5482,1096,18,60,0,54,0,13,124,1,0,20,14,0,3000,12,0,1051,19,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,2193,0,71,0,0,3,0,2067,47,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,720,101,0,0,294,0,18,0,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,215,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,191,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,12065,168,0,72,0,2,1,136,142,0,10,0,989,55,49,1726,0,8695,20,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,943,0,48,0,0,0,0,24,0,0,0,220,8,15,0,10,0,618,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,11893,1643,343,69,0,12,4,525,489,0,2,147,362,849,289,854,412,1293,5012,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,1455,721,0,0,0,0,0,14,1,0,0,0,0,632,0,0,41,60,5,22,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,438,0,106,0,302,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,1876,0,0,50,433,14,0,1084,0,0,0,0,111,0,0,0,0,184,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,9904,1715,7,247,0,1,15,192,182,0,1,3,477,2537,400,2107,0,772,1248,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,137,4,0,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,12,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,26,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,2,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,184350,0,0,0,0,0,0,0,184350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,114,0,0,0,0,0,0,0,0,0,0,45,0,2,0,63,0,0,4,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,5442,779,41,21,0,4,43,30,99,0,0,217,146,57,230,184,0,1368,2223,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,2047,73,13,0,0,0,33,95,1159,0,0,0,19,325,15,315,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,5749,4575,0,15,1,53,25,38,158,0,0,467,29,37,26,156,0,100,69,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,647,0,0,0,0,51,0,0,596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,10896,3420,72,18,194,59,12,659,3387,9,0,1133,571,450,313,236,0,318,45,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,1370,0,0,0,0,0,0,0,0,0,0,0,0,1215,155,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,13194,62,1167,0,1,4,1,1087,372,0,1,9,140,183,177,3289,0,6554,147,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,590,155,204,21,0,0,0,1,40,0,0,0,110,15,0,31,0,0,13,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,277,71,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,102,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,45,0,0,0,0,0,0,0,0,0,0,0,0,21,0,24,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,7181,143,18,53,3,3,13,609,2954,0,3,28,63,652,6,1020,0,1433,180,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,1236,1,0,23,0,0,13,136,614,0,0,0,0,0,21,31,0,397,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,16102,607,12,106,7,5,141,5368,7426,5,0,0,164,714,0,455,0,540,552,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,110,60,0,0,0,0,0,0,1,0,0,0,6,20,0,23,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2010,1657,0,0,0,84,12,0,0,9,0,0,0,0,0,0,0,0,1552,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,2945,309,224,0,0,4,0,2273,128,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,1280,51,0,0,391,0,35,0,782,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,109,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,100,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,11005,204,0,62,0,4,1,205,187,0,2,0,854,84,95,1223,0,8084,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,1106,0,7,2,0,0,0,62,0,0,0,71,8,11,28,3,0,914,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,15420,5358,455,376,0,10,27,512,429,0,0,6,314,745,114,1002,425,1011,5044,17,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,1455,719,0,0,0,31,3,15,190,0,0,0,8,489,0,0,62,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,457,0,294,0,100,0,0,0,45,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,2664,22,5,36,1207,28,0,837,43,0,0,0,102,384,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,17921,0,0,0,0,0,0,0,17921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,15448,5011,588,279,0,1,23,349,226,0,1,3,535,2896,484,2774,0,983,1295,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,161,59,15,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,46,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,22,0,0,0,0,0,0,0,0,0,0,2,0,17,0,0,0,0,3,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,385,0,0,0,15,0,0,0,357,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,8217,7900,71,0,0,0,0,19,0,0,0,67,0,47,0,52,0,20,41,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,5347,827,20,26,0,3,43,97,56,0,0,230,178,66,75,167,0,1350,2209,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,3514,87,0,2,0,0,82,99,2584,0,0,0,2,284,26,329,0,0,19,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,1469,53,0,22,0,107,21,29,111,0,0,420,30,12,219,116,0,283,46,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,12782,3957,668,5,110,66,10,671,3410,0,0,1374,297,1468,266,105,0,331,44,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,1989,0,0,0,0,0,0,0,0,0,0,0,0,1622,367,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,13097,54,1536,0,0,3,5,743,177,0,0,18,161,454,0,3175,0,6592,179,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,701,155,237,23,0,0,0,25,0,0,0,0,140,48,0,28,0,0,45,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,376,83,0,0,0,0,0,0,0,0,0,0,110,1,6,0,0,21,155,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,5836,2,0,5794,0,3,0,0,0,0,0,0,0,18,0,19,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,4,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,355991,96429,3850,961,35,239,458,11986,9252,3,199,56977,2763,6968,12177,109405,381,6142,38147,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,7479,142,33,42,11,9,20,711,2723,0,5,46,190,734,2,857,0,1818,136,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,2687,2,0,37,0,0,27,281,784,0,0,0,0,156,33,11,0,1356,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,2676,353,0,2192,0,0,0,0,52,0,0,0,0,60,0,19,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,17186,908,1,126,5,8,132,4993,8301,5,0,0,217,433,44,630,0,732,651,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,72,36,0,0,0,0,0,3,0,0,0,0,8,5,0,20,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2011,1603,0,0,0,0,64,0,0,0,0,0,0,0,40,0,0,0,1499,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,6882,0,1143,0,1,8,1,5012,661,0,0,0,1,55,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,1118,76,0,0,183,0,0,0,859,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,8063,374,72,65,0,5,2,139,92,0,3,90,986,92,97,888,0,5157,1,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,2249,0,173,3,0,0,0,78,0,0,2,0,16,24,73,22,0,1858,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,18272,4774,774,1944,0,6,10,531,514,0,1,378,492,612,110,1156,441,909,6061,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,1275,608,0,0,0,31,0,0,0,0,0,0,0,614,22,0,96,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,265,20,81,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,4383,0,2,2242,1038,28,0,830,37,0,12,0,173,0,0,0,0,0,21,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,34322,22685,356,197,0,1,28,371,300,0,1,7,519,2947,356,3339,0,1240,1975,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,141,5,15,0,0,0,1,8,0,0,0,0,0,2,0,71,0,0,39,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,3,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,41284,0,96,0,0,0,0,0,1,0,0,54,1,67,0,41023,0,21,21,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,6959,895,0,27,0,3,29,262,69,0,0,245,190,94,68,210,0,2251,2616,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,3829,37,0,17,0,0,59,120,2859,0,0,0,0,413,20,266,8,0,38,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,1740,72,0,13,0,124,10,96,100,0,0,656,12,16,304,92,0,245,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,13102,3871,1037,5,85,55,10,739,3562,0,0,1284,246,1311,408,94,0,342,53,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,1540,0,0,0,0,0,0,0,0,0,0,0,0,1291,249,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,14640,81,1236,12,0,8,3,354,299,0,1,46,169,484,91,3059,0,8696,101,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,994,155,407,20,0,0,0,6,48,0,0,124,167,5,0,3,0,40,19,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,419,47,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,255,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,2503,2,0,2475,0,0,0,0,0,0,0,0,0,8,0,18,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,350713,98175,3011,976,10,235,406,13886,6947,0,194,54944,2925,6606,14344,106578,143,5849,35627,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,40,0,6,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,24,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,8503,127,71,51,13,8,11,1410,2743,0,7,17,67,305,3,547,0,2876,247,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,2634,31,0,38,0,0,45,140,382,0,0,0,0,270,73,15,0,1640,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,6038,0,0,6000,0,0,0,0,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,17576,897,1,110,5,6,106,4038,8734,3,0,0,227,642,6,1165,0,1106,530,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,25,3,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,159,81,45,0,0,0,0,0,0,0,0,0,7,8,0,18,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2012,1923,7,0,0,60,33,0,0,0,0,0,0,0,6,0,0,0,1817,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,8992,42,1071,0,0,1,0,7183,474,0,0,3,2,194,0,22,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,866,198,0,0,46,0,0,0,622,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,9171,522,879,59,0,3,0,540,76,0,4,10,1053,136,71,683,0,5128,7,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,1980,2,65,0,0,0,0,91,0,0,0,9,8,11,0,28,0,1766,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,33160,4835,1755,59,0,13,13,773,824,0,2,63,630,1114,7,1473,361,1383,20216,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,1485,472,0,0,0,35,0,0,0,0,0,0,4,628,0,327,65,0,19,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,413,0,0,0,413,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,2823,0,0,867,1320,28,28,410,0,0,0,0,128,42,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,1231,0,0,0,0,0,0,0,1231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,15479,5426,218,228,0,0,29,436,310,0,1,12,734,2740,301,1977,0,1313,1754,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,242,6,5,0,0,0,5,5,0,0,2,7,0,6,0,179,0,0,27,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,360,0,0,0,23,0,0,25,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,720,2,307,1,0,0,0,2,27,0,0,56,3,98,0,224,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,9051,851,48,29,0,2,34,471,114,0,0,279,190,133,141,322,0,3978,2459,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,6096,3,330,6,0,1,88,554,4157,0,0,0,0,709,2,220,0,0,26,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,1765,69,12,12,0,78,16,73,34,0,0,734,18,64,372,53,0,214,16,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,520,0,0,0,0,0,0,0,0,0,0,0,0,17,503,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,12212,3602,1697,6,28,56,7,703,2259,0,1,1198,334,1406,298,176,0,374,67,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,24,1,21,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,566,0,0,0,0,0,0,0,0,0,0,0,0,332,234,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,198,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,12880,35,1447,7,0,6,4,739,112,0,1,23,148,598,227,2467,0,7015,51,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,1626,173,741,20,0,0,0,13,147,0,0,143,192,109,0,68,0,20,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,167,0,0,0,0,0,0,0,0,0,0,0,0,5,0,162,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,261,81,0,0,0,0,0,0,0,0,0,0,46,15,0,0,0,0,119,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,88,3,0,0,0,0,0,0,0,0,0,0,0,11,40,34,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,7,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,363453,132683,1824,896,19,277,330,12773,9678,0,135,51494,3111,7579,13917,103568,174,6312,18857,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,590,0,0,0,0,0,0,0,0,0,0,0,0,5,0,563,0,0,22,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,9394,123,7,68,20,4,14,1100,2456,0,19,112,72,255,23,819,0,3796,506,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,72,0,0,0,0,0,0,0,47,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,2435,11,0,42,0,0,38,87,214,0,0,24,0,75,82,13,0,1849,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,49,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,16746,804,17,93,2,9,128,2739,9659,6,0,0,199,743,18,787,0,1167,375,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,1052,0,44,1008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,290,212,22,0,0,0,0,0,0,0,0,0,0,5,37,14,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,2013,2344,0,0,0,146,64,0,0,10,0,0,0,0,0,0,0,0,2118,6,0,0,0,0,0

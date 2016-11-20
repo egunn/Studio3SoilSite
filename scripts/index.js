@@ -10,9 +10,16 @@ var height = canvas.height;
 
 var context = canvas.getContext('2d');
 
-var usExports;
+var trade;
 var selectedYear = "2013";
 var selectedCountry = "US";
+
+var arcColor = "#c1b69c";
+var mapColor = '#593c31';
+var mapHighlightColor = '#c49b13';
+var mapOutlineColor = '#6d6764';
+var dotColor = '#efd004';
+var timelineColor = '#eaead7';
 
 var map = d3.select("#fpsvgbkgrd");
 
@@ -40,12 +47,6 @@ var destScale = d3.scaleSqrt().domain([0,45000000]).range([1,10]);
 var numParticles = d3.scaleThreshold().domain([0,100000,500000,1000000,1500000,2000000,2500000,3000000, 3500000,4000000,4500000,5000000]).range([1,2,3,4,5,6,7,8,9,10,20]);
 var countryColor = d3.scaleLinear().domain([0,45000000/2,45000000]).range(['#593c31','#a08d75','#9b9081']);//'#b5684c','#c16e4f']);//'#ad7966'
 
-d3.csv('./data/exportsbyYear.csv',function(data){
-    timelineData = data;
-    drawTimeline(timelineData);
-});
-
-
 //set up scale factors
 var x = d3.scaleLinear().rangeRound([0,width-100]);
 var y = d3.scaleLinear().rangeRound([90,0]);
@@ -62,6 +63,9 @@ var area = d3.area()
     .y0(90)
     .y1(function(d) { return y(+d.totalTons); });
 
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
 
 
 
@@ -70,8 +74,12 @@ queue()
     .defer(d3.csv, "data/soilDataMapNames_mergingkeys_2_cut.csv")
     .defer(d3.csv, 'data/country_names_lookup_cut.csv')
     .defer(d3.csv, 'data/foodExports_byYear/foodExports_US.csv')
+    .defer(d3.csv, './data/exportsbyYear.csv')
     //wait for a variable to be returned for each file loaded: blocks from blk_group file, neighborhoods from bos_neighborhoods, and income from the parsed acs.csv.
-    .await(function (err, mapData, mapKeys, countryTable, foodExports) {
+    .await(function (err, mapData, mapKeys, countryTable, foodExports, timeline) {
+
+        timelineData = timeline;
+        drawTimeline(timelineData);
 
         mapKeys.forEach(function (d) {
             map_data.set(d.NAME,
@@ -129,11 +137,11 @@ queue()
         });
 
         //remove data for all but the default year
-        usExports = foodExports.filter(function(d){
+        trade = foodExports.filter(function(d){
             return d.year == selectedYear;
         });
 
-        console.log(usExports);
+        console.log(trade);
 
         svgLoaded(mapData, countryTable)
 
@@ -181,13 +189,15 @@ function drawTimeline(timelineData) {
             .ticks(5).tickSizeOuter([0]));
 
     yAxis.selectAll('text')
+        .attr('font-size','11px')
         .attr('fill',"gray");
+
 
     timeline.append('path')
         .datum(timelinePoints)
         .attr('class','timeline-graph')
         .attr('d', area)
-        .attr('fill', '#eaead7')
+        .attr('fill', timelineColor)
         .style('fill-opacity', .1);
 
 
@@ -216,8 +226,23 @@ function svgLoaded(data, countryLookup) {
         var closestNode = mouseSim.find(d3.mouse(this)[0],d3.mouse(this)[1],5);
 
         if (closestNode){
-            console.log(closestNode.FULLNAME);
+            //from https://bl.ocks.org/d3noob/036d13e5173de69f7758091ba9a2df2b
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            div .html(
+                closestNode.FULLNAME)
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 24) + "px");
         }
+
+        else {
+            div.transition()
+                .duration(100)
+                .style("opacity", 0);
+        }
+
+
     });
 
     console.log(data);
@@ -236,22 +261,22 @@ function svgLoaded(data, countryLookup) {
         })
         .attr("fill", function (e) {
             if(e.id == "US"){
-                return '#c49b13';
+                return mapHighlightColor;
             }
             else {
-                return '#593c31';//#baada9';//colour_map[vote_data.get(e.properties.landArea)[0]];
+                return mapColor;//#baada9';//colour_map[vote_data.get(e.properties.landArea)[0]];
             }
 
         })
         .style('fill-opacity','.5')
-        .style('stroke','#baada9')
+        .style('stroke',mapOutlineColor)//'#baada9')
         .style('stroke-width',1)
         .attr("d", path);
 
-    
+
     console.log(countryLookup);
 
-    countryDots = map.selectAll('.dots')
+    var countryDots = map.selectAll('.dots')
         .data(countryLookup)
         .enter()
         .append('circle')
@@ -262,16 +287,16 @@ function svgLoaded(data, countryLookup) {
         .attr('cx',function(d) {return proj([d.longitude,d.latitude])[0]})
         .attr('cy',function(d) {return proj([d.longitude,d.latitude])[1]})
         .attr('fill',function(d){
-            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+            var tempCountry = trade.filter(function(f){return f.destCode==d.NAME;});
             if(tempCountry.length != 0){
-                return '#efd004'
+                return dotColor;
             }
             else {
                 return 'none';//'#d8d3b3';
             }
         })
         .attr('r',function(d){
-            var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
+            var tempCountry = trade.filter(function(f){return f.destCode==d.NAME;});
             if(tempCountry.length != 0){
                 return destScale(tempCountry[0].totalTons)
             }
@@ -294,14 +319,14 @@ var t = .01;
 function drawCanvas(){
 
     //for(var i=0;i<10;i++){
-    if(usExports){
-        usExports.forEach(function(d){
+    if(trade){
+        trade.forEach(function(d){
 
             var destTotal = d.totalTons;
 
-            context.globalAlpha = 0.2;
+            context.globalAlpha = 0.25;
             //var random = 0;//Math.random()*50;
-            context.strokeStyle = "#c1b69c";
+            context.strokeStyle = arcColor;
             context.beginPath();
             context.moveTo(d.bezPoints.p0.x, d.bezPoints.p0.y);
             context.bezierCurveTo(
@@ -333,12 +358,13 @@ function drawCanvas(){
                 }
             });
 
+            /*
             var country = d3.selectAll('#'+ d.destCode);
             if (country.length != 0){
-                    country.attr('fill', '#593c31')//function(d){return countryColor(destTotal)})//'#593c31')
+                    country.attr('fill', mapColor)//function(d){return countryColor(destTotal)})//'#593c31')
                         .style('fill-opacity',.5);
 
-            }
+            }*/
 
         });
 
@@ -409,14 +435,15 @@ function main() {
 }
 
 
-function update(value){
-    d3.csv('data/foodExports_byYear/foodExports_'+ value + '.csv', function(data){
+function update(value,impExp){
+
+    d3.csv('data/food' + impExp + '_byYear/food' + impExp + '_'+ value + '.csv', function(data){
 
         selectedCountry = value;
 
         //reset all country colors to brown
         map.selectAll('.country')
-            .attr('fill','#593c31')
+            .attr('fill',mapColor)
             .style('fill-opacity','.5');
 
         data.forEach(function(d){
@@ -442,32 +469,64 @@ function update(value){
             d.particles = particleArray;
         });
 
-        var usExportsLong = data;
+        var tradeLong = data;
 
-        usExports = usExportsLong.filter(function(d){
+        trade = tradeLong.filter(function(d){
             return d.year == selectedYear;
         });
 
 
-        countryDots = map.selectAll('.dot')
-            .attr('fill',function(d){
-                var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
-                if(tempCountry.length != 0){
-                    return '#efd004'
-                }
-                else {
-                    return 'none'; //'#d8d3b3';
-                }
-            })
-            .attr('r',function(d){
-                var tempCountry = usExports.filter(function(f){return f.destCode==d.NAME;});
-                if(tempCountry.length != 0){
-                    return destScale(tempCountry[0].totalTons)
-                }
-                else {
-                    return 1;
-                }
-            });
+        if (impExp == "Imports"){
+            countryDots = map.selectAll('.dot')
+                .attr('fill', function (d) {
+                    var tempCountry = trade.filter(function (f) {
+                        return f.sourceCode == d.NAME;
+                    });
+                    if (tempCountry.length != 0) {
+                        return dotColor;
+                    }
+                    else {
+                        return 'none'; //'#d8d3b3';
+                    }
+                })
+                .attr('r', function (d) {
+                    var tempCountry = trade.filter(function (f) {
+                        return f.sourceCode == d.NAME;
+                    });
+                    if (tempCountry.length != 0) {
+                        return destScale(tempCountry[0].totalTons)
+                    }
+                    else {
+                        return 1;
+                    }
+                });
+        }
+        else {
+            countryDots = map.selectAll('.dot')
+                .attr('fill', function (d) {
+                    var tempCountry = trade.filter(function (f) {
+                        return f.destCode == d.NAME;
+                    });
+                    if (tempCountry.length != 0) {
+                        return dotColor;
+                    }
+                    else {
+                        return 'none'; //'#d8d3b3';
+                    }
+                })
+                .attr('r', function (d) {
+                    var tempCountry = trade.filter(function (f) {
+                        return f.destCode == d.NAME;
+                    });
+                    if (tempCountry.length != 0) {
+                        return destScale(tempCountry[0].totalTons)
+                    }
+                    else {
+                        return 1;
+                    }
+                });
+
+        }
 
         var timelinePoints = timelineData.filter(function(d){return d.countryCode == value});
 
@@ -486,12 +545,16 @@ function update(value){
 
         var getCountry = map.selectAll("#"+ value);
 
-        if (getCountry.length != 0){
-            getCountry.attr('fill','#c49b13');
+        console.log(value);
+
+        if (impExp == "Exports"){
+            getCountry.attr('fill',mapHighlightColor);
+        }
+        if (impExp == "Imports"){
+            getCountry.attr('fill',mapHighlightColor);
         }
 
     });
-
 
 }
 
@@ -503,12 +566,29 @@ d3.select(".countryDropdown").on("change", function () {
 //dispatch function updates the selected country and calls the update function when dropdown item is selected
 countryDispatch.on("changeCountry", function(countrySelected,i) { //country is the value of the option selected in the dropdown
 
-    update(countrySelected);
+    update(countrySelected, 'Exports');
 
 });
 
+function importClicked(){
 
+    d3.csv('./data/importsbyYear.csv',function(data){
+        timelineData = data;
+        update(selectedCountry, 'Imports');
+    });
 
+}
 
+function exportClicked(){
+
+    d3.csv('./data/exportsbyYear.csv',function(data){
+        timelineData = data;
+        update(selectedCountry, 'Exports');
+    });
+}
+
+function balanceClicked(){
+    console.log('balance')
+}
 
 

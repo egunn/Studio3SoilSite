@@ -1,0 +1,513 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,7603,5017,0,209,0,0,0,2,100,0,0,0,1,272,88,1635,0,233,46,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,5192,82,65,822,0,0,2,192,92,0,0,37,22,70,158,298,76,2977,375,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,5,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,47,33,0,3,0,0,3,0,0,0,0,0,1,0,0,7,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,1172,66,0,977,0,3,0,6,2,0,13,1,0,10,26,2,0,64,2,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,5192,82,65,822,0,0,2,192,92,0,0,37,22,70,158,298,76,2977,375,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,7243,4942,0,278,0,2,0,0,106,0,0,0,9,38,122,1545,0,108,93,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,62,7,0,0,0,0,3,0,3,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,1272,87,0,961,0,0,0,5,2,0,11,0,0,16,41,1,1,148,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,622,0,0,0,0,0,622,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,5655,172,38,826,0,0,0,151,98,0,0,85,25,47,182,245,86,3350,436,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,42,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1987,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,19,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,5735,4137,57,40,0,0,2,14,178,0,0,0,9,61,231,350,0,492,164,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,16,7,0,0,0,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,4,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,2746,250,0,2174,0,0,0,9,0,0,11,0,0,11,62,0,0,226,3,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,23,4,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,4450,151,73,65,0,0,22,116,94,0,0,3,28,162,70,184,15,2869,613,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,17,2,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,21,0,0,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,818,74,0,0,0,23,0,11,76,0,0,0,2,0,0,264,0,368,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1988,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,5675,3938,9,55,0,2,6,13,300,0,0,5,24,54,164,672,0,232,201,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,13,8,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,7,1,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,2702,224,0,2148,0,0,4,8,3,0,15,38,0,23,44,2,0,186,7,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,4450,151,73,65,0,0,22,116,94,0,0,3,28,162,70,184,15,2869,613,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1989,2187,115,0,0,0,0,2,28,37,0,6,11,0,0,0,965,0,1023,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,5446,3727,32,45,0,4,3,12,354,0,0,22,17,58,134,638,0,112,288,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,19,10,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,3,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,2618,374,0,1892,0,0,2,15,4,0,15,16,0,14,92,5,0,175,14,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,50,8,0,0,0,0,0,32,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,192,191,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,5342,334,78,528,0,0,18,258,55,0,0,6,20,34,125,160,10,2886,840,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1990,4516,535,0,0,0,0,0,6,168,0,0,0,0,0,0,3079,0,710,18,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,4188,3065,54,37,0,2,2,11,235,0,0,61,9,53,38,430,0,95,96,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,1923,1923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,12,5,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,24,15,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,3130,225,0,2615,0,0,0,9,1,0,16,0,0,15,47,18,0,130,54,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,18,2,0,0,0,0,0,5,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,488,488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,5505,278,73,45,0,0,10,239,86,0,0,5,36,38,171,163,10,3329,1032,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,63,0,0,0,0,0,13,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,35,0,0,0,0,0,0,0,0,0,0,0,0,0,14,21,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1991,3619,518,0,0,0,0,0,19,80,0,0,3,0,8,0,1666,0,1325,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,4924,3872,48,34,0,0,6,26,182,0,0,2,3,38,38,490,0,152,33,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,837,837,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,10,0,0,0,0,0,0,9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,90,77,0,0,5,0,1,2,0,0,0,0,0,1,1,1,0,2,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,42,0,0,0,0,0,0,40,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,14,0,0,0,0,0,0,0,0,0,0,0,0,12,0,2,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,141,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,5295,400,98,56,0,0,5,142,160,0,0,2,11,42,182,202,18,2964,1031,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,104,0,0,0,0,0,14,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,64,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992,3308,118,0,0,0,0,0,24,91,0,0,4,0,0,0,2173,0,898,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,4781,3776,63,16,0,0,2,5,130,0,0,2,3,39,48,511,0,150,36,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,2791,2791,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,29,5,0,0,0,0,0,2,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,8,5,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,5,0,0,0,0,0,1,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,38,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,0,24,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,5891,346,61,45,0,0,13,177,227,0,0,4,24,45,255,279,6,3384,1031,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,61,0,0,0,0,0,7,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,24,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,15,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1993,2081,52,0,0,0,0,0,23,6,0,0,23,0,0,0,951,0,1018,8,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,4629,3966,79,21,0,0,6,21,86,0,0,0,28,80,34,45,0,192,71,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,11,0,0,0,0,0,0,2,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,38,15,0,0,0,0,0,0,0,0,0,0,0,17,2,0,0,4,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,3158,472,0,2468,0,0,2,11,1,0,12,0,0,24,82,10,0,76,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,8561,1231,65,66,0,0,26,314,414,0,0,470,49,45,291,723,16,3698,1169,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,20,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,16,0,0,0,0,0,4,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,32,3,0,0,0,0,0,0,0,0,0,0,3,3,1,22,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1994,2171,146,0,0,0,0,0,0,25,0,0,0,0,0,0,771,0,1212,0,17,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,4339,3089,30,18,0,0,3,14,32,0,0,2,26,95,33,580,0,236,181,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,18,5,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,43,34,0,3,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,8105,956,67,49,0,0,66,269,348,0,0,6,23,43,261,1126,20,3812,1079,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,58,0,0,0,0,0,16,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,244,236,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,168,0,0,0,0,0,0,0,0,0,0,0,0,166,0,0,0,2,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1995,3367,761,0,1,0,0,0,8,30,0,0,74,0,0,0,1044,0,1446,3,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,5542,4212,60,14,0,0,2,36,62,0,0,0,34,78,38,397,0,304,305,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,83,20,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,1,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,4,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,6,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,8199,591,88,59,0,0,23,209,241,0,1,6,26,39,264,2434,20,3362,856,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,43,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,71,23,0,0,0,0,0,0,0,0,11,0,0,0,0,37,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1996,2607,32,0,0,0,0,0,12,67,0,0,38,0,0,0,1036,0,1417,5,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,5964,4638,68,22,0,0,5,32,88,0,0,0,28,104,34,542,0,157,246,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,144,43,0,0,0,0,2,0,0,0,0,0,0,91,0,0,0,8,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,6,0,1,0,0,0,1,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,10,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,33,0,0,0,0,0,0,3,0,0,0,0,0,4,24,2,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,6151,491,86,54,0,0,19,164,211,0,0,3,19,38,241,695,17,3223,907,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,57,24,0,0,0,0,0,0,0,0,0,0,0,14,2,17,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1997,2338,312,47,11,0,0,0,0,83,0,0,19,0,0,0,449,21,1417,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,8010,5247,93,1284,0,0,6,17,193,0,0,0,15,98,71,489,0,275,222,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,47,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,21,13,1,0,0,0,0,1,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,18,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,6794,616,41,191,0,0,31,167,253,0,0,2,44,96,283,168,41,3720,1182,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,27,0,0,8,0,0,5,0,0,0,0,0,0,4,0,10,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,3038,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,129,1,0,63,0,0,0,0,0,0,0,0,0,0,0,45,0,0,20,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1998,3580,89,0,0,0,0,0,0,8,0,0,61,0,0,0,1656,68,1766,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,6852,4122,110,1449,0,21,3,9,111,0,0,10,36,88,47,450,0,126,270,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,110,0,0,0,0,0,1,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,475,123,0,32,0,2,2,0,13,0,0,0,5,1,91,166,0,2,38,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,5789,563,105,63,1,0,57,317,293,0,0,11,48,47,225,285,26,2688,1086,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,77,0,0,2,0,0,0,0,0,0,0,0,0,8,0,67,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,53,1,0,0,0,0,0,1,0,0,0,0,0,0,33,18,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,53,0,0,0,0,0,0,30,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,1317,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,31,12,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1999,3781,0,0,0,0,0,0,0,134,0,0,0,0,0,0,1754,0,1893,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,4750,2564,58,813,0,2,8,18,197,0,0,0,24,101,8,501,0,256,200,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,159,3,0,2,0,0,7,0,0,0,0,0,0,147,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,5161,2228,0,1302,0,0,5,3,8,0,14,0,2,46,118,1405,0,18,12,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,102,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,679,345,3,66,3,0,14,0,0,0,17,0,15,14,27,63,0,0,112,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,8569,617,196,423,0,0,42,318,213,0,4,16,46,512,531,936,31,3263,1452,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,146,19,0,0,0,0,1,0,0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,43,7,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,47,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2000,3687,0,0,2,0,0,0,6,16,0,0,0,1,2,32,918,0,2706,4,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,4040,2012,15,723,0,0,3,5,214,0,0,0,0,87,3,403,0,497,78,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,26,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,22,0,0,0,0,0,0,13,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,19,0,0,0,0,0,1,0,0,0,0,0,0,7,1,0,0,10,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,121,0,0,0,0,0,4,2,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,5,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,4119,3003,0,445,1,0,3,2,72,0,16,0,4,127,79,171,0,182,14,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,38,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,567,186,73,19,0,0,0,0,0,0,0,0,1,0,205,69,0,0,14,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,7397,505,197,43,0,0,28,271,156,0,1,7,28,170,178,1458,34,3115,1240,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,31,0,0,0,0,0,0,0,0,0,0,0,0,14,0,17,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2001,2251,0,0,2,0,0,0,0,0,0,0,0,0,0,15,224,0,2007,3,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,5944,3021,15,845,0,2,0,16,619,0,0,0,1,76,15,243,0,1036,55,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,15,2,1,0,0,0,0,4,2,0,0,0,0,0,0,2,0,2,2,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,152,0,0,0,0,0,11,0,0,0,0,0,0,141,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,32,0,0,0,0,0,1,0,5,0,0,0,0,6,6,14,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,8014,3175,0,917,1,0,0,0,27,0,7,0,11,104,99,3424,0,233,16,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,7,0,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,733,442,0,36,1,0,3,0,0,0,0,0,7,0,169,67,0,0,8,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,6660,340,171,80,0,0,14,242,201,0,1,3,28,195,233,1132,16,2737,1283,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,3,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,96,0,0,0,0,0,0,0,0,0,0,0,0,1,91,4,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,206,0,0,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,9,0,0,0,0,0,0,0,3,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2002,2533,1,0,0,0,0,0,0,0,0,0,0,0,0,0,255,0,2277,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,3414,1282,15,541,0,0,0,1,288,0,0,0,0,9,41,301,0,901,35,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,8,0,2,0,0,0,0,0,1,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,209,0,0,0,0,0,21,0,0,0,0,0,0,188,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,39,0,0,0,0,0,2,0,2,0,0,0,0,4,4,27,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,6915,3940,24,1654,69,0,2,91,18,0,11,0,4,293,83,432,0,226,68,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,531,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,529,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,25,0,0,0,0,0,0,1,18,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,91,0,0,0,0,0,0,0,0,0,47,0,0,44,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,551,290,0,57,51,0,4,0,19,0,0,0,2,7,91,23,0,0,7,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,5501,101,166,36,0,0,17,261,180,0,1,2,24,213,221,638,22,2642,999,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,18,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,18,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2003,3356,25,0,5,0,0,0,1,0,0,0,0,0,1,0,398,0,2926,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,2678,1128,30,175,0,0,0,5,250,0,0,0,0,130,27,302,0,610,21,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,270,22,0,0,0,0,57,8,0,0,0,0,0,162,8,5,0,8,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,29,0,0,0,0,0,2,0,2,0,0,0,0,5,3,17,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,8903,4495,0,2141,0,0,2,22,83,0,30,7,12,1290,89,466,0,226,40,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,22,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,1292,611,0,99,0,0,0,0,72,0,0,0,58,87,190,85,0,0,90,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,6793,258,231,53,0,0,14,294,193,0,2,84,25,394,251,526,22,3216,1252,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,8,0,0,0,0,0,0,0,1,0,0,0,0,4,0,2,0,1,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,106,45,0,2,0,4,0,1,26,0,0,0,0,27,0,0,0,0,1,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2004,2986,5,0,9,0,0,0,4,3,0,0,0,0,1,0,497,0,2467,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,2052,1022,15,143,0,0,1,1,242,0,0,0,0,32,11,233,0,352,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,140,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,94,28,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,34,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,239,12,0,0,0,0,11,0,19,0,0,0,0,192,0,5,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,11,1,0,0,0,0,1,0,1,0,1,0,0,2,1,4,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,8742,4730,2,673,0,0,2,6,18,0,17,57,7,449,45,2421,0,202,113,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,1281,367,1,91,0,0,10,0,89,1,0,0,15,137,241,194,0,0,135,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,7320,133,191,100,15,0,10,312,356,0,1,12,21,294,254,321,28,4049,1251,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,14,3,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,142,84,0,0,0,0,0,0,38,0,0,0,0,16,0,4,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,57,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,47,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2005,4964,2,0,3,0,0,0,0,0,0,0,0,0,1,0,1263,0,3695,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,1517,358,19,157,0,0,0,4,177,0,0,20,0,136,7,350,0,268,21,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,113,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,107,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,59,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,399,0,0,0,0,5,33,0,0,0,10,0,0,194,0,150,0,7,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,32,0,0,0,0,0,3,0,2,0,0,0,0,10,0,17,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,10638,4938,14,2248,1,0,1,42,4,0,15,278,2,335,46,2393,0,187,134,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,16,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,11,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,1310,253,0,93,5,0,5,0,179,0,0,0,38,175,204,171,0,0,187,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,7632,144,253,53,0,0,13,483,532,0,2,13,29,349,166,448,29,3829,1318,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,114,42,0,0,0,0,0,17,9,0,0,0,0,15,0,31,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,243,177,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2006,4092,165,0,1,0,0,0,2,0,0,0,0,0,0,0,1452,0,2472,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,1937,709,1,13,0,0,0,6,206,0,0,1,0,645,5,188,0,148,15,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,25,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,103,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,85,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,214,76,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,429,0,0,0,0,0,32,0,0,0,0,0,0,327,0,70,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,11825,6429,1,2521,0,0,3,18,51,0,21,388,7,109,90,1874,0,87,226,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,27,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,83,0,0,52,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,1341,356,0,283,0,0,0,0,67,0,0,0,27,197,207,72,0,0,132,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,177,19,0,0,0,0,0,0,0,0,0,0,1,0,0,157,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,7229,207,228,35,0,0,6,448,505,0,3,18,13,244,133,493,66,3488,1408,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,26,1,0,0,0,0,0,0,0,0,0,0,0,21,0,3,0,0,1,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,129,0,0,0,0,0,0,0,124,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,151,45,0,3,0,0,0,0,57,0,0,0,0,43,3,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,119,0,0,24,0,0,0,0,0,0,0,0,0,0,16,79,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2007,4558,206,0,1,0,0,0,6,0,0,0,0,14,2,31,2153,0,2137,8,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,1118,210,25,19,0,0,0,1,138,0,0,0,0,128,0,140,0,441,16,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,186,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,168,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,139,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,41,0,0,0,0,0,0,0,21,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,601,0,0,0,0,0,10,0,17,0,0,0,0,468,0,78,0,28,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,19444,5308,0,1979,2,0,2,18,50,0,10,869,3,82,69,10825,0,106,121,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,344,0,0,312,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,1270,482,0,64,0,1,0,0,96,0,0,0,53,282,107,84,0,0,101,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,534,19,0,72,0,0,0,0,0,0,0,0,0,0,0,443,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,61,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,6262,166,223,20,0,0,19,441,456,0,0,3,15,182,165,309,19,3127,1136,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,61,3,0,3,0,0,0,0,0,0,0,0,1,29,0,24,0,1,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,492,27,0,75,0,0,0,1,69,0,0,0,0,42,1,277,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,90,69,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,5411,292,0,2,0,0,0,12,18,0,0,0,10,0,17,1607,0,3444,9,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,870,135,0,78,0,0,0,0,99,0,0,0,0,62,0,73,0,347,76,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,68,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,51,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,470,0,0,0,0,0,11,1,0,0,0,2,0,392,0,64,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,20,0,0,0,0,0,3,0,2,0,0,0,0,8,1,6,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,8104,4982,3,474,40,0,9,9,36,0,20,244,3,107,73,1947,0,88,69,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,240,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,109,89,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,1191,302,0,113,0,0,0,0,91,0,0,0,125,190,287,17,0,0,66,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,685,10,0,0,0,0,0,1,0,0,0,0,0,0,44,630,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,6572,128,257,53,0,0,2,579,599,0,1,15,17,186,141,429,29,2698,1467,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,45,2,0,0,0,0,0,0,0,0,0,0,1,32,0,10,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,48,32,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,1268,0,0,1160,0,0,0,0,21,0,0,0,0,17,0,70,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,6918,226,0,38,0,0,0,51,0,0,0,0,0,0,0,1188,0,5402,13,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2009,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,648,45,11,325,0,0,0,0,47,0,0,0,0,61,0,102,0,57,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,59,0,24,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,32,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,36,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,24,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,17000,17000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,472,0,0,0,0,0,44,0,0,0,0,0,0,428,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,24,1,0,0,0,0,3,0,2,0,1,0,0,8,1,8,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,53,0,0,0,0,0,0,2,43,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,7858,5493,0,265,40,0,3,11,30,0,19,264,7,82,54,1435,0,73,82,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,48,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,1290,273,0,103,0,0,0,0,78,0,0,0,38,319,254,77,0,0,148,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,50,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,1010,30,0,188,0,0,0,0,0,0,0,0,3,0,0,789,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,44,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,6464,196,265,87,1,0,8,483,1005,0,3,6,19,242,131,578,8,2095,1345,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,25,5,0,0,0,0,0,0,0,0,0,0,2,13,0,5,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,6,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,1875,0,0,1838,0,0,0,0,6,0,0,0,0,27,0,4,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,144,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,9739,104,3,0,0,0,0,6,10,0,0,750,0,0,17,1067,0,7730,52,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2010,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,648,239,0,123,0,0,0,0,21,0,0,0,0,16,0,72,0,177,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,311,0,0,275,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,811,0,0,0,0,0,7,0,0,0,0,4,0,798,1,1,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,28,2,0,0,0,0,4,0,2,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,53,0,0,0,0,0,0,0,40,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,6517,4961,1,7,1,0,7,3,7,0,26,159,2,104,62,1021,0,70,86,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,127,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,1513,209,0,201,0,0,0,0,92,0,0,0,30,447,357,67,0,0,110,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,1730,53,0,267,0,0,0,1,0,3,0,0,4,0,0,1402,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,4117,110,227,39,0,0,3,444,271,0,1,18,14,161,101,224,15,1301,1203,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,40,4,0,2,0,0,0,0,0,0,0,0,0,31,0,3,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,9,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,1723,0,0,1623,0,0,0,1,28,0,0,0,0,60,0,11,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,411,411,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,10705,226,14,2,0,0,0,9,3,0,0,0,0,0,0,914,0,9531,6,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2011,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,602,208,25,0,0,0,0,0,0,0,0,49,0,7,0,61,0,252,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,410,0,0,355,0,0,0,0,0,0,0,0,0,36,0,0,0,19,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,803,0,0,0,0,0,36,14,0,0,0,3,0,733,0,17,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,32,0,0,0,0,0,11,1,1,0,1,0,0,3,6,9,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,7115,4615,1,2,0,1,2,10,13,0,21,326,0,41,33,1883,0,43,124,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,41,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,240,36,0,203,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,1182,274,0,12,0,0,19,0,21,0,0,0,65,178,435,69,0,0,109,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,1351,85,0,81,0,0,0,2,0,0,0,0,4,0,45,1134,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,6303,155,253,38,0,0,16,553,538,0,2,7,15,224,217,414,7,2129,1742,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,13,0,0,0,0,0,0,0,9,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,10,0,0,0,0,0,0,0,0,0,0,0,1,8,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,364,0,0,0,0,0,0,0,0,0,0,0,0,0,152,212,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,1071,0,0,1034,0,0,0,0,15,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,8803,209,0,10,0,0,0,5,0,0,0,0,0,0,0,632,0,7947,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2012,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,614,9,0,12,0,0,0,0,53,0,0,0,0,16,0,51,0,469,4,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,491,0,0,402,0,0,0,0,0,0,0,0,0,32,0,0,0,57,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,1081,0,0,0,0,0,29,24,0,0,0,0,0,1028,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,29,1,0,0,0,0,2,0,1,0,1,0,0,8,1,15,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,38,0,0,0,0,0,0,1,36,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,60,0,0,0,0,0,0,0,0,0,0,0,0,19,0,12,0,29,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,7032,5250,0,47,0,5,24,36,151,10,20,419,6,98,31,659,1,99,177,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,5,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,250,19,0,227,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,1042,324,0,59,0,0,0,0,88,0,0,0,11,114,286,22,0,0,138,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,40,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,1511,63,0,142,0,0,0,181,0,0,0,0,0,5,33,1087,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,5980,155,254,34,0,2,2,584,498,0,1,11,22,208,136,520,17,2157,1396,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,625,6,0,571,0,0,0,23,7,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,368,0,0,0,0,0,0,0,0,0,0,0,0,0,136,232,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,686,7,0,610,0,0,0,0,49,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,629,598,0,0,0,0,0,0,8,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,7975,182,0,1,0,0,0,20,0,0,0,0,0,0,0,324,0,7369,79,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0

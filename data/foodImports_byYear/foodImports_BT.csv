@@ -1,0 +1,338 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BT,Bhutan,country,South Asia,27.514162,90.433601,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BT,Bhutan,country,South Asia,27.514162,90.433601,1986,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1987,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,1987,48,0,0,0,0,0,0,25,0,0,8,0,0,15,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,1988,159,0,0,0,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1988,12,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,1988,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1988,21,7,0,0,3,0,0,1,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1989,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,1989,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BT,Bhutan,country,South Asia,27.514162,90.433601,1989,62,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,1989,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1989,732,722,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,90,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,171,0,0,0,0,0,0,0,0,0,0,0,0,0,171,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1990,1222,1174,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,330,125,0,1,0,3,0,0,0,0,0,28,10,0,1,154,0,0,8,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,13,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,2220,0,0,0,2050,0,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,50,25,0,3,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1991,408,408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,175,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,110,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,43,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,603,78,0,0,15,0,0,0,3,0,0,6,19,0,24,458,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,323,0,0,0,0,0,0,9,0,0,0,0,0,0,0,42,0,0,272,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,258,0,0,0,0,0,0,0,0,258,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,23,0,0,0,0,0,0,0,0,0,0,0,12,11,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1992,1664,1413,0,0,0,0,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,40,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,1781,1124,0,0,0,0,0,0,0,0,100,0,5,17,0,535,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,80,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,19,0,0,0,0,0,0,0,0,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,500,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,1996,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,77,0,0,0,0,0,0,0,0,0,0,0,0,9,0,47,0,21,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1993,225,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,2860,890,0,53,0,0,0,126,114,0,0,0,0,69,16,1590,0,0,2,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,40,0,0,0,0,0,0,0,0,0,0,0,0,1,38,0,0,1,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1994,42,0,0,0,0,0,0,0,0,0,0,0,0,17,0,7,0,18,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,6345,1918,0,605,0,100,0,11,480,0,16,431,0,987,0,1797,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,184,0,0,0,0,0,183,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,1200,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1995,62,7,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,20,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,23811,16277,0,2444,0,0,0,309,10,0,0,43,27,270,717,3564,0,0,150,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1996,102,0,0,0,0,0,0,0,0,0,0,0,0,5,0,23,0,74,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,38,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,17274,12551,0,2429,0,0,0,0,0,0,0,1275,0,65,16,938,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,60,0,0,2,0,0,15,0,0,0,0,0,3,12,0,28,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,12963,9689,0,2040,0,0,0,23,52,0,0,1,0,2,0,1151,0,0,5,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,142,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1998,92,0,0,21,0,0,0,0,0,0,0,0,8,13,0,50,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,48,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,136,0,0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,7135,5252,0,901,0,0,0,10,16,0,1,17,0,27,0,911,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,277,246,0,22,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,5,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,131,0,0,0,0,0,0,0,0,0,0,0,6,0,0,34,0,0,91,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,20,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,183,0,0,0,128,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,49,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,456,5,0,110,0,0,0,0,10,0,80,0,0,0,0,251,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,298,0,0,0,0,0,0,0,26,272,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,169,0,0,0,0,0,0,0,0,0,0,0,0,0,9,160,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,8,2,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,3,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2000,36,0,0,0,0,0,0,0,0,0,0,0,1,2,2,31,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,45,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,264,21,0,0,0,0,0,0,0,0,0,16,19,0,0,0,0,152,56,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,9630,6946,0,1396,0,0,0,0,0,0,6,0,0,102,30,1150,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,58,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,22,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,24,0,0,0,0,0,0,0,20,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,172,0,0,0,0,0,0,0,0,0,0,0,0,64,1,107,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,38,13,0,2,0,0,0,0,3,0,0,0,0,2,0,18,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,378,378,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BT,Bhutan,country,South Asia,27.514162,90.433601,2001,500,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,16,2,0,5,0,0,2,1,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,26439,20015,0,2605,0,0,0,0,0,0,0,0,0,51,0,3760,0,0,8,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,77,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,222,94,0,0,0,0,0,0,28,100,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,27,12,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,349,0,0,0,0,0,0,0,0,0,0,0,0,102,52,195,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,295,268,0,2,0,0,0,11,12,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,1332,1276,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BT,Bhutan,country,South Asia,27.514162,90.433601,2002,61,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,158,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,146,0,0,0,0,0,0,0,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,467,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,53533,40585,0,4274,686,168,0,318,112,0,0,3,75,97,1233,5372,0,0,610,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,11,5,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,198,180,0,0,0,0,0,0,0,0,0,0,1,14,0,3,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,203,203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,33,18,0,0,0,0,0,0,2,0,0,0,0,2,0,11,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,27,0,0,0,0,0,0,0,5,0,0,0,0,13,0,9,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,310,0,0,0,110,0,0,0,0,0,0,0,0,0,184,0,0,16,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,54,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,46890,32432,0,4312,52,0,1,20,145,0,10,216,158,29,772,8227,0,0,516,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,56,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,82,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,82,65,0,0,0,0,0,0,15,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2004,1696,1495,0,0,120,0,0,0,0,0,0,0,0,1,80,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,3295,13,13,0,0,0,0,109,92,0,0,0,0,110,2925,1,0,0,32,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,29,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,87,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,40137,29496,0,3006,33,0,0,0,155,0,0,1110,244,98,1114,4573,0,0,308,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,50,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,34,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,567,0,0,0,0,0,1,4,4,0,0,0,1,504,0,53,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,44,0,0,0,0,0,0,0,0,0,0,0,0,9,0,35,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,147,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,37,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,62,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,18269,14215,0,934,0,0,0,0,247,0,0,0,0,202,227,2380,0,0,64,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,63,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,399,5,0,0,0,0,3,2,3,0,0,0,1,306,0,79,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2006,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,19,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,86,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,20,17,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,12539,9119,75,953,0,0,0,0,500,0,0,0,21,154,386,1305,0,0,26,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,7800,0,0,0,0,0,0,0,0,0,0,0,0,7800,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,92,7,0,1,0,0,1,1,1,0,0,0,0,8,0,73,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BT,Bhutan,country,South Asia,27.514162,90.433601,2007,35,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,48,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,66,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,14478,7875,0,2182,0,0,0,0,314,8,46,762,64,16,232,2416,0,145,418,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,6,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,32,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,117,7,0,0,0,0,3,1,2,0,0,0,0,20,0,84,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,33,0,0,0,0,0,0,0,0,0,0,0,0,12,0,21,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,50,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,64,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,13534,5718,0,3907,0,0,0,16,355,1,124,30,87,166,1,2379,39,204,546,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,91,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,301,268,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,185,11,0,1,0,0,10,1,0,0,0,0,0,7,91,64,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,116,0,0,96,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,66,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,11998,5159,0,3078,0,0,0,0,289,0,109,8,7,240,48,2005,0,400,655,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,34,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,441,292,0,0,100,0,0,0,0,0,0,0,2,42,0,0,18,5,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,7,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,133,4,0,1,0,0,29,0,0,0,0,0,0,9,0,90,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,100,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,2087,0,0,0,0,0,0,0,0,0,0,0,0,2087,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,126,0,0,0,0,0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,14727,7787,0,2899,0,0,0,0,563,0,101,76,66,85,0,2309,0,407,434,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,172,97,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,3,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,292,0,0,0,0,0,119,1,0,0,0,0,0,7,54,111,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,62,0,0,0,0,0,0,0,0,0,0,0,0,2,0,60,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,63,0,0,31,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,14358,7350,0,2656,0,0,0,0,866,0,77,31,299,55,0,2235,4,407,382,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,53,14,0,0,0,0,0,0,0,0,0,12,0,27,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,1,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,56,0,0,0,0,0,0,0,0,0,0,0,2,0,0,54,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,138,2,0,0,0,0,41,1,13,0,0,0,0,44,0,37,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,1430,0,0,0,0,0,0,0,0,0,0,0,0,1430,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,35,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,10288,6381,0,666,56,0,0,0,287,0,121,30,559,467,0,892,7,470,359,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,61,9,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,1,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,6,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,285,26,0,0,0,0,17,1,34,0,0,0,0,207,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,110,0,0,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

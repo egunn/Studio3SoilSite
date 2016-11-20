@@ -1,0 +1,789 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,2298,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,2285,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,56,11,0,4,0,0,0,0,0,0,0,0,8,7,0,26,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,328986,16334,9100,9558,234,2551,1564,24717,28404,1,79,53789,5732,16645,6895,108320,68,14376,30673,14,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,257,0,0,0,0,0,0,0,0,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,916,0,0,0,895,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,89,0,0,0,0,0,0,15,63,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,20,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,13,0,0,0,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,352,52,0,5,0,0,0,0,1,0,0,5,178,86,0,0,0,16,9,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,222517,62308,2464,424,486,284,298,11277,11068,67,45,10174,991,3181,596,103214,15,7046,8519,75,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,93645,22226,644,942,386,555,260,1388,1813,54,45,25061,7529,6244,3691,10828,0,2043,9887,49,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,77,0,0,0,0,0,0,3,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,2875,32,0,0,0,0,0,610,2231,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,101,0,0,0,0,0,78,20,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,3367,0,0,0,0,0,0,0,0,0,0,0,0,3367,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,2071,0,0,0,0,2071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,302,0,0,0,0,0,0,0,0,0,0,0,0,302,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,17222,2118,41,495,3,26,9,3921,1329,0,0,21,537,870,237,6498,0,743,373,1,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,192,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,27,0,0,0,0,0,0,16,0,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,21343,425,1074,4,20,416,830,2094,757,0,3,8225,83,2583,272,2299,0,1889,369,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,107,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,6485,190,163,127,13,16,74,138,25,0,3,0,147,175,244,4910,0,124,136,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,857,0,0,0,0,0,0,0,856,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,248,0,0,0,0,60,0,19,108,0,2,0,0,0,0,59,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,9867,22,12,27,0,117,62,5921,1721,0,0,0,3,68,106,1630,0,172,6,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,340,13,0,0,0,0,0,0,0,0,0,0,239,88,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,1578,571,0,11,0,1,2,35,12,11,0,0,153,82,0,330,0,0,370,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2000,1443,2,0,1,0,1,0,0,0,0,2,8,0,1363,0,45,0,21,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,725,0,0,0,0,0,0,0,5,0,0,0,0,0,0,10,0,710,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,678,32,0,4,0,244,108,0,0,0,0,0,6,249,0,32,0,3,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,336914,26906,7360,6762,767,3885,4136,24517,27681,2,225,59560,5566,17507,6494,98793,51,15423,31295,35,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,337,0,0,0,0,0,0,0,0,0,0,0,0,337,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1304,7,0,0,1261,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,20,0,0,0,0,0,0,3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,547,49,0,8,0,0,0,6,0,0,0,42,254,68,104,1,0,3,12,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,34,0,0,0,0,0,22,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,265601,52442,3118,350,424,170,1441,12528,10684,27,23,10097,1105,4682,521,137117,33,6548,24274,50,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,93374,16151,775,923,55,524,197,1585,2952,14,42,24113,7551,5915,2320,13307,0,2442,14500,8,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,2956,0,0,0,0,0,0,603,2331,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,13992,0,0,0,0,0,0,0,0,0,0,0,0,13992,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,5261,0,0,4560,0,701,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,214,0,0,0,0,0,0,0,0,0,0,0,0,198,0,1,0,8,7,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,17132,2168,16,615,0,25,4,4138,1369,0,1,7,653,748,388,5610,0,988,402,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,33,0,0,0,0,0,0,2,21,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,24786,1288,1018,75,20,260,358,2492,270,0,2,10623,361,2498,106,2815,4,1720,880,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,9500,0,0,9500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,9144,232,195,109,29,0,86,2777,28,0,0,0,135,166,232,4984,0,123,48,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,38,0,0,22,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,227,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,115,0,0,0,0,0,0,1,2,0,0,0,0,107,0,5,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,95,0,0,0,0,48,0,0,37,0,0,0,0,0,0,2,0,8,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,11932,29,0,32,0,23,115,8081,1938,0,0,0,23,149,112,1369,0,35,26,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,143,14,0,0,0,0,0,0,0,0,0,0,124,2,0,3,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1106,94,73,8,0,0,0,32,2,0,0,0,163,69,0,299,0,0,366,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,701,1,0,0,0,0,0,1,96,0,1,5,3,217,0,75,0,301,1,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,1009,0,0,0,0,0,0,0,1001,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2001,279,0,0,0,0,0,0,0,0,0,0,0,0,279,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,187,0,0,0,0,0,0,0,72,0,0,0,0,0,0,43,0,72,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,479,10,0,6,6,117,114,1,74,0,0,0,16,6,0,129,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,320099,18632,8153,8487,613,7050,6192,24814,30340,8,302,58328,5981,17095,6889,78034,80,15205,33964,12,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,1032,0,0,0,0,0,0,0,0,0,0,0,0,1010,22,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,7,1,0,0,0,0,0,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,39,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,103,30,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,372,19,0,3,0,0,0,5,2,0,0,0,146,67,117,3,0,3,7,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,290069,51472,3501,414,271,138,1383,10283,8727,65,16,10469,1290,3197,353,155263,16,5902,37324,1,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,96934,12378,616,1111,17,1789,617,1701,2727,1,98,25126,8737,7870,2514,16167,2,2820,12645,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,640,0,0,0,0,0,0,0,628,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,48,0,0,0,0,0,47,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,13540,0,0,0,0,0,0,0,0,0,0,0,0,13489,51,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,1382,0,0,0,0,1382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,168,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,3,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,53,0,0,1,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,29021,2620,1,459,0,118,10,5988,732,0,1,26,718,1197,1091,14017,0,1282,760,0,1,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,27262,2018,953,440,35,174,590,3117,452,0,1,8470,390,4991,29,3474,0,1529,599,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,9500,0,0,9500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,8809,398,1,126,31,0,187,1280,53,0,0,1,161,106,244,6005,0,154,62,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,36,0,0,21,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,232,0,0,0,0,0,0,0,232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,65,0,0,0,0,0,0,0,3,0,0,0,0,59,0,3,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,9915,260,0,3,0,119,216,5559,1795,0,0,2,303,167,34,1363,0,69,25,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,131,10,0,0,0,0,0,1,1,0,0,5,111,1,0,2,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,1062,98,0,9,0,0,0,44,3,0,0,0,120,88,3,351,0,0,346,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,36628,33478,0,0,3150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,865,14,0,0,0,0,0,1,10,0,0,2,45,492,0,140,0,160,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,3264,0,0,0,0,3258,0,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2002,458,0,0,0,0,0,0,40,0,0,0,0,0,418,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,55,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,1154,30,0,7,5,0,51,0,128,0,0,1,1,35,0,862,0,33,1,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,355667,20330,8012,7337,650,7555,6813,26226,29204,4,484,65269,5688,18784,11065,105747,56,14026,28277,195,1,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,530,0,0,2,0,0,0,0,21,0,0,0,27,455,0,0,0,25,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,424,0,0,0,0,0,0,0,0,0,0,0,0,53,0,371,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,1161,0,0,0,699,0,460,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,113,0,0,0,0,0,0,11,0,0,0,0,0,5,0,97,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,94,49,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,320,5,0,1,0,0,0,23,1,0,0,0,170,102,0,1,0,6,11,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,211,0,0,6,0,0,0,140,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,313356,43165,4378,578,186,280,190,10253,8729,2,24,11839,1452,3539,439,188617,13,6101,33584,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,97432,8994,659,1227,103,1265,203,1667,3195,1,87,28853,7748,8672,2543,17484,0,2802,11889,40,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,74,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,348,0,0,0,0,1,0,180,20,141,0,0,0,0,2,3,0,0,1,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,50,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,9068,0,0,0,0,0,0,0,0,0,0,0,0,9068,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,266,0,0,0,0,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,65,0,0,43,0,0,0,0,0,0,0,0,0,12,0,4,0,6,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,16386,2256,5,103,6,30,7,5593,630,0,0,13,813,900,327,3453,0,1651,599,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,188,0,0,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,30085,612,1041,173,9,733,969,3914,788,0,3,10085,437,5734,210,3059,0,1615,703,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,74,43,10,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,22,14,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,8301,466,29,126,33,60,156,192,65,0,0,2,156,141,196,6451,0,152,76,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,22,0,0,16,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,14,0,0,0,0,0,0,0,3,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,14563,3311,0,5,8,22,353,6990,2071,0,0,1,47,154,28,1531,0,28,14,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,85,11,0,0,0,0,0,0,0,0,0,20,53,0,0,1,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,1165,100,0,14,0,0,0,38,3,0,0,0,94,98,1,498,0,0,319,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,15,1,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,43187,43170,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,6216,6,0,5,0,0,0,1,6,0,0,69,244,1692,0,4148,0,45,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2003,3792,5,0,0,0,3723,0,28,0,0,0,0,0,17,0,2,0,17,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,70,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,3001,30,0,9,6,0,70,0,206,0,0,0,5,70,0,2556,0,49,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,361235,25060,8693,8075,155,8241,7451,28013,29192,7,151,62429,6293,21304,7309,105449,52,16700,26399,297,17,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,46,1,0,0,0,0,0,3,8,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,1376,0,0,0,0,0,0,0,97,0,0,0,26,1248,0,4,0,1,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,57,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,12,0,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,565,0,0,0,0,0,0,0,8,0,0,0,0,0,0,557,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,64,0,0,0,0,0,0,0,0,0,0,0,0,5,0,59,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,808825,0,0,0,0,0,0,0,0,0,0,0,0,808825,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,57,44,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,541,10,0,1,0,0,0,2,1,0,0,0,344,71,0,2,0,37,73,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,27,0,0,23,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,755,0,750,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,50,6,0,1,0,0,0,0,0,0,0,0,0,0,41,2,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,345608,56034,3385,869,159,272,1243,10161,8955,36,38,8271,1979,6243,508,197713,8,7107,42635,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,114063,19742,566,1240,10,1632,1148,1653,4457,0,104,30110,8244,9562,2179,16930,4,3306,13180,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,260,0,0,0,0,93,0,0,150,0,0,0,0,1,5,10,0,0,1,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,22,0,0,0,0,19,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,8024,0,0,0,0,0,0,0,0,0,0,0,0,8024,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,589,0,0,0,0,589,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,280,0,0,91,0,0,0,0,0,0,0,0,0,170,0,10,0,9,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,16456,2804,5,598,2,32,17,4337,425,649,0,43,951,780,497,3710,0,899,707,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,12,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,2557,0,0,0,0,0,0,0,0,0,0,0,0,2450,107,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,37,17,0,8,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,36311,1349,1033,113,27,196,1682,3835,1002,0,8,13718,685,6088,465,3055,0,1888,1167,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,70,16,0,0,0,0,0,0,40,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,652,2,11,6,0,0,0,135,196,0,0,0,16,2,0,1,0,0,283,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,8804,493,231,120,42,23,142,292,248,0,0,3,166,142,246,6218,0,316,122,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,24,0,0,7,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,107,0,0,0,0,0,0,5,98,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,92,0,0,0,0,24,0,0,65,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,16442,2984,1,3,0,98,285,6244,3861,0,0,12,0,217,9,2595,0,124,9,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,215,12,0,0,0,0,0,0,0,0,0,26,110,1,0,2,9,0,64,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,1435,77,0,15,0,0,0,32,3,0,0,0,108,147,1,710,0,0,342,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,47,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,1534,7,0,43,0,0,0,2,11,0,0,74,80,584,559,68,0,106,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,2290,0,0,11,0,2152,0,9,12,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,78,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,2601,23,0,5,0,0,0,1,315,0,0,1,17,106,0,2074,0,59,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,355716,22682,7201,6627,933,8505,7721,28546,30209,21,164,54101,9379,23532,6237,107593,71,15717,25988,532,28,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1935,21,0,0,13,0,0,0,1,0,0,0,8,1859,0,7,0,26,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,52,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,151,0,0,0,0,0,0,0,5,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,44,0,0,0,0,0,0,0,0,0,0,0,0,10,0,34,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,150,27,0,4,0,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,447,74,0,0,0,0,0,3,2,0,0,18,219,66,0,4,0,38,23,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,34,0,0,0,0,0,0,0,33,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,45,0,0,0,0,0,0,35,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,13,8,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,358064,84315,3421,4328,320,363,4567,9971,8132,39,28,8241,2331,4744,471,175782,8,7068,43674,268,1,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,113804,18912,777,1446,10,499,1147,2280,4129,20,101,26719,9290,10191,1900,19723,7,5300,11360,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,215,1,0,0,0,84,0,0,110,0,0,0,0,4,5,9,0,0,2,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,225,182,0,0,0,5,0,9,1,0,0,0,3,23,0,1,0,1,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,11,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,6088,0,0,0,0,0,0,0,0,0,0,0,0,6088,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,661,0,0,0,0,661,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,218,0,0,63,0,0,0,0,0,0,0,0,0,114,0,0,0,41,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,70,0,0,0,0,0,0,43,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,19809,6862,4,111,0,96,14,4047,367,72,0,33,958,1268,795,3623,0,815,744,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,77,0,0,0,0,22,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,13,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,58,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,48416,1282,760,99,12,540,1417,3986,2747,0,10,18319,1653,7690,1072,5074,0,2785,970,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1147,6,168,1,0,0,0,0,176,0,0,72,17,10,0,6,0,159,532,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,10304,687,212,126,61,14,132,411,284,0,1,1,149,104,332,7178,0,399,213,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,28,0,0,12,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1113,0,0,925,0,108,0,0,0,0,0,0,0,78,0,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,13280,3224,0,2,0,19,102,4738,3388,0,0,0,0,73,7,1586,0,123,18,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,225,9,0,0,0,0,0,0,0,0,0,15,92,0,0,2,0,0,107,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1403,94,0,15,0,0,0,23,3,0,0,0,105,142,0,696,0,1,324,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,10,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,23,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1003,294,0,4,0,44,0,0,1,0,2,0,0,149,0,509,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,300,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1206,20,0,0,0,0,0,3,19,0,0,92,77,454,111,294,0,16,120,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,4816,1,0,0,0,4390,269,16,11,0,0,0,46,0,76,7,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2005,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,67,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,2384,25,0,4,0,0,5,1,337,0,0,0,12,197,0,1742,0,56,5,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,358642,20853,8301,6348,789,7231,6511,27438,31307,4,142,45428,10340,34753,7304,106453,33,17626,27788,0,26,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,436,50,0,0,40,1,1,1,19,0,0,0,7,298,1,18,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,79,0,0,0,0,0,0,20,42,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,97,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,84,29,0,2,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,456,151,0,1,0,0,0,3,1,0,0,46,137,69,0,1,0,34,13,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,98,0,0,84,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,27,0,0,0,0,0,0,13,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,17,11,0,1,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,286416,59533,3346,863,255,486,20357,10101,9030,35,37,10648,2073,3008,528,108703,8,6704,50475,233,1,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,121868,18964,898,1776,28,490,1636,2532,4800,0,106,31730,11150,10823,2351,16889,18,4283,13412,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,138,1,0,0,0,16,2,0,76,0,0,0,0,0,6,14,0,23,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,653,455,0,0,0,0,0,147,0,0,0,0,1,50,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,18,0,0,0,0,16,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,4493,0,0,0,0,0,0,0,0,0,0,0,0,4493,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,110,0,0,46,0,0,0,0,0,0,0,5,0,0,0,51,0,8,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,33,0,0,1,0,0,0,21,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,16415,3865,5,50,0,40,14,3746,522,0,2,105,982,1359,468,3543,0,890,824,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,84,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,22,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,764,0,0,0,0,0,0,0,19,0,0,0,0,745,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,57524,2110,703,121,14,98,3555,2844,2371,0,10,22650,1203,6207,7780,3871,0,3266,721,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,16,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,350,350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,1582,15,80,6,0,5,0,68,178,0,0,0,17,198,0,0,0,261,754,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,11038,760,131,118,58,10,155,369,275,0,2,4,155,96,385,7832,0,455,233,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,33,0,0,8,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,38,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,10,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,34,0,0,0,0,0,0,0,26,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,14949,1784,124,2,0,6,169,7114,3631,0,0,0,0,198,10,1581,0,323,7,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,536,3,0,2,0,0,0,1,0,0,0,16,174,1,251,4,0,0,84,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,1703,82,23,18,0,0,0,24,11,0,0,1,115,182,0,895,0,5,347,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,11,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,916,464,0,1,0,7,0,92,21,0,5,0,0,157,0,169,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,809,25,0,1,0,17,0,1,23,0,0,104,186,217,1,203,0,23,8,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,4223,2,0,0,0,3882,0,0,0,0,0,0,3,27,237,23,0,49,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2006,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,176,0,0,0,0,0,0,0,0,0,0,0,0,56,0,38,0,82,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2525,48,0,5,0,0,4,2,258,0,0,1,20,1088,2,1047,0,50,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,352976,23515,10089,6282,1780,621,1609,29966,29867,9,142,48623,6116,20496,6810,122113,51,18351,26574,1,12,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,1140,10,6,0,0,0,0,0,51,0,0,0,31,1023,0,18,0,0,1,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,20,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,36,0,0,0,0,0,0,0,8,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,38,0,0,0,0,0,0,0,36,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,89,22,0,1,0,0,0,0,0,0,0,0,0,0,0,54,0,12,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,528,138,0,1,0,0,0,9,1,0,0,16,292,11,0,6,0,41,13,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,36,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,42,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,14,9,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,246778,59374,3235,1518,771,228,9103,9358,8083,70,58,11337,2443,4643,610,76428,9,6116,52685,718,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,145940,13680,862,2327,25,8537,1542,2570,4560,0,169,35570,8746,29012,2109,18004,13,4066,14161,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,123,0,0,0,0,1,0,0,102,0,0,0,0,0,7,13,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,11,0,0,0,0,0,0,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,17,7,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,341,0,0,49,0,13,0,0,0,0,0,11,0,0,0,18,0,250,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,61,39,0,0,0,0,0,0,13,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,22604,3445,6,54,5,8,10,3878,490,0,2,81,1004,1192,520,3625,0,1467,6817,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,52,0,0,0,0,0,0,0,1,0,0,46,0,0,0,0,0,5,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,247,0,0,0,0,0,0,0,0,0,0,0,0,247,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,76408,13996,652,401,6,143,6178,2959,2188,0,14,24358,3293,4237,8029,5830,0,2835,1289,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,1700,35,9,5,0,40,35,162,182,0,0,0,169,182,0,30,0,365,486,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,11929,895,146,115,52,0,160,401,351,0,1,9,173,102,448,8296,0,514,266,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,60,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,22,0,0,0,0,16,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,20432,1084,398,2,0,21,77,13842,2923,0,0,0,0,278,7,1663,0,39,98,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2362,48,0,2003,0,0,0,8,86,0,1,17,110,56,0,6,0,6,21,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,2066,98,0,18,0,20,0,20,3,0,0,0,95,174,0,1269,0,17,352,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,11,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,232,0,0,0,0,0,0,131,18,0,0,0,0,83,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,57,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,789,29,0,0,0,5,0,1,26,0,0,90,6,141,5,411,0,67,8,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,6880,0,0,0,0,6063,0,1,7,0,0,0,0,0,362,111,0,336,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,118,0,0,0,0,0,0,0,16,0,0,0,0,0,0,26,0,76,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,2666,58,0,5,0,0,62,10,316,0,0,1,23,129,1,2003,0,56,2,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,389849,27933,9251,6417,1316,389,1442,31386,32018,3,216,52032,6028,32377,7019,133419,15,18957,29634,0,12,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,1119,4,1,0,3,0,0,0,256,0,0,0,0,828,0,26,0,0,1,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,9,0,0,0,0,0,0,1,0,0,0,0,7,0,0,1,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,887,0,0,0,0,0,0,0,0,0,0,0,0,887,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,60,0,0,0,0,0,0,2,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,139,0,0,1,0,0,10,0,0,0,0,0,0,91,0,37,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,634,110,0,0,0,0,0,1,0,1,0,0,293,130,0,8,0,74,17,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,76,0,0,0,0,0,0,0,0,0,0,0,50,26,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,236,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,42,34,0,1,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,242271,66707,4778,1929,282,187,1397,9289,9397,127,66,10327,1873,4856,533,80696,10,5975,43852,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,145899,13675,989,2334,23,8417,3407,2591,5097,2,153,34516,13444,17277,2420,20673,10,4203,16678,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,122,1,0,0,0,0,0,0,86,0,0,0,0,1,10,10,0,0,14,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,52,48,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,2433,0,0,0,0,0,0,0,0,0,0,0,0,2433,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,394,0,0,58,0,13,0,0,0,0,0,7,0,0,0,66,0,250,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,22,13,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,27275,2417,12,61,2,35,23,3525,900,0,0,174,2837,1082,409,6660,0,775,8363,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,120,0,0,0,0,0,0,0,4,0,0,103,0,0,0,0,0,13,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,698,0,0,0,0,0,0,0,0,0,0,0,0,698,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,5467,0,0,0,0,0,0,0,0,0,0,0,0,5441,0,0,0,26,0,0,0,0,0,0
+ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,72401,3144,684,137,14,33,5051,3982,3014,0,13,18145,4529,11892,11590,6188,6,3306,679,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,3623,29,58,467,0,10,4,168,13,0,0,109,284,1325,0,15,0,515,626,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,11591,514,30,72,52,3,154,446,698,0,0,27,105,105,306,8345,0,450,284,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,47,0,0,41,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,325,0,0,0,0,0,0,0,325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,44,0,0,0,0,0,0,0,3,0,0,0,0,30,0,10,0,0,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,15559,251,0,26,0,3,308,9913,2810,0,8,0,0,430,54,1105,0,598,53,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,555,28,0,0,0,0,0,4,182,0,0,21,173,39,1,8,26,0,99,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,1853,93,23,17,0,0,0,40,8,0,0,1,106,171,0,1039,0,17,338,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,11,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,29,3,0,0,0,0,0,4,0,0,6,0,0,0,0,16,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,403,0,0,0,0,0,0,0,100,0,0,0,0,303,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,475,0,0,459,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,491,25,0,1,0,0,0,1,27,0,0,51,108,47,0,173,0,47,11,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2008,6209,84,0,0,0,4772,0,1,38,0,0,0,11,0,600,79,0,439,185,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,195,0,0,0,0,0,0,0,0,0,0,0,0,59,0,65,0,71,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,2701,51,0,3,13,0,66,1,301,0,0,0,19,43,0,2125,0,79,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,401116,37783,9109,7239,139,346,1294,32397,29312,127,248,44056,6182,40945,6255,124186,0,19925,41548,1,24,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,1587,0,0,0,0,0,0,0,699,0,0,0,1,878,0,9,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,43,0,0,21,0,0,0,0,0,0,0,0,7,15,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,993,0,0,0,0,0,0,0,0,0,0,0,0,993,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,153,0,0,1,0,0,0,0,144,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,121,0,0,108,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,44,0,2,0,0,20,0,6,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,382,0,0,70,0,1,49,197,0,0,0,0,0,0,0,47,0,0,18,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,544,72,0,5,0,0,0,2,1,0,0,0,210,139,0,42,0,41,32,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,27,0,0,21,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,680,0,0,0,0,0,0,18,654,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,31,12,0,1,0,0,5,5,1,0,0,0,0,0,0,2,0,4,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,218965,60459,4457,2600,90,157,1723,8964,9181,122,53,8400,3148,3176,429,67915,12,6237,41854,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,150504,16279,961,2152,44,8215,2433,2732,5996,17,158,46213,11543,9388,2598,20353,16,4220,17021,181,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,84,4,0,1,0,55,1,1,0,0,0,0,2,3,2,5,0,0,10,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,389,14,0,9,0,0,0,0,0,0,0,109,0,255,0,1,0,1,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,4893,0,0,0,0,0,0,0,0,0,0,0,0,4893,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,45,0,0,19,0,0,0,0,0,0,0,0,0,0,0,11,0,15,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,29826,2939,6,59,0,35,24,4045,393,0,3,178,2908,1052,502,6650,0,617,10415,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,77,0,0,0,0,0,0,3,9,0,0,0,4,0,0,61,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,14,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,195,0,0,0,0,0,0,0,0,0,0,0,0,195,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,7325,0,0,0,0,0,0,0,0,0,0,0,0,7258,40,0,0,27,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,9,2,0,1,0,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,95576,6730,983,252,11,93,5304,3911,2257,20,24,23816,3853,26128,8542,8139,25,5017,496,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,1869,22,4,8,0,0,90,203,88,0,0,47,433,152,7,20,0,334,461,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,12124,910,201,127,51,1,135,836,732,0,1,7,168,123,349,7801,0,361,321,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,208,0,0,199,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,56,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,5,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,5379,0,0,0,0,61,0,0,0,0,0,0,0,0,1,5317,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,17595,118,0,1,0,6,121,8222,4953,0,14,24,0,832,52,1797,0,1447,8,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,446,38,0,0,0,0,0,7,0,0,0,18,350,24,0,5,0,4,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,1983,86,0,13,0,0,0,27,15,0,0,0,103,167,0,1239,0,13,320,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,337,0,0,0,0,0,0,10,1,0,0,0,0,326,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,23,4,0,1,0,0,0,6,7,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,242,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,689,31,0,6,0,0,0,1,36,0,0,95,73,216,15,197,0,7,12,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,5614,0,0,0,0,4736,0,7,0,0,0,0,0,643,60,68,0,100,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,55,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,2952,112,0,7,15,3,53,3,332,0,0,1,49,77,66,2107,0,116,11,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,389973,23554,10020,7503,96,263,1534,31979,31274,182,277,50891,7984,35192,8470,127042,9,19814,33465,0,433,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,1358,0,0,40,0,0,0,0,261,0,0,0,0,1049,0,8,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,13,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,9,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,1028,0,0,0,0,0,0,0,0,0,0,0,0,1028,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,471,0,0,447,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,63,0,3,0,0,0,0,13,0,0,0,0,0,24,0,23,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,73,0,0,0,0,0,0,1,0,0,0,0,0,65,0,7,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,402,0,0,0,0,0,0,0,0,0,0,0,0,2,0,46,0,1,353,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,772,31,0,29,0,0,0,4,2,0,0,0,3,186,0,19,0,52,446,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,17,12,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,269137,84807,5981,927,201,165,4855,10481,8748,251,65,10465,3280,4765,497,74939,14,6557,52153,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,168855,29848,1077,1553,35,9739,4042,2956,6079,3,127,47843,16326,10638,2395,18195,17,3197,14773,29,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,357,4,0,2,0,0,0,0,0,0,0,0,0,3,5,4,0,0,339,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,376,12,0,2,0,0,0,234,0,0,0,109,0,12,0,1,0,6,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,4866,0,0,0,0,0,0,0,0,0,0,0,50,4816,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,100,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,93,0,0,11,0,0,0,0,0,0,0,0,0,0,0,2,0,80,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,21,0,0,0,0,0,0,14,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,32476,3123,6,46,67,195,487,4689,1082,0,1,99,2556,1685,413,6480,0,788,10759,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,70,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,53,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,15359,0,0,0,0,0,0,0,0,0,0,0,0,15281,78,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,64,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ME,Montenegro,country,Europe and Central Asia,42.708678,19.37439,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,49,0,0,0,0,0,47,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,144176,1476,925,251,50,171,4231,4335,2137,175,15,26385,647,81042,6706,10687,45,4263,680,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,1455,120,0,2,0,0,1,328,62,0,0,6,549,24,38,11,0,75,239,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,12886,900,231,132,67,83,144,907,933,0,2,5,167,163,359,8025,0,400,368,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,180,40,0,78,0,0,0,0,0,0,0,0,0,57,0,5,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,36,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,324,0,0,0,0,0,0,1,0,0,0,0,0,302,4,2,0,15,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,49,0,0,0,0,18,0,0,0,0,0,0,0,14,0,17,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,6722,72,0,3,0,2,68,2956,1508,0,4,0,0,609,95,1269,0,127,9,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,428,41,0,0,0,0,0,9,0,0,0,19,324,22,1,4,0,7,1,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,2279,79,0,21,0,0,0,24,7,0,0,1,118,165,0,1561,0,0,303,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,10,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,48,0,0,0,0,0,0,0,20,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,25,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,1693,27,0,0,0,0,0,9,169,0,0,67,164,341,13,718,0,2,183,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,5567,0,0,0,0,4950,0,34,0,0,4,0,0,119,173,180,0,107,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,67,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2909,132,0,11,21,3,30,4,314,0,0,0,75,54,1,2069,0,184,11,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,381809,26894,9650,7438,142,279,1376,31672,35256,207,289,53636,6971,45405,6995,95678,28,21021,38792,0,108,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,1118,0,0,0,0,0,0,0,560,0,0,0,132,416,0,10,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,39,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,33,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,343,0,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,270,0,0,255,0,0,0,0,0,0,0,0,0,1,0,14,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,36,0,0,0,0,0,0,0,0,0,0,0,0,31,0,5,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,35,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,1395,1187,0,0,0,0,0,0,0,0,0,41,0,1,1,96,0,2,67,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,454,34,0,21,0,0,0,4,2,0,0,15,5,254,0,9,0,90,20,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,295,0,0,0,0,0,0,56,237,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,22,16,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,257674,89075,5377,1787,127,282,3618,10196,7778,298,84,10037,1894,4919,465,68197,10,5976,47564,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,167598,24488,1115,3227,43,6317,3312,3628,5533,6,221,53653,15370,11129,2099,18524,40,3085,15831,17,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,1019,7,0,1,0,0,6,2,0,0,0,0,0,198,7,2,0,0,796,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,920,0,0,0,0,0,0,0,0,0,0,0,920,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,475,12,0,1,0,0,0,0,0,0,0,353,0,109,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,40,2,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,3937,0,0,0,0,0,0,0,0,0,0,0,0,3937,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,187,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,29151,2674,31,50,64,133,40,4780,1154,0,0,6,1300,2106,418,6151,0,823,9421,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,47,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,373,0,0,0,0,0,0,0,0,0,0,0,0,373,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,15962,0,0,0,0,0,0,0,0,0,0,0,0,13909,2050,3,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,115456,4852,881,198,5,341,3432,3802,2266,10,19,34759,1938,40312,7827,9306,27,4707,801,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,1615,233,0,0,0,0,0,151,145,0,0,7,742,153,2,5,0,12,148,17,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,14959,1152,190,114,85,74,139,846,1187,0,1,5,153,149,395,9539,0,457,473,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,514,0,0,0,0,0,0,0,0,0,0,489,0,19,0,6,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,142,0,0,0,0,0,0,0,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,15,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,5137,54,0,9,0,26,2,1381,1677,0,0,80,2,670,6,1150,0,72,8,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,340,43,0,0,0,0,0,9,1,0,0,25,230,24,1,3,0,2,2,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2145,83,0,17,0,0,0,14,3,0,0,0,119,161,25,1454,0,0,269,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,30,23,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,89,0,0,0,0,69,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,839,35,0,1,0,0,0,13,4,0,0,42,78,147,0,478,0,30,11,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,2552,1,0,0,0,1999,0,4,1,0,0,0,0,142,72,48,0,285,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2011,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,62,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2223,126,0,8,25,5,9,3,367,0,0,0,86,49,1,1394,0,136,14,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,416997,37209,10440,6597,137,301,1050,31956,38353,52,275,59838,11331,61748,7194,98761,39,20386,31115,0,254,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,893,0,0,0,0,0,0,0,262,0,0,0,35,594,0,2,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,99,0,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,89,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,1230,0,0,0,0,0,0,0,0,0,0,0,0,1230,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,71,0,0,3,0,0,0,0,23,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,1160,0,0,1140,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,313,0,0,0,0,279,0,0,0,0,0,0,0,28,1,5,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,31,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,1909,0,0,0,0,0,0,0,0,0,0,132,0,2,0,60,0,0,1715,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2116,28,0,7,0,0,0,1,13,0,0,36,6,375,0,867,0,93,690,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,47,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,12,9,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,272784,87030,3470,751,161,204,2911,10888,8159,370,65,9035,2876,4348,352,72980,10,6830,62354,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,180739,32161,1810,2865,36,3154,7772,3565,4904,5,160,57498,13454,11373,2412,20127,25,3656,15772,15,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,237,30,0,1,0,0,7,1,0,0,0,0,0,170,6,4,0,0,18,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,53,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,616,65,0,0,0,0,0,0,0,0,0,382,0,166,0,1,0,2,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,58,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,5012,0,0,0,0,0,0,0,0,0,0,0,0,5012,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,627,258,0,19,0,0,0,1,0,0,0,80,1,0,0,83,0,185,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,29120,2536,5,85,0,268,150,4841,1258,0,0,4,1330,1551,320,6760,0,1135,8877,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,47,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,12177,0,0,0,0,0,0,0,0,0,0,0,0,12177,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,63,0,0,0,0,0,62,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,80049,3212,987,131,2,9,3745,3549,2223,0,22,29219,2002,21732,1967,8622,44,1366,1261,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2793,114,0,0,0,0,0,348,125,0,0,18,1323,259,6,137,0,446,0,17,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,18323,1684,242,113,237,81,164,1031,1298,0,6,5,203,282,547,10986,0,699,742,0,3,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,71,7,0,0,0,0,0,1,0,0,0,10,1,0,0,9,0,1,42,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,90,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,10,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,5,0,23,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,5978,17,2,25,0,32,7,1975,2353,0,3,30,2,152,32,1198,0,73,77,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,270,45,0,0,0,0,0,11,2,0,0,26,142,35,1,3,0,1,4,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2045,86,0,17,0,0,0,8,8,0,0,0,120,142,0,1166,0,0,498,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,6,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,206,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,1552,46,0,4,0,0,1,18,4,0,0,4,67,168,20,1163,0,46,11,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,59,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,4599,9,0,0,0,3816,0,3,0,0,0,6,8,143,474,48,0,92,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,42,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2561,132,0,6,22,5,49,6,373,3,0,50,59,55,0,1708,0,85,8,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,488046,29634,10951,5980,153,313,1145,32051,39762,289,257,81312,6614,75153,14128,142070,22,20031,27831,235,137,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2101,0,0,0,0,0,0,0,293,0,0,0,0,1802,0,6,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,45,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,39,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,185,0,0,1,0,96,0,0,72,0,0,0,5,0,1,10,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,363,0,0,336,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,17,0,0,0,0,0,0,0,0,0,0,0,0,14,0,3,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,10,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2321,0,0,0,0,0,0,0,0,1,0,72,0,6,0,59,0,0,2183,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2708,19,0,1,0,0,1,2,168,0,0,43,20,189,0,1186,0,115,964,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,757,0,0,0,0,0,50,209,423,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0
+EE,Estonia,country,Europe and Central Asia,58.595272,25.013607,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,11,8,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,289801,94549,5944,776,189,306,6091,11336,8479,222,61,10485,2358,3235,356,77971,10,5759,61683,1,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,173789,32241,1946,3089,38,3195,6423,3474,4417,7,171,58402,14080,9531,1794,18306,37,3543,13132,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,177,10,0,0,0,0,10,1,99,0,0,0,0,3,33,4,0,0,17,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,349,10,0,0,0,0,0,0,0,0,0,104,3,207,0,25,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,32,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,4342,0,0,0,0,0,0,0,0,0,0,0,0,4342,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,219,2,0,3,2,0,0,0,0,0,0,0,1,0,0,0,0,211,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,27693,2442,5,94,0,349,128,4210,1369,0,0,4,1133,1808,434,6508,0,1000,8209,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,14,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,23,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,6169,0,0,0,0,0,0,0,0,0,0,0,0,6169,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,44,0,0,0,0,0,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,55387,2115,1570,338,3,70,4164,3129,2450,4,18,22049,1219,6284,1415,6142,6,3148,1269,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2903,105,0,0,0,10,0,272,601,0,0,9,747,479,2,508,0,103,0,67,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,20697,2172,323,176,234,87,200,1093,1078,0,42,10,460,422,618,12167,0,927,688,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,40,1,0,0,0,0,0,2,0,0,0,7,1,0,0,10,0,3,16,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,246,0,0,0,0,0,0,0,246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,36,16,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,43,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,71,0,0,0,0,33,0,0,0,0,0,0,0,1,0,37,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,4918,12,0,61,0,7,3,1225,2060,0,0,29,9,168,2,1200,0,96,46,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,226,45,0,1,0,0,0,15,2,0,0,20,116,22,0,3,0,0,2,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2196,90,0,20,0,0,0,9,86,0,0,0,110,132,0,1309,0,0,440,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,5,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MK,Macedonia,country,Europe and Central Asia,41.608635,21.745275,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,16,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,39,1,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2818,23,0,59,0,0,1,14,4,0,1,18,74,1555,72,964,0,20,13,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,7008,0,0,0,0,6207,0,2,0,0,0,4,6,1,745,10,0,33,0,0,0,0,0,0
