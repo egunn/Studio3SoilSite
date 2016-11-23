@@ -12,7 +12,9 @@ var context = canvas.getContext('2d');
 
 var trade;
 var selectedYear = "2013";
+var clickedYear = "2013";
 var selectedCountry = "US";
+var selectedDirection = "Exports";
 
 var arcColor = "#c1b69c";
 var mapColor = '#593c31';
@@ -48,7 +50,8 @@ var numParticles = d3.scaleThreshold().domain([0,100000,500000,1000000,1500000,2
 var countryColor = d3.scaleLinear().domain([0,45000000/2,45000000]).range(['#593c31','#a08d75','#9b9081']);//'#b5684c','#c16e4f']);//'#ad7966'
 
 //set up scale factors
-var x = d3.scaleLinear().rangeRound([0,width-100]);
+var x = d3.scaleLinear().rangeRound([0,width-200]);
+var xBar = d3.scaleBand().rangeRound([0,width-200]);
 var y = d3.scaleLinear().rangeRound([90,0]);
 
 var svgTime = d3.select('#svgTimeline');
@@ -158,6 +161,8 @@ function drawTimeline(timelineData) {
 
 
     x.domain([+timelinePoints[0].year,+timelinePoints[timelinePoints.length-1].year]); //timelinePoints.map(function(d){console.log(+d.year); return +d.year;})]
+    xBar.domain(timelinePoints.map(function (d) {return d.year;}));
+
     y.domain([0,d3.max(timelinePoints, function (d) {return +d.totalTons;})]);
 
     //add axes and titles
@@ -200,6 +205,50 @@ function drawTimeline(timelineData) {
         .attr('fill', timelineColor)
         .style('fill-opacity', .1);
 
+    timeline.selectAll('.bars')
+        .data(timelinePoints)
+        .enter()
+        .append('rect')
+        .attr('class', 'bar')
+        .attr('id',function(d){
+            return 'bar-' + d.year;
+        })
+        .attr('x',function(d){
+            return xBar(d.year);
+        })
+        .attr('y',function(d){return y(d3.max(timelinePoints, function (d) {return +d.totalTons;}))})
+        .attr('width',xBar.bandwidth())
+        .attr('height', function(d){return 90})
+        .attr('fill','transparent')
+        .on('mouseenter', function(d){
+            //d3.selectAll('.bar').attr('fill','transparent');
+            selectedYear = d.year;
+            d3.select(this).style('fill-opacity',.2).attr('fill','gray');//.style('fill-opacity',.2).attr('fill',mapHighlightColor);
+            update(selectedCountry,selectedDirection,d.year);
+            /*
+            console.log('here');
+            if(d.year != selectedYear){
+                d3.select(this).style('fill-opacity',.4).attr('fill','gray');//mapHighlightColor);
+            }*/
+        })
+        .on('mouseleave',function(d){
+            if(d.year != clickedYear){
+                d3.select(this).attr('fill','transparent');
+                selectedYear = clickedYear;
+                update(selectedCountry, selectedDirection,clickedYear);
+            }
+            else{
+                timeline.selectAll('#bar-' + clickedYear).style('fill-opacity',.2).attr('fill',mapHighlightColor);
+            }
+        })
+        .on('click',function(d){
+            d3.selectAll('.bar').attr('fill','transparent');
+            clickedYear = d.year;
+            d3.select(this).style('fill-opacity',.2).attr('fill',mapHighlightColor);
+            update(selectedCountry,selectedDirection,d.year);
+        });
+
+    timeline.selectAll('#bar-' + clickedYear).style('fill-opacity',.2).attr('fill',mapHighlightColor);
 
 }
 
@@ -221,29 +270,36 @@ function svgLoaded(data, countryLookup) {
     });
 
         //set up mouse listener on the canvas, and have it use the simulation to find nodes within a given radius of the mouse cursor
-    d3.select('#fpbkgrd').on("mousemove", function() {
+    d3.select('#fpbkgrd')
+        .on("mousemove", function() {
 
-        var closestNode = mouseSim.find(d3.mouse(this)[0],d3.mouse(this)[1],5);
+            var closestNode = mouseSim.find(d3.mouse(this)[0],d3.mouse(this)[1],5);
 
-        if (closestNode){
-            //from https://bl.ocks.org/d3noob/036d13e5173de69f7758091ba9a2df2b
-            div.transition()
-                .duration(200)
-                .style("opacity", .9);
-            div .html(
-                closestNode.FULLNAME)
-                .style("left", (d3.event.pageX) + "px")
-                .style("top", (d3.event.pageY - 24) + "px");
-        }
+            if (closestNode){
+                //from https://bl.ocks.org/d3noob/036d13e5173de69f7758091ba9a2df2b
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div .html(
+                    closestNode.FULLNAME)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 24) + "px");
+            }
 
-        else {
-            div.transition()
-                .duration(100)
-                .style("opacity", 0);
-        }
+            else {
+                div.transition()
+                    .duration(100)
+                    .style("opacity", 0);
+            }
+        })
+        .on('click', function(){
+            var closestNode = mouseSim.find(d3.mouse(this)[0],d3.mouse(this)[1],5);
 
-
-    });
+            if (closestNode){
+                selectedCountry = closestNode.NAME;
+                update(selectedCountry, selectedDirection, selectedYear);
+            }
+        });
 
     console.log(data);
 
@@ -292,7 +348,7 @@ function svgLoaded(data, countryLookup) {
                 return dotColor;
             }
             else {
-                return 'none';//'#d8d3b3';
+                return 'gray';//'#d8d3b3';
             }
         })
         .attr('r',function(d){
@@ -324,11 +380,13 @@ function drawCanvas(){
 
             var destTotal = d.totalTons;
 
-            context.globalAlpha = 0.25;
+            context.globalAlpha = 0.15;
             //var random = 0;//Math.random()*50;
             context.strokeStyle = arcColor;
             context.beginPath();
             context.moveTo(d.bezPoints.p0.x, d.bezPoints.p0.y);
+            /*context.lineTo(d.bezPoints.p3.x,  //dest x
+                d.bezPoints.p3.y); //dest y)*/
             context.bezierCurveTo(
                 d.bezPoints.p1.x,//[countryLatLong[0].long,countryLatLong[0].lat])[0]+50,  //control 1 x
                 d.bezPoints.p1.y,//control 1 y
@@ -435,7 +493,7 @@ function main() {
 }
 
 
-function update(value,impExp){
+function update(value,impExp,year){
 
     d3.csv('data/food' + impExp + '_byYear/food' + impExp + '_'+ value + '.csv', function(data){
 
@@ -545,8 +603,6 @@ function update(value,impExp){
 
         var getCountry = map.selectAll("#"+ value);
 
-        console.log(value);
-
         if (impExp == "Exports"){
             getCountry.attr('fill',mapHighlightColor);
         }
@@ -554,6 +610,8 @@ function update(value,impExp){
             getCountry.attr('fill',mapHighlightColor);
         }
 
+        //timeline.selectAll('.bar').attr('fill','transparent');
+        //timeline.selectAll('#bar-' + selectedYear).style('fill-opacity',.2).attr('fill',mapHighlightColor);
     });
 
 }
@@ -566,24 +624,28 @@ d3.select(".countryDropdown").on("change", function () {
 //dispatch function updates the selected country and calls the update function when dropdown item is selected
 countryDispatch.on("changeCountry", function(countrySelected,i) { //country is the value of the option selected in the dropdown
 
-    update(countrySelected, 'Exports');
+    update(countrySelected, 'Exports', selectedYear);
 
 });
 
 function importClicked(){
 
+    selectedDirection = "Imports";
+
     d3.csv('./data/importsbyYear.csv',function(data){
         timelineData = data;
-        update(selectedCountry, 'Imports');
+        update(selectedCountry, 'Imports', selectedYear);
     });
 
 }
 
 function exportClicked(){
 
+    selectedDirection = "Exports";
+
     d3.csv('./data/exportsbyYear.csv',function(data){
         timelineData = data;
-        update(selectedCountry, 'Exports');
+        update(selectedCountry, 'Exports', selectedYear);
     });
 }
 
