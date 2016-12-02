@@ -682,7 +682,7 @@ function update(value,impExp,year) {
             //timeline.selectAll('#bar-' + selectedYear).style('fill-opacity',.2).attr('fill',mapHighlightColor);
         });
     }
-    else {
+    else if (balanceSelected){
         tempCountries = d3.selectAll('.country');
 
         tempCountries.attr('fill','gray');

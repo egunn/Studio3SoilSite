@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58159ac5-9d57-43c9-8937-de919e3aa0fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/index.js" afterPath="$PROJECT_DIR$/scripts/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="soilsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="56" />
+              <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -58,8 +56,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2065">
-              <caret line="557" column="52" lean-forward="false" selection-start-line="557" selection-start-column="52" selection-end-line="557" selection-end-column="52" />
+            <state relative-caret-position="301">
+              <caret line="682" column="11" lean-forward="true" selection-start-line="682" selection-start-column="11" selection-end-line="682" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -366,12 +364,12 @@
       <workItem from="1480457807208" duration="2984000" />
       <workItem from="1480463591011" duration="2372000" />
       <workItem from="1480470406606" duration="799000" />
-      <workItem from="1480707464606" duration="7665000" />
+      <workItem from="1480707464606" duration="7821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253304000" />
+    <option name="totallyTimeSpent" value="253460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -682,7 +680,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="56" />
+          <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -713,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2065">
-          <caret line="557" column="52" lean-forward="false" selection-start-line="557" selection-start-column="52" selection-end-line="557" selection-end-column="52" />
+        <state relative-caret-position="301">
+          <caret line="682" column="11" lean-forward="true" selection-start-line="682" selection-start-column="11" selection-end-line="682" selection-end-column="11" />
           <folding />
         </state>
       </provider>
