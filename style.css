@@ -4,7 +4,7 @@
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    src: local('Open Sans'), local('OpenSans'), url('../fonts/OpenSans-Regular.ttf') format('woff2');
+    src: local('Open Sans'), local('OpenSans'), url('./fonts/OpenSans-Regular.ttf') format('woff2');
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -88,8 +88,8 @@ body{
 #svgTimeline {
     position:fixed;
     top:80vh;
-    left:5vw;
-    width:95vw;
+    left:0;
+    width:100vw;
     height:20vh;
     margin-left:3vw;
 }
@@ -316,36 +316,9 @@ button {
     margin-top: 0px;
     margin-bottom: 20px;
     margin-right: 5px;
+
 }
 
-button:focus{
-    outline:gray;
-}
-
-.animation-div{
-    z-index:3;
-    position:fixed;
-    top:82vh;
-    left:0vw;
-    width:5vw;
-    height:20vh;
-    margin-left:3vw;
-}
-
-.anim-button{
-    background-color: gray; /* Green */
-    border: 1px solid gray;
-    color:#dddcd7;/*#555;*/
-    margin-bottom: 10px;
-    min-width: 20px;
-    width:50px;
-    padding: 6px 6px;
-}
-
-.anim-button.selected{
-    background-color: #595959;
-    color:#dddcd7;
-}
 
 .navbar{
     background: gray;
@@ -356,7 +329,7 @@ button:focus{
 }
 
 .nav-title {
-    color: #edebe6;
+    color: #d3cec2;
     text-transform: uppercase;
     font-family: "Work Sans", Arial, sans-serif;
     /*margin-top: 1.5em;*/
@@ -375,7 +348,6 @@ button:focus{
     width: 20%;
     border: none;
     background:darkgray;
-    color:#3b3b3b;
     margin-top:5px;
     margin-right:10px;
 }
@@ -385,22 +357,15 @@ button:focus{
     width: 20%;
     border: none;
     background:darkgray;
-    color:#3b3b3b;
     margin-top:5px;
     margin-right:10px;
 }
 
 .nav-button{
     background-color: darkgray; /* Green */
-    color:#3b3b3b;/*#555;*/
+    color:#555;
     margin-bottom: 0px;
 }
-
-.nav-button.selected{
-    background-color: #666666;
-    color:#dddcd7;
-}
-
 
 
 .axis line, .axis path {
