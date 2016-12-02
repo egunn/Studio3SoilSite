@@ -22,12 +22,12 @@
 
             </div>
 
-            <button class="nav-button" id="exportButton" onClick="exportClicked()">Exports</button>
+            <button class="nav-button selected" id="exportButton" onClick="exportClicked()">Exports</button>
             <button class="nav-button" id="importButton" onClick="importClicked()">Imports</button>
             <button class="nav-button" id="balanceButton" onClick="balanceClicked()">Balance</button>
 
             <select class="type-list form-control countryDropdown">
-                  <option value="US">United States</option>
+                  <option id="countryDropdown" value="US">United States</option>
             </select>
 
             <select class="type-list form-control categoryDropdown">
@@ -40,6 +40,11 @@
 </nav>
 
 <canvas class="background" id="fpbkgrd"></canvas>
+<div class="animation-div">
+      <button class="anim-button" id="playButton" onClick="playClicked()">Play</button>
+      <br>
+      <button class="anim-button" id="pauseButton" onClick="pauseClicked()">Pause</button>
+</div>
 <svg class="svgbackground" id="fpsvgbkgrd"></svg>
 
 
