@@ -1,0 +1,821 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1992,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,2952.22290508757,1992,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1992,5,2,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,6159.33313999492,1992,2308,0,0,0,0,0,0,0,0,0,0,2308,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1992,11,0,1,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1992,153,95,4,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,1992,723,0,0,0,0,0,720,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,1992,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3841.09882011396,1992,5800,0,0,0,0,0,5800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,7581.52563637285,1992,69,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1992,3531,0,0,0,0,3531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1992,422,0,0,0,0,0,0,0,0,0,0,0,0,0,422,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,1992,1000,0,0,0,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1992,72435,0,0,0,0,0,72435,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1992,460,0,0,0,0,0,0,0,0,0,0,0,0,0,460,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,1334.0749329461,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,1992,495,0,0,0,0,0,0,0,0,0,0,0,0,0,495,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,1992,86,0,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1992,2587,0,0,0,0,0,0,0,0,0,0,0,50,25,2512,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,9523.37619722983,1992,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1992,55,4,0,0,0,0,0,19,0,0,5,0,0,26,0,0,0,0,1,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,1992,400,0,0,0,0,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,1992,7700,0,0,0,0,0,7700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1992,74,0,0,0,0,0,0,0,7,0,54,0,0,0,0,13,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1992,14392,59,0,0,0,0,12688,0,0,0,0,1645,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,1992,4169,0,0,0,0,0,0,0,0,0,0,2172,0,0,1997,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1992,91,40,0,0,0,0,0,42,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1992,2652,0,0,0,0,0,0,4,0,0,0,0,0,0,2648,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,1992,1605,0,0,0,0,0,0,0,0,0,0,1600,0,0,5,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,8550.80977118911,1993,500,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1993,33,0,0,0,0,0,0,0,1,0,0,0,30,0,0,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1993,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,1993,207,0,0,150,0,0,0,50,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1993,64,58,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1993,179,0,0,0,0,115,0,0,2,0,25,0,36,0,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1993,63,38,15,0,0,0,0,7,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,1993,2589,0,0,0,0,0,0,0,0,0,0,0,89,0,2500,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,1993,45,0,0,25,0,0,0,0,1,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1993,7998,0,0,0,0,7998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,1993,1700,0,0,0,0,0,0,0,0,0,0,1700,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1993,73268,0,0,0,0,0,73268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1993,29,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1993,277,0,0,0,0,100,0,0,0,0,0,0,108,0,59,10,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1993,75,30,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1993,682,152,0,115,0,0,0,231,0,0,0,0,0,184,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,12427.5036534903,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1993,69,2,0,0,0,0,0,0,4,0,51,0,0,0,0,12,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1993,72,0,0,0,0,69,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1993,294,0,0,0,0,0,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1993,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1993,515,0,15,0,0,200,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,1993,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1994,19,0,0,0,0,0,0,0,9,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1994,2010,0,0,0,0,1000,1010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,1994,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,1994,3792,0,0,0,0,0,0,0,0,0,0,0,0,0,3792,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2074.6541308183,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,1994,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1994,32,26,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,1994,102,0,0,0,0,0,0,0,0,0,0,0,36,0,45,0,0,21,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,1994,1500,0,0,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1994,1153,0,2,0,0,0,1000,132,4,0,8,0,0,0,5,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,16842.579353061,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1994,615,468,2,60,0,0,0,26,0,1,0,0,0,1,20,37,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,1994,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3841.09882011396,1994,5250,0,0,0,0,0,5250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1994,8325,0,0,0,0,8325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1994,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,1994,1540,0,0,0,0,0,0,0,0,0,0,1540,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1994,62280,0,0,0,0,0,62280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1994,40,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11089.853206603,1994,7500,0,0,0,0,0,7500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1994,2787,0,0,0,0,150,0,0,0,0,0,0,66,0,2571,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1994,2238,1856,0,290,0,0,0,0,0,0,0,0,0,53,0,39,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1994,781,256,0,0,0,0,0,140,0,0,0,0,0,256,0,15,0,114,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1121.50676124771,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,1994,9000,0,0,0,0,0,9000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1994,60,1,0,0,0,0,0,0,22,0,35,0,0,0,1,1,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1994,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,1994,811,0,0,0,0,0,811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1994,22998,0,0,0,0,0,22998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,1994,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1994,92,0,0,0,0,0,0,0,0,0,1,0,0,61,0,0,0,30,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1994,7516,0,2,0,0,0,5250,0,0,0,0,2250,14,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,1994,3551,0,0,0,0,0,0,0,0,0,0,2600,0,0,951,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1995,33,0,0,0,0,0,0,0,1,0,0,0,30,2,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1995,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,1995,14,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,2952.22290508757,1995,12500,12500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2074.6541308183,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,1995,5923,0,0,0,0,5923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,8468.71590156254,1995,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1995,36,2,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,1995,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,1225.4747678103,1995,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1995,2777,1,3,0,0,0,39,151,0,0,0,2481,0,75,0,0,0,24,0,3,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1995,275,224,0,2,0,0,14,8,0,0,5,0,0,9,0,13,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1995,2483,0,0,0,0,2483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1995,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1995,68995,0,0,0,0,0,68985,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1995,928,0,0,0,0,0,928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,1995,1251,0,0,0,0,0,0,0,0,0,0,1251,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,18072.3706504221,1995,500,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1995,13132,0,0,0,0,0,13000,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1995,613,514,0,50,0,0,0,9,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1995,1557,872,0,0,0,0,0,416,0,0,0,0,0,269,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,1995,1469,0,0,0,0,0,1469,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,1121.50676124771,1995,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,1995,16000,0,0,0,0,0,16000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1995,97,1,0,0,0,0,0,0,38,0,40,0,0,0,0,18,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1995,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1995,16500,0,0,0,0,0,13500,0,0,0,0,3000,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1995,69,0,0,0,0,0,0,32,0,0,0,0,0,32,0,5,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,1995,50,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1995,5379,0,10,0,0,125,0,0,0,0,0,5238,0,6,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,1995,200,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1996,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,1996,567,0,0,0,0,567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,1996,1068,0,0,0,0,1068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,8468.71590156254,1996,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1996,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,1996,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,1996,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1996,1000,2,1,0,0,0,0,170,0,0,0,700,34,93,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1996,101,56,2,0,0,0,20,2,7,0,1,0,0,9,0,4,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,6414.13511931419,1996,315,0,0,0,0,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1996,8874,0,0,0,0,8864,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1996,102,0,0,0,0,0,9,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,1996,2374,0,0,0,0,0,0,0,0,0,0,2374,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1996,92857,0,0,0,0,0,92231,20,0,0,0,600,0,0,0,0,0,0,0,6,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1996,1800,0,0,0,0,0,1800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,3206.24870460362,1996,11000,0,0,0,0,0,11000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11089.853206603,1996,32000,0,0,0,0,0,32000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1996,3894,0,0,0,0,0,1002,0,0,0,0,2868,24,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1996,759,500,0,0,0,0,0,0,0,0,0,0,0,158,0,101,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1996,5407,5150,0,0,0,0,0,0,0,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1996,34,5,0,0,0,0,0,0,25,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1996,392,0,0,0,0,382,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,1996,5200,4500,0,0,0,0,0,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1996,38065,60,0,0,0,0,37945,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1996,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,1996,20,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1996,3153,0,1,0,0,0,0,0,0,0,0,3152,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1997,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,1997,184,0,0,0,0,0,0,0,0,0,0,0,0,0,184,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,1997,1610,0,0,0,0,1610,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,1997,1128,0,0,0,0,1128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,8468.71590156254,1997,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1997,35,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,4270.84933222808,1997,3500,0,0,0,0,0,3500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2619.23216157957,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,1997,102,0,0,0,0,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1997,108,0,0,0,0,0,0,0,0,0,0,0,15,81,12,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1997,20,0,0,11,0,0,0,1,0,0,0,0,0,6,1,1,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,1997,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,1997,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1997,8787,0,0,0,0,8775,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1997,410,0,0,0,0,400,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1997,58166,0,0,0,0,0,58142,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1997,7386,0,0,0,0,0,7386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,1997,117,0,0,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,1997,28,0,0,0,0,0,10,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1997,18,0,0,0,0,0,4,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1997,542,310,0,0,0,0,0,0,0,0,0,30,0,179,0,23,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1997,555,500,0,0,0,0,0,0,0,0,0,0,0,42,0,13,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,1997,16020,0,0,0,0,20,16000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1997,37,0,0,0,0,0,0,0,28,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1997,7169,0,0,0,0,7149,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,1997,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1997,39343,0,0,0,0,0,39343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1997,164,0,0,0,0,0,0,0,0,0,0,0,0,24,140,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1997,3560,0,0,0,0,93,560,0,0,0,0,878,0,0,2029,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14615.2146989691,1998,500,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,1998,4474,0,0,0,0,0,0,0,0,4474,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1998,1697,0,0,0,0,0,0,3,185,1458,0,0,48,3,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1998,41193,0,0,0,0,0,0,0,0,41193,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,1998,60,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,1998,500,0,0,0,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,1998,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,1998,614,0,0,0,0,515,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,1998,1833,0,0,0,0,297,0,0,0,1536,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,1998,4014,0,0,0,0,0,0,0,0,4014,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1998,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,4270.84933222808,1998,149,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,4671.26542379558,1998,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,1998,366,0,0,0,0,247,0,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,9902.11595041524,1998,480,0,0,0,0,0,0,0,0,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1998,753,0,14,0,0,0,36,0,96,569,0,27,0,11,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1998,9,0,0,0,0,0,0,0,7,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,1998,3078,0,0,0,0,0,0,0,0,3078,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,1998,481,0,0,0,0,143,336,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1934.35441644972,1998,80,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1998,18080,0,0,0,0,11056,0,0,100,6924,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1998,10006,0,0,0,0,34,0,0,0,9972,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,1998,2000,0,0,0,0,0,0,0,0,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1998,18956,0,0,0,0,0,7500,0,0,11456,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1998,8040,0,0,0,0,0,7990,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,1998,906,0,0,0,0,0,0,0,0,906,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,1998,8392,0,0,0,0,0,0,0,0,8392,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,18072.3706504221,1998,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1998,150,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1998,1866,104,0,0,0,0,30,0,0,0,0,1473,0,249,0,10,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1998,60691,0,0,0,0,0,49397,0,1,11195,0,0,0,75,0,0,0,23,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,1998,449,0,0,0,0,0,0,0,0,449,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,1998,4751,0,0,0,0,0,0,0,0,4751,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,12427.5036534903,1998,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,1998,8550,0,0,0,0,0,8500,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1998,28,0,0,0,0,24,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1998,2151,0,0,0,0,2151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,1998,2145,0,0,0,0,0,850,0,0,1295,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1998,64738,0,0,0,0,0,62399,0,0,2339,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LK,Sri Lanka,country,South Asia,7.873054,80.771797,8618.50793126767,1998,640,0,0,0,0,0,0,0,0,640,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5818.76161586678,1998,135,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,1998,5318,0,0,0,0,0,4000,0,0,1318,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,4684.76494173074,1998,147,0,0,0,0,0,0,0,0,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,1998,10943,0,0,0,0,0,0,0,0,10943,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1998,2776,0,0,0,0,0,0,0,0,0,0,0,0,17,2759,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,1998,5180,0,0,0,0,0,5000,0,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1998,11145,0,0,0,0,0,3200,0,0,395,0,4550,0,0,3000,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,1998,6214,0,0,0,0,0,6210,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,1998,649,0,0,0,0,0,0,0,0,649,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,5060.82975592181,1998,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,8637.81226943945,1999,20450,0,0,0,0,0,20450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,1999,8812,0,0,0,0,0,0,0,0,8812,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,1999,1233,0,6,0,0,316,0,1,72,838,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,1999,35901,0,0,0,0,0,0,0,0,35901,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,1999,343,0,0,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CA,Canada,country,North America,56.130366,-106.346771,10284.7732097828,1999,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,1999,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,1999,1288,0,0,0,0,1189,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,1999,2400,0,0,0,0,0,0,0,0,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,1999,2199,0,0,0,0,0,0,0,0,2199,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,1999,67,10,34,0,0,0,0,15,1,0,0,0,0,3,0,4,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,4671.26542379558,1999,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,1999,161,0,0,0,0,0,0,0,0,140,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,1999,2484,0,0,0,0,390,112,0,163,868,0,900,19,0,0,6,0,26,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,1999,39,1,18,4,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,1999,1614,0,0,0,0,0,0,0,0,1614,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,1999,46,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,10007.2795096168,1999,127,0,0,0,0,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,1999,42970,0,0,0,0,25195,0,0,0,17775,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,1999,17759,0,0,0,0,73,2090,0,0,15596,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,4999.49144644335,1999,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,1999,3400,0,0,0,0,0,0,0,0,0,0,3400,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,1999,25071,0,0,0,0,0,20478,0,0,4593,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,1999,79,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,1999,936,0,0,0,0,0,0,0,0,936,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,3206.24870460362,1999,670,0,0,0,0,0,0,0,0,670,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,1999,3552,0,0,0,0,0,0,0,0,3552,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,1999,86,0,0,0,0,10,0,0,2,40,0,7,0,0,0,0,0,27,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,1999,1095,153,0,0,0,0,198,0,0,0,0,104,0,358,267,15,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,1999,29300,0,0,0,0,0,0,0,0,29281,1,0,0,0,18,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,1999,7503,0,0,0,0,0,0,0,0,7503,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,1999,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,1999,4488,0,0,0,0,0,0,0,0,4488,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,1999,16007,0,0,0,0,0,15987,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,1999,80,0,0,0,0,25,0,0,0,0,52,0,0,0,1,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,1999,1761,0,0,0,0,1581,0,0,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,1999,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,1999,31661,0,0,0,0,0,28033,0,7,3619,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LK,Sri Lanka,country,South Asia,7.873054,80.771797,8618.50793126767,1999,230,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,1999,1816,0,0,0,0,0,0,0,3,1813,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,4684.76494173074,1999,160,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,1999,8758,0,0,0,0,0,0,0,0,8758,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,1999,79,0,0,0,0,0,0,0,0,0,0,0,0,9,70,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,1999,299,0,0,0,0,0,0,0,0,299,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,1999,4924,0,0,0,0,0,0,0,0,4924,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,1999,750,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,1999,9659,0,0,0,0,0,0,0,0,174,0,9485,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,1999,28232,0,0,0,0,0,24670,0,0,3562,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,1999,891,0,0,0,0,432,0,0,0,459,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AF,Afghanistan,country,South Asia,33.93911,67.709953,7175.32124785973,2000,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2000,7670,0,0,0,0,0,0,0,0,7670,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2000,3766,0,12,0,0,0,0,3,49,3591,0,0,0,0,0,0,0,111,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2000,17145,0,0,0,0,0,0,0,0,17145,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2000,162,0,0,0,0,0,0,0,0,0,0,152,0,0,10,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2000,398,0,0,0,0,0,0,0,0,398,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2000,3509,0,0,0,0,0,0,0,0,3509,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,8468.71590156254,2000,2951,0,0,0,0,0,0,0,0,2951,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2000,30,0,0,0,0,0,0,27,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,2000,770,0,0,0,0,600,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,9009.11946409689,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2000,2051,0,0,84,0,0,2,0,391,1534,0,0,13,3,0,7,0,0,17,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2000,61,26,16,0,0,0,0,8,0,0,0,0,0,5,0,6,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2000,4136,0,0,0,0,0,0,0,0,4136,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,10007.2795096168,2000,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2000,80414,0,0,0,0,35771,0,0,0,44643,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2000,9973,0,0,0,0,0,0,0,0,9973,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2000,39084,0,0,0,0,1,30565,287,0,6031,0,2200,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,2000,40,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2000,1426,0,0,0,0,0,0,0,0,1426,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2000,231,0,0,0,0,0,0,0,0,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2000,7824,0,0,0,0,0,0,0,0,7224,0,600,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2000,2337,0,0,0,0,14,0,0,0,0,0,1930,0,8,0,0,0,385,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2000,1424,191,4,0,0,0,528,0,0,159,0,245,0,270,0,27,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2000,3675,0,0,126,0,0,0,164,0,402,0,1073,0,0,1576,0,0,334,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2000,3316,2000,0,0,0,0,0,0,0,1316,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,2000,241,0,0,0,0,0,0,0,0,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2000,2482,0,0,0,0,0,0,0,0,2482,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,4614.33282288855,2000,82,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,2000,23315,0,0,0,0,0,23315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2000,79,0,0,0,0,20,2,28,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2000,37,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2000,8738,0,0,0,0,0,0,0,0,0,0,8738,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2000,35915,0,0,0,0,0,33889,0,18,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3071.97414985386,2000,89,0,0,0,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2000,1761,0,0,0,0,0,0,0,5,1756,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2000,7890,0,0,0,0,0,0,0,0,7890,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2000,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2000,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2000,28804,0,0,0,0,0,21814,0,0,6990,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2000,5985,0,0,0,0,0,0,0,0,185,0,5775,0,0,0,0,0,25,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2000,6,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,7594.28918341934,2000,306,0,0,0,0,0,0,0,0,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2000,748,0,0,0,0,0,0,0,0,748,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14615.2146989691,2001,123,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2001,1732,0,0,0,0,0,0,0,0,1732,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2001,3314,0,5,0,0,1,0,1,0,2858,0,0,0,0,0,0,0,449,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2001,9161,0,0,0,0,0,0,0,0,9161,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2001,122,0,0,0,0,0,0,0,41,1,0,80,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CA,Canada,country,North America,56.130366,-106.346771,10284.7732097828,2001,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,2001,397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,397,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2001,3400,0,0,0,0,3400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2001,2470,0,0,0,0,0,0,0,0,2470,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,8468.71590156254,2001,198,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,9417.95099790298,2001,300,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,4671.26542379558,2001,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,2001,276,0,0,0,0,0,0,0,0,60,0,0,0,0,0,18,0,198,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,9902.11595041524,2001,191,0,0,0,0,0,0,0,0,191,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2001,6253,0,0,0,0,0,0,0,649,577,0,0,0,0,0,313,0,4678,36,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2001,18,0,8,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2001,4739,0,0,0,0,0,2400,0,0,2300,0,0,0,7,0,6,0,26,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2001,503,0,0,0,0,0,0,0,0,0,0,485,18,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3841.09882011396,2001,148,0,0,0,0,0,0,0,0,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,6414.13511931419,2001,40,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2001,71077,14,0,0,0,28879,0,0,656,41528,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2001,8972,0,0,0,0,0,0,0,0,8972,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,5860.76774265609,2001,98,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,4999.49144644335,2001,97,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,2001,4077,0,0,0,0,0,0,0,0,0,0,4063,0,0,0,14,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2001,21830,0,0,0,0,0,16885,98,0,4747,0,0,0,0,0,22,0,78,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,2001,860,0,0,0,0,0,0,0,0,860,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2001,1395,0,0,0,0,0,0,0,0,1395,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MT,Malta,country,Middle East and North Africa,35.937496,14.375416,3206.24870460362,2001,129,0,0,0,0,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2001,7527,0,0,0,0,0,3453,0,0,4074,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2001,1820,0,0,0,0,373,0,0,0,0,0,40,0,14,0,0,0,1393,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2001,1529,272,0,0,0,0,39,42,0,260,0,315,0,209,392,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2001,12108,193,0,0,0,0,0,667,0,1368,0,1820,0,151,265,837,0,6787,20,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2001,1195,0,0,0,0,0,0,0,0,1195,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,8813.63973799398,2001,1197,0,0,0,0,0,0,0,0,1197,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,2001,520,0,0,0,0,0,0,0,0,520,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2001,1642,0,0,0,0,0,0,0,0,1642,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,2001,11850,0,0,0,0,0,10750,0,0,1100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2001,93,0,0,0,0,25,0,0,0,0,67,0,0,0,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2001,500,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2001,16051,0,0,0,0,0,0,0,0,235,0,15816,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2001,14472,0,0,0,0,0,11566,0,0,1533,0,630,0,206,0,446,0,91,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5818.76161586678,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2001,1262,0,0,0,0,0,0,0,3,1259,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2001,7076,0,0,0,0,0,0,0,0,7076,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2001,820,32,0,0,0,0,0,42,0,0,0,108,0,8,424,206,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2001,831,0,0,0,0,0,0,0,0,831,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2001,3560,0,0,0,0,0,0,0,0,3560,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2001,13384,0,0,0,0,0,0,0,0,372,0,12653,0,0,0,84,0,275,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2001,179,0,0,0,0,0,3,0,6,74,0,0,0,0,0,0,0,96,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,7594.28918341934,2001,527,0,0,0,0,0,0,0,0,527,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2001,3349,0,0,0,0,707,0,0,0,2642,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AL,Albania,country,Europe and Central Asia,41.153332,20.168331,3956.46315287521,2002,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2085.72524300738,2002,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2859.99512169793,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,8637.81226943945,2002,160,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14615.2146989691,2002,153,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2002,3195,0,0,0,0,0,0,0,0,3195,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2002,1845,0,1,0,0,0,0,2,1,1698,0,0,0,0,0,0,0,143,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2002,1054,0,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,54,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,4351.73255247638,2002,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2002,253,0,0,0,0,0,0,0,0,0,0,0,0,23,0,230,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2002,2651,0,0,0,0,146,0,0,0,2260,0,0,0,245,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CA,Canada,country,North America,56.130366,-106.346771,10284.7732097828,2002,59,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2074.6541308183,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,2002,143,0,0,0,0,0,0,0,0,0,0,0,0,1,0,142,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,9196.64777427244,2002,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2002,338,0,0,0,0,0,0,0,0,338,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2002,18336,0,0,0,0,0,0,0,0,18336,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2002,857,0,0,0,0,0,0,0,0,857,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2002,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2002,592,0,0,0,0,0,0,0,0,0,0,592,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,4270.84933222808,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,12155.8126251826,2002,1258,0,0,0,0,0,0,0,0,1258,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,2002,80,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DJ,Djibouti,country,Middle East and North Africa,11.825138,42.590275,4412.61535285418,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2002,11495,0,17,0,0,0,0,0,998,376,0,5500,0,7,0,553,0,4044,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2002,25,0,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2002,3378,0,0,0,0,0,0,0,0,3292,0,0,0,0,0,34,0,52,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2002,365,0,0,0,0,0,0,0,0,0,0,315,0,0,0,0,0,50,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,9595.0955529591,2002,258,0,0,0,0,0,0,0,0,258,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,6414.13511931419,2002,172,0,0,0,0,0,0,0,0,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2002,66826,0,0,0,0,40780,0,0,0,26046,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2002,26949,0,0,0,0,0,0,0,0,26949,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5000.39888064552,2002,6500,0,0,0,0,0,0,0,0,0,0,6500,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4144.64132988116,2002,40,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2002,35643,0,0,0,0,0,7242,2652,0,4233,0,21220,0,244,0,52,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,8608.06775064996,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,2002,160,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2002,26,0,0,0,0,0,1,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2002,755,0,0,0,0,0,0,0,0,755,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2002,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2002,300,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2002,10072,0,0,0,0,0,0,0,0,10072,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2002,517,0,0,0,0,0,71,0,0,0,0,39,0,0,0,81,0,326,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2002,1919,155,0,0,0,0,0,0,0,610,0,0,0,156,993,5,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2002,32218,0,0,0,0,0,0,1405,0,2036,0,958,0,188,1015,1343,0,25243,30,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2002,15178,0,0,0,0,0,0,0,0,15178,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,2002,757,0,0,0,0,0,0,0,0,757,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,4984.21525725171,2002,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2002,3660,0,0,0,0,0,0,0,0,3619,0,0,0,0,0,21,0,20,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,2002,8613,0,0,0,0,0,8493,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2002,104,0,0,0,0,30,0,0,3,0,43,0,25,3,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2002,2000,0,0,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,4275.5896445335,2002,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2002,24558,0,0,0,0,0,0,0,0,629,0,23833,0,0,0,96,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2002,20381,0,0,0,0,0,18110,0,0,1880,0,0,0,6,0,330,0,55,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,5082.76787617995,2002,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5818.76161586678,2002,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2002,3428,0,0,0,0,0,2600,0,3,819,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2002,13909,0,0,0,0,0,0,0,0,13909,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2002,1578,0,0,0,0,0,0,60,4,28,0,793,0,206,342,145,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2002,4410,0,0,0,0,0,0,0,0,4410,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2002,3096,0,0,0,0,0,0,0,0,20,0,2000,0,805,0,219,0,52,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2002,206,0,0,0,0,0,9,0,0,0,0,0,0,162,0,11,0,24,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,7594.28918341934,2002,195,0,0,0,0,0,0,0,0,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2002,1566,0,0,0,0,275,0,0,0,1291,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2859.99512169793,2004,52,0,51,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2004,5079,0,0,0,0,0,0,0,0,5079,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2004,148,0,0,0,0,0,0,0,2,100,0,0,0,0,20,0,0,26,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2004,381,0,0,0,0,0,0,0,0,380,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,4351.73255247638,2004,60,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2004,1185,260,0,194,0,0,87,0,0,0,0,0,0,63,581,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2004,1226,0,0,38,0,0,0,0,0,0,0,1188,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2004,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2004,55252,0,0,0,0,0,0,0,0,55252,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2004,886,0,0,0,0,0,0,0,0,886,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2004,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2004,696,0,0,0,0,0,0,0,0,0,0,601,0,17,0,50,0,28,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,4671.26542379558,2004,40,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,12155.8126251826,2004,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5264.60965769379,2004,7365,0,0,0,0,1665,5700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,1225.4747678103,2004,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2004,3919,11,0,0,0,0,0,0,1081,1142,0,1685,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2004,52,12,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2004,799,0,0,0,0,0,0,0,0,799,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2004,2940,0,0,0,0,0,0,0,0,0,0,2323,0,0,617,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3841.09882011396,2004,95,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2004,33866,0,0,0,0,28638,0,0,213,5015,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2004,15942,0,0,0,0,0,0,0,0,15942,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2004,11387,0,0,0,0,0,3500,0,0,687,0,7200,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,7371.22690210553,2004,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,5146.36830762072,2004,278,0,0,0,0,0,0,0,0,278,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,5447.23202390777,2004,42,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2004,471,0,0,0,0,0,0,0,0,0,0,0,0,350,0,121,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1927.70038845824,2004,200,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2004,700,0,0,0,0,0,0,0,0,700,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2004,2158,0,0,0,0,0,0,0,0,2154,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,4000.98119904952,2004,1999,0,0,0,0,0,0,0,0,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2004,602,0,0,0,0,0,0,0,0,0,0,0,0,602,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2004,1086,478,0,0,0,0,0,0,0,0,0,40,0,356,153,36,0,0,23,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2004,8375,0,0,112,0,0,0,28,0,6816,0,1193,1,0,207,18,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,5882.26676383166,2004,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2004,3972,0,0,0,0,0,0,0,0,3972,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,2004,354,0,0,0,0,0,0,0,0,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2004,2840,0,0,0,0,0,0,0,0,2840,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,2004,2792,0,0,0,0,0,0,0,0,2792,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2004,717,0,0,0,0,461,0,0,0,0,49,0,0,0,207,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2004,7091,0,0,0,0,6779,0,0,0,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,4275.5896445335,2004,586,0,0,0,0,0,0,0,0,586,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2004,37905,0,0,0,0,0,0,0,0,0,0,37905,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2004,1476,0,0,0,0,0,0,0,0,1451,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5818.76161586678,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2004,943,0,0,0,0,0,0,0,5,938,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2004,9095,0,0,0,0,0,0,0,0,9095,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2004,4424,0,0,0,0,0,0,0,0,0,0,0,0,811,3437,147,0,29,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,2004,1893,0,0,0,0,263,0,0,0,1630,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2004,10726,0,0,0,8,460,23,0,0,685,0,9550,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2004,44,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2004,6694,0,0,0,0,0,0,0,0,6694,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2859.99512169793,2005,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,5414.0338279456,2005,500,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2005,1639,0,0,0,0,0,0,0,0,1639,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2005,1200,0,0,0,0,0,0,0,1,1199,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2005,2614,2580,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2005,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2005,1956,0,0,0,0,500,0,0,0,1000,0,456,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2005,100638,0,0,0,0,0,0,0,0,100638,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2005,3667,0,0,0,0,0,0,0,0,3667,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2005,104,0,0,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2005,179,0,0,0,0,0,0,0,0,0,0,0,0,166,0,11,0,0,2,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,4671.26542379558,2005,258,0,0,0,0,0,0,0,0,258,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2619.23216157957,2005,104,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,54,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2005,8078,0,0,0,0,0,0,0,1110,6959,0,0,0,4,5,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2005,39,0,0,0,0,0,0,0,0,3,1,0,0,0,0,35,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2005,1213,0,0,0,0,0,0,0,0,1213,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2005,6295,0,0,0,0,0,175,0,0,0,0,5748,0,0,372,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2005,36548,0,0,0,0,35027,0,0,700,821,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2005,10215,0,0,0,0,0,0,0,0,10215,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2005,8640,0,0,0,0,0,2082,0,0,2005,0,4553,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2005,6781,0,0,0,0,0,0,0,0,6781,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2005,888,0,0,0,0,0,0,0,0,481,0,0,0,407,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1927.70038845824,2005,2478,0,0,0,0,0,0,0,0,0,0,2478,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2005,1080,0,0,0,0,0,0,0,0,1080,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2005,1710,0,0,0,0,0,0,0,0,1698,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2005,768,0,0,0,0,0,0,0,0,129,0,0,0,639,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,16445.0855228601,2005,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2005,2853,2118,0,160,0,0,0,0,0,0,0,359,0,156,0,10,0,0,50,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2005,17327,6640,0,0,0,0,0,101,0,400,0,597,0,0,9582,7,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2005,1612,0,0,0,0,0,0,0,0,1612,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,9114.57512951578,2005,500,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2005,10089,0,0,6000,0,0,0,0,0,240,0,3849,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,2005,258,0,0,0,0,0,0,0,11,247,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2005,2221,0,0,0,0,42,0,6,0,0,14,2159,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2005,7723,0,0,0,0,6725,0,0,10,988,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,4275.5896445335,2005,440,0,0,0,0,0,0,0,0,440,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2005,39873,0,0,0,0,0,0,0,0,0,0,39833,0,40,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2005,11618,0,0,0,0,0,9400,0,6,2010,0,0,0,0,0,202,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5818.76161586678,2005,16694,0,0,0,0,0,16660,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2005,589,0,0,0,0,0,0,0,1,588,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2005,10253,0,0,0,0,0,0,0,0,10253,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2005,1265,0,0,0,0,0,0,0,0,0,0,0,0,766,22,477,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2005,227,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2005,11771,0,0,0,0,0,11531,0,0,200,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,2005,416,0,0,0,0,0,0,0,0,400,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2005,648,0,0,0,0,0,0,0,0,598,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2005,4576,0,0,0,0,200,0,0,0,4376,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2859.99512169793,2007,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14615.2146989691,2007,52176,0,0,0,0,18,0,0,0,52158,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2007,1418,0,0,0,0,0,0,0,0,1418,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2007,3301,0,0,0,0,0,0,0,1,3264,36,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2007,3386,0,0,0,0,0,0,0,0,3386,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2007,3781,3080,0,0,0,0,0,0,0,0,0,0,0,301,0,400,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,11148.2213599465,2007,350,0,0,0,0,0,0,0,0,350,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,2007,11000,11000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2007,52199,0,0,0,0,18,0,23,0,52158,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2007,1393,0,0,0,0,0,0,0,0,1393,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2007,2532,0,0,0,0,0,0,0,0,0,0,1858,0,674,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,12155.8126251826,2007,110,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,6159.33313999492,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2007,2738,0,0,0,0,0,0,0,111,2560,14,0,0,20,33,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2007,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2007,407,0,0,0,0,0,0,0,0,312,0,0,0,95,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2007,11068,0,0,5,0,0,0,0,1,200,0,6534,0,0,4328,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,2007,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2007,51468,0,0,0,0,42859,0,0,0,8609,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2007,7170,0,0,0,0,0,0,0,0,7170,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2007,722,0,0,0,0,0,0,0,0,697,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13187.738629957,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2007,36,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2007,1000,0,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2007,340,0,0,0,0,0,0,0,0,0,0,0,0,340,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1927.70038845824,2007,39,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,26,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2007,4772,0,0,0,0,0,0,0,0,3705,1067,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2007,562,0,0,0,0,32,20,0,0,0,0,0,0,510,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2007,5423,3240,0,212,0,0,0,0,0,0,0,1480,0,373,0,118,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2007,11845,1043,0,0,0,10,0,0,12,0,0,0,0,294,6896,0,0,3590,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2007,3394,0,0,0,0,0,0,0,0,3394,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,8813.63973799398,2007,300,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2007,2082,0,0,0,0,30,0,0,2,0,79,1898,0,73,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2007,391,0,0,0,0,98,0,0,0,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2007,37833,0,0,0,0,0,0,0,0,0,0,37833,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2007,343,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2007,5404,0,0,0,0,15,0,0,0,5389,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2007,1918,0,0,0,0,34,417,0,0,29,0,1078,0,37,0,217,0,84,22,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2007,759,0,0,0,0,0,0,0,0,759,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2007,469,0,0,0,0,0,0,0,0,456,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2007,222,0,0,0,0,220,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2007,4781,0,0,0,0,0,0,0,0,4781,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AF,Afghanistan,country,South Asia,33.93911,67.709953,7175.32124785973,2008,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2008,291,0,0,0,0,0,0,0,0,291,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2008,210,0,0,0,0,0,0,0,4,199,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,4351.73255247638,2008,75,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2008,14408,1360,0,0,0,0,24,0,5,0,0,11240,0,1761,0,13,0,0,5,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2008,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CA,Canada,country,North America,56.130366,-106.346771,10284.7732097828,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1910.42849883668,2008,1477,1477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2008,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2008,49179,0,0,0,0,24,0,0,0,47869,0,1286,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2008,1299,0,0,0,0,0,0,0,0,1299,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2008,4528,0,0,0,0,0,0,0,0,0,0,4131,0,397,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,1225.4747678103,2008,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,4192.4684610429,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,6159.33313999492,2008,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2008,3516,0,0,2250,0,0,0,0,1050,199,7,0,0,0,10,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2008,29,9,0,0,0,0,1,1,0,0,0,0,0,6,0,12,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2008,557,0,0,0,0,0,0,0,0,550,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2008,6239,0,0,0,0,0,0,0,0,0,0,2986,0,0,3173,55,0,0,25,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2008,51737,0,0,0,0,50541,0,0,0,1130,66,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2008,16281,0,0,0,0,0,0,0,0,16281,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4144.64132988116,2008,37,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2008,113,0,0,0,0,0,0,45,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2008,67,0,0,6,0,0,0,0,18,0,20,0,0,23,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2008,6921,0,0,0,0,0,0,0,0,6921,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2008,249,0,0,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,19,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1927.70038845824,2008,817,0,0,0,0,0,0,0,0,300,0,517,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2008,1912,0,0,0,0,0,0,0,0,1912,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2008,4174,0,0,0,0,0,0,0,0,3869,305,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2008,604,0,0,0,0,107,75,0,31,1,0,79,0,311,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2008,2678,1600,0,0,0,0,0,0,25,0,0,385,0,41,496,126,0,0,5,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2008,39321,27254,0,594,0,0,0,552,0,0,0,845,0,5,8172,1894,0,0,5,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2008,7627,0,0,0,0,0,0,0,0,7627,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2008,12078,0,0,9750,0,0,0,0,0,2328,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2008,1672,0,0,0,0,24,0,0,0,0,95,1462,0,91,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,4265.01643964832,2008,79,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2008,1369,0,0,0,0,1023,0,0,0,346,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2008,25932,0,0,0,0,0,0,0,0,0,0,25932,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2008,206,0,0,0,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2008,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2008,8257,0,0,0,0,110,0,0,0,8147,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2008,9327,0,0,0,0,0,0,2,3,0,0,8641,0,41,0,597,0,0,43,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2008,160,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2008,500,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2008,245,2,0,0,0,0,0,0,0,240,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2008,12897,0,0,0,0,4764,0,0,0,8133,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2009,222,0,0,0,0,0,0,0,33,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,4351.73255247638,2009,298,0,0,0,0,0,0,0,0,298,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2009,4656,880,0,0,0,0,0,0,3,0,0,3000,0,764,0,5,0,0,4,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2009,999,0,0,0,0,0,0,0,0,0,0,998,0,0,0,1,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2009,52910,0,0,0,0,280,0,0,0,52630,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2009,997,0,0,0,0,0,0,0,0,997,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2009,10,0,0,0,0,0,0,0,2,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2009,1063,0,0,0,0,0,0,0,0,0,0,496,0,567,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2619.23216157957,2009,25,19,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,1225.4747678103,2009,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2009,403,0,0,0,0,0,0,0,38,323,0,0,0,32,10,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2009,98,0,0,0,0,0,0,1,0,0,0,40,0,0,0,57,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2009,629,0,0,0,0,0,0,0,0,209,0,420,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2009,1954,92,0,0,0,0,0,0,0,0,0,1799,0,0,1,62,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2009,56554,0,0,0,0,54852,0,0,10,1556,0,0,0,0,0,0,0,0,136,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2009,5946,0,0,0,0,0,0,0,0,5946,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2009,55,0,0,0,0,5,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4382.10450748998,2009,32,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2009,37,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2009,3748,0,0,0,0,0,0,0,0,3748,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2009,801,0,0,0,0,0,0,0,3,0,0,498,0,300,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2009,2938,0,0,0,0,0,0,0,0,2938,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2009,2418,0,0,0,0,0,0,0,9,2220,150,0,0,39,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2009,593,0,0,0,0,96,0,0,0,419,0,39,0,39,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2009,2175,1591,0,92,0,0,0,48,37,0,0,210,0,0,141,6,0,46,4,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2009,208787,139521,0,67,0,0,0,775,156,0,0,500,1,5,27029,3458,0,37270,5,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2009,1992,0,0,0,0,0,0,0,0,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2009,21868,0,0,18150,0,0,2463,0,0,1255,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,4818.60157313146,2009,978,0,0,0,0,0,0,0,0,0,0,978,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2009,899,0,0,0,0,8,0,0,0,0,7,848,0,35,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2009,1651,0,0,0,0,1651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2009,14387,0,0,0,0,16,0,0,0,0,0,14371,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2009,208,0,0,0,0,0,0,0,0,208,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2009,405,0,0,0,0,0,0,0,4,401,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2009,4133,0,0,0,0,202,0,0,0,3931,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2009,12899,300,0,0,0,0,0,0,0,9,0,12236,0,0,32,281,0,0,41,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2009,240,0,0,0,0,0,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2009,149,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,2009,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2009,63,0,0,0,0,0,0,0,0,0,0,0,0,60,0,3,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2009,16,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2009,9469,0,0,0,0,295,0,0,0,9174,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14615.2146989691,2010,64,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2010,1687,0,0,0,0,0,0,0,0,1687,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2010,25,24,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2010,292,280,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2010,3182,0,0,0,0,0,0,0,0,0,0,3182,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2010,315,0,0,0,0,315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2010,35951,0,0,0,0,2188,0,0,0,33678,0,0,0,0,85,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2010,1430,0,0,0,0,0,0,0,0,1430,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2010,348,4,0,0,0,0,0,0,0,0,0,344,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2010,4081,0,0,0,0,0,0,0,0,0,0,4081,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2619.23216157957,2010,101,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2010,362,0,0,0,0,0,0,0,74,71,9,162,0,44,2,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2010,1007,26,0,0,6,0,0,0,0,0,0,944,0,1,0,30,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2010,246,0,0,0,0,17,0,0,0,214,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2010,16547,0,0,0,0,13800,180,0,1,0,0,2534,0,0,0,32,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2010,30698,0,0,0,0,29982,0,0,0,0,3,0,0,0,697,0,0,0,16,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2010,10051,0,0,0,0,0,0,0,0,10051,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2010,16729,0,0,0,0,0,15941,0,0,788,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4382.10450748998,2010,16,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2010,55,0,0,0,0,0,0,0,34,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2010,5173,0,0,0,0,0,0,0,0,5070,0,0,0,0,103,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2010,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2010,399,0,0,0,0,0,0,0,0,399,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2010,1643,0,0,0,0,189,0,0,30,1373,51,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2010,159,0,0,0,0,64,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2010,29827,28131,0,54,0,0,1531,0,17,0,0,0,0,0,0,47,0,0,47,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2010,619258,552378,0,974,0,12,1102,0,0,0,0,74,0,0,10205,0,0,54508,5,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2010,2052,0,0,0,0,50,0,0,0,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2010,11706,0,0,9450,0,0,0,0,0,2256,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2010,553,0,0,0,0,8,0,0,2,0,5,538,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2010,7989,0,0,0,0,7896,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2010,11482,0,0,0,0,0,0,0,0,0,0,11482,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2010,423,0,0,0,0,100,0,0,0,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,5082.76787617995,2010,114,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2010,217,0,0,0,0,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2010,2596,0,0,0,0,28,0,0,0,2568,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2010,11441,842,0,0,0,0,167,0,4,22,0,9769,0,26,49,552,0,0,10,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2010,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2010,2704,0,0,0,0,0,95,0,0,1200,0,1409,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,2010,2236,0,0,0,0,2236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2010,7347,0,0,0,0,823,0,0,0,6524,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2859.99512169793,2012,47,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2012,503,30,0,0,0,0,35,0,5,329,0,0,0,0,104,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2012,3487,0,0,0,0,3487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2012,752,182,0,0,0,0,0,0,230,0,0,200,0,120,0,20,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1126.47429376902,2012,96,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11809.6898192153,2012,2054,0,0,0,0,2054,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2012,70339,160,0,0,0,996,410,20,0,68603,120,0,0,30,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2012,126,0,0,0,0,0,0,0,0,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2012,179,150,9,0,0,0,0,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2012,6505,0,0,0,0,0,0,0,0,0,0,6502,0,3,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,3574.52428919914,2012,366,0,0,0,0,0,0,0,0,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,1225.4747678103,2012,36,0,0,0,0,0,0,0,19,0,0,0,0,16,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,6159.33313999492,2012,5000,0,0,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2012,1025,0,0,0,0,0,0,0,1,260,1,0,0,750,13,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2012,664,2,181,0,0,0,0,0,0,0,0,478,0,0,0,3,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,5427.53596598417,2012,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2012,1280,0,0,0,0,0,0,0,0,1188,0,92,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2012,8491,0,0,0,0,280,0,0,0,0,0,8087,0,0,0,124,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2012,75917,0,0,0,0,74835,57,0,0,937,15,0,0,0,73,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2012,2132,0,0,0,0,0,0,0,0,2132,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2012,282,0,0,0,0,0,0,0,0,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4382.10450748998,2012,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2012,59,0,0,1,0,0,0,0,51,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2012,19899,0,0,0,0,0,0,0,0,17129,0,0,0,0,1962,0,0,0,808,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2012,84,0,0,0,0,0,0,0,82,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1927.70038845824,2012,1020,0,0,0,0,0,0,0,0,0,0,1020,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2012,1093,0,0,0,0,207,0,0,33,746,107,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2012,2280,0,0,0,0,1616,0,0,0,0,0,0,0,0,400,0,0,0,264,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2012,44891,36759,0,400,0,0,0,0,66,0,0,5771,0,1895,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2012,40812,26080,0,0,0,0,0,0,7,0,0,0,0,4557,10168,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2012,1183,0,0,0,0,0,0,0,0,1183,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,2012,176,0,0,0,0,0,0,0,0,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,4984.21525725171,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2012,10292,0,0,10000,0,0,0,0,0,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,12427.5036534903,2012,59,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2012,1045,0,0,0,0,0,0,0,62,0,15,0,0,9,959,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2012,2666,0,0,0,0,2666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2012,4667,0,0,0,0,0,0,0,0,0,0,4667,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2012,2521,0,0,0,0,0,1621,0,37,47,0,0,0,816,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,4684.76494173074,2012,114,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2012,2700,0,0,0,0,0,0,0,0,2700,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2012,3636,1006,0,0,0,624,0,0,0,0,0,658,0,1120,0,228,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2012,497,0,0,0,0,0,0,0,0,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,2012,1898,0,0,0,0,1893,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2012,254,0,10,0,0,0,0,0,0,173,0,71,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2012,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2012,8631,0,0,0,0,5739,0,0,0,2892,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2013,9773,0,0,0,0,0,0,0,0,9773,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4590.23310017964,2013,398,0,0,0,0,0,0,0,8,294,0,0,0,95,1,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,6536.80655966634,2013,144,0,0,0,0,0,0,0,1,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,534.96081910192,2013,13169,7057,0,0,1,0,0,0,449,0,0,5500,0,0,0,162,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CA,Canada,country,North America,56.130366,-106.346771,10284.7732097828,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2074.6541308183,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CN,China,country,East Asia and Pacific,35.86166,104.195397,10464.8569621945,2013,74469,0,0,0,0,2190,1020,0,0,71244,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12423.5755372024,2013,889,0,0,0,0,0,0,0,0,889,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,8468.71590156254,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1835.66744117928,2013,13,0,0,0,0,0,0,1,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,887.881706377971,2013,10387,56,0,0,9,0,0,23,0,0,0,10230,0,1,0,68,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,HR,Croatia,country,Europe and Central Asia,45.1,15.2,4171.84901168472,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2619.23216157957,2013,20,0,0,0,0,0,0,0,0,0,0,19,0,1,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,9009.11946409689,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,3574.52428919914,2013,7958,0,0,0,0,0,0,0,0,7958,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,FR,France,country,Europe and Central Asia,46.227638,2.213749,4109.92131700546,2013,1427,15,18,0,0,32,10,0,103,1136,0,0,1,1,51,60,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1525.96438324403,2013,398,71,233,0,0,0,0,0,0,0,0,0,0,67,0,27,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4718.83391735821,2013,1018,0,0,0,0,0,0,0,0,977,0,40,0,1,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,397.496164792037,2013,7307,0,0,0,0,0,373,0,15,0,0,6708,137,0,0,74,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GD,Grenada,country,Latin America and the Caribbean,12.262776,-61.604171,6982.30519799764,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IN,India,country,South Asia,20.593684,78.96288,8273.46892622074,2013,101049,209,0,0,0,90611,2488,0,0,5077,76,2588,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,12405.6670474404,2013,26159,0,0,0,0,0,0,0,0,26159,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3761.76223775468,2013,660,0,0,0,0,160,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,1334.0749329461,2013,34,6,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2462.71913151541,2013,80,0,0,0,0,0,0,0,50,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,11000.1936771768,2013,15404,0,0,0,0,0,0,0,0,12172,0,0,0,0,0,0,0,0,3232,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2013,238,0,0,0,0,0,0,0,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1927.70038845824,2013,341,0,0,0,0,0,0,0,0,0,0,341,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6888.36549421215,2013,49,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2684.84674622519,2013,1518,0,0,0,0,150,0,0,0,1229,138,0,0,0,0,0,0,0,1,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,10004.5213843326,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,18072.3706504221,2013,24,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4774.9082272955,2013,13522,0,0,12300,0,16,0,0,0,97,0,156,2,0,0,4,0,0,947,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1114.69626262521,2013,30483,15639,0,4840,0,0,0,0,165,0,0,5304,0,1177,3291,67,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,699.275331128129,2013,91831,80096,0,0,0,0,1,0,24,0,0,0,0,1858,9745,107,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PK,Pakistan,country,South Asia,30.375321,69.345116,7295.99602151528,2013,2359,0,0,0,0,0,0,0,0,2359,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,8813.63973799398,2013,296,0,0,0,0,0,0,0,0,296,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,12903.6966509946,2013,295,0,0,0,0,0,0,0,0,295,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3510.07041402688,2013,8415,0,0,0,0,0,0,0,0,1072,0,7343,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,12427.5036534903,2013,1186,0,0,0,0,0,0,0,0,1186,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,4900.90962657152,2013,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1914.73914647364,2013,568,0,0,0,0,0,0,0,129,0,26,5,0,0,408,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,1553.06012251363,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,11257.1142254879,2013,8961,0,0,0,0,5891,0,0,0,3070,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,4275.5896445335,2013,72,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4955.22214046184,2013,11450,0,0,0,0,0,1232,0,0,0,43,10175,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3519.73370468441,2013,2231,0,0,0,0,0,1379,0,0,754,0,0,0,98,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4213.12509710129,2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,10651.0373042459,2013,2811,0,0,0,0,0,0,0,0,2809,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,180.967981740533,2013,2213,66,0,0,0,465,0,0,15,0,0,1209,0,125,0,333,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2834.15329170303,2013,371,0,0,0,0,0,0,0,0,371,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4650.5277846492,2013,327,246,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5691.4738488405,2013,106,0,0,0,0,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5153.48147984477,2013,155,0,0,0,0,0,0,0,0,0,0,155,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,US,USA,country,North America,37.09024,-95.712891,10097.8900517005,2013,90,0,0,0,0,51,0,0,0,0,0,0,0,15,24,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,11459.3788147529,2013,25317,0,0,0,0,16965,336,0,0,7983,33,0,0,0,0,0,0,0,0,0,0,0,0,0

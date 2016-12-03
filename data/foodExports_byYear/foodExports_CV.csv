@@ -1,109 +1,109 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1986,1875,0,0,0,0,0,0,0,1869,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,1998,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1998,21,2,0,0,0,0,0,0,16,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1998,1718,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1716,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,1999,28,2,0,0,0,0,0,0,25,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1999,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1999,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1999,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1999,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,1999,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2000,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2000,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2000,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2000,23,0,0,0,0,0,0,0,0,0,0,0,18,0,0,5,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2001,3323,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3321,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2001,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2005,38,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2005,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2005,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2005,148,77,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2005,68,0,0,6,0,0,0,0,18,0,0,0,0,0,0,42,0,0,2,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2005,123,9,0,4,1,0,0,1,6,0,0,0,19,10,0,72,0,0,1,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2005,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2005,119,11,15,3,1,0,0,7,3,0,0,0,1,12,7,17,0,36,6,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,TL,Timor-Leste,country,East Asia and Pacific,-8.874217,125.727539,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2005,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,CA,Canada,country,North America,56.130366,-106.346771,2006,24,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2006,17,15,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2006,2407,2404,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,2006,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2006,56,0,0,0,0,0,0,0,13,0,0,0,1,5,0,31,0,0,6,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2006,16,0,0,0,0,0,0,0,3,0,0,0,4,2,0,7,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2006,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2006,169,14,15,3,2,0,0,8,4,0,0,0,4,14,6,49,0,39,11,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2007,5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2007,38,0,35,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2007,35,0,0,0,20,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2007,154,16,17,3,1,0,0,10,8,0,0,0,3,18,5,26,0,37,10,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2008,91,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2008,35,11,0,1,0,0,0,0,0,0,0,0,12,8,0,0,0,2,1,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2008,947,947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2009,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2009,20,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,93,25,0,2,0,0,1,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2009,169,61,0,7,0,0,0,0,0,0,0,0,7,7,0,87,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2009,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2010,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IN,India,country,South Asia,20.593684,78.96288,2010,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,31,1,0,2,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2010,115,27,0,4,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2010,56,1,0,0,0,0,0,0,0,0,0,0,5,0,0,50,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2011,45,14,0,0,0,0,0,0,0,0,0,0,0,6,0,25,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2011,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2011,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2011,30,0,0,2,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2011,123,25,0,5,0,0,0,0,0,0,0,0,0,3,0,90,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2011,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2011,71,44,0,0,0,0,0,0,0,0,0,0,0,3,0,24,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,2012,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2012,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2012,80,27,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IN,India,country,South Asia,20.593684,78.96288,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2012,36,5,0,3,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2012,109,33,0,4,0,0,0,0,0,0,0,0,2,4,0,66,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,2012,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2012,136,49,0,0,0,0,0,0,0,0,0,0,0,3,0,84,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,78,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2013,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,56,22,0,3,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2013,143,28,0,4,0,0,0,0,0,0,0,0,0,22,0,89,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2013,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,2013,121,60,0,0,0,0,0,0,0,0,0,0,1,15,0,43,0,0,2,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,1986,1875,0,0,0,0,0,0,0,1869,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,1998,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,1998,21,2,0,0,0,0,0,0,16,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,1998,1718,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1716,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,1999,28,2,0,0,0,0,0,0,25,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4967.72787598703,1999,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,1999,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,1999,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,1999,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,1999,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2000,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,2000,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2000,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2000,23,0,0,0,0,0,0,0,0,0,0,0,18,0,0,5,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1040.28616953733,2000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2001,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2001,3323,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3321,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2001,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,4555.85218208964,2005,38,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,5674.39800188849,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2005,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4967.72787598703,2005,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1692.10114545827,2005,148,77,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13933.4706473527,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2005,68,0,0,6,0,0,0,0,18,0,0,0,0,0,0,42,0,0,2,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2005,123,9,0,4,1,0,0,1,6,0,0,0,19,10,0,72,0,0,1,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,7219.88183241959,2005,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2005,119,11,15,3,1,0,0,7,3,0,0,0,1,12,7,17,0,36,6,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,TL,Timor-Leste,country,East Asia and Pacific,-8.874217,125.727539,16657.9251399748,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4722.78301276122,2005,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2005,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,CA,Canada,country,North America,56.130366,-106.346771,8072.97855018174,2006,24,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2006,17,15,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1692.10114545827,2006,2407,2404,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13933.4706473527,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,1914.32492506637,2006,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2006,56,0,0,0,0,0,0,0,13,0,0,0,1,5,0,31,0,0,6,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2006,16,0,0,0,0,0,0,0,3,0,0,0,4,2,0,7,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,7219.88183241959,2006,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2006,169,14,15,3,2,0,0,8,4,0,0,0,4,14,6,49,0,39,11,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,5518.91303400739,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,979.20732663815,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4967.72787598703,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1692.10114545827,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4524.26901891265,2007,5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2007,38,0,35,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2007,35,0,0,0,20,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,7219.88183241959,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2007,154,16,17,3,1,0,0,10,8,0,0,0,3,18,5,26,0,37,10,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,8108.34417740565,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4722.78301276122,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,2008,91,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,13680.5632318088,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2008,35,11,0,1,0,0,0,0,0,0,0,0,12,8,0,0,0,2,1,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1040.28616953733,2008,947,947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,13585.5231840496,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2009,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4967.72787598703,2009,20,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1692.10114545827,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2009,93,25,0,2,0,0,1,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2009,169,61,0,7,0,0,0,0,0,0,0,0,7,7,0,87,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,13539.2410432863,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2009,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2010,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,2010,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IN,India,country,South Asia,20.593684,78.96288,10690.2480253478,2010,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4524.26901891265,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2010,31,1,0,2,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2010,115,27,0,4,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2010,56,1,0,0,0,0,0,0,0,0,0,0,5,0,0,50,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2011,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4967.72787598703,2011,45,14,0,0,0,0,0,0,0,0,0,0,0,6,0,25,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,2011,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,7024.78999656713,2011,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,7578.04018126363,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2011,30,0,0,2,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2011,123,25,0,5,0,0,0,0,0,0,0,0,0,3,0,90,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,8108.34417740565,2011,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2011,71,44,0,0,0,0,0,0,0,0,0,0,0,3,0,24,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4608.68262493971,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,4084.32223068711,2012,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,FR,France,country,Europe and Central Asia,46.227638,2.213749,4150.98889808128,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,979.20732663815,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2656.39991575559,2012,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1062.45954072356,2012,80,27,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,IN,India,country,South Asia,20.593684,78.96288,10690.2480253478,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2012,36,5,0,3,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2012,109,33,0,4,0,0,0,0,0,0,0,0,2,4,0,66,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,3796.02704174096,2012,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2012,136,49,0,0,0,0,0,0,0,0,0,0,0,3,0,84,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,13813.516728723,2012,78,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4608.68262493971,2013,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2656.39991575559,2013,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,4638.70684226144,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4779.12241363511,2013,56,22,0,3,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3023.29495713428,2013,143,28,0,4,0,0,0,0,0,0,0,0,0,22,0,89,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1040.28616953733,2013,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3352.96785007954,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,US,USA,country,North America,37.09024,-95.712891,7345.13199095978,2013,121,60,0,0,0,0,0,0,0,0,0,0,1,15,0,43,0,0,2,0,0,0,0,0

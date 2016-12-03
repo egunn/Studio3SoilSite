@@ -1,350 +1,350 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1999,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,1999,48036,20228,0,0,27146,0,0,574,37,0,0,45,6,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,1999,277,246,0,22,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1999,12,3,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,1999,17238,15876,97,670,0,0,0,115,7,0,5,0,0,450,0,2,0,0,16,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1999,16,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1999,144,11,0,0,0,0,42,0,0,0,0,0,85,6,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1999,61149,14401,8074,576,8899,0,1119,524,3533,154,5974,14710,24,1369,85,1017,108,144,516,30,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1999,41,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1999,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,1999,21,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1999,896,7,0,0,889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,1999,166,0,0,0,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,1999,228,0,0,0,0,0,162,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,1999,78,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1999,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1999,102,0,0,0,0,0,83,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,1999,3295,647,0,0,0,0,2592,0,0,0,0,0,6,1,0,49,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2003,28,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2003,26,21,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,2003,20565,298,0,0,18186,0,10,31,0,0,0,2016,20,4,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2003,198,180,0,0,0,0,0,0,0,0,0,0,1,14,0,3,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2003,9,0,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2003,360,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,2003,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2003,18,6,0,0,0,0,0,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2003,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2003,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,2003,22,0,0,0,0,0,0,16,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2003,46,0,0,0,0,0,0,0,0,0,22,0,23,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2003,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,2003,116725,12346,341,24863,10596,913,823,987,3660,127,5172,40548,1892,6347,4644,1786,10,0,430,1250,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,55,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,12,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2003,84,3,0,0,0,0,0,0,0,0,26,0,23,30,0,0,0,0,0,2,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2003,22,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2003,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,2003,595,0,0,0,0,0,0,0,0,0,470,0,113,12,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2003,11269,0,0,11269,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2003,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2003,646,0,0,0,0,0,175,0,0,0,468,0,0,3,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2003,30,9,0,1,0,0,0,0,0,0,1,0,0,11,0,8,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2003,2100,0,0,141,1812,0,0,0,0,0,1,0,0,0,0,146,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2003,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2003,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2003,281,0,0,0,0,0,0,0,0,0,253,0,0,26,0,2,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2003,52,0,0,0,0,0,0,0,0,0,0,0,1,0,0,51,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,2003,793,249,0,0,108,0,36,47,0,0,6,0,148,199,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,2009,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2009,1003,331,0,0,656,0,1,0,0,0,0,0,0,2,11,2,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2009,107,40,0,0,66,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,2009,80109,43608,0,12,34801,0,0,5,0,0,10,1628,0,45,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2009,14,1,0,0,0,0,0,0,0,0,0,0,1,3,3,6,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2009,301,268,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2009,48,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,2009,856,0,0,0,853,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2009,121,8,0,0,0,0,0,102,0,0,0,0,1,4,0,6,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2009,3315,1586,63,613,0,0,2,1,133,26,5,0,23,149,650,59,0,5,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2009,20,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2009,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2009,178,0,0,0,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2009,2732,376,0,0,2356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,2009,189,0,0,0,185,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2009,225,0,0,0,120,0,0,0,0,0,9,0,55,41,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,2009,212221,6297,254,27247,3828,5933,340,5274,40342,75,36986,43728,9466,25260,4287,63,0,0,1148,1693,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2009,34,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,25,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2009,722,0,0,0,722,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2009,167,0,0,0,0,0,0,0,0,0,44,0,41,75,0,6,0,0,0,1,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2009,568,5,0,0,563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2009,154,0,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2009,1065,850,0,0,190,0,0,0,0,0,0,0,4,21,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2009,72,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,314,0,0,0,0,0,0,0,0,0,0,0,7,307,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2009,88,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,2009,203,0,0,0,0,0,0,0,0,0,146,0,14,36,0,0,0,0,0,7,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2009,241,163,0,0,68,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2009,333,238,0,0,71,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2009,807,0,0,0,807,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2009,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2009,223,0,0,0,221,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2009,3166,1467,0,0,1665,1,0,21,0,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2009,1344,0,0,0,1344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2009,565,0,0,0,565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,2009,618,0,0,0,618,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2009,20,0,0,0,0,0,6,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2009,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2009,4227,0,0,0,4227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2009,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2009,4514,614,0,0,3783,0,0,0,0,0,50,0,0,67,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2009,934,468,0,13,382,0,0,0,19,0,0,0,13,13,1,0,0,25,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,2009,3303,1406,0,0,1794,0,1,0,12,7,0,9,32,40,0,2,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,2009,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2009,1270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1270,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2010,60,55,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2010,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2010,48,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,2010,34584,215,0,0,30625,0,0,0,10,0,185,3513,0,36,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2010,75,0,0,0,0,0,0,0,0,0,10,32,1,5,18,9,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2010,441,292,0,0,100,0,0,0,0,0,0,0,2,42,0,0,18,5,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2010,61,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,41,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,2010,400,5,0,0,355,0,0,0,0,0,0,0,27,13,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2010,30,8,0,0,0,0,0,0,6,0,0,0,0,2,0,14,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2010,2614,1718,0,159,0,0,7,1,259,12,2,0,48,110,239,53,0,0,0,6,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2010,158,0,0,0,0,0,0,0,0,0,0,0,157,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2010,39,0,0,0,0,0,0,0,0,3,0,0,0,36,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2010,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,8,0,0,0,0,0,0,0,0,3,0,0,1,4,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2010,376,0,0,0,0,0,0,0,0,0,0,0,53,302,0,0,0,0,0,21,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2010,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,2010,166291,6299,0,795,169,7978,233,3913,17744,4,36495,31433,8207,31875,3354,16367,0,56,7,1362,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2010,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,299,0,0,0,299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2010,251,4,0,0,1,0,0,0,0,0,97,0,22,56,0,71,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,2010,92,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2010,50,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2010,11,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2010,10,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2010,957,8,0,0,930,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,119,0,0,0,0,0,0,0,0,0,0,0,1,118,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2010,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2010,15,11,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,2010,116,0,0,0,0,0,0,0,0,0,21,0,0,45,0,0,0,0,50,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2010,24,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,11,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2010,196,189,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2010,12,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2010,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2010,96,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2010,216,0,0,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2010,264,61,0,0,198,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2010,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2010,1781,0,0,0,1778,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,2010,162,0,0,0,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2010,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2010,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2010,903,48,0,0,749,0,0,0,0,0,61,0,0,45,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2010,346,101,0,0,149,0,0,0,0,0,0,0,1,0,73,22,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,2010,1880,42,10,1,1625,0,0,1,0,0,0,19,9,162,0,9,0,0,2,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,2010,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2010,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,393,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2011,140,68,0,0,24,0,0,0,0,18,10,0,4,2,0,14,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2011,30,5,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,2011,26498,0,0,32,22001,0,0,0,0,1,22,4281,0,161,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2011,23,5,0,0,0,0,0,0,0,0,0,1,7,1,0,9,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2011,172,97,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,3,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,2011,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,2011,24,0,0,0,0,0,0,0,0,0,0,0,15,9,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2011,117,46,0,0,0,0,0,0,0,0,0,0,1,4,0,66,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2011,4088,3143,0,225,0,3,0,19,205,22,10,60,60,262,63,0,0,2,14,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2011,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2011,35,0,0,0,0,0,0,0,0,0,0,0,34,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2011,90,0,0,0,0,0,0,0,0,0,1,0,89,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,9,0,0,0,0,0,0,1,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2011,3148,0,0,0,0,0,0,0,0,0,0,0,116,3032,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2011,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,2011,170361,6492,53,6348,224,14788,352,5378,40236,354,22480,44896,8201,18647,1880,0,1,28,4,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2011,17,0,0,0,0,0,0,0,0,0,0,0,2,15,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2011,251,36,0,0,0,0,0,0,0,0,74,0,26,6,0,109,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2011,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,2011,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2011,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2011,270,194,0,0,0,0,0,0,0,0,0,0,25,51,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MV,Maldives,country,South Asia,3.202778,73.22068,2011,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2011,34,0,0,0,0,0,15,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,2011,206,0,0,0,0,0,0,0,0,0,0,0,151,30,0,0,0,0,25,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,2011,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2011,365,349,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2011,111,0,0,0,0,0,0,0,0,0,1,0,76,1,0,33,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2011,289,0,0,0,0,0,0,0,0,0,0,0,289,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2011,29,22,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2011,973,594,0,0,325,0,0,3,0,0,0,30,0,21,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2011,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2011,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2011,3,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2011,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2011,916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2011,8,0,0,0,0,0,0,0,0,0,5,0,2,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2011,248,78,0,0,0,17,0,0,0,74,14,0,1,62,2,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2011,495,266,0,0,2,0,144,0,0,0,3,36,7,15,0,22,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,2011,457,87,0,0,0,0,0,0,31,0,0,83,9,233,0,9,0,0,5,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2011,1455,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,1305,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AF,Afghanistan,country,South Asia,33.93911,67.709953,2012,1011,0,0,0,0,0,0,0,0,0,0,0,0,1011,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2012,124,87,0,0,0,0,0,1,4,0,5,0,9,7,2,9,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2012,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,2012,32901,0,0,8,30121,0,0,0,0,0,21,2619,0,132,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2012,7,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2012,53,14,0,0,0,0,0,0,0,0,0,12,0,27,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,2012,15,0,0,0,0,0,0,0,0,0,1,0,10,3,0,0,0,1,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2012,374,53,0,0,4,0,0,0,10,0,0,24,0,4,0,6,0,273,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,4773,2980,49,25,1,9,5,300,33,130,17,134,50,955,1,3,0,56,0,25,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2012,14,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2012,25,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2012,34,0,0,0,0,0,0,0,0,0,4,0,2,2,0,26,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,12,0,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2012,181,0,0,0,0,0,0,0,0,1,0,0,127,53,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,2012,210404,4547,309,15137,3105,0,0,7233,47074,1078,59809,43973,9464,16944,1668,0,0,58,5,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2012,51,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2012,223,1,0,0,0,0,0,0,0,17,26,0,19,35,0,125,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2012,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2012,435,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,409,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2012,462,98,0,0,0,0,0,0,9,0,0,0,9,346,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2012,4,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2012,42,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,2012,216,0,0,0,0,0,0,0,0,0,0,0,102,64,0,0,0,0,50,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2012,405,400,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2012,87,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LC,St. Lucia,country,Latin America and the Caribbean,13.909444,-60.978893,2012,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2012,561,40,0,0,348,0,0,3,0,0,0,138,0,32,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2012,94,0,0,0,0,0,0,0,0,0,0,48,0,46,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2012,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2012,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2012,14,0,0,0,0,0,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2012,3525,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,3508,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2012,94,0,0,0,0,0,0,0,0,0,0,0,1,93,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2012,346,65,0,0,49,0,0,0,0,18,8,0,1,205,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2012,209,140,0,1,0,0,6,2,0,0,0,0,6,54,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,2012,343,30,0,0,0,0,0,0,0,0,17,69,8,193,0,17,0,0,9,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,3382,0,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,3247,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AF,Afghanistan,country,South Asia,33.93911,67.709953,2013,2851,0,0,0,0,0,0,0,0,0,0,0,0,2851,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2013,121,65,0,1,7,0,0,2,0,0,2,0,1,11,0,32,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2013,23,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,2013,13936,0,0,0,11681,0,0,0,15,0,0,2174,0,66,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,28,7,0,0,0,0,0,0,0,0,0,0,0,5,0,16,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,2013,61,9,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,1,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,BN,Brunei Darussalam,country,,4.535277,114.727669,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,2013,15,0,0,0,0,0,0,0,0,0,0,2,6,7,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2013,93,55,0,0,0,0,0,0,0,6,0,0,0,18,0,14,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,4913,2851,2,14,0,5,3,93,145,53,10,4,59,1599,0,3,0,0,2,70,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2013,26,0,0,0,0,0,0,0,0,0,0,0,3,20,0,0,0,0,0,3,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2013,40,0,0,0,0,0,0,0,0,0,0,0,39,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2013,141,0,0,0,76,0,0,0,0,0,3,0,20,0,0,42,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,2013,15,0,0,0,0,0,0,1,0,0,0,0,2,12,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2013,207,62,0,0,0,0,0,0,1,0,0,0,121,23,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2013,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,2013,179806,4624,430,3952,23,0,256,9496,54818,1530,42875,28663,9881,19868,3390,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2013,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2013,17,0,0,0,0,0,0,0,0,0,0,0,2,7,8,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2013,182,11,0,0,3,0,0,0,1,15,3,1,36,15,0,97,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2013,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2013,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2013,711,119,0,0,0,0,0,6,0,0,0,0,3,583,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,13,0,0,0,0,0,0,0,0,0,0,0,1,12,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,2013,51,5,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2013,334,333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2013,53,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2013,634,0,0,0,601,0,0,3,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2013,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2013,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2013,3191,0,0,0,24,0,0,0,0,0,0,0,0,18,0,0,0,3149,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,2013,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2013,164,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2013,433,115,0,0,0,0,0,0,0,0,0,0,1,317,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2013,414,283,0,1,5,0,7,0,0,0,4,0,2,112,0,0,0,0,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,2013,535,70,0,1,7,0,2,5,2,0,5,191,42,132,0,21,0,0,54,3,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2013,1904,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,1876,0,0,0,0,0,0
-NP,Nepal,country,South Asia,28.394857,84.124008,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,2013,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,1999,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,1999,48036,20228,0,0,27146,0,0,574,37,0,0,45,6,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,1999,277,246,0,22,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,1999,12,3,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2061.47399745378,1999,17238,15876,97,670,0,0,0,115,7,0,5,0,0,450,0,2,0,0,16,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,1999,16,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,1999,144,11,0,0,0,0,42,0,0,0,0,0,85,6,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5873.89761942446,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,1999,61149,14401,8074,576,8899,0,1119,524,3533,154,5974,14710,24,1369,85,1017,108,144,516,30,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7668.68387756516,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,1999,41,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,1999,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,1999,21,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,1999,896,7,0,0,889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,4162.29350818874,1999,166,0,0,0,166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,1999,228,0,0,0,0,0,162,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7850.43749907654,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2311.45170969984,1999,78,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,1999,14,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,1999,102,0,0,0,0,0,83,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,1999,3295,647,0,0,0,0,2592,0,0,0,0,0,6,1,0,49,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,2003,28,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3317.36224363545,2003,26,21,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2003,20565,298,0,0,18186,0,10,31,0,0,0,2016,20,4,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,2003,198,180,0,0,0,0,0,0,0,0,0,0,1,14,0,3,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,16465.1945427184,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,15245.7137962761,2003,9,0,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,5429.90709938947,2003,360,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,2003,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,2003,18,6,0,0,0,0,0,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2061.47399745378,2003,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.79734918473,2003,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,4155.9112299375,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6493.30392057705,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,5616.70921207593,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,2003,22,0,0,0,0,0,0,16,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,2003,46,0,0,0,0,0,0,0,0,0,22,0,23,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,5776.09497067139,2003,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5873.89761942446,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,2003,116725,12346,341,24863,10596,913,823,987,3660,127,5172,40548,1892,6347,4644,1786,10,0,430,1250,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,2003,55,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,12,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,2003,84,3,0,0,0,0,0,0,0,0,26,0,23,30,0,0,0,0,0,2,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,5846.54138118361,2003,22,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,2003,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,6521.92843401824,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,2003,595,0,0,0,0,0,0,0,0,0,470,0,113,12,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,4261.44957730168,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,8248.58703025082,2003,11269,0,0,11269,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,4162.29350818874,2003,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,2003,646,0,0,0,0,0,175,0,0,0,468,0,0,3,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,9230.29860206666,2003,30,9,0,1,0,0,0,0,0,0,1,0,0,11,0,8,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7850.43749907654,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2311.45170969984,2003,2100,0,0,141,1812,0,0,0,0,0,1,0,0,0,0,146,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,2003,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,2003,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3073.26665819842,2003,281,0,0,0,0,0,0,0,0,0,253,0,0,26,0,2,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,2003,52,0,0,0,0,0,0,0,0,0,0,0,1,0,0,51,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,2003,793,249,0,0,108,0,36,47,0,0,6,0,148,199,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,12072.7731676905,2009,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,2009,1003,331,0,0,656,0,1,0,0,0,0,0,0,2,11,2,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3317.36224363545,2009,107,40,0,0,66,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2009,80109,43608,0,12,34801,0,0,5,0,0,10,1628,0,45,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,2009,14,1,0,0,0,0,0,0,0,0,0,0,1,3,3,6,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,2009,301,268,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,15245.7137962761,2009,48,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,2009,856,0,0,0,853,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,2009,121,8,0,0,0,0,0,102,0,0,0,0,1,4,0,6,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2061.47399745378,2009,3315,1586,63,613,0,0,2,1,133,26,5,0,23,149,650,59,0,5,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,15595.5119000576,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.79734918473,2009,20,0,0,0,0,0,0,0,0,0,0,0,19,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,4155.9112299375,2009,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6493.30392057705,2009,178,0,0,0,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,5218.91855844219,2009,2732,376,0,0,2356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,5616.70921207593,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,2009,189,0,0,0,185,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,2009,225,0,0,0,120,0,0,0,0,0,9,0,55,41,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5873.89761942446,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,2009,212221,6297,254,27247,3828,5933,340,5274,40342,75,36986,43728,9466,25260,4287,63,0,0,1148,1693,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7668.68387756516,2009,34,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,25,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4733.7052911463,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,2009,722,0,0,0,722,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,2009,167,0,0,0,0,0,0,0,0,0,44,0,41,75,0,6,0,0,0,1,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,3559.39538936961,2009,568,5,0,0,563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4597.49557234851,2009,154,0,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,2009,1065,850,0,0,190,0,0,0,0,0,0,0,4,21,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,8507.99242827891,2009,72,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,2009,314,0,0,0,0,0,0,0,0,0,0,0,7,307,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,6521.92843401824,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2939.76322452672,2009,88,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,2009,203,0,0,0,0,0,0,0,0,0,146,0,14,36,0,0,0,0,0,7,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,4261.44957730168,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5884.04610997706,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,8248.58703025082,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,3278.22469513691,2009,241,163,0,0,68,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,4162.29350818874,2009,333,238,0,0,71,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,2009,807,0,0,0,807,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,10069.5435750729,2009,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,10143.3541603045,2009,223,0,0,0,221,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,2009,3166,1467,0,0,1665,1,0,21,0,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5851.32266308888,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7850.43749907654,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2311.45170969984,2009,1344,0,0,0,1344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5825.51645722112,2009,565,0,0,0,565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,14459.1127280441,2009,618,0,0,0,618,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,2009,20,0,0,0,0,0,6,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,2009,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4620.73853019428,2009,4227,0,0,0,4227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5006.10759892256,2009,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3073.26665819842,2009,4514,614,0,0,3783,0,0,0,0,0,50,0,0,67,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,2009,934,468,0,13,382,0,0,0,19,0,0,0,13,13,1,0,0,25,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,2009,3303,1406,0,0,1794,0,1,0,12,7,0,9,32,40,0,2,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,15047.3424242177,2009,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2961.13277242649,2009,1270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1270,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,2010,60,55,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,2010,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3317.36224363545,2010,48,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2010,34584,215,0,0,30625,0,0,0,10,0,185,3513,0,36,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,2010,75,0,0,0,0,0,0,0,0,0,10,32,1,5,18,9,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,2010,441,292,0,0,100,0,0,0,0,0,0,0,2,42,0,0,18,5,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,5429.90709938947,2010,61,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,41,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,2010,400,5,0,0,355,0,0,0,0,0,0,0,27,13,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,2010,30,8,0,0,0,0,0,0,6,0,0,0,0,2,0,14,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,2010,2614,1718,0,159,0,0,7,1,259,12,2,0,48,110,239,53,0,0,0,6,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.79734918473,2010,158,0,0,0,0,0,0,0,0,0,0,0,157,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6493.30392057705,2010,39,0,0,0,0,0,0,0,0,3,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,5616.70921207593,2010,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,2010,8,0,0,0,0,0,0,0,0,3,0,0,1,4,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,2010,376,0,0,0,0,0,0,0,0,0,0,0,53,302,0,0,0,0,0,21,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,5776.09497067139,2010,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,7763.98816182144,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,2010,166291,6299,0,795,169,7978,233,3913,17744,4,36495,31433,8207,31875,3354,16367,0,56,7,1362,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,4544.0991891697,2010,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2946.14448765021,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7668.68387756516,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4733.7052911463,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,2010,299,0,0,0,299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,2010,251,4,0,0,1,0,0,0,0,0,97,0,22,56,0,71,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,4611.39787036574,2010,92,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2639.30875878995,2010,50,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,5846.54138118361,2010,11,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,3559.39538936961,2010,10,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,2010,957,8,0,0,930,0,0,0,0,0,0,0,9,10,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,2010,119,0,0,0,0,0,0,0,0,0,0,0,1,118,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,12097.6790760783,2010,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,6521.92843401824,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2939.76322452672,2010,15,11,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,2010,116,0,0,0,0,0,0,0,0,0,21,0,0,45,0,0,0,0,50,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,4261.44957730168,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5884.04610997706,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,8248.58703025082,2010,24,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,11,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,3278.22469513691,2010,196,189,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,4162.29350818874,2010,12,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,2010,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,2010,96,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,4792.39923737058,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,10143.3541603045,2010,216,0,0,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,2010,264,61,0,0,198,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,6227.16954358637,2010,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2311.45170969984,2010,1781,0,0,0,1778,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,14459.1127280441,2010,162,0,0,0,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,2010,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,2010,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3073.26665819842,2010,903,48,0,0,749,0,0,0,0,0,61,0,0,45,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,2010,346,101,0,0,149,0,0,0,0,0,0,0,1,0,73,22,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,2010,1880,42,10,1,1625,0,0,1,0,0,0,19,9,162,0,9,0,0,2,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,15047.3424242177,2010,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2961.13277242649,2010,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,393,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,2011,140,68,0,0,24,0,0,0,0,18,10,0,4,2,0,14,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3317.36224363545,2011,30,5,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2011,26498,0,0,32,22001,0,0,0,0,1,22,4281,0,161,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,2011,23,5,0,0,0,0,0,0,0,0,0,1,7,1,0,9,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,2011,172,97,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,3,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,6048.25428312132,2011,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,2011,24,0,0,0,0,0,0,0,0,0,0,0,15,9,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,2011,117,46,0,0,0,0,0,0,0,0,0,0,1,4,0,66,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2061.47399745378,2011,4088,3143,0,225,0,3,0,19,205,22,10,60,60,262,63,0,0,2,14,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,2011,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.79734918473,2011,35,0,0,0,0,0,0,0,0,0,0,0,34,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,4155.9112299375,2011,90,0,0,0,0,0,0,0,0,0,1,0,89,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6493.30392057705,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,5616.70921207593,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,2011,9,0,0,0,0,0,0,1,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,2011,3148,0,0,0,0,0,0,0,0,0,0,0,116,3032,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,5776.09497067139,2011,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5873.89761942446,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,2011,170361,6492,53,6348,224,14788,352,5378,40236,354,22480,44896,8201,18647,1880,0,1,28,4,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2946.14448765021,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4733.7052911463,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,2011,17,0,0,0,0,0,0,0,0,0,0,0,2,15,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,2011,251,36,0,0,0,0,0,0,0,0,74,0,26,6,0,109,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,4611.39787036574,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,3559.39538936961,2011,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,5571.82021353353,2011,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,6605.47509963253,2011,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,2011,270,194,0,0,0,0,0,0,0,0,0,0,25,51,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MV,Maldives,country,South Asia,3.202778,73.22068,3033.27303522348,2011,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,14201.5231747772,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,2011,34,0,0,0,0,0,15,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,12097.6790760783,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,6521.92843401824,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2939.76322452672,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,2011,206,0,0,0,0,0,0,0,0,0,0,0,151,30,0,0,0,0,25,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,16264.4085810545,2011,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,4261.44957730168,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5884.04610997706,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,3278.22469513691,2011,365,349,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,4162.29350818874,2011,111,0,0,0,0,0,0,0,0,0,1,0,76,1,0,33,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,2011,289,0,0,0,0,0,0,0,0,0,0,0,289,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,2011,29,22,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,2011,973,594,0,0,325,0,0,3,0,0,0,30,0,21,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,6227.16954358637,2011,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,9230.29860206666,2011,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7850.43749907654,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2311.45170969984,2011,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,2011,3,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,2011,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,2011,916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,6267.30173757848,2011,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5006.10759892256,2011,8,0,0,0,0,0,0,0,0,0,5,0,2,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3073.26665819842,2011,248,78,0,0,0,17,0,0,0,74,14,0,1,62,2,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,2011,495,266,0,0,2,0,144,0,0,0,3,36,7,15,0,22,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,2011,457,87,0,0,0,0,0,0,31,0,0,83,9,233,0,9,0,0,5,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2961.13277242649,2011,1455,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,1305,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AF,Afghanistan,country,South Asia,33.93911,67.709953,1678.34616927823,2012,1011,0,0,0,0,0,0,0,0,0,0,0,0,1011,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,2012,124,87,0,0,0,0,0,1,4,0,5,0,9,7,2,9,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,2012,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2012,32901,0,0,8,30121,0,0,0,0,0,21,2619,0,132,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,2012,7,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,2012,53,14,0,0,0,0,0,0,0,0,0,12,0,27,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,15245.7137962761,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,2012,15,0,0,0,0,0,0,0,0,0,1,0,10,3,0,0,0,1,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,2012,374,53,0,0,4,0,0,0,10,0,0,24,0,4,0,6,0,273,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2061.47399745378,2012,4773,2980,49,25,1,9,5,300,33,130,17,134,50,955,1,3,0,56,0,25,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,2012,14,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.79734918473,2012,25,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,4155.9112299375,2012,34,0,0,0,0,0,0,0,0,0,4,0,2,2,0,26,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6493.30392057705,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,2012,12,0,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,2012,181,0,0,0,0,0,0,0,0,1,0,0,127,53,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5873.89761942446,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,2012,210404,4547,309,15137,3105,0,0,7233,47074,1078,59809,43973,9464,16944,1668,0,0,58,5,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,4544.0991891697,2012,51,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4733.7052911463,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,2012,223,1,0,0,0,0,0,0,0,17,26,0,19,35,0,125,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,5846.54138118361,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,3559.39538936961,2012,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2090.88294088015,2012,435,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,409,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4597.49557234851,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,5591.45946018303,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,2012,462,98,0,0,0,0,0,0,9,0,0,0,9,346,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,2012,4,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,12097.6790760783,2012,42,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,15302.8391463317,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,2012,216,0,0,0,0,0,0,0,0,0,0,0,102,64,0,0,0,0,50,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,4261.44957730168,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5884.04610997706,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,3278.22469513691,2012,405,400,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,2012,87,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LC,St. Lucia,country,Latin America and the Caribbean,13.909444,-60.978893,14012.457927366,2012,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,10069.5435750729,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,2012,561,40,0,0,348,0,0,3,0,0,0,138,0,32,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,6227.16954358637,2012,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,9230.29860206666,2012,94,0,0,0,0,0,0,0,0,0,0,48,0,46,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7850.43749907654,2012,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2311.45170969984,2012,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,2012,14,0,0,0,0,0,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,2012,3525,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,3508,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,6267.30173757848,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5006.10759892256,2012,94,0,0,0,0,0,0,0,0,0,0,0,1,93,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3073.26665819842,2012,346,65,0,0,49,0,0,0,0,18,8,0,1,205,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,2012,209,140,0,1,0,0,6,2,0,0,0,0,6,54,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,2012,343,30,0,0,0,0,0,0,0,0,17,69,8,193,0,17,0,0,9,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2961.13277242649,2012,3382,0,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,3247,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,7617.97346916388,2012,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AF,Afghanistan,country,South Asia,33.93911,67.709953,1678.34616927823,2013,2851,0,0,0,0,0,0,0,0,0,0,0,0,2851,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,7995.05045900044,2013,121,65,0,1,7,0,0,2,0,0,2,0,1,11,0,32,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6242.68707939948,2013,23,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2013,13936,0,0,0,11681,0,0,0,15,0,0,2174,0,66,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6916.43772602256,2013,28,7,0,0,0,0,0,0,0,0,0,0,0,5,0,16,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BT,Bhutan,country,South Asia,27.514162,90.433601,628.045857469267,2013,61,9,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,1,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BN,Brunei Darussalam,country,,4.535277,114.727669,4184.55767598397,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CA,Canada,country,North America,56.130366,-106.346771,10575.9145042578,2013,15,0,0,0,0,0,0,0,0,0,0,2,6,7,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,3079.87405816682,2013,93,55,0,0,0,0,0,0,0,6,0,0,0,18,0,14,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CN,China,country,East Asia and Pacific,35.86166,104.195397,2061.47399745378,2013,4913,2851,2,14,0,5,3,93,145,53,10,4,59,1599,0,3,0,0,2,70,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,3706.78779401106,2013,26,0,0,0,0,0,0,0,0,0,0,0,3,20,0,0,0,0,0,3,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.79734918473,2013,40,0,0,0,0,0,0,0,0,0,0,0,39,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,4155.9112299375,2013,141,0,0,0,76,0,0,0,0,0,3,0,20,0,0,42,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6493.30392057705,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,FR,France,country,Europe and Central Asia,46.227638,2.213749,7190.58204009104,2013,15,0,0,0,0,0,0,1,0,0,0,0,2,12,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6489.63924449834,2013,207,62,0,0,0,0,0,0,1,0,0,0,121,23,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,5776.09497067139,2013,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5873.89761942446,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IN,India,country,South Asia,20.593684,78.96288,1013.30590520056,2013,179806,4624,430,3952,23,0,256,9496,54818,1530,42875,28663,9881,19868,3390,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4733.7052911463,2013,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6496.09748516871,2013,17,0,0,0,0,0,0,0,0,0,0,0,2,7,8,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,5101.4332242701,2013,182,11,0,0,3,0,0,0,1,15,3,1,36,15,0,97,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,5846.54138118361,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,3559.39538936961,2013,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,2090.88294088015,2013,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4597.49557234851,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,5591.45946018303,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,6815.53672352169,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,3288.63818315048,2013,711,119,0,0,0,0,0,6,0,0,0,0,3,583,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6825.56367989948,2013,13,0,0,0,0,0,0,0,0,0,0,0,1,12,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,6521.92843401824,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PK,Pakistan,country,South Asia,30.375321,69.345116,1449.2782429293,2013,51,5,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5884.04610997706,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,3278.22469513691,2013,334,333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,4006.93378263094,2013,53,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3917.21240613653,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3667.15763807628,2013,634,0,0,0,601,0,0,3,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5851.32266308888,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,9230.29860206666,2013,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7850.43749907654,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5960.57560780096,2013,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6727.30807197146,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2224.49042593472,2013,3191,0,0,0,24,0,0,0,0,0,0,0,0,18,0,0,0,3149,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,6267.30173757848,2013,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5006.10759892256,2013,164,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3073.26665819842,2013,433,115,0,0,0,0,0,0,0,0,0,0,1,317,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7305.99621545021,2013,414,283,0,1,5,0,7,0,0,0,4,0,2,112,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,US,USA,country,North America,37.09024,-95.712891,12747.7207595067,2013,535,70,0,1,7,0,2,5,2,0,5,191,42,132,0,21,0,0,54,3,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2961.13277242649,2013,1904,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,1876,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,3925.27684691306,2013,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0

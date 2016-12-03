@@ -1,59 +1,59 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1986,38741,0,0,0,0,0,0,0,0,0,0,0,0,38741,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1986,19490,0,0,0,0,0,0,0,0,0,0,0,0,19417,0,0,0,0,0,73,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1986,6872,0,0,0,0,0,0,0,0,0,0,0,0,6872,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1986,74,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1989,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,63,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1989,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1989,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1991,89,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,54,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,1991,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1991,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1991,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1996,760,0,0,0,0,0,0,0,0,0,0,756,0,0,0,0,0,0,0,4,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1996,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,1996,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1996,299,0,0,0,0,0,0,0,0,0,0,299,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1996,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1996,2796,0,0,0,0,0,0,0,0,47,0,2749,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1997,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,58,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1997,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,5,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,1997,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1997,5661,0,0,0,0,0,0,0,0,0,0,5661,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1998,399,0,0,0,0,0,0,0,0,0,0,394,0,0,0,5,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1998,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,1998,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,38,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1998,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1998,5472,0,0,0,0,0,0,0,0,25,0,5447,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,CA,Canada,country,North America,56.130366,-106.346771,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1999,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,14,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1999,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,1999,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,31,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,1999,278,0,0,0,0,0,0,0,0,0,0,278,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1999,3893,0,0,0,0,0,0,0,0,10,0,3883,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,CA,Canada,country,North America,56.130366,-106.346771,2009,747,0,0,0,0,0,0,0,0,0,0,0,0,747,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2009,17589,0,0,0,0,0,0,0,0,0,0,0,0,17561,0,28,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,2009,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,2009,12893,0,0,0,0,0,0,0,0,0,0,0,0,12880,0,13,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2009,570,0,0,0,0,0,0,0,0,0,0,0,0,570,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,1631,0,0,0,0,0,0,0,0,0,0,0,0,1631,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2009,17385,0,0,0,0,0,0,0,0,0,0,6499,0,10879,0,0,0,0,0,7,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2009,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2009,541,0,0,0,0,0,0,0,0,0,0,0,0,541,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1986,38741,0,0,0,0,0,0,0,0,0,0,0,0,38741,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1693.87731709454,1986,19490,0,0,0,0,0,0,0,0,0,0,0,0,19417,0,0,0,0,0,73,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,1986,6872,0,0,0,0,0,0,0,0,0,0,0,0,6872,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1986,74,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1989,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,63,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,1693.87731709454,1989,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1309.67688145428,1989,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1991,89,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,54,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,1991,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1309.67688145428,1991,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1991,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1996,760,0,0,0,0,0,0,0,0,0,0,756,0,0,0,0,0,0,0,4,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1590.6441220649,1996,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,1996,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,947.2355207133,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1309.67688145428,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,1996,299,0,0,0,0,0,0,0,0,0,0,299,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2394.97397784906,1996,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1996,2796,0,0,0,0,0,0,0,0,47,0,2749,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1997,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,58,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1590.6441220649,1997,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,5,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,1997,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,947.2355207133,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2505.47522416596,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1997,5661,0,0,0,0,0,0,0,0,0,0,5661,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1998,399,0,0,0,0,0,0,0,0,0,0,394,0,0,0,5,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1590.6441220649,1998,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3200.8690470424,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,1998,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,38,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,947.2355207133,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,10762.2189996006,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1383.39844122739,1998,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1998,5472,0,0,0,0,0,0,0,0,25,0,5447,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,CA,Canada,country,North America,56.130366,-106.346771,5167.63767005229,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,12302.3918637847,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,1999,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,14,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1590.6441220649,1999,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,1999,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,31,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,947.2355207133,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,1999,278,0,0,0,0,0,0,0,0,0,0,278,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,1383.39844122739,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,1999,3893,0,0,0,0,0,0,0,0,10,0,3883,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,CA,Canada,country,North America,56.130366,-106.346771,5167.63767005229,2009,747,0,0,0,0,0,0,0,0,0,0,0,0,747,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1123.88153899973,2009,17589,0,0,0,0,0,0,0,0,0,0,0,0,17561,0,28,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,1864.22399109467,2009,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,691.520320577566,2009,12893,0,0,0,0,0,0,0,0,0,0,0,0,12880,0,13,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,947.2355207133,2009,570,0,0,0,0,0,0,0,0,0,0,0,0,570,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2576.87787864277,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,1916.63580457658,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1309.67688145428,2009,1631,0,0,0,0,0,0,0,0,0,0,0,0,1631,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,838.228633153167,2009,17385,0,0,0,0,0,0,0,0,0,0,6499,0,10879,0,0,0,0,0,7,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,5158.6403760004,2009,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,752.374317358183,2009,541,0,0,0,0,0,0,0,0,0,0,0,0,541,0,0,0,0,0,0,0,0,0,0

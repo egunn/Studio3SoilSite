@@ -1,53 +1,53 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1986,50,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1986,9212,0,0,0,0,100,0,0,0,0,0,0,7112,0,2000,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1986,250,0,0,0,0,0,0,0,0,0,0,0,140,0,0,110,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,1986,2500,0,0,0,0,0,0,0,0,0,0,0,0,2500,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1986,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1986,105,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1986,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,FR,France,country,Europe and Central Asia,46.227638,2.213749,1986,9972,0,0,0,0,0,0,0,0,0,0,0,9927,0,0,0,0,0,0,45,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1986,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IN,India,country,South Asia,20.593684,78.96288,1986,129,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,1986,1450,0,0,0,0,0,0,0,0,0,0,0,1450,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1986,3385,0,0,0,0,0,0,0,0,0,0,0,153,3229,0,0,0,0,0,3,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1986,10003,9800,0,0,0,3,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,1986,123,0,0,0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1986,88017,0,0,0,0,0,12237,0,0,0,0,10501,58707,19,6501,37,0,0,0,15,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,1986,1310,0,0,0,0,0,60,0,0,0,0,0,1250,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1986,2850,0,0,0,0,0,0,0,0,0,0,0,0,2848,0,0,0,0,0,2,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,1986,330,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,30,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1986,93911,0,505,0,0,135,4503,0,35,0,203,0,68150,20317,11,33,0,0,0,19,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,US,USA,country,North America,37.09024,-95.712891,1986,3753,0,0,0,0,578,0,0,0,0,15,29,2971,146,14,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1986,4500,0,0,0,0,0,0,0,0,0,0,0,4500,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2000,45,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2000,143,5,0,4,0,0,0,0,0,0,0,0,2,0,132,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2000,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2000,1409,15,0,1266,0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,5,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,FR,France,country,Europe and Central Asia,46.227638,2.213749,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2000,120,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2000,82,22,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GU,Guam,country,East Asia and Pacific,13.444304,144.793731,2000,90,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IN,India,country,South Asia,20.593684,78.96288,2000,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2000,523,0,0,0,0,0,506,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2000,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2000,59,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,2000,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2000,1052,0,0,0,0,0,0,0,0,30,0,0,22,0,1000,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,PK,Pakistan,country,South Asia,30.375321,69.345116,2000,45,0,0,0,0,0,20,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2000,77,0,0,0,0,0,0,0,0,76,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2000,21,0,0,0,0,0,10,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2000,18,0,0,0,0,0,0,0,0,16,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2000,9,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2000,991,0,0,1,0,0,219,0,0,101,0,2,655,12,1,0,0,0,0,0,0,0,0,0
-NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,US,USA,country,North America,37.09024,-95.712891,2000,3696,2505,0,0,0,0,411,0,0,70,0,0,1,10,699,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,4314.2920767813,1986,50,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4627.34144914196,1986,9212,0,0,0,0,100,0,0,0,0,0,0,7112,0,2000,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,699.275331128129,1986,250,0,0,0,0,0,0,0,0,0,0,0,140,0,0,110,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7176.35076584854,1986,2500,0,0,0,0,0,0,0,0,0,0,0,0,2500,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11191.4700865662,1986,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,11825.1586558343,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1575.84080612645,1986,105,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,3839.2351103252,1986,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,FR,France,country,Europe and Central Asia,46.227638,2.213749,4180.65424485956,1986,9972,0,0,0,0,0,0,0,0,0,0,0,9927,0,0,0,0,0,0,45,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,1147.56145922696,1986,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IN,India,country,South Asia,20.593684,78.96288,7619.8551084141,1986,129,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,5163.2800695029,1986,1450,0,0,0,0,0,0,0,0,0,0,0,1450,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3670.0840915011,1986,3385,0,0,0,0,0,0,0,0,0,0,0,153,3229,0,0,0,0,0,3,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,12744.1662676694,1986,10003,9800,0,0,0,3,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,2018.37892225026,1986,123,0,0,0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4802.241429822,1986,88017,0,0,0,0,0,12237,0,0,0,0,10501,58707,19,6501,37,0,0,0,15,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,951.257301733266,1986,1310,0,0,0,0,0,60,0,0,0,0,0,1250,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3703.27327942395,1986,2850,0,0,0,0,0,0,0,0,0,0,0,0,2848,0,0,0,0,0,2,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,4200.98838153928,1986,330,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,30,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5262.93764778782,1986,93911,0,505,0,0,135,4503,0,35,0,203,0,68150,20317,11,33,0,0,0,19,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,US,USA,country,North America,37.09024,-95.712891,10661.0874959799,1986,3753,0,0,0,0,578,0,0,0,0,15,29,2971,146,14,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9480.55281758361,1986,4500,0,0,0,0,0,0,0,0,0,0,0,4500,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4627.34144914196,2000,45,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,699.275331128129,2000,143,5,0,4,0,0,0,0,0,0,0,0,2,0,132,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,447.940664007704,2000,30,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1303.22164789023,2000,1409,15,0,1266,0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,5,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,11701.7671093718,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5252.7635353162,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,FR,France,country,Europe and Central Asia,46.227638,2.213749,4180.65424485956,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4687.56595445718,2000,120,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1075.13967735686,2000,82,22,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3586.86541038216,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GU,Guam,country,East Asia and Pacific,13.444304,144.793731,14578.4222115875,2000,90,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IN,India,country,South Asia,20.593684,78.96288,7619.8551084141,2000,30,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3670.0840915011,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,12744.1662676694,2000,523,0,0,0,0,0,506,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,3394.93733825188,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2000,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,3007.2671009203,2000,59,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,17446.3598354659,2000,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4802.241429822,2000,1052,0,0,0,0,0,0,0,0,30,0,0,22,0,1000,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,10210.3607036758,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,951.257301733266,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,PK,Pakistan,country,South Asia,30.375321,69.345116,6700.34966899143,2000,45,0,0,0,0,0,20,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,3770.60091310551,2000,77,0,0,0,0,0,0,0,0,76,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,11937.3897461966,2000,21,0,0,0,0,0,10,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,10560.241756206,2000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4668.75301614331,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3703.27327942395,2000,18,0,0,0,0,0,0,0,0,16,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,865.021633034571,2000,9,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,5262.93764778782,2000,991,0,0,1,0,0,219,0,0,101,0,2,655,12,1,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,US,USA,country,North America,37.09024,-95.712891,10661.0874959799,2000,3696,2505,0,0,0,0,411,0,0,70,0,0,1,10,699,0,0,0,0,0,0,0,0,0

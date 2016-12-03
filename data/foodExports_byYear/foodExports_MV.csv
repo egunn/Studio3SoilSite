@@ -1,34 +1,34 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2001,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2002,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2004,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2004,35,12,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2004,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2004,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2004,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2004,7,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,2,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2004,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,US,USA,country,North America,37.09024,-95.712891,2004,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2005,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-MV,Maldives,country,South Asia,3.202778,73.22068,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2001,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2002,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3800.9250069136,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,LK,Sri Lanka,country,South Asia,7.873054,80.771797,984.82764491807,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3068.44728830994,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3800.9250069136,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3352.21548668701,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,7622.47937559453,2004,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2004,35,12,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,7382.46192064033,2004,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,17015.0415485912,2004,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,3409.60660390867,2004,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,LK,Sri Lanka,country,South Asia,7.873054,80.771797,984.82764491807,2004,7,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,2,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3352.21548668701,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3068.44728830994,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8884.52688371617,2004,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,US,USA,country,North America,37.09024,-95.712891,15407.9575619402,2004,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2005,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3800.9250069136,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,LK,Sri Lanka,country,South Asia,7.873054,80.771797,984.82764491807,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3352.21548668701,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3352.21548668701,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,4899.77397482411,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,IN,India,country,South Asia,20.593684,78.96288,2033.64105440379,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3352.21548668701,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,4899.77397482411,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,5223.24354448179,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,7580.27549651898,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3352.21548668701,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,7580.27549651898,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7873.72885022865,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

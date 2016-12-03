@@ -1,0 +1,107 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1607.61941043661,2007,7022,0,0,0,0,0,0,0,0,0,0,6893,0,0,0,0,0,0,0,129,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,4278.07197333836,2007,133,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1802.95296335601,2007,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9263.12015917875,2007,2823,0,0,0,0,0,0,0,0,0,0,2823,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,814.649055001943,2007,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2270.38003152045,2007,133,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,4278.07197333836,2008,107,0,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,FR,France,country,Europe and Central Asia,46.227638,2.213749,3051.28347022019,2008,120,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1802.95296335601,2008,2369,0,0,0,0,0,0,0,0,0,0,2369,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3200.34924151288,2008,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2008,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,1259.97592527897,2008,2750,0,0,0,0,0,0,0,0,0,0,2750,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2487.3626675493,2008,239,0,0,0,0,0,0,0,0,0,0,237,0,0,0,0,0,0,0,2,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,PK,Pakistan,country,South Asia,30.375321,69.345116,7960.2364788009,2008,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2063.70864318606,2008,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9263.12015917875,2008,7350,0,0,0,0,0,0,0,0,0,0,7350,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,814.649055001943,2008,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2270.38003152045,2008,140,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,5091.21083084361,2008,1016,0,0,0,0,0,0,0,0,0,0,1016,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4818.22719700048,2008,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,4774.04038551399,2010,145,0,0,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,5667.82442832019,2010,21,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,4901.18131665751,2010,1752,0,0,0,0,0,0,0,0,0,0,1752,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,4157.27447205248,2010,21,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1607.61941043661,2010,14,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,4272.24024658331,2010,93,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,4278.07197333836,2010,1448,0,0,0,0,0,0,0,0,0,0,1424,0,0,0,0,0,0,0,24,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,FR,France,country,Europe and Central Asia,46.227638,2.213749,3051.28347022019,2010,22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1802.95296335601,2010,1277,0,0,0,0,0,0,0,0,0,0,1277,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3711.77330036067,2010,301,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IN,India,country,South Asia,20.593684,78.96288,9202.90060324721,2010,514,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,13645.7035796884,2010,220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,220,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3200.34924151288,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,12890.8425053728,2010,391,0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,4780.88626805981,2010,227,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2010,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3737.10710204698,2010,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2487.3626675493,2010,303,0,0,0,0,0,0,0,0,0,0,303,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,12353.0300296291,2010,35,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9263.12015917875,2010,21531,0,0,0,0,0,0,0,0,0,0,21531,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,5735.28336638914,2010,534,0,0,0,0,0,0,0,0,0,0,520,0,14,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,814.649055001943,2010,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,11547.3638125385,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4818.22719700048,2010,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,4901.18131665751,2011,2208,0,0,0,0,0,0,0,0,0,0,2208,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,CN,China,country,East Asia and Pacific,35.86166,104.195397,10730.4331447428,2011,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,4278.07197333836,2011,442,0,0,0,0,0,0,0,0,0,0,442,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,FR,France,country,Europe and Central Asia,46.227638,2.213749,3051.28347022019,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,5554.33542788392,2011,21,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,3838.4035739337,2011,301,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1802.95296335601,2011,10,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3711.77330036067,2011,45,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IN,India,country,South Asia,20.593684,78.96288,9202.90060324721,2011,1201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1201,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3200.34924151288,2011,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,4780.88626805981,2011,1319,0,0,0,0,0,0,0,0,0,0,1279,0,0,40,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2011,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,233,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,1259.97592527897,2011,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,PK,Pakistan,country,South Asia,30.375321,69.345116,7960.2364788009,2011,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9263.12015917875,2011,2775,0,0,0,0,0,0,0,0,0,0,2775,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,814.649055001943,2011,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2270.38003152045,2011,58,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,18,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4818.22719700048,2011,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,4901.18131665751,2012,270,0,0,0,0,0,0,0,0,0,0,270,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,12361.4065804227,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,12831.2245442942,2012,80,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,3750.31159034215,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1607.61941043661,2012,21,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,4272.24024658331,2012,489,0,0,0,0,0,0,0,0,0,0,489,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,4278.07197333836,2012,189,0,0,0,0,0,0,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,FR,France,country,Europe and Central Asia,46.227638,2.213749,3051.28347022019,2012,140,0,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,5554.33542788392,2012,21,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,3838.4035739337,2012,160,0,0,0,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1802.95296335601,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,3711.77330036067,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IN,India,country,South Asia,20.593684,78.96288,9202.90060324721,2012,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3200.34924151288,2012,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2012,246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,246,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,1259.97592527897,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,2032.60932604182,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,PK,Pakistan,country,South Asia,30.375321,69.345116,7960.2364788009,2012,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2063.70864318606,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9263.12015917875,2012,2681,0,0,0,0,0,0,0,0,0,0,2681,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,814.649055001943,2012,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2270.38003152045,2012,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,5483.04265028252,2012,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2471.3222731373,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4818.22719700048,2012,904,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,904,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,6624.6156615286,2012,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,4774.04038551399,2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,12361.4065804227,2013,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,CN,China,country,East Asia and Pacific,35.86166,104.195397,10730.4331447428,2013,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,4272.24024658331,2013,2150,0,0,0,0,0,0,0,0,0,0,2150,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,FR,France,country,Europe and Central Asia,46.227638,2.213749,3051.28347022019,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1238.63543677687,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IN,India,country,South Asia,20.593684,78.96288,9202.90060324721,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,4681.00556938158,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,3200.34924151288,2013,80,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2013,295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,295,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,1259.97592527897,2013,240,0,0,0,0,0,0,0,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2063.70864318606,2013,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9263.12015917875,2013,880,0,0,0,0,0,0,0,0,0,0,880,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,814.649055001943,2013,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,4818.22719700048,2013,543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,543,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,6624.6156615286,2013,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,6280.23484460974,2013,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0

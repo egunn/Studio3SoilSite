@@ -1,213 +1,213 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2001,46,1,0,0,0,0,0,0,0,0,0,19,0,26,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,95,0,0,0,0,0,0,0,1,0,0,0,0,3,0,4,0,87,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2001,47,0,0,2,0,0,0,0,13,0,0,23,1,0,0,0,2,0,8,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2001,260,0,0,0,0,0,0,0,0,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2001,2533,0,0,0,0,0,0,2490,5,0,0,0,2,34,0,2,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2001,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2001,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2001,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2001,40,2,0,1,0,0,0,2,1,0,2,2,2,10,1,10,0,3,4,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2001,500,19,0,2,0,0,0,3,2,0,1,1,2,96,1,313,4,1,59,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2002,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2002,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,114,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2002,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,79,1,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2002,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2002,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2002,2300,0,0,0,0,0,0,2253,1,0,0,0,3,26,0,17,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2002,248,0,0,0,0,0,0,218,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2002,79,4,3,2,0,0,0,6,1,0,0,0,2,22,7,13,0,6,13,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2002,308,13,1,0,0,0,0,5,5,0,0,0,2,119,1,116,2,0,46,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2003,225,0,0,0,0,0,0,0,0,0,0,0,0,34,0,1,0,0,0,190,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2003,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,41,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,2003,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2003,108,0,0,0,0,0,0,0,1,0,1,0,1,18,1,3,0,83,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2003,61,21,0,0,0,0,0,28,0,0,0,0,7,1,0,3,99,1,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,84,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2003,1892,0,0,0,0,0,0,1872,0,0,0,0,2,16,0,2,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2003,220,0,0,0,0,0,0,168,32,0,0,0,0,19,0,0,0,1,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2003,50,4,1,0,0,0,0,1,1,0,0,2,2,5,4,9,0,3,18,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2003,411,7,18,1,0,0,1,9,5,0,0,101,3,115,1,125,2,4,21,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2004,194,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,190,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2004,125,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,123,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2004,167,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,115,0,20,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2004,238,228,0,0,0,0,0,1,0,0,0,0,0,1,0,2,52,6,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2004,120,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2004,2813,0,0,0,0,0,0,2807,3,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2004,209,0,0,0,0,0,0,165,10,0,0,0,1,33,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2004,41,12,0,2,0,0,0,0,1,0,0,0,1,12,1,7,0,3,2,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2004,470,2,0,1,0,0,0,12,11,0,0,176,4,102,2,113,1,28,19,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2005,186,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2005,104,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,96,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2005,1583,80,0,0,0,0,0,0,0,0,0,1151,0,352,0,0,44,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2005,92,0,0,0,0,0,0,0,0,0,0,0,0,88,0,4,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2005,1951,0,0,0,0,0,0,1927,0,0,0,0,7,17,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2005,181,0,0,0,0,0,0,156,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2005,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2005,70,4,0,2,0,0,0,1,1,0,0,40,2,7,0,5,0,5,3,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2005,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2005,342,7,0,1,0,0,0,6,19,0,0,121,6,76,0,86,3,6,14,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,2006,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2006,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,46,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2006,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,241,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,2006,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2006,77,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,72,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2006,1574,123,0,0,0,0,0,0,0,0,0,1382,0,0,0,69,23,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2006,103,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2006,2537,0,0,0,0,0,0,2530,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2006,52,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2006,212,0,0,0,0,0,0,175,26,0,0,0,0,4,0,5,0,0,2,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2006,89,2,0,1,0,1,0,0,0,0,0,65,1,4,0,5,0,6,4,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2006,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2006,212,8,0,1,0,0,2,0,4,0,0,24,2,94,0,64,4,4,9,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2007,51,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2007,122,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,119,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2007,81,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,77,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2007,1840,75,0,0,0,0,0,5,0,0,0,1720,1,6,0,33,20,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2007,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2007,936,0,0,0,0,0,0,930,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2007,51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2007,260,0,0,0,0,0,0,230,28,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2007,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2007,26,2,0,0,0,0,0,1,0,0,0,2,3,5,0,3,0,6,4,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2007,86,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2007,211,7,1,0,0,0,0,0,0,0,0,31,4,100,0,64,20,4,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2009,13,3,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2009,59,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,2009,136,0,0,0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2009,86,4,0,0,0,0,0,0,1,0,0,0,1,2,0,4,0,74,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2009,255,88,0,0,0,0,0,0,1,0,0,152,0,14,0,0,30,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2009,1921,0,0,0,0,0,0,1911,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2009,88,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2009,134,0,0,0,0,0,0,115,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2009,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2009,15,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2009,188,3,0,0,0,0,0,1,2,0,0,20,1,24,1,128,0,5,3,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2009,276,10,1,1,0,0,0,5,6,0,0,2,4,101,1,135,10,4,6,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2010,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,132,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2010,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,2010,165,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,105,0,0,0,0,0,0,0,1,0,0,0,2,5,0,5,0,92,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2010,165,21,0,0,0,0,0,0,0,0,0,91,0,53,0,0,52,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2010,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,56,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,45,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2010,1884,0,0,0,0,0,0,1875,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2010,220,0,0,0,0,0,0,217,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2010,92,3,0,0,0,0,0,1,0,0,0,1,2,4,10,61,0,4,6,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2010,299,27,0,1,0,0,0,5,2,0,0,1,2,125,0,132,4,2,2,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2011,182,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,2011,90,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,87,0,0,0,0,0,0,0,1,0,0,0,0,6,0,9,0,71,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2011,56,15,0,1,0,0,0,0,0,0,0,1,0,38,0,0,3,1,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2011,2298,0,0,0,0,0,0,2288,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2011,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2011,206,0,0,0,0,0,0,187,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2011,43,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2011,121,10,0,33,0,0,0,2,1,0,0,11,6,14,1,1,0,4,38,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2011,292,39,0,1,1,0,0,6,5,0,0,0,4,106,0,122,5,4,4,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2012,360,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,2012,280,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,45,0,0,0,0,0,0,0,1,0,0,0,0,7,0,3,0,34,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2012,95,18,0,0,0,0,0,0,0,0,0,22,0,55,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2012,70,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2012,2568,0,0,0,0,0,0,2560,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2012,281,0,0,0,0,0,0,227,34,0,0,0,0,18,0,2,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2012,122,9,0,0,0,0,0,0,1,0,1,0,2,7,2,2,0,4,94,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,54,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2012,237,40,0,1,0,0,0,3,4,0,0,0,4,78,1,102,4,3,1,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2013,211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,211,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,156,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,2013,77,0,0,0,0,0,0,0,1,0,0,0,0,6,0,5,0,65,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,2013,157,15,0,0,0,0,0,0,0,0,0,42,0,91,0,0,0,9,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2013,2473,0,0,0,0,0,0,2463,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2013,217,0,0,0,0,0,0,191,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2013,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,53,5,0,0,0,0,0,0,1,0,1,0,1,4,2,24,0,5,10,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2013,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
-NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,2013,389,32,0,19,1,0,0,9,4,0,0,71,3,104,0,135,3,6,5,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2001,46,1,0,0,0,0,0,0,0,0,0,19,0,26,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2001,95,0,0,0,0,0,0,0,1,0,0,0,0,3,0,4,0,87,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2001,47,0,0,2,0,0,0,0,13,0,0,23,1,0,0,0,2,0,8,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,16041.6741191394,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2001,260,0,0,0,0,0,0,0,0,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2001,2533,0,0,0,0,0,0,2490,5,0,0,0,2,34,0,2,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2001,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2844.65035345196,2001,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,1383.25964001948,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,17638.4766195136,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,14918.9384828936,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,16092.4128821134,2001,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2001,40,2,0,1,0,0,0,2,1,0,2,2,2,10,1,10,0,3,4,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2001,500,19,0,2,0,0,0,3,2,0,1,1,2,96,1,313,4,1,59,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2002,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2002,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,114,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2002,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,79,1,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2002,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2002,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2002,2300,0,0,0,0,0,0,2253,1,0,0,0,3,26,0,17,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2002,248,0,0,0,0,0,0,218,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2844.65035345196,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,17896.4381291105,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,7163.0033477796,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,1383.25964001948,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2002,79,4,3,2,0,0,0,6,1,0,0,0,2,22,7,13,0,6,13,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2002,308,13,1,0,0,0,0,5,5,0,0,0,2,119,1,116,2,0,46,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2003,225,0,0,0,0,0,0,0,0,0,0,0,0,34,0,1,0,0,0,190,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2003,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,41,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,6933.61859216306,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,1531.245720613,2003,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2003,108,0,0,0,0,0,0,0,1,0,1,0,1,18,1,3,0,83,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2003,61,21,0,0,0,0,0,28,0,0,0,0,7,1,0,3,99,1,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2003,84,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2003,1892,0,0,0,0,0,0,1872,0,0,0,0,2,16,0,2,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2003,220,0,0,0,0,0,0,168,32,0,0,0,0,19,0,0,0,1,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,16502.7446715866,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,12820.9713273186,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2003,50,4,1,0,0,0,0,1,1,0,0,2,2,5,4,9,0,3,18,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2003,411,7,18,1,0,0,1,9,5,0,0,101,3,115,1,125,2,4,21,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2004,194,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,190,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2004,125,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,123,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2004,167,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,115,0,20,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2004,238,228,0,0,0,0,0,1,0,0,0,0,0,1,0,2,52,6,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2004,120,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2004,2813,0,0,0,0,0,0,2807,3,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2004,209,0,0,0,0,0,0,165,10,0,0,0,1,33,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,8158.81675206946,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,12436.1476209283,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2004,41,12,0,2,0,0,0,0,1,0,0,0,1,12,1,7,0,3,2,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2004,470,2,0,1,0,0,0,12,11,0,0,176,4,102,2,113,1,28,19,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2005,186,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,6933.61859216306,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2005,104,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,96,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2005,1583,80,0,0,0,0,0,0,0,0,0,1151,0,352,0,0,44,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2005,92,0,0,0,0,0,0,0,0,0,0,0,0,88,0,4,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2005,1951,0,0,0,0,0,0,1927,0,0,0,0,7,17,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,12033.3510222772,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2005,181,0,0,0,0,0,0,156,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,7163.0033477796,2005,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,8158.81675206946,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2005,70,4,0,2,0,0,0,1,1,0,0,40,2,7,0,5,0,5,3,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,7377.68773573292,2005,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2005,342,7,0,1,0,0,0,6,19,0,0,121,6,76,0,86,3,6,14,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,2494.19996635165,2006,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2006,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,46,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2006,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,241,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,6933.61859216306,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,1531.245720613,2006,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2006,77,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,72,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2006,1574,123,0,0,0,0,0,0,0,0,0,1382,0,0,0,69,23,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2006,103,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2006,2537,0,0,0,0,0,0,2530,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,12033.3510222772,2006,52,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2006,212,0,0,0,0,0,0,175,26,0,0,0,0,4,0,5,0,0,2,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2844.65035345196,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2006,89,2,0,1,0,1,0,0,0,0,0,65,1,4,0,5,0,6,4,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,7377.68773573292,2006,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2006,212,8,0,1,0,0,2,0,4,0,0,24,2,94,0,64,4,4,9,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2007,51,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,7604.09688802553,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2007,122,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,119,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,9038.27232916294,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,12537.9506475799,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,13506.8708971225,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2007,81,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,77,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2007,1840,75,0,0,0,0,0,5,0,0,0,1720,1,6,0,33,20,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,6041.94104240572,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2007,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2007,936,0,0,0,0,0,0,930,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,12033.3510222772,2007,51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2007,260,0,0,0,0,0,0,230,28,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,7163.0033477796,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,17638.4766195136,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,8158.81675206946,2007,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2007,26,2,0,0,0,0,0,1,0,0,0,2,3,5,0,3,0,6,4,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,7377.68773573292,2007,86,0,0,0,0,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2007,211,7,1,0,0,0,0,0,0,0,0,31,4,100,0,64,20,4,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2009,13,3,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2009,59,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,9038.27232916294,2009,136,0,0,0,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,6933.61859216306,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,1531.245720613,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2009,86,4,0,0,0,0,0,0,1,0,0,0,1,2,0,4,0,74,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2009,255,88,0,0,0,0,0,0,1,0,0,152,0,14,0,0,30,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,14194.5908788711,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2009,1921,0,0,0,0,0,0,1911,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,12033.3510222772,2009,88,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,16169.0299841747,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2009,134,0,0,0,0,0,0,115,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2844.65035345196,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,7475.97443074286,2009,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,1383.25964001948,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,17638.4766195136,2009,15,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,8158.81675206946,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,16092.4128821134,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2009,188,3,0,0,0,0,0,1,2,0,0,20,1,24,1,128,0,5,3,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2009,276,10,1,1,0,0,0,5,6,0,0,2,4,101,1,135,10,4,6,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2010,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,132,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,16351.7497543388,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2010,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,9038.27232916294,2010,165,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2010,105,0,0,0,0,0,0,0,1,0,0,0,2,5,0,5,0,92,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2010,165,21,0,0,0,0,0,0,0,0,0,91,0,53,0,0,52,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,14194.5908788711,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,6041.94104240572,2010,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2010,56,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,45,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2010,1884,0,0,0,0,0,0,1875,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,12033.3510222772,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,16169.0299841747,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2010,220,0,0,0,0,0,0,217,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,17638.4766195136,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2010,92,3,0,0,0,0,0,1,0,0,0,1,2,4,10,61,0,4,6,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,7377.68773573292,2010,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2010,299,27,0,1,0,0,0,5,2,0,0,1,2,125,0,132,4,2,2,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2011,182,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,9038.27232916294,2011,90,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,6933.61859216306,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2011,87,0,0,0,0,0,0,0,1,0,0,0,0,6,0,9,0,71,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2011,56,15,0,1,0,0,0,0,0,0,0,1,0,38,0,0,3,1,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,14194.5908788711,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2011,2298,0,0,0,0,0,0,2288,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,12033.3510222772,2011,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2011,206,0,0,0,0,0,0,187,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,7475.97443074286,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,1383.25964001948,2011,43,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,17638.4766195136,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2011,121,10,0,33,0,0,0,2,1,0,0,11,6,14,1,1,0,4,38,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2011,292,39,0,1,1,0,0,6,5,0,0,0,4,106,0,122,5,4,4,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2012,360,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7382.73485353673,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,9038.27232916294,2012,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,6933.61859216306,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,1531.245720613,2012,280,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2012,45,0,0,0,0,0,0,0,1,0,0,0,0,7,0,3,0,34,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2012,95,18,0,0,0,0,0,0,0,0,0,22,0,55,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,16599.9506180466,2012,70,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2012,2568,0,0,0,0,0,0,2560,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2012,281,0,0,0,0,0,0,227,34,0,0,0,0,18,0,2,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,2844.65035345196,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,10612.4903249869,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2012,122,9,0,0,0,0,0,0,1,0,1,0,2,7,2,2,0,4,94,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,7377.68773573292,2012,54,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2012,237,40,0,1,0,0,0,3,4,0,0,0,4,78,1,102,4,3,1,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,3289.10276088488,2013,211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,211,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CA,Canada,country,North America,56.130366,-106.346771,11818.275308056,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,CN,China,country,East Asia and Pacific,35.86166,104.195397,9038.27232916294,2013,156,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,1531.245720613,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,FR,France,country,Europe and Central Asia,46.227638,2.213749,16840.5368409388,2013,77,0,0,0,0,0,0,0,1,0,0,0,0,6,0,5,0,65,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,4724.26291845119,2013,157,15,0,0,0,0,0,0,0,0,0,42,0,91,0,0,0,9,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,16035.9915848021,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,6041.94104240572,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,16380.9577198509,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,6979.46176793118,2013,2473,0,0,0,0,0,0,2463,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2391.9752823077,2013,217,0,0,0,0,0,0,191,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,7475.97443074286,2013,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,2494.19996635165,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,1383.25964001948,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,17638.4766195136,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,1992.14441297152,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,16092.4128821134,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,US,USA,country,North America,37.09024,-95.712891,12146.8611395984,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,631.45649362237,2013,53,5,0,0,0,0,0,0,1,0,1,0,1,4,2,24,0,5,10,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,7377.68773573292,2013,35,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,WF,Wallis and Futuna,country,East Asia and Pacific,-13.768752,-177.156097,1993.40683896323,2013,389,32,0,19,1,0,0,9,4,0,0,71,3,104,0,135,3,6,5,0,0,0,0,0

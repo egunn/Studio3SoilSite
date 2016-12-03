@@ -1,333 +1,333 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1997,92,0,0,0,0,0,0,0,0,88,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1997,34,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,1997,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1997,26211,0,0,0,0,0,2,2,0,11128,0,4464,0,8,0,3,0,139,0,10465,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,1997,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,1997,40,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1997,128,0,0,0,0,0,0,0,0,13,0,0,0,2,10,102,0,1,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,1997,361,0,0,0,0,0,0,0,0,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1997,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1997,147,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,1997,73,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,44,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,1997,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,1997,49,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,19,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,1997,67,0,0,0,0,0,0,0,0,39,0,0,0,20,0,0,0,1,0,7,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1997,12964,66,0,60,0,0,0,51,19,53,0,4334,0,7,0,60,0,8311,3,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,1997,24,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,21,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1997,845,0,0,0,0,0,0,0,0,845,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,1997,114,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,1997,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1998,17,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1998,33568,20,0,0,0,0,100,72,18,5000,0,18217,0,61,0,20,0,261,0,9799,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,1998,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,1998,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1998,47,0,0,0,0,0,0,0,0,0,0,0,0,0,8,39,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,1998,150,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1998,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1998,18,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,5,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,1998,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,462,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,1998,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,430,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,1998,25,0,0,0,0,0,0,0,0,17,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1998,11212,0,0,0,0,0,0,125,15,0,0,2224,0,0,0,25,0,8823,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,1998,13,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1998,446,0,0,0,0,0,0,0,0,446,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,1998,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,1999,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,1999,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1999,11,0,0,8,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1999,34805,0,0,0,0,0,52,0,0,9593,0,14229,0,11,0,166,0,407,0,10347,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,1999,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1999,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,1999,311,0,0,0,0,0,0,0,0,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1999,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,1999,72,0,0,0,0,0,0,0,0,54,0,0,0,0,0,14,0,4,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,1999,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,1999,374,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,329,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,1999,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1999,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,1999,87,0,0,0,0,0,0,0,0,0,0,53,0,0,0,2,0,32,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1999,18835,31,0,0,0,0,0,49,0,211,0,808,0,0,0,725,0,17011,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1999,858,0,0,0,0,0,0,0,0,858,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,1999,19,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2000,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2000,13,0,0,0,0,0,0,0,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2000,23776,4,0,0,0,345,0,0,0,4215,0,1484,0,0,105,57,0,423,0,17143,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2000,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,11,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2000,56,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2000,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2000,12,0,0,0,0,0,0,0,0,9,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2000,1113,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,1073,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2000,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,2000,19,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,1,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2000,18321,0,0,0,0,0,0,6,11,1770,0,0,0,0,0,418,0,16114,0,2,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2000,869,0,0,0,0,0,0,0,0,869,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2000,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2001,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2001,32,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2001,13,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2001,13552,16,0,0,0,2227,78,1,0,3469,0,3976,0,0,170,11,0,71,0,3533,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,9,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2001,27,11,0,0,0,0,0,1,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2001,40,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2001,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2001,18,0,0,0,0,0,0,0,0,12,0,0,0,0,0,2,0,4,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2001,1172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1172,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2001,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2001,260,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,0,0,254,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2001,23542,0,0,0,0,8,0,6,0,1537,0,0,16,0,0,0,0,21928,0,47,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2001,233,0,0,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2001,1342,0,0,0,0,0,0,0,0,1342,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2001,24,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2002,85,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2002,18656,173,0,3,0,2653,160,0,0,4449,0,5440,2,16,0,0,0,263,0,5497,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2002,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2002,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2002,85,0,0,0,0,0,0,0,0,30,0,10,0,0,0,0,0,34,1,10,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,2002,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2002,825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,785,0,40,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2002,59,0,0,0,0,0,0,22,0,0,0,0,0,2,0,17,0,18,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2002,25344,0,0,0,0,0,0,0,0,1532,0,0,0,0,0,0,0,23812,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2002,1178,0,0,0,0,0,0,0,0,1177,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2002,16,0,0,0,0,0,0,0,0,13,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2003,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2003,15367,0,0,1,0,727,397,10,0,8389,0,776,0,5,0,7,0,128,3,4924,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2003,30,1,0,0,0,0,0,0,1,18,0,0,0,0,0,10,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2003,128,0,0,0,0,0,0,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2003,76,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,20,2,16,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2003,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,2003,135,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2003,29,0,0,0,0,0,0,0,0,6,0,2,0,0,0,11,0,10,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2003,16824,8,0,0,0,0,0,0,0,989,0,0,0,0,40,0,0,15767,20,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2003,538,0,0,0,0,0,0,0,0,538,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2004,15889,0,0,0,0,4940,646,3,0,7813,0,0,0,0,0,20,0,5,0,2462,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2004,132,0,0,0,0,0,0,0,1,14,0,0,0,0,0,1,0,116,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2004,180,0,0,0,0,0,0,0,0,176,0,0,0,0,4,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2004,16,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2004,168,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2004,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2004,47,0,0,0,0,0,0,0,6,1,0,0,0,0,1,2,0,36,1,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2004,84,0,0,0,0,0,0,0,0,0,0,0,0,0,6,23,0,55,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2004,9464,0,0,0,0,66,0,5,63,658,0,248,0,0,0,0,0,8413,0,11,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2004,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2004,171,4,0,0,0,0,0,1,0,162,0,0,2,2,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2004,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,10,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2005,16851,1,0,0,0,375,689,1,0,8602,0,3425,1,0,300,3,0,18,30,3406,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2005,26,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,2005,67,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2005,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2005,63,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2005,62,0,0,0,0,0,0,0,26,0,0,1,0,1,0,12,0,21,1,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2005,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NP,Nepal,country,South Asia,28.394857,84.124008,2005,56,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2005,297,0,0,0,0,0,0,0,17,0,0,0,0,28,48,36,0,168,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2005,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2005,8279,0,0,0,0,0,0,0,95,413,0,100,6,17,0,0,0,7648,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2005,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,16,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2005,158,0,0,0,0,0,0,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2005,764,0,0,763,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2006,26762,0,0,5,0,3852,10320,1,0,9617,0,585,13,1,0,2,0,0,20,2346,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2006,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2006,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2006,232,150,0,0,0,0,0,0,16,6,0,6,0,0,0,10,0,43,1,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2006,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NP,Nepal,country,South Asia,28.394857,84.124008,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2006,179,0,0,0,0,0,0,0,0,0,4,0,0,4,0,97,0,74,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2006,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2006,15161,0,0,0,0,0,0,0,112,991,0,0,0,25,40,10,0,13982,0,1,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2006,25,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2006,1074,0,0,1054,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,2007,31427,0,0,8304,0,20,6989,0,0,12046,0,286,1156,4,0,5,2,78,16,2523,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2007,218,0,0,0,0,0,0,0,0,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2007,6,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,2007,86,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2007,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2007,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2007,65,0,0,0,0,0,0,0,40,5,0,7,0,2,0,0,0,11,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2007,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2007,138,0,0,0,0,0,0,0,0,0,0,0,0,7,0,98,0,33,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2007,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2007,11795,0,15,0,0,0,0,0,17,680,0,0,0,62,0,0,0,11021,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2007,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,2007,255,0,0,254,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,13398.1985083715,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,1997,92,0,0,0,0,0,0,0,0,88,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,1997,34,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,2880.70543736015,1997,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,1997,26211,0,0,0,0,0,2,2,0,11128,0,4464,0,8,0,3,0,139,0,10465,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,5855.97285956908,1997,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,1997,40,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,1997,128,0,0,0,0,0,0,0,0,13,0,0,0,2,10,102,0,1,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,6065.27133115068,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,1997,361,0,0,0,0,0,0,0,0,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,1997,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,1997,147,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,1997,73,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,44,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,2395.80777449919,1997,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,13853.2828431543,1997,49,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,19,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,1997,67,0,0,0,0,0,0,0,0,39,0,0,0,20,0,0,0,1,0,7,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,1997,12964,66,0,60,0,0,0,51,19,53,0,4334,0,7,0,60,0,8311,3,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,5756.32268342925,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,1997,24,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,21,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,1997,845,0,0,0,0,0,0,0,0,845,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,1997,114,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,3675.01216166392,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,6147.56713819362,1997,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,1998,17,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,8231.73935910183,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,1998,33568,20,0,0,0,0,100,72,18,5000,0,18217,0,61,0,20,0,261,0,9799,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,1998,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,1998,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,1998,47,0,0,0,0,0,0,0,0,0,0,0,0,0,8,39,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,1998,150,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,1998,6,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,1998,18,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,5950.04904715435,1998,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,462,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,1998,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,430,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,8310.51701902498,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,1998,25,0,0,0,0,0,0,0,0,17,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,1998,11212,0,0,0,0,0,0,125,15,0,0,2224,0,0,0,25,0,8823,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,12763.8257818809,1998,13,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5243.33239741905,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,1998,446,0,0,0,0,0,0,0,0,446,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,1998,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,13398.1985083715,1999,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,1999,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,1999,11,0,0,8,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,1999,34805,0,0,0,0,0,52,0,0,9593,0,14229,0,11,0,166,0,407,0,10347,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,1999,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,1999,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,6065.27133115068,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,1999,311,0,0,0,0,0,0,0,0,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,1999,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,1999,72,0,0,0,0,0,0,0,0,54,0,0,0,0,0,14,0,4,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,5950.04904715435,1999,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,1999,374,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,329,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,5241.74787190397,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,4751.42113280813,1999,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,1999,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,1999,87,0,0,0,0,0,0,0,0,0,0,53,0,0,0,2,0,32,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,1999,18835,31,0,0,0,0,0,49,0,211,0,808,0,0,0,725,0,17011,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,1999,858,0,0,0,0,0,0,0,0,858,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,1999,19,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,2000,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,2000,13,0,0,0,0,0,0,0,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2000,23776,4,0,0,0,345,0,0,0,4215,0,1484,0,0,105,57,0,423,0,17143,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2996.49460374807,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2000,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,11,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2000,56,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2000,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2000,12,0,0,0,0,0,0,0,0,9,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2000,1113,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,1073,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11752.7760539381,2000,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,3476.08346358339,2000,19,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2000,15,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,1,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2000,18321,0,0,0,0,0,0,6,11,1770,0,0,0,0,0,418,0,16114,0,2,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2000,869,0,0,0,0,0,0,0,0,869,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2000,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2001,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,2001,32,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,2001,13,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2001,13552,16,0,0,0,2227,78,1,0,3469,0,3976,0,0,170,11,0,71,0,3533,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,9,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6087.54978988768,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2001,27,11,0,0,0,0,0,1,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2001,40,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2001,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2001,18,0,0,0,0,0,0,0,0,12,0,0,0,0,0,2,0,4,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2001,1172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1172,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11752.7760539381,2001,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2001,260,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,0,0,254,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2001,23542,0,0,0,0,8,0,6,0,1537,0,0,16,0,0,0,0,21928,0,47,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2001,233,0,0,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2001,1342,0,0,0,0,0,0,0,0,1342,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2001,24,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,3675.01216166392,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,2002,85,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2002,18656,173,0,3,0,2653,160,0,0,4449,0,5440,2,16,0,0,0,263,0,5497,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2996.49460374807,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,5855.97285956908,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2002,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,2002,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,4981.31821443869,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2002,85,0,0,0,0,0,0,0,0,30,0,10,0,0,0,0,0,34,1,10,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,5950.04904715435,2002,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2002,825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,785,0,40,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2002,59,0,0,0,0,0,0,22,0,0,0,0,0,2,0,17,0,18,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2002,25344,0,0,0,0,0,0,0,0,1532,0,0,0,0,0,0,0,23812,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,5462.83334051603,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2002,1178,0,0,0,0,0,0,0,0,1177,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2002,16,0,0,0,0,0,0,0,0,13,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,3162.05851782061,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2003,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,8231.73935910183,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2003,15367,0,0,1,0,727,397,10,0,8389,0,776,0,5,0,7,0,128,3,4924,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,2003,30,1,0,0,0,0,0,0,1,18,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,6648.86413189166,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2003,128,0,0,0,0,0,0,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2003,76,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,20,2,16,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2003,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11752.7760539381,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,3476.08346358339,2003,135,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,5186.21315969912,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2003,29,0,0,0,0,0,0,0,0,6,0,2,0,0,0,11,0,10,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2003,16824,8,0,0,0,0,0,0,0,989,0,0,0,0,40,0,0,15767,20,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5410.70432716931,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,3460.15731147643,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2003,538,0,0,0,0,0,0,0,0,538,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,3162.05851782061,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,8231.73935910183,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2004,15889,0,0,0,0,4940,646,3,0,7813,0,0,0,0,0,20,0,5,0,2462,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2996.49460374807,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,2004,132,0,0,0,0,0,0,0,1,14,0,0,0,0,0,1,0,116,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6087.54978988768,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,6626.01392356554,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2004,180,0,0,0,0,0,0,0,0,176,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,6065.27133115068,2004,16,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2004,168,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2004,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2004,47,0,0,0,0,0,0,0,6,1,0,0,0,0,1,2,0,36,1,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,12028.141890548,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2004,84,0,0,0,0,0,0,0,0,0,0,0,0,0,6,23,0,55,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2004,9464,0,0,0,0,66,0,5,63,658,0,248,0,0,0,0,0,8413,0,11,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5066.19667051835,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,2004,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5243.33239741905,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2004,171,4,0,0,0,0,0,1,0,162,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2004,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,10,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,3162.05851782061,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,3675.01216166392,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,8231.73935910183,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2875.35864589832,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2005,16851,1,0,0,0,375,689,1,0,8602,0,3425,1,0,300,3,0,18,30,3406,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2996.49460374807,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,2031.42707383755,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6087.54978988768,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,6626.01392356554,2005,26,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,4981.31821443869,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,4702.46801443154,2005,67,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2005,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,6065.27133115068,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2005,63,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,5394.96794492319,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2005,62,0,0,0,0,0,0,0,26,0,0,1,0,1,0,12,0,21,1,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2005,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,2395.80777449919,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NP,Nepal,country,South Asia,28.394857,84.124008,2676.80388614477,2005,56,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,5887.63885659134,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,3476.08346358339,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2005,297,0,0,0,0,0,0,0,17,0,0,0,0,28,48,36,0,168,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,5784.97988820009,2005,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2005,8279,0,0,0,0,0,0,0,95,413,0,100,6,17,0,0,0,7648,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,5756.32268342925,2005,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,16,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,11815.4379687318,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,5462.83334051603,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5132.00325964879,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2005,158,0,0,0,0,0,0,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2005,764,0,0,763,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,3162.05851782061,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,8231.73935910183,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2006,26762,0,0,5,0,3852,10320,1,0,9617,0,585,13,1,0,2,0,0,20,2346,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2006,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6087.54978988768,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,6626.01392356554,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,6428.59134677486,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,6065.27133115068,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2006,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,6022.83572698842,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2006,232,150,0,0,0,0,0,0,16,6,0,6,0,0,0,10,0,43,1,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2006,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,5361.34991890035,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11752.7760539381,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NP,Nepal,country,South Asia,28.394857,84.124008,2676.80388614477,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,5887.63885659134,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,3476.08346358339,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,5186.21315969912,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2006,179,0,0,0,0,0,0,0,0,0,4,0,0,4,0,97,0,74,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,5784.97988820009,2006,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2006,15161,0,0,0,0,0,0,0,112,991,0,0,0,25,40,10,0,13982,0,1,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,5756.32268342925,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5066.19667051835,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,5962.18828382163,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,11815.4379687318,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2006,25,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2006,1074,0,0,1054,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,3162.05851782061,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8575.90796276728,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,6351.50524584071,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,5189.94290333951,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6736.14529012882,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CA,Canada,country,North America,56.130366,-106.346771,8231.73935910183,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CN,China,country,East Asia and Pacific,35.86166,104.195397,1224.9505040932,2007,31427,0,0,8304,0,20,6989,0,0,12046,0,286,1156,4,0,5,2,78,16,2523,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,6150.23823752151,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,6626.01392356554,2007,218,0,0,0,0,0,0,0,0,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,FR,France,country,Europe and Central Asia,46.227638,2.213749,7172.80904172825,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6357.44959194974,2007,6,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,6065.27133115068,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IN,India,country,South Asia,20.593684,78.96288,3689.48709316051,2007,86,0,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,4502.12200002145,2007,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,7164.91690381345,2007,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6856.77311872323,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,3072.10798165946,2007,65,0,0,0,0,0,0,0,40,5,0,7,0,2,0,0,0,11,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,2756.23165344709,2007,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5758.54033075704,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,6692.1626528176,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,11752.7760539381,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6578.37360656137,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PK,Pakistan,country,South Asia,30.375321,69.345116,3476.08346358339,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5807.43049238618,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,8310.51701902498,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,2326.46170744253,2007,138,0,0,0,0,0,0,0,0,0,0,0,0,7,0,98,0,33,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,5784.97988820009,2007,20,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,1634.821445196,2007,11795,0,15,0,0,0,0,0,17,680,0,0,0,62,0,0,0,11021,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,5756.32268342925,2007,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5066.19667051835,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,6412.61366899763,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7966.10136535764,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,6779.7395143924,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5481.95796794868,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5243.33239741905,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6788.48461174777,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,US,USA,country,North America,37.09024,-95.712891,10490.3678831785,2007,255,0,0,254,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,3162.05851782061,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

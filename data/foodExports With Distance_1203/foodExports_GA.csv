@@ -1,0 +1,259 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,8679.10166913625,1993,81,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,1993,56,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,1993,403,0,0,0,0,0,0,0,0,0,0,0,201,202,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,1993,81,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,4560.21824532192,1993,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,1993,171,0,0,0,0,0,0,0,0,0,0,0,151,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,3452.44161920867,1993,200,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,1993,5861,0,0,0,0,0,0,0,0,0,0,5800,0,61,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,1993,798,0,0,0,0,0,0,0,0,0,0,0,778,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,5417.28437819249,1993,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3338.37400332019,1993,1080,0,0,0,0,0,0,0,0,0,0,0,0,0,1080,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,1993,363,0,0,0,0,0,0,0,0,0,0,0,0,363,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5042.38620714083,1993,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,1993,423,0,0,0,0,0,0,0,0,0,0,0,0,423,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1348.9546783829,1994,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,8679.10166913625,1994,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,1994,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,1994,483,0,0,0,0,0,0,0,0,0,0,0,301,182,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,1994,343,0,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,4560.21824532192,1994,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,1994,1002,0,0,0,0,0,0,0,0,0,0,0,377,625,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,12508.891725573,1994,750,0,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,1994,262,0,0,0,0,0,0,0,0,0,0,0,0,262,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,1994,1096,0,0,0,0,0,0,0,0,0,0,0,733,363,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,4911.06229547629,1994,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,1994,464,0,0,0,0,0,0,0,0,0,0,0,0,464,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,1994,464,0,0,0,0,0,0,0,0,0,0,0,0,464,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1348.9546783829,1997,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,1997,3326,0,0,0,0,0,0,0,0,0,0,0,0,3326,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,1997,1521,0,0,0,0,0,0,0,0,0,0,0,15,0,1506,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,1997,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,1997,1000,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,9347.65665829784,1997,161,0,0,0,0,0,0,0,0,0,0,0,0,161,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,1997,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,1997,27,1,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,1997,1055,0,0,0,0,0,0,0,0,0,0,0,0,1049,3,0,0,0,3,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,1997,282,0,0,0,0,0,0,0,0,0,0,0,0,282,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5394.67736620226,1997,323,0,0,0,0,0,0,0,0,0,0,0,0,323,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,1997,705,0,0,0,0,0,0,0,0,0,0,0,261,444,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2928.5282960349,1997,81,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,1997,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,1997,7530,0,0,0,0,0,0,0,0,0,0,0,0,544,6986,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,4911.06229547629,1997,242,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3521.9799114453,1997,281,0,0,0,0,0,0,0,0,0,0,0,0,281,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,1997,495,0,0,0,0,0,0,0,0,0,0,0,387,108,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1591.12709583027,1997,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,1997,2056,0,0,0,0,0,0,0,0,0,0,0,0,2056,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,1997,6430,0,0,0,0,0,0,0,0,0,0,6428,0,0,2,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,2788.69432999806,1997,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1348.9546783829,1998,6,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,1998,1312,0,0,0,0,0,0,0,0,0,0,0,0,1312,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1525.96438324403,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,1998,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,1998,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,1998,183,0,5,0,0,0,0,0,0,0,0,0,0,159,1,18,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,1998,3236,4,2,0,0,0,0,0,0,0,0,0,6,3223,0,1,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,1998,262,0,0,0,0,0,0,0,0,0,0,0,0,262,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,4560.21824532192,1998,181,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5394.67736620226,1998,202,0,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,1998,1404,0,0,0,0,0,0,0,0,0,0,0,111,1293,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,1998,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,1998,3104,0,0,0,0,0,0,0,0,0,0,0,281,121,2701,1,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5911.69700997327,1998,363,0,0,0,0,0,0,0,0,0,0,0,0,363,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,4911.06229547629,1998,897,0,0,0,0,0,0,0,0,0,0,0,0,897,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,2036.50147913656,1998,30,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,1998,202,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3338.37400332019,1998,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3521.9799114453,1998,423,0,0,0,0,0,0,0,0,0,0,0,0,423,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,1998,689,0,0,0,0,0,0,0,0,0,0,0,286,403,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1591.12709583027,1998,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,3867.81795094013,1998,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,1998,1819,0,0,0,0,0,0,0,0,0,0,0,0,1814,5,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,1998,6652,0,0,0,0,0,0,0,0,0,0,6615,0,37,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,1999,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,1999,36,15,0,1,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,1999,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,1999,508,0,0,0,0,0,0,0,0,0,0,0,0,506,0,2,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2119.21111851454,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,1999,2171,0,36,0,0,0,0,0,0,0,0,0,0,2107,0,3,0,25,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,4560.21824532192,1999,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5394.67736620226,1999,1593,0,0,0,0,0,0,0,0,0,0,0,0,1593,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,1999,1215,0,0,0,0,0,0,0,0,0,0,0,126,1089,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,1999,355,0,0,0,0,0,0,0,0,0,0,0,354,1,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5911.69700997327,1999,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,4911.06229547629,1999,262,0,0,0,0,0,0,0,0,0,0,0,0,262,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,1999,84,52,0,0,0,0,0,0,0,0,0,0,0,0,1,15,0,14,2,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3338.37400332019,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3521.9799114453,1999,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,1999,464,0,0,0,0,0,0,0,0,0,0,0,101,363,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5311.52423939656,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9977.17013802945,1999,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,1999,605,0,0,0,0,0,0,0,0,0,0,0,0,605,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,1999,9547,0,0,0,0,0,0,0,0,0,0,9446,0,101,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,8723.80843654337,1999,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,4448.28984134789,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,2788.69432999806,1999,81,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2000,1813,171,0,1600,0,0,0,0,0,0,0,0,0,0,27,13,0,0,2,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2000,150,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2000,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2000,888,0,0,0,3,0,0,0,0,0,0,0,0,885,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2000,12,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2000,1096,0,24,0,0,0,0,0,0,0,0,0,91,974,0,2,0,5,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,2000,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1707.27631254803,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5394.67736620226,2000,242,0,0,0,0,0,0,0,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2000,403,0,0,0,0,0,0,0,0,0,0,0,0,403,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10065.9875021699,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,2000,248,0,0,0,0,0,0,0,0,0,0,0,145,101,2,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1147.56145922696,2000,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,2000,105,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3521.9799114453,2000,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,450,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2000,493,0,0,0,0,0,0,0,0,0,0,0,191,302,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5311.52423939656,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1591.12709583027,2000,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2000,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2000,6124,0,0,0,0,0,0,0,0,0,0,6115,0,8,1,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1348.9546783829,2001,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,2001,74,0,0,0,0,0,0,0,0,0,0,0,0,20,54,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2001,4276,574,0,3700,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2001,42,41,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,2001,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2001,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,2001,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2001,1117,2,0,0,0,0,0,0,12,0,0,0,0,881,213,0,0,0,9,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2119.21111851454,2001,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2001,47,0,0,0,0,0,0,0,6,0,0,0,0,6,0,1,0,29,5,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2001,660,0,0,0,0,0,0,0,0,0,0,0,0,660,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,2001,302,0,0,0,0,0,0,0,0,0,0,0,0,302,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,4560.21824532192,2001,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2001,484,0,0,0,0,0,0,0,0,0,0,0,101,383,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13283.684323831,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,2001,144,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1147.56145922696,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5911.69700997327,2001,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,4911.06229547629,2001,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,2001,26,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,24,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3338.37400332019,2001,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2001,2753,0,0,0,0,0,0,0,0,0,0,0,253,2500,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2001,247,0,0,0,0,0,0,0,0,0,0,0,25,222,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2001,12433,0,0,0,0,0,0,0,0,0,0,12433,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1525.96438324403,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2002,1931,499,0,1408,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2002,2300,0,0,2300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,2002,183,0,3,0,0,0,0,12,3,0,0,0,0,0,0,0,0,160,5,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2002,301,0,0,0,0,0,0,0,3,0,0,0,0,118,113,0,0,0,67,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2002,126,0,2,0,0,0,0,0,0,0,0,0,0,111,0,0,0,13,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2002,121,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,2002,15,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3521.9799114453,2002,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2002,505,0,0,0,0,0,0,0,0,0,0,0,404,101,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1591.12709583027,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2002,2100,0,0,0,0,0,0,0,0,0,0,0,0,0,2100,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2002,12298,0,0,0,0,0,0,0,0,0,0,12298,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,2003,37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2003,101,0,0,6,0,76,0,0,14,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CA,Canada,country,North America,56.130366,-106.346771,11781.6009125827,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2003,4927,0,0,4700,0,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,2003,303,40,0,0,0,0,0,0,0,0,0,0,0,263,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2003,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2003,229,0,0,201,0,0,0,0,12,0,0,0,0,9,0,1,0,0,6,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2003,675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,673,0,0,2,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2003,583,0,4,0,0,0,0,0,0,0,0,0,27,552,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5786.24162214867,2003,121,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2003,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2003,161,0,0,0,0,0,0,0,0,0,0,0,0,161,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,2003,96,0,0,74,0,0,1,0,12,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3338.37400332019,2003,1541,0,0,0,0,0,0,0,0,0,0,1541,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2003,121,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5304.03172676243,2003,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2003,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2003,2377,0,0,0,0,0,0,0,0,0,0,2377,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2004,2737,165,0,2183,5,39,0,0,97,0,0,0,0,190,0,56,0,2,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2004,79,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,2004,603,0,0,0,0,0,0,0,0,0,0,0,0,603,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2004,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2004,118,0,0,9,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2119.21111851454,2004,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2004,455,0,0,0,0,0,0,0,42,0,0,0,0,0,0,413,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2004,91,0,1,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2004,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2004,121,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2928.5282960349,2004,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,2004,1300,0,0,0,0,0,0,0,0,0,0,1300,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5911.69700997327,2004,81,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,5366.61412009153,2004,101,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,2004,1013,541,2,339,0,0,2,2,15,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2004,1086,0,0,0,0,0,0,0,0,0,0,0,18,1068,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5791.27498870824,2004,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,2658.46628179977,2004,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2004,9700,0,0,0,0,0,0,0,0,0,0,9700,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1348.9546783829,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,2005,7,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2005,4946,80,0,3790,0,0,0,0,2,0,0,0,0,327,735,4,0,0,8,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2005,6498,0,0,6260,0,0,0,0,0,0,0,0,0,238,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,2005,719,0,0,0,0,0,0,0,0,0,0,0,0,681,0,38,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2005,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,2005,560,0,0,0,0,0,0,0,0,0,0,0,0,560,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2005,577,0,0,0,0,0,0,0,0,0,0,0,0,577,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2005,218,0,0,217,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2005,85,0,0,66,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2005,202,0,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,13283.684323831,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,2005,3700,0,0,0,0,0,0,0,0,0,0,3700,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,2005,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5911.69700997327,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,2005,1122,1,0,806,0,0,2,14,16,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3521.9799114453,2005,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2005,8338,0,0,0,0,0,0,0,0,0,0,0,0,8338,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2005,8100,0,0,0,0,0,0,0,0,0,0,8100,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,3381.56102310102,2006,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5751.72649652558,2006,27,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,913.615795788296,2006,2552,4,0,42,0,0,5,2,0,0,0,0,7,681,1798,13,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1325.03903113879,2006,2064,0,0,1814,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1972.18952364206,2006,659,0,0,0,0,0,0,0,0,0,0,0,0,659,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,11338.4687072997,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CN,China,country,East Asia and Pacific,35.86166,104.195397,10304.4550077972,2006,113,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,473.901320547977,2006,1136,0,0,0,0,0,0,0,0,0,0,0,0,736,0,400,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,311.374390960425,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,FR,France,country,Europe and Central Asia,46.227638,2.213749,5315.92214346421,2006,1146,0,0,0,0,0,0,0,0,0,0,0,0,1143,0,3,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1707.27631254803,2006,2237,0,0,0,0,0,0,0,0,0,0,0,0,0,2237,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2006,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IN,India,country,South Asia,20.593684,78.96288,7700.82284403958,2006,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,5762.31577847724,2006,227,0,0,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,6309.69725942021,2006,113,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4751.60836553642,2006,1126,0,0,0,0,0,0,0,0,0,0,0,0,1126,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4129.56423873779,2006,1200,0,0,0,0,0,0,0,0,0,0,1200,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5922.59012584119,2006,5474,0,0,0,0,0,0,0,0,0,0,0,23,5451,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,1147.56145922696,2006,8,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,566.992186205332,2006,1325,10,0,1092,0,0,1,3,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3338.37400332019,2006,1500,0,0,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4850.75845064193,2006,1852,0,0,0,0,0,0,0,0,0,0,0,201,1651,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,LK,Sri Lanka,country,South Asia,7.873054,80.771797,7735.3106065329,2006,204,0,0,0,0,0,0,0,0,0,0,0,0,204,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5042.38620714083,2006,1500,0,0,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,5304.03172676243,2006,68,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6402.48562021354,2006,1189,0,0,0,0,0,0,0,0,0,0,0,0,1189,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,US,USA,country,North America,37.09024,-95.712891,11603.6829840653,2006,6927,0,0,0,0,0,0,0,0,0,0,6700,0,227,0,0,0,0,0,0,0,0,0,0

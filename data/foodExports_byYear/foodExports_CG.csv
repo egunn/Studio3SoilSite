@@ -1,124 +1,124 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1993,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,1993,508,5,0,500,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,1993,10856,0,0,10856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1993,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,1993,6855,0,0,6855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,1993,37,11,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,12,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1994,11,0,9,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1994,85,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,12,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,1994,369,301,0,3,0,0,0,0,0,0,0,0,1,19,0,0,0,26,19,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,1994,11018,0,0,11000,0,0,0,0,0,0,0,0,16,0,0,2,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1994,42,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,1994,198,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,1994,3100,0,0,0,0,0,0,0,0,0,0,3100,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,1994,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,1994,84,53,0,0,0,0,0,6,0,0,0,0,0,1,0,13,0,11,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2005,9473,7518,74,81,0,0,0,88,66,0,0,0,0,20,0,39,0,1481,106,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2005,29,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2005,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,2005,6626,0,0,0,0,0,0,0,0,0,0,6626,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2005,23620,0,0,23620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2005,2500,0,0,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,2005,30,0,0,0,0,0,0,26,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2005,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,2005,10038,0,5,10000,0,0,0,0,1,0,0,0,0,3,0,29,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2005,3578,0,0,0,0,0,0,0,0,0,0,3578,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2005,72,0,0,0,0,0,0,0,0,0,0,0,63,0,0,9,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2005,1149,0,0,0,0,0,0,0,0,0,0,1149,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,2005,7009,0,0,7009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2005,1499,1499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2008,883,0,0,0,0,0,0,0,0,0,0,700,183,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,2008,4835,0,0,0,0,0,0,0,0,0,0,4835,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2008,27900,0,0,27900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2008,3940,0,0,3940,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2008,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2008,1000,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2009,6486,3220,0,0,0,0,40,498,0,0,0,0,7,523,2165,1,0,0,32,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2009,1271,0,0,0,0,0,0,0,0,0,0,1271,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2009,121,0,0,1,0,0,0,0,0,0,0,0,2,2,0,116,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,2009,3041,0,0,0,0,0,0,0,0,0,0,3041,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2009,24626,0,0,24625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2009,16200,0,0,16200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2009,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,2009,279,0,0,0,0,0,0,0,0,0,0,0,1,33,0,245,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2009,172,0,0,0,0,0,0,0,0,0,0,0,170,0,0,2,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2009,551,0,0,0,0,0,0,0,0,0,0,551,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2009,4167,202,0,0,0,0,0,0,0,0,0,3965,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2009,48,0,0,0,0,0,0,0,0,0,0,0,3,10,0,35,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2009,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,2009,500,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2010,6785,3520,0,0,0,0,40,498,0,0,0,0,7,522,2165,1,0,0,32,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2010,1271,0,0,0,0,0,0,0,0,0,0,1271,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2010,120,0,0,1,0,0,0,0,0,0,0,0,2,2,0,115,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,2010,3041,0,0,0,0,0,0,0,0,0,0,3041,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2010,24409,0,0,24408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2010,16058,0,0,16058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2010,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,279,0,0,0,0,0,0,0,0,0,0,0,1,33,0,245,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,172,0,0,0,0,0,0,0,0,0,0,0,170,0,0,2,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2010,551,0,0,0,0,0,0,0,0,0,0,551,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2010,4167,202,0,0,0,0,0,0,0,0,0,3965,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2010,48,0,0,0,0,0,0,0,0,0,0,0,3,10,0,35,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,2010,500,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2012,4785,540,0,0,0,0,0,152,0,0,0,0,74,91,3615,108,0,205,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2012,200,0,0,1,0,0,0,0,0,0,0,0,1,14,0,184,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2012,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2012,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,179,0,0,0,0,0,0,0,2,0,0,0,2,33,0,142,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2012,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2012,32,0,0,0,0,0,0,0,3,0,0,0,0,1,0,28,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2012,978,0,0,0,0,0,0,0,0,0,0,978,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2012,558,0,0,0,0,0,0,0,0,0,0,0,536,1,0,21,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2012,13128,0,0,0,0,0,0,0,0,0,0,13128,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2012,102,0,0,2,0,0,0,0,4,0,0,0,2,3,0,91,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2012,67,0,0,1,0,0,0,0,3,0,0,0,0,2,0,61,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2012,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2012,12,0,0,0,0,0,0,0,0,0,0,0,8,0,0,4,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2012,114,1,0,0,0,0,0,0,0,0,0,0,8,2,0,103,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2012,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2012,50,0,0,0,0,0,0,0,6,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,2012,3875,0,0,0,0,0,0,0,0,0,0,3873,2,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2013,3804,45,0,0,0,0,0,0,0,0,0,0,27,0,3732,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,86,0,0,0,0,0,0,0,2,0,0,0,25,1,0,58,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2013,1440,0,0,0,0,0,0,0,0,0,0,1440,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2013,30,0,0,0,0,0,0,0,0,0,0,0,1,1,0,28,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CA,Canada,country,North America,56.130366,-106.346771,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,2013,374,0,0,374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2013,1000,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,91,3,0,0,0,0,0,0,0,0,0,0,1,6,0,80,0,1,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,2013,232,0,0,1,0,0,0,0,15,0,0,0,3,27,0,186,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2013,52,0,0,0,0,0,0,0,0,0,0,0,1,2,0,49,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2013,1045,0,0,0,0,0,0,0,1,0,0,0,1010,0,0,34,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2013,3882,0,0,0,0,0,0,0,0,0,0,3882,0,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,316,0,0,0,0,0,0,0,5,0,0,0,220,3,0,88,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2013,14,0,0,0,0,0,0,0,4,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2013,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2013,102,0,0,1,0,0,0,0,5,0,0,0,0,2,0,94,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2013,28,0,0,0,0,0,0,0,3,0,0,0,0,1,0,24,0,0,0,0,0,0,0,0
-CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,2013,7902,0,0,0,0,0,0,0,0,0,0,7902,0,0,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,1993,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,784.2575694913,1993,508,5,0,500,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,1993,10856,0,0,10856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1933.569038733,1993,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,1993,6855,0,0,6855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,2548.00412318235,1993,37,11,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,12,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,1994,11,0,9,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2640.93009349633,1994,85,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,12,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,949.75683017993,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,784.2575694913,1994,369,301,0,3,0,0,0,0,0,0,0,0,1,19,0,0,0,26,19,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,1994,11018,0,0,11000,0,0,0,0,0,0,0,0,16,0,0,2,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5743.60414402247,1994,42,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4698.00058349129,1994,198,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3459.19425909051,1994,3100,0,0,0,0,0,0,0,0,0,0,3100,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,1994,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,2548.00412318235,1994,84,53,0,0,0,0,0,6,0,0,0,0,0,1,0,13,0,11,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,2005,9473,7518,74,81,0,0,0,88,66,0,0,0,0,20,0,39,0,1481,106,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5749.40097199762,2005,29,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1835.66744117928,2005,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,9147.92580359039,2005,6626,0,0,0,0,0,0,0,0,0,0,6626,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,929.516885524628,2005,23620,0,0,23620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1774.71578985677,2005,2500,0,0,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,10880.4612892507,2005,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,9886.37803191257,2005,30,0,0,0,0,0,0,26,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,784.2575694913,2005,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,2005,10038,0,5,10000,0,0,0,0,1,0,0,0,0,3,0,29,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4304.71028552667,2005,3578,0,0,0,0,0,0,0,0,0,0,3578,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5911.71061028531,2005,72,0,0,0,0,0,0,0,0,0,0,0,63,0,0,9,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3715.47832330265,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6432.81457579839,2005,1149,0,0,0,0,0,0,0,0,0,0,1149,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,2005,7009,0,0,7009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10289.4329972541,2005,1499,1499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5749.40097199762,2008,883,0,0,0,0,0,0,0,0,0,0,700,183,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,9147.92580359039,2008,4835,0,0,0,0,0,0,0,0,0,0,4835,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,929.516885524628,2008,27900,0,0,27900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,949.75683017993,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1774.71578985677,2008,3940,0,0,3940,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,10880.4612892507,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,9886.37803191257,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,784.2575694913,2008,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,473.901320547977,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3715.47832330265,2008,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,9795.90767380255,2008,1000,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,2009,6486,3220,0,0,0,0,40,498,0,0,0,0,7,523,2165,1,0,0,32,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,9084.17245698442,2009,1271,0,0,0,0,0,0,0,0,0,0,1271,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5749.40097199762,2009,121,0,0,1,0,0,0,0,0,0,0,0,2,2,0,116,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,9147.92580359039,2009,3041,0,0,0,0,0,0,0,0,0,0,3041,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,929.516885524628,2009,24626,0,0,24625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1774.71578985677,2009,16200,0,0,16200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,9886.37803191257,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,3411.73192312879,2009,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,2009,279,0,0,0,0,0,0,0,0,0,0,0,1,33,0,245,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4698.00058349129,2009,172,0,0,0,0,0,0,0,0,0,0,0,170,0,0,2,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4333.04757458502,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,3750.31159034215,2009,551,0,0,0,0,0,0,0,0,0,0,551,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4304.71028552667,2009,4167,202,0,0,0,0,0,0,0,0,0,3965,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5911.71061028531,2009,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5289.348991834,2009,48,0,0,0,0,0,0,0,0,0,0,0,3,10,0,35,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4880.19583080683,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6432.81457579839,2009,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,2009,500,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,2010,6785,3520,0,0,0,0,40,498,0,0,0,0,7,522,2165,1,0,0,32,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,9084.17245698442,2010,1271,0,0,0,0,0,0,0,0,0,0,1271,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5749.40097199762,2010,120,0,0,1,0,0,0,0,0,0,0,0,2,2,0,115,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BM,Bermuda,country,North America,32.321384,-64.75737,9147.92580359039,2010,3041,0,0,0,0,0,0,0,0,0,0,3041,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,929.516885524628,2010,24409,0,0,24408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1774.71578985677,2010,16058,0,0,16058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,9886.37803191257,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,3411.73192312879,2010,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,2010,279,0,0,0,0,0,0,0,0,0,0,0,1,33,0,245,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4698.00058349129,2010,172,0,0,0,0,0,0,0,0,0,0,0,170,0,0,2,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4333.04757458502,2010,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,3750.31159034215,2010,551,0,0,0,0,0,0,0,0,0,0,551,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4304.71028552667,2010,4167,202,0,0,0,0,0,0,0,0,0,3965,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5911.71061028531,2010,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5289.348991834,2010,48,0,0,0,0,0,0,0,0,0,0,0,3,10,0,35,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4880.19583080683,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6432.81457579839,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,2010,500,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,2012,4785,540,0,0,0,0,0,152,0,0,0,0,74,91,3615,108,0,205,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5749.40097199762,2012,200,0,0,1,0,0,0,0,0,0,0,0,1,14,0,184,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1835.66744117928,2012,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,929.516885524628,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,10880.4612892507,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,9886.37803191257,2012,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,784.2575694913,2012,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,2012,179,0,0,0,0,0,0,0,2,0,0,0,2,33,0,142,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,473.901320547977,2012,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5743.60414402247,2012,32,0,0,0,0,0,0,0,3,0,0,0,0,1,0,28,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2079.59567032399,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,6372.76935806374,2012,978,0,0,0,0,0,0,0,0,0,0,978,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4698.00058349129,2012,558,0,0,0,0,0,0,0,0,0,0,0,536,1,0,21,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,5647.14046639602,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4304.71028552667,2012,13128,0,0,0,0,0,0,0,0,0,0,13128,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5911.71061028531,2012,102,0,0,2,0,0,0,0,4,0,0,0,2,3,0,91,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,5045.32032073753,2012,67,0,0,1,0,0,0,0,3,0,0,0,0,2,0,61,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3715.47832330265,2012,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4944.62871151535,2012,12,0,0,0,0,0,0,0,0,0,0,0,8,0,0,4,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5289.348991834,2012,114,1,0,0,0,0,0,0,0,0,0,0,8,2,0,103,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4880.19583080683,2012,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6432.81457579839,2012,50,0,0,0,0,0,0,0,6,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,2012,3875,0,0,0,0,0,0,0,0,0,0,3873,2,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,1242.47642071086,2013,3804,45,0,0,0,0,0,0,0,0,0,0,27,0,3732,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,5749.40097199762,2013,86,0,0,0,0,0,0,0,2,0,0,0,25,1,0,58,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7615.43674829738,2013,1440,0,0,0,0,0,0,0,0,0,0,1440,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,929.516885524628,2013,30,0,0,0,0,0,0,0,0,0,0,0,1,1,0,28,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CA,Canada,country,North America,56.130366,-106.346771,11962.568462283,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,949.75683017993,2013,374,0,0,374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1774.71578985677,2013,1000,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CN,China,country,East Asia and Pacific,35.86166,104.195397,9886.37803191257,2013,91,3,0,0,0,0,0,0,0,0,0,0,1,6,0,80,0,1,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,10401.7694256618,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,FR,France,country,Europe and Central Asia,46.227638,2.213749,5340.34360640069,2013,232,0,0,1,0,0,0,0,15,0,0,0,3,27,0,186,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,5743.60414402247,2013,52,0,0,0,0,0,0,0,0,0,0,0,1,2,0,49,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4698.00058349129,2013,1045,0,0,0,0,0,0,0,1,0,0,0,1010,0,0,34,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,12903.6640636932,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,4304.71028552667,2013,3882,0,0,0,0,0,0,0,0,0,0,3882,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,5911.71061028531,2013,316,0,0,0,0,0,0,0,5,0,0,0,220,3,0,88,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,5045.32032073753,2013,14,0,0,0,0,0,0,0,4,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,3715.47832330265,2013,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,4944.62871151535,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5289.348991834,2013,102,0,0,1,0,0,0,0,5,0,0,0,0,2,0,94,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,6432.81457579839,2013,28,0,0,0,0,0,0,0,3,0,0,0,0,1,0,24,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,US,USA,country,North America,37.09024,-95.712891,11930.5653715462,2013,7902,0,0,0,0,0,0,0,0,0,0,7902,0,0,0,0,0,0,0,0,0,0,0,0

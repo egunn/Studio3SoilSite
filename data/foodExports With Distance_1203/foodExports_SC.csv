@@ -1,0 +1,276 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,11756.5907970945,1990,42,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,1990,9,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,1990,5,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,14691.8765395963,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,9679.59407860181,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,1990,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PK,Pakistan,country,South Asia,30.375321,69.345116,4171.98826835382,1990,883,0,0,0,0,0,883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1829.60524435258,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,1990,32,0,0,0,0,0,0,0,0,0,15,0,0,0,0,17,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,7370.71324250558,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,13034.5003592874,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,1990,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,19,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,1991,38,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AT,Austria,country,Europe and Central Asia,47.516231,14.550072,7053.79611296865,1991,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,14524.2881694513,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,11756.5907970945,1991,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,1991,7,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,1991,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,1991,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,12765.8316374375,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,1991,48,0,0,0,0,0,0,0,0,0,34,0,0,0,0,14,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PK,Pakistan,country,South Asia,30.375321,69.345116,4171.98826835382,1991,446,0,0,0,0,0,446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,1991,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,1991,71,0,0,0,0,0,0,0,0,0,51,0,0,0,0,20,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,1991,83,0,0,0,0,0,0,0,0,0,72,0,0,1,0,10,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,1992,29,0,0,0,0,0,0,0,0,0,17,0,0,0,0,12,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,14524.2881694513,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,1992,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,11756.5907970945,1992,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,1992,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,1992,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,7764.47173966996,1992,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,1992,27,0,0,0,0,0,0,0,0,0,25,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,1992,35,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,1992,39,0,0,0,0,0,0,0,0,0,14,0,0,0,0,11,0,0,14,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PK,Pakistan,country,South Asia,30.375321,69.345116,4171.98826835382,1992,228,0,0,0,0,0,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1829.60524435258,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,1992,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,1992,134,0,0,0,0,0,0,0,0,0,101,0,0,0,0,33,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7840.90026988078,1992,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,7370.71324250558,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,1992,180,0,0,0,0,0,0,0,0,0,171,0,0,0,0,9,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,1994,49,0,0,0,0,0,0,0,0,0,41,0,0,0,0,8,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,14524.2881694513,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,1994,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,1994,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,1994,51,0,0,0,0,0,0,0,0,0,47,0,0,0,0,4,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,1994,61,6,0,2,0,1,0,16,16,0,0,0,2,2,1,4,0,0,11,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,12765.8316374375,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,1994,22,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,1994,9,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,16874.7840555756,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,1994,51,0,0,0,0,0,0,0,0,0,40,0,0,0,0,11,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PR,Puerto Rico,country,Latin America and the Caribbean,18.220833,-66.590149,13569.0327713268,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1829.60524435258,1994,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,1994,259,0,0,0,0,0,101,0,0,0,100,0,0,0,0,58,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,7897.47651392362,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,7370.71324250558,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,5508.78699195186,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,1994,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,1994,215,0,0,0,0,0,0,0,0,0,191,0,0,12,0,12,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,1995,25,0,0,0,0,0,0,0,0,0,17,0,0,0,0,8,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,14524.2881694513,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3447.54585344228,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,1995,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BM,Bermuda,country,North America,32.321384,-64.75737,13124.4459684221,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,1995,18,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,1995,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,1995,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,13037.5997317079,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,1995,73,0,0,0,0,0,0,0,0,0,58,0,0,6,0,9,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,1995,11,0,0,0,0,0,0,0,0,0,8,0,1,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,12765.8316374375,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,1995,457,0,0,0,0,0,457,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,1995,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,14691.8765395963,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,5263.13128016274,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,1995,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,16874.7840555756,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,1995,145,0,0,0,0,2,0,0,0,0,121,0,1,0,0,21,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,12071.5841026787,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PR,Puerto Rico,country,Latin America and the Caribbean,18.220833,-66.590149,13569.0327713268,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1829.60524435258,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,1995,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,1995,283,0,0,0,0,0,157,0,0,0,115,0,0,0,0,11,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7840.90026988078,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,7897.47651392362,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,7370.71324250558,1995,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,1995,319,0,0,0,0,0,0,0,0,0,282,0,0,3,0,34,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,1995,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,1996,61,0,0,0,0,0,0,0,0,0,51,0,0,0,0,10,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,14524.2881694513,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3447.54585344228,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,1996,33,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BM,Bermuda,country,North America,32.321384,-64.75737,13124.4459684221,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,1996,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,1996,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,6988.17629926976,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,13936.753344364,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,1996,91,0,0,0,0,0,0,0,0,0,85,0,0,1,0,5,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,1996,19,0,0,0,0,0,0,0,0,0,16,0,0,0,0,3,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,5973.71584552394,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,12765.8316374375,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,1996,18,0,0,0,0,0,0,0,0,0,17,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,1826.88303878367,1996,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,1996,186,0,0,0,0,0,0,0,0,0,0,0,0,0,0,186,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,5309.71950637642,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,1996,103,0,0,0,0,0,0,0,0,0,93,0,1,0,0,9,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PR,Puerto Rico,country,Latin America and the Caribbean,18.220833,-66.590149,13569.0327713268,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1829.60524435258,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,1996,118,0,0,0,0,0,0,0,1,0,90,0,0,0,1,26,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7840.90026988078,1996,26,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,7370.71324250558,1996,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,1996,369,0,0,0,0,0,0,0,0,0,316,0,0,4,0,32,0,17,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,2001,40,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,6083.48453282698,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,2001,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,2001,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CN,China,country,East Asia and Pacific,35.86166,104.195397,6787.09809805598,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,14662.9782494868,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,2001,19,0,0,0,0,0,0,0,0,0,11,0,0,1,0,7,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,2001,18,0,0,0,0,0,0,0,0,0,17,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,2001,11,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,2001,589,0,0,0,0,0,0,0,0,0,0,0,0,0,65,524,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,12071.5841026787,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PK,Pakistan,country,South Asia,30.375321,69.345116,4171.98826835382,2001,21,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,6392.76839627045,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,2001,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,3527.21677023981,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,5508.78699195186,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,2001,112,0,0,0,0,0,0,0,0,0,97,0,0,0,0,15,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,2290.41399602758,2001,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,2002,32,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,2002,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,2002,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,2002,59,0,0,0,0,0,0,0,0,0,19,0,0,4,0,36,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,2002,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,1826.88303878367,2002,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,2002,547,0,0,0,0,0,0,0,1,0,0,0,0,0,37,509,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,2002,119,0,0,0,0,0,0,0,0,0,80,0,0,0,0,39,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,8315.58488517956,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PK,Pakistan,country,South Asia,30.375321,69.345116,4171.98826835382,2002,11,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,2002,7,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,5508.78699195186,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,13034.5003592874,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,2002,54,0,0,0,0,0,0,0,0,0,53,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,14524.2881694513,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3447.54585344228,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,2003,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,2003,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,2003,6,0,0,0,0,3,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,14662.9782494868,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,2003,16,0,0,0,0,0,0,0,0,0,8,0,0,2,0,6,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,2003,18,0,0,0,0,0,0,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,2003,162,4,0,0,0,0,0,0,0,0,0,0,0,0,0,158,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,16874.7840555756,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,2003,80,0,0,0,0,0,0,3,0,0,72,0,4,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,2003,15,3,0,0,0,0,0,0,0,0,8,0,0,1,0,3,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,3527.21677023981,2003,6,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,7897.47651392362,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,2003,97,0,0,0,0,0,0,0,0,0,45,0,0,1,0,51,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,3447.54585344228,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,2005,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,2005,53,0,0,0,0,52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,2005,11,0,0,0,0,0,0,0,0,0,0,0,1,2,0,8,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,5973.71584552394,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,2005,6,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,2022.96170150922,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MV,Maldives,country,South Asia,3.202778,73.22068,2158.24615798252,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,2005,204,0,0,0,0,0,0,0,0,0,0,0,0,1,0,203,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,2005,51,0,0,0,0,0,0,0,0,0,49,0,2,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,2005,30,0,0,0,0,0,0,3,1,0,0,0,0,0,0,25,0,0,1,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,3527.21677023981,2005,5,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,2005,6,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,2005,71,0,0,0,0,0,0,0,0,0,8,0,0,2,0,61,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,12158.289652689,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,2006,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,11756.5907970945,2006,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,2006,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,2006,71,0,0,1,0,68,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,14662.9782494868,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,2006,13,0,0,0,0,0,0,0,0,0,0,0,0,2,0,11,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,2006,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,2006,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,2006,19,0,0,0,0,3,0,1,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,5263.13128016274,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MV,Maldives,country,South Asia,3.202778,73.22068,2158.24615798252,2006,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,2006,237,0,0,0,0,0,0,0,0,0,0,0,0,0,1,236,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,2006,103,0,0,0,0,0,0,0,0,0,95,0,5,0,0,3,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PK,Pakistan,country,South Asia,30.375321,69.345116,4171.98826835382,2006,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,12221.4593770958,2006,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,7583.37019747799,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,2006,35,0,0,0,0,0,0,3,3,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,2006,58,0,0,0,0,0,0,21,21,0,0,0,0,12,0,4,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,LK,Sri Lanka,country,South Asia,7.873054,80.771797,3135.89748656131,2006,18,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,3527.21677023981,2006,5,0,0,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,5508.78699195186,2006,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5286.22580249371,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,2006,27,11,3,0,0,3,0,2,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,2006,61,1,0,1,0,0,0,0,0,0,0,0,1,1,0,57,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,2290.41399602758,2006,29,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,8618.00878557655,2007,17,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,7834.6337408069,2007,98,2,0,1,0,0,0,2,1,0,0,74,1,14,1,0,0,0,2,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,11756.5907970945,2007,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CA,Canada,country,North America,56.130366,-106.346771,14087.4164337262,2007,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,7050.37678669228,2007,67,0,0,0,0,14,51,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CN,China,country,East Asia and Pacific,35.86166,104.195397,6787.09809805598,2007,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,14662.9782494868,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,4996.54065163866,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,7963.21928725099,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,FR,France,country,Europe and Central Asia,46.227638,2.213749,7715.25662017853,2007,28,0,0,0,0,0,0,0,0,0,2,0,0,1,0,25,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,7545.91506405077,2007,9,2,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IN,India,country,South Asia,20.593684,78.96288,3807.02396646312,2007,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,6509.34696241875,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,8751.58955306679,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,6759.96144617461,2007,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,1826.88303878367,2007,40,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,5263.13128016274,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MV,Maldives,country,South Asia,3.202778,73.22068,2158.24615798252,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,1758.45432864384,2007,369,1,0,0,0,0,0,0,0,0,0,0,1,0,1,366,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,7892.65917214529,2007,100,4,0,3,0,0,0,0,0,0,33,0,32,0,0,28,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,2916.07713914549,2007,42,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,5416.67567437286,2007,58,10,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,13,21,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,4464.46203155879,2007,101,0,6,0,0,0,0,27,32,0,1,0,0,13,0,11,0,2,9,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,7840.90026988078,2007,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,3527.21677023981,2007,11,0,0,1,0,0,0,0,0,0,0,0,5,1,0,4,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3133.57808539363,2007,62,6,1,0,0,0,0,2,2,0,0,0,3,9,0,33,0,4,2,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,8570.48256012774,2007,50,0,0,0,0,0,0,0,0,0,0,0,1,1,0,48,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,2290.41399602758,2007,18,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,US,USA,country,North America,37.09024,-95.712891,15388.6144185058,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,11701.8011162952,2007,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0

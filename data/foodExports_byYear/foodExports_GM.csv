@@ -1,231 +1,230 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,1999,32,0,0,0,0,0,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,1999,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,1999,10,2,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,1999,160,0,0,2,0,57,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1999,37,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1999,283,63,0,173,0,0,0,2,3,0,0,0,12,28,1,0,0,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,1999,864,631,21,66,0,15,0,11,0,0,0,0,4,26,5,79,0,0,6,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,1999,50,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,1999,154,0,0,0,0,0,0,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1999,174,63,1,79,0,0,0,7,0,0,0,0,11,1,10,0,0,0,2,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,1999,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NP,Nepal,country,South Asia,28.394857,84.124008,1999,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PK,Pakistan,country,South Asia,30.375321,69.345116,1999,34,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,1999,206,57,8,12,0,0,0,73,0,0,0,0,2,0,30,24,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,1999,7,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,1999,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,1999,1677,10,0,0,0,0,0,1520,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,1999,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2000,18,0,0,0,0,0,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2000,17,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2000,15,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2000,705,97,0,136,0,452,18,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2000,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2000,165,0,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2000,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2000,74,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2000,115,114,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2000,7,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2000,30,0,0,0,0,0,0,4,0,0,0,0,0,0,20,0,0,0,6,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2000,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2000,818,0,0,0,0,0,0,0,0,0,0,0,0,0,818,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2000,3,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2000,1598,0,175,0,0,0,0,789,630,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2001,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2001,139,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2001,169,153,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,3193,0,0,12,0,0,0,0,0,0,0,0,0,0,3180,0,0,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2001,51,0,0,0,0,0,50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2001,216,0,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2001,8,0,0,0,0,0,0,6,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PK,Pakistan,country,South Asia,30.375321,69.345116,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2001,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2001,63,0,0,0,0,0,57,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2001,6086,0,0,0,0,0,358,1541,0,0,0,4187,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2002,41,33,0,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2002,181,132,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2002,241,0,0,0,0,0,0,0,0,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2002,9082,0,0,0,0,0,0,0,0,0,0,15,0,0,9067,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2002,2070,0,0,38,0,0,0,4,60,0,0,0,0,0,1968,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2002,43,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2002,4672,0,0,0,0,0,0,0,0,0,0,0,0,0,4672,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2002,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2002,62,0,0,0,0,0,0,0,60,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2002,3,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2002,5696,0,554,0,0,0,4140,204,781,0,0,2,0,0,0,0,0,0,15,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2002,846,0,0,0,0,0,846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2003,210,0,0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2003,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2003,197,0,0,0,0,0,0,0,0,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2003,4159,6,0,0,0,0,0,5,0,0,0,0,0,0,148,0,0,0,4000,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2003,4849,322,0,0,0,0,0,1,1,0,0,0,1,0,24,0,0,0,4500,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2003,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,706,0,0,0,0,0,0,0,0,0,0,0,0,0,706,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2003,12,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2003,36,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2003,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,2003,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2003,17,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2003,48,0,0,0,0,0,0,0,0,0,0,30,0,0,0,18,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2003,1378,0,9,2,0,0,1177,182,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2007,1207,0,0,0,0,0,0,0,0,0,0,1207,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2007,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2007,1570,0,0,0,0,0,0,0,0,80,0,0,0,0,1490,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2007,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2007,115,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2007,86,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2007,5445,0,0,0,0,0,0,0,0,0,0,5445,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2007,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2007,305,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2007,2746,0,0,0,0,0,1892,38,0,0,26,530,0,3,254,3,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2007,2176,0,3,0,0,0,720,404,953,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2007,106,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2008,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2008,5,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2008,36,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2008,279,0,0,0,0,112,90,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2008,6142,0,0,0,0,0,0,0,0,0,0,0,0,0,6142,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2008,961,0,1,0,0,894,36,0,27,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2008,11,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2008,2642,23,0,0,0,2603,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2008,1217,0,0,0,0,0,0,0,0,0,0,1217,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2008,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2008,22,0,1,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2008,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2008,674,7,1,1,0,174,464,6,0,0,0,0,0,3,10,6,0,2,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2008,905,0,0,1,0,0,414,413,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2008,37,0,0,0,0,11,24,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CA,Canada,country,North America,56.130366,-106.346771,2009,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2009,58,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2009,454,1,0,0,0,7,442,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2009,4166,0,0,0,0,0,0,0,0,0,0,0,0,0,4166,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2009,30,0,0,0,0,9,0,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2009,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2009,2048,62,0,13,0,0,0,786,3,0,3,0,63,62,5,30,0,2,1019,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2009,1148,587,0,20,0,36,0,87,5,0,80,0,31,32,137,92,0,9,32,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2009,2901,75,0,0,0,2823,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2009,31,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2009,2801,49,0,0,0,0,0,0,27,0,0,2526,0,0,199,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2009,11,0,5,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2009,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2009,7762,485,8,1576,0,344,603,165,0,0,11,3022,678,63,678,22,0,0,107,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2009,65,11,0,0,0,0,49,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2009,128,0,0,0,0,120,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2009,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2009,112,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2009,2949,0,0,0,0,0,2886,25,29,0,0,1,0,0,8,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2009,1514,0,0,0,0,0,10,4,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2010,37,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2010,837,0,0,0,0,387,442,0,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,4818,0,0,0,0,0,0,0,0,0,0,0,0,0,4818,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2010,40,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2010,230,15,0,46,0,0,0,52,1,0,2,0,12,19,50,0,0,4,29,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2010,264,4,0,153,0,2,0,8,1,0,0,0,3,17,27,31,0,3,15,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2010,1390,0,0,0,0,1390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2010,29,1,0,19,0,0,0,6,0,0,0,0,0,2,0,0,133,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2010,153,0,0,0,0,0,0,0,0,0,0,146,0,7,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2010,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2010,5086,63,0,62,0,117,229,22,3,10,3,4290,24,29,114,23,0,10,77,10,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2010,16,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2010,55,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2010,73,0,0,0,0,65,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2010,8299,0,0,0,0,0,6878,4,25,0,0,40,0,1,1347,4,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2010,54,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,2011,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2011,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2011,217,0,0,0,0,35,172,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2011,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,2011,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2011,7505,263,0,2278,0,0,8,2799,9,0,5,24,93,201,83,138,0,15,1579,10,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2011,3315,378,1,1410,0,0,0,393,19,1,0,55,83,232,254,151,0,18,320,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2011,3140,0,0,0,0,2387,0,0,753,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,2011,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2011,983,22,0,453,0,0,0,178,8,0,20,0,19,58,33,45,0,15,132,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2011,805,30,0,0,0,0,0,0,0,0,0,687,85,0,0,0,0,0,3,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2011,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2011,25451,1113,2,14196,0,0,1,978,85,0,151,1633,384,422,4661,12,0,118,1695,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2011,102,0,0,3,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2011,2122,0,0,0,0,0,2034,11,22,0,0,0,0,0,0,54,0,0,1,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2011,9,0,0,0,0,0,0,1,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2011,10,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2012,71,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,203,0,0,0,0,146,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,120,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2012,3047,183,0,374,0,0,0,1291,11,0,6,0,242,226,7,41,0,2,664,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2012,1760,575,0,170,0,0,0,243,2,0,39,0,100,125,140,93,0,9,264,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2012,3597,0,0,0,0,3597,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2012,180,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,2012,20,10,0,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2012,1968,19,0,20,0,0,0,1257,2,0,54,0,18,10,0,23,0,10,555,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2012,191,115,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,16,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,2012,432,0,0,0,0,0,432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2012,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2012,36079,1262,4,1731,0,0,0,715,22,0,29,30100,300,144,1080,5,0,10,677,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2012,66,25,0,8,0,0,0,10,0,0,0,0,1,1,8,1,0,0,12,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2012,180,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2012,3032,0,0,0,0,0,990,11,0,0,0,0,0,0,2031,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2012,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,129,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2013,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,868,0,0,0,0,650,108,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2013,2475,102,0,80,0,0,0,1749,4,0,1,0,147,106,43,20,0,0,223,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,2013,1042,114,1,487,0,0,0,144,2,0,0,0,37,46,67,105,0,0,39,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,2013,5926,0,0,0,0,5547,379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2013,3083,15,0,71,0,0,0,1958,4,0,56,0,157,118,55,49,0,41,559,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,102,0,0,0,0,1,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2013,6086,869,3,2086,0,81,0,1173,31,0,10,465,116,81,856,22,0,2,291,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,2013,38,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,2013,35,4,1,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2013,1183,0,0,0,0,38,1145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2013,88,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2013,9,0,0,0,0,3,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2013,37,0,0,0,0,0,35,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2013,65,0,0,0,0,31,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2013,557,0,0,0,0,2,390,29,123,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,2013,16,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,12,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,2013,140,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0
-GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2013,3074,0,0,0,0,764,1902,0,0,0,0,0,0,408,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,1999,32,0,0,0,0,0,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,3101.02884697909,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,13229.7034364869,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5217.83647887009,1999,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,1999,10,2,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,1999,160,0,0,2,0,57,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,1999,37,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,1999,283,63,0,173,0,0,0,2,3,0,0,0,12,28,1,0,0,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,1999,864,631,21,66,0,15,0,11,0,0,0,0,4,26,5,79,0,0,6,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,1999,50,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,14270.0371364827,1999,154,0,0,0,0,0,0,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,1999,174,63,1,79,0,0,0,7,0,0,0,0,11,1,10,0,0,0,2,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,1999,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NP,Nepal,country,South Asia,28.394857,84.124008,10208.133793287,1999,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PK,Pakistan,country,South Asia,30.375321,69.345116,8762.33511886302,1999,34,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,1999,206,57,8,12,0,0,0,73,0,0,0,0,2,0,30,24,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,1999,7,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3212.28376389658,1999,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,1999,1677,10,0,0,0,0,0,1520,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,1999,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,2000,18,0,0,0,0,0,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,13229.7034364869,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2000,17,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2000,15,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2000,705,97,0,136,0,452,18,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,2000,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2000,165,0,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2000,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2000,74,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2000,115,114,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2000,7,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2000,30,0,0,0,0,0,0,4,0,0,0,0,0,0,20,0,0,0,6,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2972.03276598995,2000,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,6383.98964884896,2000,818,0,0,0,0,0,0,0,0,0,0,0,0,0,818,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,12306.0121057738,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2000,3,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2000,1598,0,175,0,0,0,0,789,630,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,2001,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,5085.81837669605,2001,139,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2001,169,153,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2001,3193,0,0,12,0,0,0,0,0,0,0,0,0,0,3180,0,0,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2001,51,0,0,0,0,0,50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2001,216,0,0,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2001,8,0,0,0,0,0,0,6,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,5581.3668291405,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PK,Pakistan,country,South Asia,30.375321,69.345116,8762.33511886302,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2972.03276598995,2001,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2001,63,0,0,0,0,0,57,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5887.17441556672,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2001,6086,0,0,0,0,0,358,1541,0,0,0,4187,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,2002,41,33,0,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,13229.7034364869,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2002,181,132,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,13734.027196961,2002,241,0,0,0,0,0,0,0,0,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5217.83647887009,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2002,9082,0,0,0,0,0,0,0,0,0,0,15,0,0,9067,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,3367.02287054456,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2002,2070,0,0,38,0,0,0,4,60,0,0,0,0,0,1968,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2002,43,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,4492.95127103123,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4153.39519887905,2002,4672,0,0,0,0,0,0,0,0,0,0,0,0,0,4672,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2002,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2002,62,0,0,0,0,0,0,0,60,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2002,3,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2002,5696,0,554,0,0,0,4140,204,781,0,0,2,0,0,0,0,0,0,15,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2002,846,0,0,0,0,0,846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,5077.35355344444,2003,210,0,0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2003,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,13734.027196961,2003,197,0,0,0,0,0,0,0,0,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5217.83647887009,2003,4159,6,0,0,0,0,0,5,0,0,0,0,0,0,148,0,0,0,4000,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2003,4849,322,0,0,0,0,0,1,1,0,0,0,1,0,24,0,0,0,4500,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2003,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4153.39519887905,2003,706,0,0,0,0,0,0,0,0,0,0,0,0,0,706,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2003,12,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2208.06561367975,2003,36,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2661.8213711511,2003,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PL,Poland,country,Europe and Central Asia,51.919438,19.145136,5270.00968369331,2003,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,10222.2684542741,2003,17,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2003,48,0,0,0,0,0,0,0,0,0,0,30,0,0,0,18,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3212.28376389658,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5887.17441556672,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2003,1378,0,9,2,0,0,1177,182,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,2007,1207,0,0,0,0,0,0,0,0,0,0,1207,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,5077.35355344444,2007,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2007,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2007,1570,0,0,0,0,0,0,0,0,80,0,0,0,0,1490,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,2007,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2007,115,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,4153.39519887905,2007,86,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,1012.44287311385,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2007,5445,0,0,0,0,0,0,0,0,0,0,5445,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2007,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,2972.03276598995,2007,305,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,6429.24069474273,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2007,2746,0,0,0,0,0,1892,38,0,0,26,530,0,3,254,3,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5887.17441556672,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2007,2176,0,3,0,0,0,720,404,953,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2007,106,0,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,2008,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,13229.7034364869,2008,5,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2008,36,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5217.83647887009,2008,279,0,0,0,0,112,90,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2008,6142,0,0,0,0,0,0,0,0,0,0,0,0,0,6142,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2008,961,0,1,0,0,894,36,0,27,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2008,11,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2008,2642,23,0,0,0,2603,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2008,1217,0,0,0,0,0,0,0,0,0,0,1217,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2208.06561367975,2008,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2008,22,0,1,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2661.8213711511,2008,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2008,674,7,1,1,0,174,464,6,0,0,0,0,0,3,10,6,0,2,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3212.28376389658,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2008,905,0,0,1,0,0,414,413,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2008,37,0,0,0,0,11,24,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CA,Canada,country,North America,56.130366,-106.346771,8843.48400071091,2009,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2009,58,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5217.83647887009,2009,454,1,0,0,0,7,442,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2009,4166,0,0,0,0,0,0,0,0,0,0,0,0,0,4166,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,4795.96619942226,2009,30,0,0,0,0,9,0,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,2009,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2009,2048,62,0,13,0,0,0,786,3,0,3,0,63,62,5,30,0,2,1019,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2009,1148,587,0,20,0,36,0,87,5,0,80,0,31,32,137,92,0,9,32,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2009,2901,75,0,0,0,2823,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2009,31,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2009,2801,49,0,0,0,0,0,0,27,0,0,2526,0,0,199,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2009,11,0,5,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,6429.24069474273,2009,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2009,7762,485,8,1576,0,344,603,165,0,0,11,3022,678,63,678,22,0,0,107,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2009,65,11,0,0,0,0,49,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,13123.9004112412,2009,128,0,0,0,0,120,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1842.14397748493,2009,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2009,112,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2009,2949,0,0,0,0,0,2886,25,29,0,0,1,0,0,8,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2009,1514,0,0,0,0,0,10,4,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,4577.68880252083,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2010,37,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,5217.83647887009,2010,837,0,0,0,0,387,442,0,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2010,4818,0,0,0,0,0,0,0,0,0,0,0,0,0,4818,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,2010,40,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2010,230,15,0,46,0,0,0,52,1,0,2,0,12,19,50,0,0,4,29,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2010,264,4,0,153,0,2,0,8,1,0,0,0,3,17,27,31,0,3,15,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2010,1390,0,0,0,0,1390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2010,29,1,0,19,0,0,0,6,0,0,0,0,0,2,0,0,133,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2010,153,0,0,0,0,0,0,0,0,0,0,146,0,7,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2010,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,6429.24069474273,2010,16,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2010,5086,63,0,62,0,117,229,22,3,10,3,4290,24,29,114,23,0,10,77,10,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2010,16,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,13123.9004112412,2010,55,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,19387.0445411827,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5887.17441556672,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2010,73,0,0,0,0,65,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2010,8299,0,0,0,0,0,6878,4,25,0,0,40,0,1,1347,4,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2010,54,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,5294.22754414745,2011,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,5085.81837669605,2011,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2011,217,0,0,0,0,35,172,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,5013.85099239901,2011,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2011,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,6452.19747163721,2011,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2011,7505,263,0,2278,0,0,8,2799,9,0,5,24,93,201,83,138,0,15,1579,10,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2011,3315,378,1,1410,0,0,0,393,19,1,0,55,83,232,254,151,0,18,320,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2011,3140,0,0,0,0,2387,0,0,753,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IL,Israel,country,Middle East and North Africa,31.046051,34.851612,5474.44809246691,2011,18,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,5622.9182009734,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2011,983,22,0,453,0,0,0,178,8,0,20,0,19,58,33,45,0,15,132,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2011,805,30,0,0,0,0,0,0,0,0,0,687,85,0,0,0,0,0,3,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,8813.32601726461,2011,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2011,25451,1113,2,14196,0,0,1,978,85,0,151,1633,384,422,4661,12,0,118,1695,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,19387.0445411827,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2011,102,0,0,3,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2011,2122,0,0,0,0,0,2034,11,22,0,0,0,0,0,0,54,0,0,1,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2011,9,0,0,0,0,0,0,1,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,13106.7788413659,2011,10,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,5077.35355344444,2012,71,0,0,0,0,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2012,203,0,0,0,0,146,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,FR,France,country,Europe and Central Asia,46.227638,2.213749,4002.38770162171,2012,120,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2012,3047,183,0,374,0,0,0,1291,11,0,6,0,242,226,7,41,0,2,664,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2012,1760,575,0,170,0,0,0,243,2,0,39,0,100,125,140,93,0,9,264,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2012,3597,0,0,0,0,3597,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,14270.0371364827,2012,180,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,1012.44287311385,2012,20,10,0,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2012,1968,19,0,20,0,0,0,1257,2,0,54,0,18,10,0,23,0,10,555,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,961.532968686192,2012,191,115,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,16,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,10222.2684542741,2012,432,0,0,0,0,0,432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,6429.24069474273,2012,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2012,36079,1262,4,1731,0,0,0,715,22,0,29,30100,300,144,1080,5,0,10,677,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2012,66,25,0,8,0,0,0,10,0,0,0,0,1,1,8,1,0,0,12,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,13123.9004112412,2012,180,0,0,0,0,0,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2012,3032,0,0,0,0,0,990,11,0,0,0,0,0,0,2031,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2012,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,13106.7788413659,2012,129,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,4497.69272433621,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,5077.35355344444,2013,13,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,CN,China,country,East Asia and Pacific,35.86166,104.195397,11643.6558116708,2013,868,0,0,0,0,650,108,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1677.55709373932,2013,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2013,2475,102,0,80,0,0,0,1749,4,0,1,0,147,106,43,20,0,0,223,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,183.044056561645,2013,1042,114,1,487,0,0,0,144,2,0,0,0,37,46,67,105,0,0,39,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,IN,India,country,South Asia,20.593684,78.96288,9929.86778807712,2013,5926,0,0,0,0,5547,379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2013,3083,15,0,71,0,0,0,1958,4,0,56,0,157,118,55,49,0,41,559,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,4682.8299023008,2013,102,0,0,0,0,1,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,149.52704809034,2013,6086,869,3,2086,0,81,0,1173,31,0,10,465,116,81,856,22,0,2,291,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,4844.73145164169,2013,38,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,675.580449370418,2013,35,4,1,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,13123.9004112412,2013,1183,0,0,0,0,38,1145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,6383.98964884896,2013,88,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,3212.28376389658,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,5887.17441556672,2013,9,0,0,0,0,3,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,5698.98504637562,2013,37,0,0,0,0,0,35,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,7324.66825116442,2013,65,0,0,0,0,31,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4779.93673809285,2013,557,0,0,0,0,2,390,29,123,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,US,USA,country,North America,37.09024,-95.712891,8277.99405628655,2013,16,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,12,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,19711.6498850627,2013,140,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,13106.7788413659,2013,3074,0,0,0,0,764,1902,0,0,0,0,0,0,408,0,0,0,0,0,0,0,0,0,0

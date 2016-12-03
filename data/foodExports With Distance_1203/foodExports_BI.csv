@@ -1,0 +1,323 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,1998,2955,0,4,0,0,0,0,7,3,0,0,0,2916,25,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,1998,72,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,1998,662,25,0,57,0,0,7,25,0,0,0,0,0,0,0,548,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,10256.7292377541,1998,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,1998,616,0,0,0,0,0,0,0,0,0,0,0,586,30,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,1998,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,1998,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,1998,23,0,0,0,0,0,0,0,0,0,0,0,18,5,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,1998,322,0,0,0,0,0,0,0,0,0,0,0,252,70,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,1998,34,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,1998,866,0,0,825,0,0,0,0,0,0,0,0,0,0,34,7,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,1998,79,0,0,0,0,0,0,0,0,0,0,0,50,29,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,5962.7516098146,1998,144,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,1998,3558,0,0,0,0,0,0,0,0,0,0,0,3558,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,1998,29,0,0,0,0,0,0,0,11,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,1998,6395,0,0,0,0,0,0,0,0,0,0,0,6395,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,1998,8831,0,0,0,0,0,0,0,0,0,0,0,8831,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1110.17408805355,1998,672,0,0,0,0,0,0,0,0,0,0,0,672,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,1743.28578891988,1998,90,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,1999,920,0,0,0,0,0,0,3,4,0,0,0,872,41,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,5151.98775634388,1999,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,1999,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,1999,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,1999,17,4,0,5,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,1999,145,0,0,0,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,1999,1398,0,0,0,0,0,0,0,0,0,0,0,1348,50,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IN,India,country,South Asia,20.593684,78.96288,5979.26737577503,1999,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,1999,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,1999,84,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,1999,317,0,0,0,0,34,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,1999,4540,0,0,0,0,0,0,0,0,0,0,0,4519,3,0,0,0,0,0,18,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,1999,13,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,1999,1792,0,0,1645,0,0,0,0,0,0,0,0,0,1,134,12,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,1999,955,0,0,0,0,0,0,0,0,0,0,0,954,1,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,1999,6678,0,0,0,0,0,0,0,0,0,0,0,6666,0,0,0,0,0,0,12,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,1999,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,1999,106,0,0,0,1,0,0,0,7,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,1999,4632,0,0,0,0,0,0,0,0,0,0,0,4629,3,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,1999,712,0,0,0,0,24,0,0,0,0,0,0,682,0,0,6,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,1999,1005,0,0,0,0,0,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2000,1796,0,2,1,0,0,0,0,16,0,0,0,1761,16,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,2000,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2000,106,0,0,61,0,0,5,0,0,0,0,0,0,0,36,4,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2000,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2000,750,0,0,0,0,0,0,0,0,0,0,0,700,50,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2000,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2000,47,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2000,3262,0,0,0,0,0,0,0,0,0,0,0,3262,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,1200.98857328186,2000,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2000,2839,0,0,0,0,0,0,0,3,0,0,0,2836,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2000,4786,0,0,4732,0,0,0,0,0,0,0,0,0,13,20,0,0,0,0,21,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2000,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,5962.7516098146,2000,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2582.2612950493,2000,165,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2000,7243,0,0,0,0,0,0,0,0,0,0,0,7243,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2000,120,0,0,98,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,19,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2000,4235,0,0,0,0,0,0,0,0,0,0,0,4235,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2000,786,0,0,125,0,0,0,0,0,8,0,0,653,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,2000,198,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1110.17408805355,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2001,2182,0,0,0,0,0,0,11,6,0,0,0,2061,104,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,2001,187,0,0,148,0,0,0,0,0,0,0,0,0,10,0,29,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2001,403,0,0,340,0,0,5,0,0,0,0,0,0,2,0,56,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2001,504,0,0,0,0,0,0,0,0,0,0,0,504,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2001,2040,0,0,0,0,0,0,0,0,0,0,0,1962,78,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,5717.44924892796,2001,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2001,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2001,6980,0,0,0,0,0,0,0,0,0,0,0,6978,2,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4190.9323844619,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2001,1870,0,0,0,0,0,0,0,0,0,0,0,1836,30,0,0,0,0,0,4,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,5511.61862740126,2001,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2001,7758,0,0,2520,0,0,0,0,4,0,0,0,37,18,5,5174,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3450.75852949106,2001,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,5282.96076372468,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,5962.7516098146,2001,75,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,3,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2001,9278,0,0,0,0,0,0,0,0,0,0,0,9278,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,8106.38445782446,2001,25,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2001,503,0,0,0,0,0,0,0,0,0,0,0,0,502,0,0,0,0,0,1,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2001,2829,0,0,0,0,0,0,0,0,0,0,0,2828,1,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2001,2260,0,0,90,0,0,0,0,0,3,0,0,2137,0,0,30,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1110.17408805355,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2002,2387,0,0,0,0,0,0,0,0,0,0,0,2254,133,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2002,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,2002,39,0,0,11,0,0,0,0,0,0,0,0,0,10,0,18,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2002,304,0,0,232,0,0,0,0,0,0,0,0,0,24,0,48,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2002,290,0,0,0,0,0,0,0,0,0,1,0,289,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2002,1159,0,0,0,0,0,0,0,0,0,0,0,1109,50,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2002,563,0,0,0,0,0,0,0,0,0,0,0,561,1,0,0,0,0,0,1,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2002,1534,0,0,0,0,0,0,0,0,0,0,0,1432,99,0,0,0,0,0,3,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2002,15,0,1,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,10946.2913841224,2002,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2002,144,0,0,0,0,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2002,9634,500,0,4525,0,0,0,0,0,0,0,0,187,8,0,4414,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2002,6345,0,0,0,0,0,0,0,0,0,0,0,6345,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2002,132,0,0,0,0,0,0,0,1,0,0,0,73,55,0,0,0,0,0,3,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2002,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2002,5536,0,0,0,0,0,0,0,0,0,0,0,5532,4,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2002,246,0,0,0,0,0,0,0,0,0,0,0,99,0,106,41,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,11244.9364200332,2003,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2003,2467,0,0,0,0,0,0,0,0,0,0,0,2467,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,9047.18433328443,2003,24,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2003,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,9565.49579342695,2003,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2003,332,0,0,223,0,0,0,0,0,0,0,0,0,32,0,77,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6893.30659745496,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2003,342,0,0,0,0,0,0,0,0,0,0,0,342,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2003,582,0,0,0,0,0,0,0,0,0,0,0,462,120,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IN,India,country,South Asia,20.593684,78.96288,5979.26737577503,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2003,71,0,0,0,0,0,0,16,0,0,0,0,54,0,0,0,0,0,0,1,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2003,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2003,739,0,0,0,0,0,0,0,0,0,0,0,735,0,0,0,0,0,0,4,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4393.19241571234,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,7709.60400171511,2003,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2003,1831,0,0,0,0,0,0,0,0,0,0,0,1831,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2003,124,0,12,1,4,0,0,0,0,0,0,0,106,0,1,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2003,328,0,0,0,0,0,0,0,0,0,0,0,328,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2003,4653,0,0,2805,0,0,0,0,0,0,0,0,24,0,30,1794,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,8239.52941213851,2003,162,0,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2003,174,0,0,60,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2003,14399,0,0,0,0,0,0,0,0,0,0,0,14399,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2003,324,0,0,0,0,0,0,0,0,0,0,0,0,323,0,0,0,0,0,1,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5762.33530972725,2003,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2003,6549,0,0,0,0,0,0,0,0,0,0,0,6497,52,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2003,161,0,0,50,0,0,0,0,0,0,0,0,68,0,22,21,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,2003,807,0,0,0,0,0,0,0,0,0,0,0,807,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1110.17408805355,2003,443,0,0,440,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2005,2151,0,0,0,0,0,0,0,0,0,0,0,2035,116,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,3892.07506833945,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2005,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2431.41190702868,2005,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,9565.49579342695,2005,111,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,3,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2005,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,2005,642,0,0,0,0,0,0,0,0,0,0,0,0,189,3,416,0,0,34,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2005,385,0,0,0,0,0,0,0,0,0,0,0,72,0,0,313,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2005,1068,60,0,0,0,0,0,0,0,0,0,0,1008,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2005,1077,0,0,0,0,0,0,0,0,0,0,0,1016,61,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,4797.72637965022,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2005,112,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2005,882,0,0,0,0,0,0,0,0,0,0,0,880,0,0,0,0,0,0,2,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4190.9323844619,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4393.19241571234,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2005,1421,0,0,0,0,0,0,0,0,0,0,0,1391,30,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,12827.9313774544,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,3347.23777020242,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2005,78,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2005,305,0,0,0,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2005,5366,0,0,2768,0,0,0,0,6,0,0,0,1,0,25,2566,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3450.75852949106,2005,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,5282.96076372468,2005,15,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,8239.52941213851,2005,681,0,0,0,0,0,0,0,0,0,0,0,581,100,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,5706.13427955141,2005,154,0,0,0,0,0,0,0,0,0,0,0,154,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2005,445,0,0,0,0,0,0,0,0,0,0,0,0,440,0,5,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2582.2612950493,2005,398,0,0,0,0,0,0,0,0,0,0,0,398,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2005,12271,0,0,0,0,0,0,0,0,2300,0,0,9951,20,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,3494.36469053774,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2005,1208,0,0,0,0,0,0,0,0,0,0,0,981,227,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,5762.33530972725,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2005,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2005,4462,0,0,0,0,0,0,0,0,0,0,0,4459,0,0,0,0,0,0,3,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2005,57,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,2005,57,0,0,0,0,0,0,0,0,0,0,0,37,20,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1110.17408805355,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AL,Albania,country,Europe and Central Asia,41.153332,20.168331,5054.65247745366,2006,101,0,0,0,0,0,0,0,0,0,0,0,18,83,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2006,4003,0,0,0,0,0,0,0,0,0,0,0,3961,42,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2006,72,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2431.41190702868,2006,88,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2006,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,10275.6358174468,2006,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2006,1367,0,2,0,0,0,0,32,0,0,0,0,0,104,4,1215,0,0,10,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6893.30659745496,2006,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,11201.555286137,2006,54,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2006,591,0,0,0,0,0,0,0,0,0,0,0,591,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2006,378,0,0,0,0,0,0,0,0,0,0,0,378,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2006,80,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2006,5676,29,0,0,0,0,0,0,0,0,0,0,5621,0,0,0,0,0,0,26,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2006,1061,0,0,0,0,0,0,0,0,0,0,0,944,117,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2006,354,0,24,0,0,0,0,0,0,0,0,0,330,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,PK,Pakistan,country,South Asia,30.375321,69.345116,5626.37285069259,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2006,657,0,0,0,0,0,0,0,0,0,0,0,657,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2006,1711,0,0,1000,0,0,0,0,4,124,0,0,513,6,50,14,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,5282.96076372468,2006,54,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2582.2612950493,2006,380,0,0,0,0,0,0,0,0,0,0,0,340,40,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2006,8016,0,0,0,0,0,0,0,0,1115,0,0,6901,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2006,998,0,0,0,0,0,0,0,0,0,0,0,308,690,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2006,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2006,1992,0,0,0,0,0,0,0,0,0,0,0,1992,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2006,744,0,0,0,0,0,0,0,0,0,0,0,724,20,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,2006,57,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,14865.1734561933,2006,73,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AL,Albania,country,Europe and Central Asia,41.153332,20.168331,5054.65247745366,2008,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,11244.9364200332,2008,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2008,2597,0,1,0,0,6,0,32,62,0,16,0,2431,48,0,1,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2008,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,9565.49579342695,2008,456,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,456,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2008,3881,0,0,0,0,0,0,0,0,0,0,35,0,9,0,3832,0,2,3,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6893.30659745496,2008,22,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2008,206,0,0,0,0,0,0,0,1,0,0,0,182,0,0,23,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2008,2422,0,0,0,0,0,0,0,0,0,0,0,2166,256,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,9347.13536266236,2008,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2008,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2008,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2008,6383,0,0,0,0,0,0,0,0,0,0,0,5567,9,0,0,0,0,0,807,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,4190.9323844619,2008,162,0,0,0,0,0,0,0,0,0,0,0,162,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2008,293,0,0,0,0,0,0,0,0,0,0,0,234,59,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2008,610,0,0,0,0,0,0,0,0,0,0,0,610,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2008,3996,203,21,2651,0,0,0,0,0,306,0,67,121,19,85,523,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,8239.52941213851,2008,648,0,0,0,0,0,0,0,0,0,0,0,648,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2008,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1807.66977649561,2008,118,0,1,0,0,0,0,0,3,0,0,0,4,20,0,90,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2582.2612950493,2008,878,0,0,0,0,0,0,0,0,0,0,0,738,140,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2008,8508,0,1,0,0,0,0,0,1,500,0,0,8006,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2008,919,14,0,0,0,28,0,0,347,20,0,0,192,288,0,0,0,0,5,25,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2008,563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,563,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2008,72,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2008,194,0,0,0,0,0,0,0,0,0,0,0,169,0,0,0,0,0,0,25,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,2008,229,0,0,0,0,0,0,0,0,0,0,0,229,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AL,Albania,country,Europe and Central Asia,41.153332,20.168331,5054.65247745366,2009,74,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,11244.9364200332,2009,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2009,2584,2,1,0,0,0,0,39,66,0,2,0,2442,32,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2009,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,9565.49579342695,2009,975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,975,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2009,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2009,3334,100,0,0,0,0,0,0,0,0,0,0,0,88,0,3146,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2009,378,0,0,0,0,0,0,0,0,0,0,0,378,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2009,3982,0,0,0,0,0,0,0,0,0,0,0,3877,105,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GD,Grenada,country,Latin America and the Caribbean,12.262776,-61.604171,10263.8912443902,2009,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,12925.7409713294,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,9347.13536266236,2009,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2009,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2009,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2009,6050,0,0,0,0,0,0,0,0,0,0,0,5904,2,0,0,0,0,0,144,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2009,390,0,0,0,0,0,0,0,0,0,0,0,360,30,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2009,612,0,0,0,0,0,0,0,0,0,0,0,612,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,PK,Pakistan,country,South Asia,30.375321,69.345116,5626.37285069259,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2009,335,0,0,0,0,0,0,0,0,0,0,0,335,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2009,4092,290,0,3000,0,0,1,0,100,50,0,0,612,19,0,10,0,0,0,10,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,5282.96076372468,2009,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,8239.52941213851,2009,1228,0,0,0,0,0,0,0,0,0,0,0,1228,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2582.2612950493,2009,663,0,0,0,0,0,0,0,0,0,0,0,663,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2009,8948,0,0,0,0,0,0,0,0,1743,0,0,7205,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2009,23410,0,0,0,0,15,0,0,22964,0,0,0,165,265,0,1,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2009,403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2009,234,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2009,11,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,1,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2010,3597,0,0,0,0,1,0,63,79,0,0,0,3428,25,0,1,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2010,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,9565.49579342695,2010,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,356,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2010,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2010,4460,797,0,0,0,0,0,0,1,0,0,0,0,1,0,3661,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2010,183,0,0,0,0,0,0,0,0,0,0,0,182,1,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2010,759,0,0,0,0,0,0,0,0,0,0,0,752,0,0,7,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2010,8530,0,0,0,0,0,0,0,0,0,23,0,7114,0,0,0,0,0,0,1393,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2010,287,0,0,0,0,0,0,0,0,0,0,0,170,117,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,7347.18204242922,2010,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2010,688,0,0,0,0,0,0,0,0,0,0,0,688,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2010,38,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2010,2292,799,0,344,0,0,6,0,10,60,0,50,943,32,38,10,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3450.75852949106,2010,192,0,0,0,0,0,0,0,0,0,0,0,168,0,0,24,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,8239.52941213851,2010,1846,0,0,0,0,0,0,0,0,0,0,0,1846,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2010,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1807.66977649561,2010,37,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2582.2612950493,2010,479,0,0,0,0,0,0,0,0,0,0,0,479,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2010,9657,0,0,0,0,0,0,0,0,800,0,0,8857,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2010,847,0,0,0,0,0,0,0,25,0,0,0,253,241,0,39,0,0,0,289,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,3954.45350675613,2010,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2010,4038,0,0,0,0,0,0,0,0,0,0,0,4014,24,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2010,138,0,0,0,0,0,0,7,0,0,0,0,20,0,100,5,0,0,6,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2012,8,0,0,0,0,0,0,1,2,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2012,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,6893.30659745496,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,3362.4804724488,2012,5,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2012,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2012,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2012,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2012,11,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2012,134,0,0,0,0,0,0,0,0,0,0,0,134,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2012,121,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2012,230,0,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2012,413,0,0,0,0,0,0,0,18,0,0,0,395,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,11244.9364200332,2013,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,6471.6021042316,2013,985,0,0,0,0,2,0,86,50,0,0,0,825,22,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,5404.65444237418,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,5151.98775634388,2013,96,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CA,Canada,country,North America,56.130366,-106.346771,13001.8311333527,2013,25,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,10829.8854167099,2013,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,9565.49579342695,2013,91,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CN,China,country,East Asia and Pacific,35.86166,104.195397,8833.42478043936,2013,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,10275.6358174468,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,1606.27080499467,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,10905.645922498,2013,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,909.504317584732,2013,9577,3719,0,0,0,0,0,0,2,0,0,0,4,0,0,5850,0,2,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,FR,France,country,Europe and Central Asia,46.227638,2.213749,6158.63919798744,2013,228,0,0,0,0,0,0,0,0,0,0,0,228,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,6347.28949635297,2013,1000,0,0,0,0,0,0,0,0,0,0,0,978,22,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,5333.72811848638,2013,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,11882.9317190369,2013,27,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,963.681388751272,2013,9501,3,0,0,0,0,0,0,0,0,0,305,9191,0,0,0,0,0,0,2,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,6600.94270771684,2013,81,0,0,0,0,0,0,0,0,0,0,0,58,23,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,NO,Norway,country,Europe and Central Asia,60.472024,8.468946,7347.18204242922,2013,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,OM,Oman,country,Middle East and North Africa,21.512583,55.923255,3962.6980369638,2013,785,0,0,0,0,0,0,0,0,0,0,0,785,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,10946.2913841224,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,9583.05372634394,2013,38,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,159.574584026214,2013,1381,78,22,1,0,0,9,41,464,31,0,72,330,34,237,10,1,0,0,52,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,8239.52941213851,2013,1849,0,0,0,0,0,0,0,0,0,0,0,1849,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,3114.17794838088,2013,27,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,7137.13588970109,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,5979.12070953161,2013,6535,0,0,0,0,0,0,0,0,800,0,0,5735,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,590.589120186077,2013,975,0,0,0,0,0,0,0,141,25,0,0,657,129,0,3,0,0,5,15,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,7216.652395676,2013,740,0,0,0,0,0,0,0,0,0,0,0,740,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,644.233075714074,2013,471,0,0,0,0,0,2,2,58,0,0,0,98,263,0,48,3,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,US,USA,country,North America,37.09024,-95.712891,13353.8416271379,2013,83,0,0,0,0,0,0,0,0,0,0,0,83,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,8857.16353058551,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,1110.17408805355,2013,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0

@@ -1,382 +1,382 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2001,321,50,0,0,0,0,32,122,115,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2001,1124,0,0,0,0,0,0,1119,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2001,2226,0,0,14,0,0,88,1888,0,0,7,0,0,131,0,0,0,0,91,7,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2001,698,25,0,610,0,3,1,3,0,0,2,0,44,0,10,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2001,14237,0,0,0,93,0,0,14088,13,0,8,35,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2001,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2001,8357,0,0,0,2395,0,151,5811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2001,38,0,0,0,0,0,13,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2001,201,11,0,0,18,0,15,151,0,0,1,0,0,2,0,0,0,0,0,3,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,2001,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2001,36180,150,0,536,2446,38,985,24394,2729,254,1392,6,16,2449,7,19,0,16,142,601,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2001,214,0,0,0,0,0,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2001,900,0,0,0,0,0,0,0,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2001,283,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2002,450,30,0,0,0,0,1,369,9,0,0,0,2,38,0,0,0,0,1,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2002,8019,0,0,0,0,0,0,7372,0,637,0,0,0,4,0,0,0,0,6,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2002,55,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2002,1675,0,0,17,6,0,0,1581,0,0,2,0,0,65,0,0,0,0,0,4,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2002,178,8,0,164,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2002,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,2002,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,35,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2002,9146,40,0,0,0,0,0,9041,4,0,9,0,22,30,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2002,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2002,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2002,23505,0,0,0,1243,0,0,22262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2002,121,0,0,0,0,0,0,102,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2002,19,0,0,0,0,0,0,0,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2002,36,0,0,1,0,0,0,32,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2002,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2002,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2002,25862,257,24,881,1348,7,624,12811,2493,46,1473,588,69,4607,17,3,0,10,175,429,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2002,299,0,0,0,0,0,110,0,0,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2002,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2002,1705,0,0,0,0,0,0,1689,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2002,218,0,0,0,0,0,0,0,0,0,0,0,0,218,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2002,1602,0,0,0,0,0,0,17,0,0,0,0,0,1557,0,0,0,0,28,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2003,269,0,0,0,0,0,0,195,0,0,0,0,23,41,0,8,0,0,2,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2003,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2003,5249,0,0,0,0,0,81,4978,0,156,0,0,0,22,0,0,0,0,0,12,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2003,23,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2003,2603,8,0,150,59,0,26,2295,0,0,2,0,0,52,0,10,0,0,0,1,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2003,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2003,125,115,0,0,0,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2003,9785,0,0,0,414,0,0,9296,31,0,2,0,0,1,41,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2003,55,1,0,0,0,0,0,53,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2003,21293,0,0,0,354,0,0,20938,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2003,300,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2003,61,0,0,0,0,0,0,52,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2003,93,0,0,0,0,0,0,0,3,0,0,0,0,67,0,23,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2003,294,0,0,0,0,0,0,0,0,0,0,0,0,0,294,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2003,262,0,0,60,0,0,0,192,2,0,1,0,0,2,0,0,0,0,0,5,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2003,22781,379,0,647,1681,7,1029,9814,1049,1,878,1087,44,3322,2523,9,0,8,39,264,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,2003,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2003,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2003,3479,0,0,0,0,0,3301,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2003,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2003,595,595,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2003,1257,0,0,0,0,0,0,1253,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2003,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2003,11,0,0,0,0,0,0,0,0,0,0,0,0,7,0,4,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2003,754,70,0,45,0,0,0,61,0,0,0,0,0,576,0,0,0,0,2,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2003,1300,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2004,440,20,0,0,0,0,3,338,6,0,0,0,20,53,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2004,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2004,7851,0,0,0,0,0,246,7565,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2004,2741,0,0,0,106,0,29,2512,0,0,0,0,0,58,0,36,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2004,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2004,129,0,0,0,0,0,0,0,0,0,0,0,108,21,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,38,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2004,25225,0,0,0,220,0,0,24973,22,0,5,0,0,3,0,2,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2004,118,8,0,0,0,0,0,0,0,0,0,0,3,106,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2004,47611,0,0,1,1861,0,12,45703,0,0,1,0,0,33,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2004,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2004,359,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2004,68,0,0,0,0,0,0,20,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2004,200,40,0,0,0,0,12,0,5,0,0,0,0,141,0,2,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2004,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2004,233,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2004,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2004,18865,261,28,636,1874,1,650,10893,409,0,277,1421,33,1979,18,0,0,13,34,338,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2004,20,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2004,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2004,2591,0,0,0,0,0,1758,0,0,0,0,0,0,833,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2004,2494,0,0,2,0,0,0,2415,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2004,1103,971,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2004,105,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2004,714,0,0,0,0,0,0,34,0,0,0,0,0,680,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2005,454,0,0,0,0,0,22,348,1,0,2,0,44,25,0,0,0,0,12,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2005,27,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2005,8678,0,0,0,8,0,0,7962,0,600,0,0,0,21,75,0,0,1,11,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2005,295,12,0,71,77,0,0,108,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,2005,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2005,1036,200,0,0,0,0,0,20,0,0,0,0,767,35,14,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2005,15429,0,0,0,40,0,0,15357,0,0,0,0,0,1,10,21,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,2005,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2005,216,0,0,0,0,0,0,0,0,95,0,0,0,79,0,10,0,0,32,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2005,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2005,40461,0,0,0,370,0,0,40079,0,0,1,0,0,11,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2005,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2005,226,0,0,0,0,0,0,174,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2005,80,0,0,0,0,0,0,0,0,0,0,0,0,71,0,9,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2005,28,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2005,34,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2005,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2005,13980,537,0,24,1693,1,185,7403,371,0,607,1198,422,920,236,8,4,30,71,274,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2005,2358,0,0,0,0,0,1802,0,0,0,0,0,0,556,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2005,320,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2005,2005,0,0,0,0,0,0,1987,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2005,420,354,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2005,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2005,55,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2005,241,0,0,0,0,0,0,55,0,0,0,0,0,186,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2006,460,0,0,0,0,0,26,422,1,0,1,0,4,6,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2006,35,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2006,8969,97,0,0,0,0,610,6795,0,0,0,0,23,586,850,5,0,0,1,2,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2006,2495,1159,0,728,0,0,0,0,0,0,0,0,120,0,482,0,0,0,6,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2006,1162,9,0,70,261,0,0,687,0,0,2,0,0,126,2,0,0,0,5,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2006,5082,3857,0,310,0,0,0,40,0,0,0,0,320,83,472,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,32,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2006,16399,0,0,0,20,0,0,16336,36,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2006,124,11,0,0,0,0,0,47,24,0,0,0,0,34,0,8,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2006,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2006,43446,0,0,0,1062,0,0,42384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2006,2221,2221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2006,86,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2006,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2006,138,0,0,0,0,0,0,0,0,0,0,0,4,134,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2006,667,0,0,0,0,0,0,0,0,0,0,0,0,0,652,0,0,0,15,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2006,101,0,0,0,0,0,0,84,0,0,1,0,14,0,0,0,0,0,0,2,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2006,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2006,17460,1568,1,25,1326,60,967,5325,1693,0,900,0,213,3627,1494,3,0,10,1,247,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2006,832,0,0,0,0,0,776,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2006,7140,7140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2006,1382,3,0,2,0,0,0,1354,0,0,1,0,0,18,0,0,0,0,4,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2006,209,50,0,0,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2006,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2006,412,32,0,0,0,0,0,7,0,0,0,0,0,162,211,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2007,117,0,0,0,0,0,23,62,3,0,0,0,8,21,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,2007,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2007,114,57,0,0,0,0,0,7,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2007,5705,0,0,0,0,0,0,5606,0,0,0,0,2,83,0,0,0,0,14,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2007,8833,0,0,8833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2007,1239,0,0,1,10,0,11,1215,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2007,1807,1282,0,1,0,0,0,47,0,0,0,0,477,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2007,17338,0,0,6,0,0,0,17296,29,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2007,325,273,0,0,0,0,0,0,0,0,0,0,0,44,0,8,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2007,36849,0,0,0,323,0,0,36524,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2007,49,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2007,3042,3041,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2007,36,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2007,168,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2007,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2007,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2007,2685,0,0,0,0,0,0,0,0,0,0,0,0,0,2685,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2007,118,9,0,0,0,0,0,76,0,0,0,0,0,30,0,0,0,0,0,3,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2007,12325,149,1,10,2851,2,306,2929,1811,39,413,0,5,3766,8,2,0,0,2,31,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,2007,345,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2007,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2007,255,0,0,0,0,0,0,0,6,0,0,0,0,249,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2007,1865,0,0,0,0,0,1545,0,0,0,0,0,0,320,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2007,11447,11447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2007,1315,0,0,0,0,0,0,1282,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2007,247,0,0,0,0,0,0,0,0,0,0,0,0,188,59,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2007,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2007,54,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2007,14,0,0,0,0,0,0,9,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2007,269,0,0,0,0,0,0,0,0,0,0,0,0,269,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2008,475,15,0,0,0,0,0,420,19,0,0,0,12,9,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2008,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2008,2624,0,0,0,8,0,16,2575,0,0,1,0,0,0,7,0,0,0,17,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2008,20346,0,0,20346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2008,168,0,0,0,0,0,0,166,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2008,1324,366,0,2,0,0,50,76,0,0,0,0,830,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2008,20840,1,0,19,30,0,0,20717,55,0,0,0,10,5,0,0,0,0,3,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2008,16,0,0,0,0,0,0,0,2,0,0,0,0,10,0,0,0,0,0,4,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2008,441,84,0,262,11,0,0,0,0,0,0,0,0,62,0,22,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2008,27096,0,0,0,2149,0,0,24927,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2008,164,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2008,30,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2008,738,666,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2008,297,297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2008,494,0,0,0,0,0,0,428,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2008,2210,0,0,0,0,0,0,0,0,0,0,0,0,0,2210,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2008,15,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2008,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2008,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2008,19675,206,2,16,7910,0,596,4168,1086,146,816,0,6,4595,7,0,0,0,24,97,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2008,462,0,0,0,0,0,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2008,25981,25981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2008,686,0,0,0,1,0,0,683,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,2008,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2008,364,178,0,0,0,0,0,0,0,0,0,0,0,176,10,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2008,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2008,600,598,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2008,1016,0,0,0,0,0,0,0,0,0,0,0,0,1016,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2010,524,0,0,0,0,0,0,475,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2010,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2010,3936,0,0,0,0,0,0,3905,0,30,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2010,18978,0,0,18900,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2010,4125,0,0,0,1424,0,0,2607,0,0,0,0,68,26,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2010,1039,476,0,0,0,0,0,0,0,0,0,0,504,59,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2010,8187,0,0,0,0,0,0,8048,96,0,0,0,4,39,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2010,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2010,104,1,0,40,0,0,0,5,0,0,0,0,0,0,0,12,0,0,46,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2010,31192,1,0,0,615,0,50,30526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2010,146,0,0,0,0,0,0,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2010,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2010,175,0,0,0,0,0,0,174,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,2010,97,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,2010,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2010,3428,0,0,0,0,0,0,0,0,0,0,0,0,0,3404,0,0,0,24,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2010,56,0,0,0,0,0,30,0,0,0,0,0,0,0,25,0,0,0,0,1,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2010,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2010,18924,201,2,51,3074,35,64,4234,3265,0,777,3,16,6965,0,2,103,14,31,190,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,2010,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2010,287,0,0,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2010,14,0,0,0,0,0,0,0,0,0,0,0,2,0,12,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2010,1820,0,0,0,0,0,1820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2010,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2010,17202,17202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2010,1342,0,0,0,8,0,0,1304,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2010,737,39,0,0,0,0,0,0,0,0,0,0,0,698,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2010,3897,3129,0,0,0,0,0,0,11,0,0,0,0,757,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2010,29,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2010,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2010,1454,693,0,0,0,0,0,0,0,0,0,0,0,761,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2011,948,350,0,0,0,0,0,106,12,0,0,0,0,480,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2011,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2011,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2011,432,41,0,361,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2011,4292,0,0,0,0,0,158,3818,0,0,0,0,1,315,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2011,14615,0,0,14615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BN,Brunei Darussalam,country,,4.535277,114.727669,2011,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,2011,11,0,0,0,0,0,0,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2011,2317,1551,0,0,531,0,0,156,20,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CA,Canada,country,North America,56.130366,-106.346771,2011,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2011,1111,0,0,0,1111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2011,2171,116,0,448,0,0,0,73,0,0,0,0,924,610,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2011,6035,0,0,0,217,0,0,5608,195,0,0,0,1,14,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,2011,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2011,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2011,678,74,0,200,0,0,0,0,0,0,0,0,0,195,0,9,0,0,200,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2011,14,0,0,0,5,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2011,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2011,55154,30,0,0,23055,0,70,31973,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2011,26,0,0,0,0,0,0,0,0,0,0,0,0,15,0,11,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2011,323,2,0,268,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2011,1789,734,0,0,375,0,0,465,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2011,3748,0,0,0,0,0,0,0,0,0,0,0,0,0,3534,0,0,0,214,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2011,12,0,0,0,0,0,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,2011,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2011,21283,120,1,10,6788,0,811,1600,5203,0,512,0,12,5913,0,0,0,0,3,310,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,2011,1634,1634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2011,31,0,0,0,0,0,0,10,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2011,234,0,0,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,2011,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2011,317,0,0,275,0,0,0,0,21,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2011,1447,27,0,0,0,0,1420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LK,Sri Lanka,country,South Asia,7.873054,80.771797,2011,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2011,3848,3848,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2011,1424,0,0,7,0,0,0,1384,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2011,1052,699,0,0,0,0,0,0,0,0,0,0,0,353,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2011,3044,2790,0,0,0,0,0,0,0,0,0,0,0,176,78,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2011,252,0,0,0,0,0,0,46,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2011,114,0,0,0,0,0,0,0,0,0,0,0,0,113,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2011,457,0,0,0,0,0,0,0,0,0,0,0,0,457,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2012,1791,257,0,0,0,0,0,388,44,0,2,0,0,1100,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2012,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2012,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2012,101,14,0,84,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2012,17098,0,0,0,9,5,1050,15274,0,491,0,0,0,269,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2012,20705,4353,0,16352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2012,1777,1,0,0,1501,0,0,218,41,0,0,0,0,12,0,0,0,4,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,2012,16,0,0,0,0,0,0,2,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2012,10194,2868,0,3831,0,0,340,60,41,0,0,0,1163,1801,33,3,0,0,54,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,2012,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2012,9625,0,0,1,523,0,35,8738,291,0,0,0,0,10,27,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2012,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2012,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2012,648,9,7,384,0,0,0,0,2,0,0,0,0,198,0,3,0,0,45,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2012,72796,142,0,0,16720,0,231,55388,135,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2012,46,0,0,0,0,0,0,0,0,0,0,0,0,45,0,1,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2012,11991,11068,0,528,339,0,0,0,0,0,0,0,20,1,35,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2012,590,303,0,0,0,0,0,0,0,0,0,0,0,0,207,0,0,0,80,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2012,541,0,0,0,0,0,0,541,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2012,5456,0,0,0,107,0,0,0,0,0,0,0,0,0,4826,0,0,0,523,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2012,410,84,0,0,245,0,0,0,0,0,0,0,37,0,42,0,0,0,0,2,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2012,176,0,0,0,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2012,20879,289,9,12,6229,0,807,2156,5512,24,864,1,75,4724,0,0,1,2,5,170,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,2012,206,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,2012,1027,0,0,1027,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,2012,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2012,1171,0,0,0,0,0,0,0,68,0,0,0,0,17,1086,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2012,171,0,0,150,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2012,2234,0,0,0,0,0,1560,0,0,0,0,0,0,674,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2012,6486,4265,0,2201,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2012,4715,0,0,0,165,0,38,4489,1,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2012,2027,1882,0,0,0,0,0,0,18,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2012,2692,2186,0,0,0,0,0,0,0,0,0,0,0,408,60,0,0,0,18,20,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2012,256,0,0,0,0,0,0,0,0,0,0,0,0,253,0,0,0,0,3,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2012,273,0,0,0,0,0,0,0,0,0,0,0,0,233,0,0,0,0,40,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,2012,160,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2012,476,0,0,0,0,0,0,0,20,0,0,0,0,456,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,2013,2200,463,0,0,0,0,0,5,119,0,0,0,0,1613,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,2013,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BD,Bangladesh,country,South Asia,23.684994,90.356331,2013,150,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,2013,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,2013,14946,2,0,0,9,0,1965,11710,1,314,0,0,0,894,0,0,0,0,12,39,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,2013,16988,5536,0,11452,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,2013,66736,0,30,0,4380,0,92,61725,185,0,0,0,0,324,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,2013,3818,225,0,174,0,0,0,200,102,0,0,0,1730,1225,162,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,2013,1203,773,0,0,0,7,0,383,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2013,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,2013,838,140,0,412,0,0,0,27,0,0,0,0,0,23,0,0,0,0,236,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,2013,16067,46,0,0,143,0,1,15874,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,2013,19353,18287,0,943,0,0,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,2013,363,323,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,2013,128,105,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2013,379,0,0,0,0,0,0,379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,2013,96,0,0,0,0,0,0,57,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,2013,7809,79,0,0,0,0,0,0,0,0,0,0,0,0,7446,0,0,0,284,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2013,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,2013,472,0,0,0,0,0,0,0,0,0,0,0,0,472,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,2013,16353,334,0,5,3804,0,485,1671,3938,24,927,0,0,5118,0,0,5,0,0,47,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,2013,2868,2100,0,0,0,0,0,63,61,0,0,0,17,627,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,2013,114,0,0,0,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,2013,327,0,0,0,0,0,0,0,0,0,0,0,0,0,327,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,2013,42,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,2013,460,460,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,2013,8913,7267,0,1646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,2013,4295,0,0,0,0,0,40,4235,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,2013,365,169,0,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,2013,1603,1254,0,0,0,0,81,0,0,0,0,0,0,268,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,2013,964,405,0,50,0,0,0,0,21,0,0,0,0,488,0,0,0,0,0,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,2013,259,0,0,0,0,0,0,0,0,0,0,0,0,206,0,0,0,0,53,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,2013,876,0,0,0,0,0,0,0,0,0,0,0,0,876,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2001,321,50,0,0,0,0,32,122,115,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2001,1124,0,0,0,0,0,0,1119,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2001,2226,0,0,14,0,0,88,1888,0,0,7,0,0,131,0,0,0,0,91,7,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2001,698,25,0,610,0,3,1,3,0,0,2,0,44,0,10,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2001,14237,0,0,0,93,0,0,14088,13,0,8,35,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2001,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2001,8357,0,0,0,2395,0,151,5811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,5645.74274482747,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,12079.1589883354,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2001,38,0,0,0,0,0,13,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2001,201,11,0,0,18,0,15,151,0,0,1,0,0,2,0,0,0,0,0,3,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,6857.79045907311,2001,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2001,36180,150,0,536,2446,38,985,24394,2729,254,1392,6,16,2449,7,19,0,16,142,601,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2433.84565204456,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2001,214,0,0,0,0,0,214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,3251.71436023697,2001,900,0,0,0,0,0,0,0,0,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2001,283,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2002,450,30,0,0,0,0,1,369,9,0,0,0,2,38,0,0,0,0,1,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2002,8019,0,0,0,0,0,0,7372,0,637,0,0,0,4,0,0,0,0,6,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2002,55,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2002,1675,0,0,17,6,0,0,1581,0,0,2,0,0,65,0,0,0,0,0,4,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2002,178,8,0,164,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,10837.7979429589,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2002,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,11418.7681057697,2002,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5123.31417193148,2002,35,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2002,9146,40,0,0,0,0,0,9041,4,0,9,0,22,30,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2550.76215206063,2002,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2002,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,3741.54276679435,2002,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2002,23505,0,0,0,1243,0,0,22262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2002,121,0,0,0,0,0,0,102,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,3303.62976861965,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2002,19,0,0,0,0,0,0,0,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2002,36,0,0,1,0,0,0,32,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2196.82997423061,2002,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3851.08799266713,2002,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2002,25862,257,24,881,1348,7,624,12811,2493,46,1473,588,69,4607,17,3,0,10,175,429,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2002,299,0,0,0,0,0,110,0,0,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,3251.71436023697,2002,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2002,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2002,1705,0,0,0,0,0,0,1689,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2002,218,0,0,0,0,0,0,0,0,0,0,0,0,218,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2002,1602,0,0,0,0,0,0,17,0,0,0,0,0,1557,0,0,0,0,28,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2003,269,0,0,0,0,0,0,195,0,0,0,0,23,41,0,8,0,0,2,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,9721.74439348601,2003,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2003,5249,0,0,0,0,0,81,4978,0,156,0,0,0,22,0,0,0,0,0,12,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2003,23,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2003,2603,8,0,150,59,0,26,2295,0,0,2,0,0,52,0,10,0,0,0,1,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,3347.23777020242,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2003,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2003,125,115,0,0,0,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2003,9785,0,0,0,414,0,0,9296,31,0,2,0,0,1,41,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,3646.25884247354,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2003,55,1,0,0,0,0,0,53,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2003,21293,0,0,0,354,0,0,20938,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2003,300,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2003,61,0,0,0,0,0,0,52,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,3303.62976861965,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2003,93,0,0,0,0,0,0,0,3,0,0,0,0,67,0,23,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2003,294,0,0,0,0,0,0,0,0,0,0,0,0,0,294,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2003,262,0,0,60,0,0,0,192,2,0,1,0,0,2,0,0,0,0,0,5,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3851.08799266713,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2003,22781,379,0,647,1681,7,1029,9814,1049,1,878,1087,44,3322,2523,9,0,8,39,264,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,6317.20569061026,2003,120,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,5593.10345084676,2003,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2003,3479,0,0,0,0,0,3301,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,3251.71436023697,2003,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2003,595,595,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2003,1257,0,0,0,0,0,0,1253,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2003,36,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2003,11,0,0,0,0,0,0,0,0,0,0,0,0,7,0,4,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2003,754,70,0,45,0,0,0,61,0,0,0,0,0,576,0,0,0,0,2,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2003,1300,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2004,440,20,0,0,0,0,3,338,6,0,0,0,20,53,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2004,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2004,7851,0,0,0,0,0,246,7565,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2004,2741,0,0,0,106,0,29,2512,0,0,0,0,0,58,0,36,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,10837.7979429589,2004,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2004,129,0,0,0,0,0,0,0,0,0,0,0,108,21,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5123.31417193148,2004,38,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2004,25225,0,0,0,220,0,0,24973,22,0,5,0,0,3,0,2,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2004,118,8,0,0,0,0,0,0,0,0,0,0,3,106,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2004,47611,0,0,1,1861,0,12,45703,0,0,1,0,0,33,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2004,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2004,359,359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2004,68,0,0,0,0,0,0,20,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2004,200,40,0,0,0,0,12,0,5,0,0,0,0,141,0,2,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2004,21,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2004,233,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2032.60932604182,2004,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2004,18865,261,28,636,1874,1,650,10893,409,0,277,1421,33,1979,18,0,0,13,34,338,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2433.84565204456,2004,20,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,5593.10345084676,2004,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2004,2591,0,0,0,0,0,1758,0,0,0,0,0,0,833,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2004,2494,0,0,2,0,0,0,2415,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2004,1103,971,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2004,105,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2004,714,0,0,0,0,0,0,34,0,0,0,0,0,680,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2005,454,0,0,0,0,0,22,348,1,0,2,0,44,25,0,0,0,0,12,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2005,27,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2005,8678,0,0,0,8,0,0,7962,0,600,0,0,0,21,75,0,0,1,11,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2005,295,12,0,71,77,0,0,108,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,10837.7979429589,2005,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2005,1036,200,0,0,0,0,0,20,0,0,0,0,767,35,14,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2005,15429,0,0,0,40,0,0,15357,0,0,0,0,0,1,10,21,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,3175.97821965513,2005,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2005,216,0,0,0,0,0,0,0,0,95,0,0,0,79,0,10,0,0,32,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2085.71862774883,2005,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2005,40461,0,0,0,370,0,0,40079,0,0,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,11724.7713149262,2005,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2005,226,0,0,0,0,0,0,174,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2005,80,0,0,0,0,0,0,0,0,0,0,0,0,71,0,9,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2005,28,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,1,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2032.60932604182,2005,34,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2196.82997423061,2005,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3851.08799266713,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2005,13980,537,0,24,1693,1,185,7403,371,0,607,1198,422,920,236,8,4,30,71,274,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2005,2358,0,0,0,0,0,1802,0,0,0,0,0,0,556,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2005,320,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2005,2005,0,0,0,0,0,0,1987,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2005,420,354,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2005,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2005,55,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2005,241,0,0,0,0,0,0,55,0,0,0,0,0,186,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2006,460,0,0,0,0,0,26,422,1,0,1,0,4,6,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,7237.99556673914,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2006,35,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2006,8969,97,0,0,0,0,610,6795,0,0,0,0,23,586,850,5,0,0,1,2,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2006,2495,1159,0,728,0,0,0,0,0,0,0,0,120,0,482,0,0,0,6,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2006,1162,9,0,70,261,0,0,687,0,0,2,0,0,126,2,0,0,0,5,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2006,5082,3857,0,310,0,0,0,40,0,0,0,0,320,83,472,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5123.31417193148,2006,32,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2006,16399,0,0,0,20,0,0,16336,36,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2006,124,11,0,0,0,0,0,47,24,0,0,0,0,34,0,8,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2085.71862774883,2006,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2006,43446,0,0,0,1062,0,0,42384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2006,2221,2221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,4845.47494017277,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2006,86,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,12079.1589883354,2006,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,3303.62976861965,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2006,138,0,0,0,0,0,0,0,0,0,0,0,4,134,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2006,667,0,0,0,0,0,0,0,0,0,0,0,0,0,652,0,0,0,15,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2006,101,0,0,0,0,0,0,84,0,0,1,0,14,0,0,0,0,0,0,2,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3851.08799266713,2006,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2006,17460,1568,1,25,1326,60,967,5325,1693,0,900,0,213,3627,1494,3,0,10,1,247,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2006,832,0,0,0,0,0,776,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2006,7140,7140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2006,1382,3,0,2,0,0,0,1354,0,0,1,0,0,18,0,0,0,0,4,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2006,209,50,0,0,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2006,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2006,412,32,0,0,0,0,0,7,0,0,0,0,0,162,211,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2007,117,0,0,0,0,0,23,62,3,0,0,0,8,21,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,4476.01644083189,2007,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2007,114,57,0,0,0,0,0,7,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2007,5705,0,0,0,0,0,0,5606,0,0,0,0,2,83,0,0,0,0,14,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2007,8833,0,0,8833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2007,1239,0,0,1,10,0,11,1215,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2007,1807,1282,0,1,0,0,0,47,0,0,0,0,477,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2007,17338,0,0,6,0,0,0,17296,29,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,1792.34279181451,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2007,325,273,0,0,0,0,0,0,0,0,0,0,0,44,0,8,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,3741.54276679435,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2007,36849,0,0,0,323,0,0,36524,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2007,49,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2007,3042,3041,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,11724.7713149262,2007,36,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2007,168,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,3303.62976861965,2007,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2007,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2007,2685,0,0,0,0,0,0,0,0,0,0,0,0,0,2685,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2007,118,9,0,0,0,0,0,76,0,0,0,0,0,30,0,0,0,0,0,3,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2196.82997423061,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2007,12325,149,1,10,2851,2,306,2929,1811,39,413,0,5,3766,8,2,0,0,2,31,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,6317.20569061026,2007,345,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,10581.61551382,2007,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,5593.10345084676,2007,255,0,0,0,0,0,0,0,6,0,0,0,0,249,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2007,1865,0,0,0,0,0,1545,0,0,0,0,0,0,320,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2007,11447,11447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2007,1315,0,0,0,0,0,0,1282,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2007,247,0,0,0,0,0,0,0,0,0,0,0,0,188,59,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,3543.41235264415,2007,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2007,54,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2007,9,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2007,14,0,0,0,0,0,0,9,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2007,269,0,0,0,0,0,0,0,0,0,0,0,0,269,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2008,475,15,0,0,0,0,0,420,19,0,0,0,12,9,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2008,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2008,2624,0,0,0,8,0,16,2575,0,0,1,0,0,0,7,0,0,0,17,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2008,20346,0,0,20346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2008,168,0,0,0,0,0,0,166,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2008,1324,366,0,2,0,0,50,76,0,0,0,0,830,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2008,20840,1,0,19,30,0,0,20717,55,0,0,0,10,5,0,0,0,0,3,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2550.76215206063,2008,16,0,0,0,0,0,0,0,2,0,0,0,0,10,0,0,0,0,0,4,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2008,441,84,0,262,11,0,0,0,0,0,0,0,0,62,0,22,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2008,27096,0,0,0,2149,0,0,24927,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2008,164,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2100.93488061166,2008,30,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2008,738,666,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,11724.7713149262,2008,297,297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2008,494,0,0,0,0,0,0,428,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,3303.62976861965,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2008,2210,0,0,0,0,0,0,0,0,0,0,0,0,0,2210,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2008,15,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,4655.59354994144,2008,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,17153.109969113,2008,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2008,19675,206,2,16,7910,0,596,4168,1086,146,816,0,6,4595,7,0,0,0,24,97,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2008,462,0,0,0,0,0,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,3251.71436023697,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2008,25981,25981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2008,686,0,0,0,1,0,0,683,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,19511.5833724887,2008,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2008,364,178,0,0,0,0,0,0,0,0,0,0,0,176,10,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2008,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2008,600,598,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2008,1016,0,0,0,0,0,0,0,0,0,0,0,0,1016,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2010,524,0,0,0,0,0,0,475,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2010,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2010,3936,0,0,0,0,0,0,3905,0,30,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2010,18978,0,0,18900,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2010,4125,0,0,0,1424,0,0,2607,0,0,0,0,68,26,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2010,1039,476,0,0,0,0,0,0,0,0,0,0,504,59,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2010,8187,0,0,0,0,0,0,8048,96,0,0,0,4,39,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2839.62051443552,2010,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FI,Finland,country,Europe and Central Asia,61.92411,25.748151,5123.53805427279,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2010,104,1,0,40,0,0,0,5,0,0,0,0,0,0,0,12,0,0,46,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2010,31192,1,0,0,615,0,50,30526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2010,146,0,0,0,0,0,0,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2010,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2010,175,0,0,0,0,0,0,174,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,3303.62976861965,2010,97,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LY,Libya,country,Middle East and North Africa,26.3351,17.228331,1353.74473387438,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,5865.34346242293,2010,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2010,3428,0,0,0,0,0,0,0,0,0,0,0,0,0,3404,0,0,0,24,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2010,56,0,0,0,0,0,30,0,0,0,0,0,0,0,25,0,0,0,0,1,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3851.08799266713,2010,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2010,18924,201,2,51,3074,35,64,4234,3265,0,777,3,16,6965,0,2,103,14,31,190,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,6317.20569061026,2010,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2433.84565204456,2010,287,0,0,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,10581.61551382,2010,14,0,0,0,0,0,0,0,0,0,0,0,2,0,12,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,3613.96644464662,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2010,1820,0,0,0,0,0,1820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,5524.88265478008,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,4808.76475607813,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,3251.71436023697,2010,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2010,17202,17202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2010,1342,0,0,0,8,0,0,1304,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2010,737,39,0,0,0,0,0,0,0,0,0,0,0,698,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,3543.41235264415,2010,3897,3129,0,0,0,0,0,0,11,0,0,0,0,757,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2010,29,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2010,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2010,1454,693,0,0,0,0,0,0,0,0,0,0,0,761,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2011,948,350,0,0,0,0,0,106,12,0,0,0,0,480,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,9721.74439348601,2011,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14382.5025487694,2011,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2011,432,41,0,361,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2011,4292,0,0,0,0,0,158,3818,0,0,0,0,1,315,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2011,14615,0,0,14615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BN,Brunei Darussalam,country,,4.535277,114.727669,11618.9414096864,2011,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,3245.27196127946,2011,11,0,0,0,0,0,0,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2011,2317,1551,0,0,531,0,0,156,20,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CA,Canada,country,North America,56.130366,-106.346771,9817.8828466528,2011,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2011,1111,0,0,0,1111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2011,2171,116,0,448,0,0,0,73,0,0,0,0,924,610,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2011,6035,0,0,0,217,0,0,5608,195,0,0,0,1,14,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,4304.84072701576,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,9684.44751317261,2011,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2550.76215206063,2011,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2011,678,74,0,200,0,0,0,0,0,0,0,0,0,195,0,9,0,0,200,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,2085.71862774883,2011,14,0,0,0,5,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,3741.54276679435,2011,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2011,55154,30,0,0,23055,0,70,31973,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2011,26,0,0,0,0,0,0,0,0,0,0,0,0,15,0,11,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2011,323,2,0,268,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2011,1789,734,0,0,375,0,0,465,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2011,3748,0,0,0,0,0,0,0,0,0,0,0,0,0,3534,0,0,0,214,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2011,12,0,0,0,0,0,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,17153.109969113,2011,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2011,21283,120,1,10,6788,0,811,1600,5203,0,512,0,12,5913,0,0,0,0,3,310,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,6317.20569061026,2011,1634,1634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3903.05642180934,2011,31,0,0,0,0,0,0,10,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,10581.61551382,2011,234,0,0,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,4373.07076289509,2011,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,5593.10345084676,2011,317,0,0,275,0,0,0,0,21,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2011,1447,27,0,0,0,0,1420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,LK,Sri Lanka,country,South Asia,7.873054,80.771797,7925.29720993561,2011,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2011,3848,3848,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2011,1424,0,0,7,0,0,0,1384,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2011,1052,699,0,0,0,0,0,0,0,0,0,0,0,353,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,3543.41235264415,2011,3044,2790,0,0,0,0,0,0,0,0,0,0,0,176,78,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2011,252,0,0,0,0,0,0,46,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2011,114,0,0,0,0,0,0,0,0,0,0,0,0,113,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2011,457,0,0,0,0,0,0,0,0,0,0,0,0,457,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2012,1791,257,0,0,0,0,0,388,44,0,2,0,0,1100,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,9721.74439348601,2012,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14382.5025487694,2012,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2012,101,14,0,84,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2012,17098,0,0,0,9,5,1050,15274,0,491,0,0,0,269,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2012,20705,4353,0,16352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2012,1777,1,0,0,1501,0,0,218,41,0,0,0,0,12,0,0,0,4,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,1230.41841824464,2012,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,1161.40246252528,2012,16,0,0,0,0,0,0,2,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2012,10194,2868,0,3831,0,0,340,60,41,0,0,0,1163,1801,33,3,0,0,54,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,9057.69177692492,2012,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2012,9625,0,0,1,523,0,35,8738,291,0,0,0,0,10,27,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,2839.62051443552,2012,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2550.76215206063,2012,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2012,648,9,7,384,0,0,0,0,2,0,0,0,0,198,0,3,0,0,45,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DE,Germany,country,Europe and Central Asia,51.165691,10.451526,3741.54276679435,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2012,72796,142,0,0,16720,0,231,55388,135,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GR,Greece,country,Europe and Central Asia,39.074208,21.824312,2735.19434584169,2012,46,0,0,0,0,0,0,0,0,0,0,0,0,45,0,1,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2012,11991,11068,0,528,339,0,0,0,0,0,0,0,20,1,35,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,11724.7713149262,2012,590,303,0,0,0,0,0,0,0,0,0,0,0,0,207,0,0,0,80,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2012,541,0,0,0,0,0,0,541,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,4206.12742719111,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2012,5456,0,0,0,107,0,0,0,0,0,0,0,0,0,4826,0,0,0,523,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2012,410,84,0,0,245,0,0,0,0,0,0,0,37,0,42,0,0,0,0,2,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,2032.60932604182,2012,176,0,0,0,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,4655.59354994144,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2012,20879,289,9,12,6229,0,807,2156,5512,24,864,1,75,4724,0,0,1,2,5,170,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,6317.20569061026,2012,206,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,9612.82195651782,2012,1027,0,0,1027,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,3903.05642180934,2012,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2433.84565204456,2012,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,10581.61551382,2012,1171,0,0,0,0,0,0,0,68,0,0,0,0,17,1086,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,5593.10345084676,2012,171,0,0,150,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,2786.42387917796,2012,2234,0,0,0,0,0,1560,0,0,0,0,0,0,674,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2012,6486,4265,0,2201,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2012,4715,0,0,0,165,0,38,4489,1,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2012,2027,1882,0,0,0,0,0,0,18,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,3543.41235264415,2012,2692,2186,0,0,0,0,0,0,0,0,0,0,0,408,60,0,0,0,18,20,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2012,256,0,0,0,0,0,0,0,0,0,0,0,0,253,0,0,0,0,3,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,4316.8524605343,2012,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2012,273,0,0,0,0,0,0,0,0,0,0,0,0,233,0,0,0,0,40,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,8789.13369178322,2012,160,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2012,476,0,0,0,0,0,0,0,20,0,0,0,0,456,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,1333.92265391544,2013,2200,463,0,0,0,0,0,5,119,0,0,0,0,1613,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,9721.74439348601,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,14382.5025487694,2013,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BD,Bangladesh,country,South Asia,23.684994,90.356331,8480.46228650362,2013,150,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,3676.09268033447,2013,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,1114.69626262521,2013,14946,2,0,0,9,0,1965,11710,1,314,0,0,0,894,0,0,0,0,12,39,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,7481.05304471793,2013,16988,5536,0,11452,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,1196.70110990139,2013,66736,0,30,0,4380,0,92,61725,185,0,0,0,0,324,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CN,China,country,East Asia and Pacific,35.86166,104.195397,9412.27477538131,2013,3818,225,0,174,0,0,0,200,102,0,0,0,1730,1225,162,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,1855.18700208386,2013,1203,773,0,0,0,7,0,383,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,2550.76215206063,2013,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,FR,France,country,Europe and Central Asia,46.227638,2.213749,3231.65317649015,2013,838,140,0,412,0,0,0,27,0,0,0,0,0,23,0,0,0,0,236,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,1459.77048842897,2013,16067,46,0,0,143,0,1,15874,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IN,India,country,South Asia,20.593684,78.96288,7403.54242611931,2013,19353,18287,0,943,0,0,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,11724.7713149262,2013,363,323,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IR,Iran,country,Middle East and North Africa,32.427908,53.688046,4845.47494017277,2013,128,105,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,IT,Italy,country,Europe and Central Asia,41.87194,12.56738,2734.62037093547,2013,379,0,0,0,0,0,0,379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,JP,Japan,country,East Asia and Pacific,36.204824,138.252924,12079.1589883354,2013,96,0,0,0,0,0,0,57,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,10288.9260871783,2013,7809,79,0,0,0,0,0,0,0,0,0,0,0,0,7446,0,0,0,284,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2013,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,2196.82997423061,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,4655.59354994144,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,3851.08799266713,2013,472,0,0,0,0,0,0,0,0,0,0,0,0,472,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,951.257301733266,2013,16353,334,0,5,3804,0,485,1671,3938,24,927,0,0,5118,0,0,5,0,0,47,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,PK,Pakistan,country,South Asia,30.375321,69.345116,6317.20569061026,2013,2868,2100,0,0,0,0,0,63,61,0,0,0,17,627,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,RO,Romania,country,Europe and Central Asia,45.943161,24.96676,3519.10748805948,2013,114,0,0,0,0,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,2433.84565204456,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,10581.61551382,2013,327,0,0,0,0,0,0,0,0,0,0,0,0,0,327,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,5593.10345084676,2013,42,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,3251.71436023697,2013,460,460,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,9788.05806046042,2013,8913,7267,0,1646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,1272.24784786373,2013,4295,0,0,0,0,0,40,4235,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,1817.98660575561,2013,365,169,0,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,3543.41235264415,2013,1603,1254,0,0,0,0,81,0,0,0,0,0,0,268,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,4795.99261809536,2013,964,405,0,50,0,0,0,0,21,0,0,0,0,488,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,US,USA,country,North America,37.09024,-95.712891,10011.4917303107,2013,259,0,0,0,0,0,0,0,0,0,0,0,0,206,0,0,0,0,53,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,10594.7293511354,2013,876,0,0,0,0,0,0,0,0,0,0,0,0,876,0,0,0,0,0,0,0,0,0,0
