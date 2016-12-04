@@ -1,0 +1,94 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BM,Bermuda,country,North America,32.321384,-64.75737,18070.4567133735,2007,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BM,Bermuda,country,North America,32.321384,-64.75737,5888.78638678085,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BM,Bermuda,country,North America,32.321384,-64.75737,5360.030965736,2007,278,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,278,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BM,Bermuda,country,North America,32.321384,-64.75737,4144.7979506301,2007,47,20,0,0,0,0,0,3,0,0,0,0,0,9,0,0,0,14,1,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BM,Bermuda,country,North America,32.321384,-64.75737,12360.4520830832,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BM,Bermuda,country,North America,32.321384,-64.75737,5795.77011294549,2007,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BM,Bermuda,country,North America,32.321384,-64.75737,5008.34539550424,2007,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BM,Bermuda,country,North America,32.321384,-64.75737,9026.86130826379,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BM,Bermuda,country,North America,32.321384,-64.75737,6716.29850687151,2007,5,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BM,Bermuda,country,North America,32.321384,-64.75737,5921.69264374945,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BM,Bermuda,country,North America,32.321384,-64.75737,14726.4162756133,2007,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,BM,Bermuda,country,North America,32.321384,-64.75737,7279.32204796001,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BM,Bermuda,country,North America,32.321384,-64.75737,5433.11753491473,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BM,Bermuda,country,North America,32.321384,-64.75737,5332.42830914527,2007,171,16,0,1,0,0,0,63,12,0,0,0,1,5,3,0,0,2,68,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BM,Bermuda,country,North America,32.321384,-64.75737,2869.02299967506,2007,12111,150,16,428,0,10,3,34,1121,0,3,175,140,178,22,8779,0,915,135,2,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BM,Bermuda,country,North America,32.321384,-64.75737,7279.97987228096,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BM,Bermuda,country,North America,32.321384,-64.75737,7875.34689502953,2013,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BM,Bermuda,country,North America,32.321384,-64.75737,18070.4567133735,2013,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BM,Bermuda,country,North America,32.321384,-64.75737,6677.73215231624,2013,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,BM,Bermuda,country,North America,32.321384,-64.75737,1475.25377916278,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,BM,Bermuda,country,North America,32.321384,-64.75737,2194.57105709,2013,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BM,Bermuda,country,North America,32.321384,-64.75737,5888.78638678085,2013,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BM,Bermuda,country,North America,32.321384,-64.75737,5360.030965736,2013,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,283,0,0,0,0,0,0
+VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,BM,Bermuda,country,North America,32.321384,-64.75737,1547.46230643455,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BM,Bermuda,country,North America,32.321384,-64.75737,7668.60747949852,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BM,Bermuda,country,North America,32.321384,-64.75737,4144.7979506301,2013,2131,611,309,162,0,0,0,56,0,0,0,625,7,271,77,7,0,5,1,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,BM,Bermuda,country,North America,32.321384,-64.75737,2125.43731341174,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BM,Bermuda,country,North America,32.321384,-64.75737,7602.3841010194,2013,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BM,Bermuda,country,North America,32.321384,-64.75737,13945.1556413046,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BM,Bermuda,country,North America,32.321384,-64.75737,12360.4520830832,2013,5,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BM,Bermuda,country,North America,32.321384,-64.75737,13771.9128873344,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BM,Bermuda,country,North America,32.321384,-64.75737,3245.14483310145,2013,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,BM,Bermuda,country,North America,32.321384,-64.75737,11713.5063811672,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,BM,Bermuda,country,North America,32.321384,-64.75737,3183.00302790432,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,BM,Bermuda,country,North America,32.321384,-64.75737,1762.40123413647,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BM,Bermuda,country,North America,32.321384,-64.75737,6135.20663431254,2013,145,0,0,0,0,0,0,0,0,0,0,0,0,3,0,141,0,1,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,BM,Bermuda,country,North America,32.321384,-64.75737,1606.12904685225,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BM,Bermuda,country,North America,32.321384,-64.75737,8940.99526261111,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BM,Bermuda,country,North America,32.321384,-64.75737,6910.68929989012,2013,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BM,Bermuda,country,North America,32.321384,-64.75737,5795.77011294549,2013,251,3,0,0,0,0,0,0,1,0,0,0,0,0,0,167,0,0,80,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BM,Bermuda,country,North America,32.321384,-64.75737,6290.82199386037,2013,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BM,Bermuda,country,North America,32.321384,-64.75737,7559.22587646207,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BM,Bermuda,country,North America,32.321384,-64.75737,3162.44108372706,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,BM,Bermuda,country,North America,32.321384,-64.75737,6157.78825887618,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,BM,Bermuda,country,North America,32.321384,-64.75737,2891.02570744559,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,BM,Bermuda,country,North America,32.321384,-64.75737,7045.06732230169,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BM,Bermuda,country,North America,32.321384,-64.75737,4761.5567425913,2013,6,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BM,Bermuda,country,North America,32.321384,-64.75737,12993.2839625852,2013,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BM,Bermuda,country,North America,32.321384,-64.75737,16524.63086304,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BM,Bermuda,country,North America,32.321384,-64.75737,10357.245308002,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BM,Bermuda,country,North America,32.321384,-64.75737,5008.34539550424,2013,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,33,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BM,Bermuda,country,North America,32.321384,-64.75737,9026.86130826379,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BM,Bermuda,country,North America,32.321384,-64.75737,6716.29850687151,2013,736,32,0,0,0,0,0,112,1,0,0,0,10,3,38,527,0,6,7,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,BM,Bermuda,country,North America,32.321384,-64.75737,2020.66392563016,2013,724,7,0,0,0,0,0,0,0,0,1,0,0,0,0,715,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BM,Bermuda,country,North America,32.321384,-64.75737,12041.3173795805,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BM,Bermuda,country,North America,32.321384,-64.75737,11208.6567220727,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,BM,Bermuda,country,North America,32.321384,-64.75737,7020.57045084549,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,BM,Bermuda,country,North America,32.321384,-64.75737,7039.18840004783,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,BM,Bermuda,country,North America,32.321384,-64.75737,6017.34829127401,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BM,Bermuda,country,North America,32.321384,-64.75737,11644.1919980263,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BM,Bermuda,country,North America,32.321384,-64.75737,15735.6002901739,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BM,Bermuda,country,North America,32.321384,-64.75737,3818.14050851125,2013,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,BM,Bermuda,country,North America,32.321384,-64.75737,5371.29236787801,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BM,Bermuda,country,North America,32.321384,-64.75737,12519.8310631296,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BM,Bermuda,country,North America,32.321384,-64.75737,5921.69264374945,2013,307,1,0,2,0,0,0,0,0,0,0,0,1,0,0,303,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BM,Bermuda,country,North America,32.321384,-64.75737,14726.4162756133,2013,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,114,59,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BM,Bermuda,country,North America,32.321384,-64.75737,7925.45853448523,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BM,Bermuda,country,North America,32.321384,-64.75737,11545.0576699406,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,BM,Bermuda,country,North America,32.321384,-64.75737,3121.61823162434,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BM,Bermuda,country,North America,32.321384,-64.75737,4747.9208071736,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BM,Bermuda,country,North America,32.321384,-64.75737,14957.8630923563,2013,79,37,0,0,0,0,1,0,1,0,0,0,1,22,0,0,0,1,16,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BM,Bermuda,country,North America,32.321384,-64.75737,6852.93280738632,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BM,Bermuda,country,North America,32.321384,-64.75737,5077.8401237967,2013,780,0,0,0,0,0,0,0,14,0,0,0,0,0,1,765,0,0,0,0,0,0,0,0
+LC,St. Lucia,country,Latin America and the Caribbean,13.909444,-60.978893,BM,Bermuda,country,North America,32.321384,-64.75737,2085.31429797239,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,BM,Bermuda,country,North America,32.321384,-64.75737,2181.48963442926,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BM,Bermuda,country,North America,32.321384,-64.75737,16100.6452403725,2013,9,0,0,0,0,3,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,BM,Bermuda,country,North America,32.321384,-64.75737,7003.04264340543,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BM,Bermuda,country,North America,32.321384,-64.75737,11581.5153348749,2013,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BM,Bermuda,country,North America,32.321384,-64.75737,5433.11753491473,2013,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BM,Bermuda,country,North America,32.321384,-64.75737,14258.7355910363,2013,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BM,Bermuda,country,North America,32.321384,-64.75737,12101.1599708138,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BM,Bermuda,country,North America,32.321384,-64.75737,6590.41282449885,2013,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BM,Bermuda,country,North America,32.321384,-64.75737,6234.65562293964,2013,22,0,0,0,0,0,0,0,0,0,0,0,5,17,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BM,Bermuda,country,North America,32.321384,-64.75737,14461.9274396462,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,BM,Bermuda,country,North America,32.321384,-64.75737,2434.98475497803,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BM,Bermuda,country,North America,32.321384,-64.75737,8590.21165717437,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BM,Bermuda,country,North America,32.321384,-64.75737,10598.9473837788,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BM,Bermuda,country,North America,32.321384,-64.75737,7794.01819544869,2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BM,Bermuda,country,North America,32.321384,-64.75737,11035.2619118317,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BM,Bermuda,country,North America,32.321384,-64.75737,5332.42830914527,2013,1709,165,4,134,0,25,6,88,25,0,2,2,51,82,10,990,0,60,65,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BM,Bermuda,country,North America,32.321384,-64.75737,2869.02299967506,2013,61777,9279,1625,1114,134,556,316,9757,8211,1,87,3450,1147,1334,947,13947,8,5019,4851,2,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,BM,Bermuda,country,North America,32.321384,-64.75737,10328.6855883833,2013,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BM,Bermuda,country,North America,32.321384,-64.75737,14821.447977451,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

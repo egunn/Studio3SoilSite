@@ -1,0 +1,542 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AF,Afghanistan,country,South Asia,33.93911,67.709953,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7276.59119478513,2002,94,89,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2002,395,1,0,0,0,0,0,0,333,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2002,10538,334,0,9986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,218,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3738.70910030207,2002,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5686.07475128006,2002,31,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9667.70784645329,2002,75,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2002,7393,5668,0,464,0,0,1,48,26,0,20,33,25,140,160,29,0,0,779,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2002,70,0,0,1,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2002,93920,389,0,93531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2002,3715,488,0,120,0,0,0,0,14,0,0,200,0,0,2893,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2002,83,0,0,0,0,0,0,0,4,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2002,332,25,0,0,0,0,0,0,0,0,0,0,146,160,0,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2002,8418,796,0,22,0,0,0,0,0,0,0,0,7563,33,0,3,0,1,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12496.9079489274,2002,973,952,0,0,0,0,0,11,0,0,0,0,8,1,0,1,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7776.30247380879,2002,132,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2002,47773,13247,557,8292,0,4961,3,230,4824,0,312,106,751,6858,6976,174,0,0,482,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2002,833,0,0,0,0,0,0,0,35,0,0,0,0,47,549,185,0,17,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2002,64,0,0,0,0,0,0,0,0,55,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4939.20142980479,2002,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2002,61192,41641,286,13903,5,2,70,616,115,1,85,11,320,820,196,382,8,43,2696,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2002,773,614,0,10,0,0,14,27,2,0,0,0,28,1,57,13,0,0,7,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2002,14469,13876,0,308,0,0,0,3,0,0,0,0,0,20,104,57,0,0,101,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2002,4390,1635,1,1028,0,0,0,100,10,0,1,0,97,25,1453,18,0,0,22,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3459.10023233497,2002,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2002,37,7,0,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5394.21126963164,2002,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2002,123774,123225,0,492,0,0,0,0,0,0,0,0,0,10,20,0,0,0,27,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2002,6005,5870,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2002,6465,5092,0,0,0,0,11,1048,30,0,0,0,0,80,204,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2002,283,122,0,0,0,0,0,0,0,0,0,0,161,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2002,124,0,0,58,0,0,0,0,0,0,0,0,53,13,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17741.0635400203,2002,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5374.17972571752,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2002,33,1,0,0,2,4,0,1,10,0,0,0,4,5,0,6,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2002,611,49,0,0,0,0,0,0,0,0,14,0,0,0,548,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2002,50,37,0,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2002,4721,4445,0,0,0,0,0,0,0,0,0,0,40,41,117,35,0,0,43,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10275.1900703889,2002,10167,10167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2002,3009,433,195,809,1,0,0,18,30,0,0,0,0,25,87,348,0,30,1033,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2002,134,44,0,24,0,0,0,29,4,0,7,0,14,12,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2002,132,0,0,39,0,0,0,0,0,0,12,0,2,29,50,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2002,1424,1424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,13182.6072472437,2002,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2464.17827784352,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4136.4762123259,2002,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2002,33,0,0,0,0,0,0,0,0,0,0,0,0,30,0,3,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2002,20356,17176,2,2116,0,4,15,58,12,0,0,1,18,745,1,141,1,27,40,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2002,778,283,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,395,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2002,358,0,0,8,0,0,0,4,48,0,0,0,0,178,0,101,0,16,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2548.5447738533,2002,3024,648,0,1,0,0,2,5,61,0,0,0,46,2186,2,73,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2002,92,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6227.87309453841,2002,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2002,349,220,0,0,0,0,0,0,0,0,0,0,2,113,0,10,0,0,4,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2002,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2002,29148,29116,0,0,0,0,0,0,0,0,0,0,5,0,1,20,0,0,6,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2002,2201,393,0,12,0,0,61,357,10,0,6,95,99,14,1022,78,0,0,54,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2002,358,215,0,35,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2002,402,63,0,59,0,0,0,0,0,0,64,0,3,213,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2002,39,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2002,99,0,0,0,0,0,0,0,3,1,44,0,1,36,0,14,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2002,653,0,0,10,0,0,0,0,37,0,0,0,0,606,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2002,3255,2312,0,0,0,0,0,521,0,0,0,0,1,421,0,0,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6899.11719356092,2002,35,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2002,10936,10913,0,0,0,0,0,0,0,0,10,0,0,2,11,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7276.59119478513,2003,68,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2003,493,3,0,14,0,0,0,0,463,0,0,0,0,1,0,11,0,0,1,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2003,173,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2003,184,0,0,0,0,0,0,0,0,0,0,0,0,0,184,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9667.70784645329,2003,29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2003,6590,2581,0,3123,0,4,2,21,2,0,16,3,13,231,72,24,0,0,498,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2003,72011,2801,0,69169,0,0,0,0,9,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2003,8977,1362,0,3691,0,0,15,0,48,0,0,80,28,0,3748,1,0,0,4,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2003,1051,0,0,0,154,0,0,0,0,0,0,0,0,0,897,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2003,408,30,0,0,0,0,0,22,6,0,10,0,79,20,109,29,0,0,103,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2003,8586,386,0,15,0,3,1,65,1,3,37,0,7909,148,1,1,0,0,16,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12496.9079489274,2003,198,119,0,0,0,0,0,9,0,0,0,0,0,2,68,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7776.30247380879,2003,3949,0,0,3949,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2939.84499201326,2003,61,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2003,37353,6396,1065,1322,6,2571,373,606,4669,403,100,350,1030,11215,7001,1,0,1,244,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4179.13887293264,2003,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2003,970,6,0,0,0,0,0,0,106,0,0,0,0,23,642,176,0,17,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2003,28,0,0,0,0,0,0,0,15,1,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2360.97204020181,2003,7,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2003,102186,70548,1100,23230,1,1,103,939,167,0,3,13,270,1274,360,480,11,42,3655,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2003,1777,1533,5,14,0,0,0,80,0,0,0,0,13,5,44,47,0,0,36,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2003,1011,454,0,203,0,0,0,2,1,0,0,0,8,35,245,0,0,0,63,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2003,4173,2197,2,1200,0,0,0,32,25,0,10,0,75,92,287,52,0,0,201,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2003,265,85,0,35,0,77,0,15,23,0,0,0,11,0,0,0,0,0,19,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1364.10967202018,2003,20,0,0,3,0,0,0,0,0,0,0,0,10,0,0,0,0,0,7,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2003,127989,127749,0,110,0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12999.2185839778,2003,175,70,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5977.52901050351,2003,11,0,0,4,0,0,0,0,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2003,5725,5628,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2003,6935,4631,0,0,457,0,0,1391,0,0,0,0,41,334,81,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2003,195,45,0,0,0,0,0,25,0,0,0,0,89,0,36,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2003,126,0,0,0,0,0,0,0,0,0,14,0,104,8,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2003,135,4,0,1,13,0,0,14,92,0,1,0,2,4,2,0,0,1,1,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2394.22521928283,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4807.65542363211,2003,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6879.26588455311,2003,13,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2003,3654,0,0,0,0,0,0,0,0,0,12,0,0,0,3642,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2731.07080829459,2003,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2003,43,14,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10075.6636192382,2003,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2003,1085,886,0,0,0,0,0,35,0,0,0,0,21,46,0,75,0,0,22,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10275.1900703889,2003,3097,3097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2003,4061,884,0,881,0,0,0,18,29,0,0,0,6,18,394,675,0,51,1105,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2003,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2003,10,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2003,127,0,0,63,0,0,0,0,54,0,4,0,2,4,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2003,656,656,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5743.69293836471,2003,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2003,307,224,0,1,0,0,0,17,7,0,11,0,0,3,44,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2003,7670,4951,15,727,0,1,122,165,74,0,12,0,30,923,100,287,0,58,205,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2003,2479,141,0,0,0,0,0,21,38,0,0,0,0,15,1818,0,0,0,446,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2003,1132,627,2,9,0,42,0,9,48,0,0,0,4,110,0,269,0,12,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2548.5447738533,2003,3962,399,0,0,0,0,0,0,22,0,0,0,0,3482,4,55,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2003,117,19,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2003,1598,1592,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,4,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2003,13,1,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2003,22511,21985,0,500,0,0,0,0,15,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2003,3812,1533,3,131,11,0,0,260,69,4,0,0,71,90,1146,341,0,0,153,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2003,1335,816,0,36,0,0,0,0,0,0,0,0,0,483,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2003,1018,605,0,158,0,0,0,2,33,0,0,0,1,219,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2003,20,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4673.55536428173,2003,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2003,359,80,0,1,1,0,0,38,8,0,179,0,12,21,10,9,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2003,575,0,0,22,0,0,0,0,0,0,0,0,0,510,0,24,0,0,19,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2003,2626,2563,0,1,0,0,0,0,2,0,0,0,1,58,0,0,0,0,1,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7839.04896403469,2003,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2003,13310,13310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7276.59119478513,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2004,614,16,0,0,0,0,0,0,587,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2004,8776,8600,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2004,2910,250,0,1972,0,0,0,3,11,0,6,0,43,65,5,13,0,1,541,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2004,310,0,0,0,0,0,0,0,0,0,0,0,0,310,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2004,65753,384,0,65173,0,0,0,0,0,0,156,0,9,0,0,0,0,0,31,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2004,8589,6661,0,48,0,0,0,74,26,1,17,1085,31,36,602,0,0,0,8,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2004,1173,802,0,0,140,0,0,0,0,0,0,0,0,0,231,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2004,561,235,0,0,0,0,0,19,101,0,2,0,35,10,28,0,0,0,131,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2004,13894,3045,0,1,122,0,0,284,1,0,0,0,9323,1029,14,2,0,0,73,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12496.9079489274,2004,4770,4739,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7776.30247380879,2004,3377,0,0,3377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2939.84499201326,2004,58,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2004,36623,5199,2250,418,0,5749,306,823,4959,0,70,0,753,5207,10027,36,0,7,819,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3546.42624605944,2004,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4179.13887293264,2004,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3713.41082550366,2004,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2004,354,3,0,0,197,0,0,0,0,0,0,0,0,1,72,38,0,17,26,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2004,78,0,0,0,0,0,0,0,54,0,0,0,0,3,4,15,0,0,2,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2004,44736,29498,967,1074,0,6,119,509,180,7,49,16,86,795,6229,833,10,125,4243,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2004,719,432,0,6,0,0,0,90,7,0,0,0,25,65,45,19,0,0,30,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2004,297,92,0,0,0,0,0,40,17,0,0,0,0,24,58,66,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2004,546,145,1,21,0,0,0,40,4,0,0,0,157,38,71,2,0,0,67,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3459.10023233497,2004,148,0,0,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2004,184,7,0,5,0,86,0,0,0,3,1,0,33,7,2,0,0,3,37,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1364.10967202018,2004,251,15,0,18,0,0,0,4,0,0,0,0,52,15,0,3,0,11,133,0,0,0,0,0
+HT,Haiti,country,Latin America and the Caribbean,18.971187,-72.285215,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7172.0618082881,2004,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2004,59099,58996,0,82,0,0,0,0,0,0,0,0,12,2,7,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12999.2185839778,2004,75,0,0,0,0,0,0,0,0,0,25,0,1,26,0,23,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2004,3420,3420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2004,4255,1338,1,0,0,0,0,2595,0,0,0,0,0,139,169,0,0,0,13,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2004,48,46,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2004,79,0,0,3,0,0,0,0,0,0,0,0,50,26,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2004,112,3,0,1,0,0,1,11,72,0,3,0,1,9,6,2,0,1,2,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2004,1354,52,0,0,0,0,5,0,0,0,0,0,75,0,1030,0,0,0,192,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2731.07080829459,2004,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2004,17,12,0,0,0,0,0,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2004,603,21,0,131,0,0,0,20,0,5,0,0,0,120,43,31,0,0,232,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2004,4614,2808,181,19,0,0,0,8,3,0,0,0,2,35,0,761,0,16,781,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2004,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2004,29,0,0,0,0,0,0,0,18,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2004,189,138,0,29,0,0,0,0,1,0,14,0,3,4,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2004,1456,1444,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5743.69293836471,2004,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9283.55231907972,2004,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4303.3621374048,2004,20,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2004,317,118,0,0,0,0,0,0,109,0,24,0,15,14,0,0,0,0,37,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2004,6418,3289,138,267,0,1,120,255,29,0,23,0,77,1619,24,145,0,59,372,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2004,1862,0,0,16,0,0,0,10,0,0,26,0,0,2,935,0,0,0,873,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3632.05776297955,2004,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2004,1119,43,0,0,0,0,0,0,35,0,0,0,0,797,0,244,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2548.5447738533,2004,1794,0,0,0,0,0,0,2,38,1,0,0,0,1679,10,64,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2004,264,34,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2004,168,0,0,0,0,0,0,0,0,0,0,0,0,162,0,2,0,0,4,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2004,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2004,23561,23019,0,60,0,0,0,0,0,0,0,0,0,0,482,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2004,4233,140,0,73,0,0,0,7,0,0,0,339,56,2022,1375,102,0,0,119,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2004,655,247,0,10,0,0,0,0,4,0,0,0,0,334,17,42,0,0,1,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2004,563,270,0,0,0,0,0,68,80,0,15,0,4,122,0,0,0,4,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2004,47,0,0,0,8,0,0,0,0,0,31,0,8,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2004,842,84,0,1,0,0,0,99,9,0,68,0,500,59,18,4,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2004,702,0,0,0,0,0,0,0,0,0,0,0,0,689,0,13,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2004,5562,5082,0,1,0,0,0,2,1,0,0,1,3,448,2,20,0,0,2,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7839.04896403469,2004,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6899.11719356092,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2004,5651,5645,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5452.99465534462,2004,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7276.59119478513,2005,99,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2005,699,70,0,50,0,0,0,0,543,0,0,0,8,22,2,4,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2005,3178,2943,0,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3738.70910030207,2005,6,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5686.07475128006,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2005,2150,398,21,618,0,0,0,28,1,0,0,79,0,89,1,5,0,0,910,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2005,348,15,0,0,0,0,0,0,0,0,0,0,0,333,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2005,109471,404,0,108836,0,0,0,0,0,0,151,0,24,0,0,0,0,0,56,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2005,2124,137,0,12,0,0,82,0,16,0,7,160,4,7,1491,201,0,0,7,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2106.52951169688,2005,5,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2005,2754,285,0,0,496,0,0,0,0,0,37,0,0,0,1936,0,0,0,0,0,0,0,0,0
+TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2435.70817865269,2005,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9253.29342252164,2005,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2005,487,5,0,0,0,0,0,1,0,0,0,0,35,218,111,0,0,0,117,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2005,21562,11457,0,76,0,0,1,521,2,0,0,0,9158,111,122,10,0,0,104,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7776.30247380879,2005,530,0,0,525,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2939.84499201326,2005,15,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2005,64098,10072,4811,20343,3,4211,206,608,6940,0,83,168,423,5931,9672,16,0,10,601,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3546.42624605944,2005,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3990.44788121495,2005,8,0,0,0,0,0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3713.41082550366,2005,69,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2005,319,239,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,60,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2005,306,192,0,1,0,0,0,0,36,0,0,0,11,26,0,40,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2005,99214,92094,786,505,0,0,134,288,294,2,4,54,101,733,339,307,60,97,3476,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2005,357,166,0,4,0,0,0,40,3,0,0,0,5,30,95,5,0,9,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2005,3712,3476,0,0,0,0,0,0,1,0,0,0,8,72,66,57,0,20,12,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2005,2010,1559,3,298,0,0,0,46,1,0,0,0,72,1,29,1,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2005,5034,1211,276,5,1,3186,0,267,0,0,0,0,2,18,2,2,0,7,57,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1364.10967202018,2005,26,4,0,1,0,0,0,0,3,1,0,0,1,2,0,0,0,0,14,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5394.21126963164,2005,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2005,83961,83846,0,60,0,0,0,0,18,0,0,0,16,0,0,0,0,0,21,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12999.2185839778,2005,35,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5977.52901050351,2005,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2005,5417,5341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2005,2031,710,0,0,0,0,0,864,11,0,0,0,0,445,1,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2005,831,830,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2005,54,0,0,0,0,0,0,0,0,20,30,0,4,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2005,359,7,0,0,0,1,1,18,83,0,1,0,10,212,17,4,0,0,5,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2005,4015,8,0,0,0,0,0,0,0,0,0,0,0,0,3887,0,0,0,120,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2005,148,97,34,0,0,0,0,0,0,0,0,0,0,17,0,0,4,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2005,2366,1659,44,21,0,0,0,215,3,0,0,0,4,89,175,0,0,0,156,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2005,11335,8676,373,500,0,0,0,404,7,0,0,0,0,20,0,911,0,0,444,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2005,113,0,0,1,35,0,0,59,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2005,51,0,0,45,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2005,19478,19478,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9283.55231907972,2005,6700,6700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2005,28,0,0,0,0,0,0,0,0,0,17,0,0,10,1,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2005,20604,17240,366,219,4,27,244,667,15,0,57,0,45,876,233,90,2,82,439,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2005,1139,35,0,0,0,0,0,0,37,0,12,0,0,0,332,0,0,0,723,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2005,3180,2077,0,60,0,0,0,1,26,0,0,0,0,672,0,342,0,2,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2005,227,0,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2005,102,0,0,0,0,0,0,0,0,0,0,0,21,81,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2005,96,80,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2005,79096,78984,0,0,0,0,0,5,96,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2005,1575,94,0,54,0,0,0,3,0,0,0,0,2,24,1220,155,0,0,23,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2005,1441,715,0,0,0,0,0,10,9,0,0,0,0,498,19,190,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2005,808,457,0,1,0,0,0,23,43,0,2,0,13,269,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2005,134,35,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2005,167,31,0,1,0,0,0,41,5,0,0,0,0,27,38,0,0,0,24,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2005,170,0,0,0,0,0,0,0,0,0,0,0,0,147,9,14,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2005,815,677,8,0,0,0,0,0,6,0,0,0,0,109,0,4,0,11,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7839.04896403469,2005,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2005,65403,65379,0,5,0,0,0,0,0,0,0,0,6,12,1,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2006,334,1,0,0,0,0,0,0,327,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2006,2090,93,0,1104,0,0,0,0,0,0,0,654,4,0,0,0,0,0,235,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3738.70910030207,2006,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4872.57024110853,2006,137,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2006,3549,653,0,826,0,0,0,72,0,0,0,39,0,575,1,2,0,0,1381,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2006,478,0,0,0,0,0,0,0,0,0,16,0,0,462,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2006,141396,1970,0,139052,0,0,0,0,0,0,186,0,43,17,0,0,0,0,128,0,0,0,0,0
+BN,Brunei Darussalam,country,,4.535277,114.727669,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12874.019322441,2006,369,369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3948.43083716665,2006,32,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2006,17248,4099,368,2,50,0,0,776,230,0,0,2377,15,52,9123,133,0,8,15,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2106.52951169688,2006,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2006,446,8,0,0,0,0,0,98,0,0,0,0,25,191,124,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2006,16928,2081,0,97,0,0,1,1904,22,1,15,0,12399,348,41,3,0,0,16,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2939.84499201326,2006,74,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2006,83052,7322,3809,2859,0,3543,5216,723,31636,0,235,0,296,6513,19951,13,0,14,922,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3546.42624605944,2006,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2006,288,1,0,0,0,0,0,0,31,0,0,0,0,16,0,240,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2006,1485,1354,0,0,0,0,0,0,74,0,0,0,43,0,0,4,0,0,10,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4896.83269364579,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5455.77577432822,2006,215,0,0,0,0,0,0,0,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2006,103439,91886,1044,895,0,6,234,655,334,0,49,69,238,1001,147,574,23,9,6298,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2006,189,113,0,2,0,0,0,30,0,0,2,0,8,12,7,0,0,11,4,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2006,239,0,0,0,0,0,0,0,2,0,0,0,29,87,0,106,0,0,15,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2006,2096,1904,1,19,0,0,0,36,59,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2006,7640,1242,286,3,0,3800,1912,303,20,0,0,0,13,3,2,24,0,11,21,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2006,41075,41007,0,0,0,0,0,5,4,0,0,0,14,45,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12999.2185839778,2006,147,0,0,0,0,0,0,0,0,0,0,0,24,0,106,17,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5977.52901050351,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2006,5795,5680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4190.61825593179,2006,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2006,7353,3229,3,0,0,0,0,3691,0,0,0,0,0,310,79,0,0,0,41,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2006,1112,1112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2006,148,0,0,0,0,0,0,0,0,0,108,0,29,11,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2006,219,13,0,3,0,0,0,53,121,0,0,0,4,6,15,0,0,0,4,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2394.22521928283,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4807.65542363211,2006,386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,386,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5429.39532004532,2006,46,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2006,3961,0,0,0,0,0,0,0,23,0,0,0,0,0,1807,0,0,0,2131,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2731.07080829459,2006,451,2,0,2,0,0,0,0,200,0,0,0,0,247,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2006,3563,3379,0,13,0,0,0,8,0,0,0,0,0,52,0,0,0,0,111,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10275.1900703889,2006,1811,1811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2006,7784,3432,370,596,0,0,32,806,58,0,0,0,0,128,27,911,0,0,1424,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2006,521,0,0,0,0,0,0,0,0,0,0,0,0,0,205,0,0,0,316,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2006,1364,0,0,0,0,0,0,1326,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2006,169,0,10,6,0,0,0,0,65,0,70,0,2,16,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6264.19365734898,2006,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2006,59416,59356,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8355.1160843781,2006,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4329.67277523935,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2464.17827784352,2006,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12212.8596249316,2006,34,0,0,0,0,0,0,0,17,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2006,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2006,43868,39221,862,308,0,32,223,779,33,0,25,40,84,1923,42,58,0,58,180,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2006,1515,181,0,0,0,0,0,30,0,0,0,0,0,0,225,0,0,0,1079,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2006,5221,3896,0,0,0,0,0,0,220,0,34,0,0,1018,0,48,0,5,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2548.5447738533,2006,1445,53,0,0,0,0,0,0,12,0,0,0,0,1318,0,62,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2006,405,0,0,0,0,0,0,0,0,0,0,0,405,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6227.87309453841,2006,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2006,356,296,0,0,0,0,0,0,0,0,0,0,0,4,0,56,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2006,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2006,41571,41428,0,34,0,0,0,0,102,0,0,0,1,4,0,1,0,0,1,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2006,1083,16,0,36,0,1,33,31,1,0,0,80,0,42,536,307,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2006,2852,1358,0,0,0,1,0,71,49,0,0,0,0,667,103,492,0,0,111,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2006,2127,1444,0,3,0,0,0,60,21,0,16,0,0,456,0,127,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2006,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4673.55536428173,2006,24574,24549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2006,532,10,0,0,0,0,23,21,26,0,296,0,28,46,79,3,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2006,112,0,0,0,0,0,0,0,0,0,0,0,0,9,83,0,0,0,20,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2006,15691,12503,382,0,1129,0,1,105,8,0,0,0,0,578,961,4,0,20,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7839.04896403469,2006,3139,3099,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2006,35926,35757,0,86,0,0,0,0,2,0,41,0,0,39,1,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5590.04600697157,2006,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2007,692,0,0,0,0,0,0,0,690,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2007,614,206,0,297,0,0,0,0,0,0,0,40,0,0,0,0,0,0,71,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2007,71,0,0,0,0,0,0,0,16,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3738.70910030207,2007,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9667.70784645329,2007,11,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2007,3752,1255,0,810,0,0,0,0,43,199,0,0,0,420,0,80,0,0,945,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2007,362,0,0,0,0,0,0,0,0,0,0,0,0,362,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2007,93572,1106,0,91738,0,0,0,0,0,0,52,0,23,0,129,0,0,0,524,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3948.43083716665,2007,64,0,0,0,0,0,0,0,34,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2007,10067,513,0,1258,0,0,0,642,99,0,18,1195,1229,415,4611,48,0,0,39,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2106.52951169688,2007,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2007,1385,1385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2007,699,0,0,0,0,0,69,70,0,0,52,0,0,437,26,0,0,0,45,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2007,13774,2045,0,301,0,0,36,287,50,1,49,0,9772,609,234,23,0,0,367,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2939.84499201326,2007,37,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2007,132577,41184,4078,25762,0,5822,4219,102,12700,0,381,66,359,6501,31139,0,0,4,260,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11869.6809240161,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2007,710,435,0,0,0,0,0,0,0,0,0,0,0,88,0,187,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2007,205,81,0,0,0,0,0,0,66,0,0,0,20,2,1,34,0,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2007,67246,61737,51,177,0,1,485,717,225,2,1,143,264,831,140,523,8,21,1928,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2666.47006326235,2007,39,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2007,3,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5242.28402857348,2007,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2007,1183,181,0,135,0,0,0,0,8,537,0,0,0,3,1,57,0,0,261,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2007,3765,463,191,556,0,0,0,492,1,0,90,0,748,311,376,41,0,0,496,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2007,2370,25,300,91,0,1253,81,189,3,0,0,10,37,313,24,0,0,0,44,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5394.21126963164,2007,178,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2007,34395,34355,0,16,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12999.2185839778,2007,82,0,0,0,0,0,0,0,0,0,0,0,19,0,63,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5977.52901050351,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2007,4103,4073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2007,5211,2902,0,0,3,0,0,2118,5,0,0,0,0,164,0,0,0,0,19,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2007,6045,6045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2007,40,0,0,0,0,0,0,0,0,0,37,0,3,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2007,221,7,0,3,1,1,1,12,135,0,1,1,7,19,2,27,0,1,3,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2394.22521928283,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4807.65542363211,2007,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2007,3209,1,0,0,0,0,0,0,17,0,0,0,0,0,2363,0,0,0,828,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2731.07080829459,2007,233,0,0,0,0,0,0,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7935.32258634324,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10075.6636192382,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2007,2061,2000,2,12,0,0,0,0,0,0,0,0,0,35,12,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2007,11878,7028,1315,121,0,0,33,771,90,0,0,0,0,397,159,898,0,0,1066,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2007,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2007,460,0,0,0,98,0,0,76,251,0,24,0,0,11,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2007,234,0,0,2,40,0,0,0,163,0,18,0,1,10,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4878.63818126363,2007,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2007,24622,22142,0,1340,0,0,0,0,0,1140,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2007,75,0,0,2,0,0,0,0,52,0,0,0,2,0,0,19,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2007,49726,25294,2154,8249,0,0,550,3038,444,12,321,123,1840,4080,1393,660,0,48,1520,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2007,1061,0,0,0,0,0,0,0,19,0,0,0,0,0,228,0,0,0,814,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2007,1483,214,0,0,0,0,0,0,342,0,0,0,0,922,0,5,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2548.5447738533,2007,1735,636,0,0,0,0,0,87,47,639,0,0,0,308,0,18,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2007,365,0,0,0,0,0,0,0,0,0,0,0,365,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6227.87309453841,2007,2173,0,0,2173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2007,96,0,0,0,0,0,0,45,0,0,0,0,0,26,0,25,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2007,12,0,0,0,0,0,0,0,1,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2007,16347,16337,0,0,0,3,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2007,2876,177,0,38,0,1,0,29,5,0,0,110,87,13,1884,408,0,0,124,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2007,400,0,0,7,0,0,23,0,27,0,0,0,0,186,52,105,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2007,455,87,0,4,0,0,0,0,54,0,32,0,0,157,3,118,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2007,21,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4673.55536428173,2007,66,0,0,0,0,0,0,0,11,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2007,362,48,0,0,0,0,18,7,35,3,63,0,18,35,0,34,0,0,101,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2007,17851,15732,0,639,570,0,0,0,18,0,0,0,0,206,486,85,0,96,19,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6899.11719356092,2007,38,36,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2007,9629,9614,0,0,0,0,3,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5590.04600697157,2007,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2008,654,17,0,0,0,0,0,0,608,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2008,5628,4882,0,639,0,0,5,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2008,53,0,0,0,0,0,0,0,17,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3738.70910030207,2008,110,0,0,0,0,0,0,0,19,0,0,0,0,0,0,60,0,0,31,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9667.70784645329,2008,100,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2008,2095,796,0,23,0,0,17,0,18,0,0,5,0,198,0,50,0,0,988,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2008,249,0,0,0,0,0,0,0,0,0,0,0,0,249,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2008,130035,572,0,128801,0,0,0,0,0,0,154,0,162,0,0,0,338,0,346,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3948.43083716665,2008,211,0,0,0,0,0,0,1,36,0,0,0,0,173,0,1,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2008,2406,447,0,0,140,0,0,0,70,0,0,1095,0,441,213,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11545.3512219929,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2008,2783,0,0,1,1269,0,0,0,3,0,0,0,0,1,1507,2,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11963.6088852354,2008,386,39,0,0,0,0,0,82,0,0,0,0,31,183,0,0,0,0,51,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2008,39511,18541,21,305,0,1,266,2091,246,3,202,0,16083,1051,264,33,0,3,401,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12496.9079489274,2008,90,0,0,2,0,0,0,0,21,0,55,0,0,0,0,12,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7776.30247380879,2008,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2939.84499201326,2008,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2008,91082,7992,6139,32,0,3482,6708,36,22491,0,604,196,947,8886,33025,0,0,0,544,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3713.41082550366,2008,21,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2008,347,0,0,0,0,0,0,0,0,0,0,0,0,63,0,284,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2008,132,5,0,0,0,0,0,0,102,0,0,0,13,0,0,7,0,0,5,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2008,55410,45547,1330,284,2,2,461,743,334,2,2,150,287,1757,211,907,843,11,3380,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2666.47006326235,2008,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2008,8,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2008,1803,1386,25,0,0,0,0,0,0,0,0,0,25,0,0,300,0,0,67,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2008,736,97,6,9,0,0,0,471,0,0,0,0,0,24,120,0,0,0,9,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3459.10023233497,2008,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2008,2851,10,114,27,0,2495,31,153,2,1,0,8,0,7,0,0,0,3,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5394.21126963164,2008,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2008,35982,35681,0,10,0,0,63,0,27,0,0,0,44,112,0,20,0,0,25,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12999.2185839778,2008,485,60,0,0,0,0,0,0,0,0,0,0,60,0,365,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5977.52901050351,2008,43,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4006.90794414824,2008,2910,2778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2008,5732,3188,0,0,0,0,0,2247,3,3,0,0,0,286,3,2,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,12853.2808045785,2008,15466,15458,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4311.04175314158,2008,31,0,0,0,0,0,0,0,23,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4988.33767820145,2008,118,0,0,0,0,0,0,0,0,20,98,0,0,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5374.17972571752,2008,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2008,425,4,0,10,17,0,110,18,152,0,1,0,5,27,6,63,0,8,4,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6289.24688622363,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4807.65542363211,2008,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11561.0240152006,2008,9420,0,0,0,0,0,0,6,0,0,0,0,0,33,7045,0,0,0,2336,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2731.07080829459,2008,533,11,0,0,0,0,0,0,0,0,0,0,0,522,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2008,464,0,0,0,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,163,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10075.6636192382,2008,50,25,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2008,227,54,0,19,0,0,0,0,7,0,0,0,0,20,46,4,0,0,77,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5913.95295846391,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2008,12062,456,4625,200,0,0,0,3407,22,0,133,0,8,479,282,1131,0,0,1319,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,18884.9235211571,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2008,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2008,40,0,0,0,0,0,0,0,1,0,3,0,3,33,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4878.63818126363,2008,45,41,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.33249881687,2008,22198,22173,0,0,0,0,0,0,3,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7474.07853061792,2008,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8355.1160843781,2008,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4329.67277523935,2008,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2464.17827784352,2008,165,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4441.47610890395,2008,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9283.55231907972,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,18694.579461195,2008,7,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2008,229,0,0,0,0,0,0,0,111,0,0,0,0,0,0,57,0,0,61,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2008,18259,12783,711,64,0,0,669,1063,120,0,373,0,18,2274,47,76,0,31,30,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11858.6315126956,2008,2641,2,0,0,0,0,0,23,0,0,0,0,0,0,1656,0,0,0,960,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2008,4218,1417,43,69,0,16,0,35,901,0,27,0,0,1624,0,9,0,34,43,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9203.53444397158,2008,686,3,0,0,0,0,0,0,0,0,0,0,666,0,0,17,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5073.06252007043,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2008,322,0,0,0,0,0,0,0,0,0,0,0,1,185,0,62,0,0,74,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4658.85285829377,2008,68,0,0,0,0,0,0,0,0,0,0,0,0,0,32,36,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2008,66787,66740,0,28,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2008,844,20,0,34,0,0,0,0,0,0,0,0,28,1,201,529,0,0,31,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2008,386,0,0,1,0,1,0,0,0,6,0,0,0,378,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2008,1684,1416,0,25,0,0,0,0,57,0,16,0,17,103,0,50,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4358.35902179537,2008,28,3,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4673.55536428173,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2008,663,184,0,15,0,0,0,47,10,1,70,0,90,92,54,54,0,0,46,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2008,99,0,0,0,0,0,0,0,0,0,0,0,3,1,0,45,0,0,50,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2008,6050,4883,0,0,189,0,83,0,25,0,0,0,0,437,334,3,0,96,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7839.04896403469,2008,851,840,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2008,2134,2067,0,2,0,0,8,0,3,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5590.04600697157,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1300.7853720869,2012,1464,184,0,0,0,0,0,0,588,0,0,0,1,658,31,1,0,0,1,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8798.33656447053,2012,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,50,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,15596.5652098397,2012,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3742.91061468858,2012,83,34,0,0,0,0,0,0,0,0,0,40,0,9,0,0,52,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1145.49781187989,2012,662,0,0,660,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6342.90702026888,2012,4269,1500,0,2769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,648.756571586566,2012,10640,4179,43,16,1687,0,19,130,86,0,0,1340,1458,167,86,1240,0,0,145,0,44,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2106.52951169688,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9142.11012270203,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10429.5182501962,2012,495,3,203,0,0,0,0,196,0,12,0,0,16,20,0,41,0,0,4,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,7776.30247380879,2012,22,0,0,0,0,0,0,0,10,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1129.22052772098,2012,584962,310920,20993,122739,16,4198,31950,898,18151,0,139,550,933,12126,39288,0,0,30,1150,0,20881,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3713.41082550366,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4454.41341958089,2012,59,0,0,0,0,0,0,4,40,0,0,0,0,1,0,12,0,0,2,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3718.11643315214,2012,26,1,0,0,0,0,0,0,12,0,0,0,0,1,0,12,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4896.83269364579,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FK,Falkland Islands,country,,-51.796253,-59.523613,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9402.30807285074,2012,12,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3241.17166878117,2012,13397,12884,1,46,0,0,0,12,35,0,1,12,8,112,1,38,490,3,244,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2666.47006326235,2012,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1297.24984291326,2012,6,2,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3952.40614002593,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1118.7975503016,2012,3662,231,4,92,0,0,37,816,426,0,22,111,391,664,41,34,0,157,635,0,1,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1048.67972616371,2012,43440,38557,0,63,0,1578,305,8,34,0,0,0,1981,578,3,52,0,0,20,0,261,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8632.90234219321,2012,246,245,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5977.52901050351,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3130.65441902308,2012,31,0,0,0,0,0,1,25,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4353.92751586174,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2394.22521928283,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,823.738224807716,2012,6430,534,1316,453,0,0,22,1451,718,0,13,0,275,374,180,444,0,196,454,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1613.50467349246,2012,852,805,30,0,0,0,0,0,0,0,0,0,0,16,0,0,10,0,1,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,10275.1900703889,2012,855,855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3932.83821656903,2012,940,0,0,0,0,0,0,0,0,0,0,0,0,1,0,855,0,0,84,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,18884.9235211571,2012,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,17438.2317976654,2012,252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1281.428431896,2012,415,0,0,0,0,0,0,0,196,0,5,0,200,14,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1665.08881123685,2012,17,0,0,0,0,0,0,0,2,0,8,0,0,7,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6264.19365734898,2012,23,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2464.17827784352,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,9283.55231907972,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,5133.1290884902,2012,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1169.56688916298,2012,339828,255253,6116,13737,106,5,8873,14968,2478,14,924,2264,4174,17789,382,5593,0,261,6891,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6084.96992941138,2012,64,0,0,0,0,0,0,0,46,0,0,0,0,6,10,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2548.5447738533,2012,124,0,0,0,0,0,0,0,11,0,0,0,0,84,0,29,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6227.87309453841,2012,27,0,0,0,0,0,0,0,0,0,0,0,2,0,8,0,0,0,17,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,3443.9703425303,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11008.8687351587,2012,144,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,1124.92579687057,2012,16949,1998,0,5902,0,0,0,811,136,0,0,0,4553,817,299,363,0,0,2070,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,2262.33155677795,2012,13,6,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4473.51586772812,2012,203,0,0,0,0,0,0,0,0,0,0,0,0,203,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,6028.55607859618,2012,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,4208.96531158496,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,8998.53409002115,2012,9,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,11810.1703812534,2012,3290,3290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

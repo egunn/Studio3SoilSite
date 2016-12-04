@@ -1,0 +1,680 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5679.08427443914,1995,81,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,1995,326,7,0,319,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4762.69743864261,1995,1667,0,0,0,0,0,0,0,0,0,0,0,0,1667,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,1995,28367,146,10,23129,0,0,12,620,82,0,1,7,68,987,1383,491,0,256,1175,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,1995,759,0,0,714,0,0,0,0,0,0,15,0,20,10,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2443.09829030048,1995,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,1995,1052,40,0,0,301,0,0,0,0,0,0,0,0,44,558,21,0,24,64,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8229.87956783449,1995,202,26,0,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,1995,428,0,0,11,0,0,0,0,37,0,0,0,45,246,0,19,0,0,70,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,1995,19041,18110,0,0,0,0,0,0,0,0,0,0,50,881,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,1995,747,0,0,0,0,0,0,0,1,0,0,0,0,746,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,1995,98,83,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,1995,884,14,0,9,0,0,53,0,30,0,0,0,19,628,131,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,1995,38,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5009.09582528918,1995,208,127,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,1995,615,18,0,125,0,0,0,4,0,0,0,0,30,207,0,0,0,20,211,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,1995,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,1995,132511,84622,96,38595,0,0,1,314,62,0,0,160,72,1301,636,5190,3,305,1157,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,1995,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,1995,4,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,1995,17864,10621,0,1789,0,0,0,41,195,0,0,0,0,111,1633,1798,0,15,1661,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,1995,108,26,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,1995,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8298.54307459136,1995,24,0,0,0,3,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4971.92005431886,1995,8924,8924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,1995,129668,129357,0,254,0,0,0,0,34,0,3,0,5,15,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,1995,129,0,0,57,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6933.54174805301,1995,12,0,0,10,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,1995,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5157.72445449208,1995,33,14,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,1995,10515,3411,0,512,0,0,0,4799,0,0,3,0,64,1681,23,22,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,1995,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,1995,87,15,0,2,0,0,1,3,40,0,1,0,0,25,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5992.8823906485,1995,500,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,392.674321807166,1995,43,0,0,4,9,0,0,0,0,0,0,0,0,12,0,17,0,0,1,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5505.02312304225,1995,260,0,0,0,0,0,0,0,0,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,1995,44,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11186.6844396926,1995,12888,12888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,1995,26344,1819,287,124,0,0,0,5967,30,0,0,0,0,746,10216,761,0,148,6246,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,16562.2175369864,1995,159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2100.93488061166,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,1995,546,10,0,337,0,0,0,1,8,0,0,5,5,48,0,131,0,0,1,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,1995,54953,54736,0,0,0,0,0,0,0,0,0,0,0,0,217,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7796.64668429025,1995,112,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5352.23659937081,1995,190,8,0,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,1995,20,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,1995,214,60,0,0,0,0,0,0,107,0,0,0,0,0,0,4,0,43,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,1995,101,0,0,2,0,0,0,0,0,0,0,60,0,38,0,0,0,0,1,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,282.364433067797,1995,608,535,0,70,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,1995,1746,0,0,9,0,0,0,0,0,0,0,0,0,55,1577,0,0,0,105,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6184.8907112108,1995,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,1995,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,1995,5111,8,0,406,0,0,0,25,96,0,0,0,8,1978,0,1584,0,44,962,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,1995,58,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,1995,369,62,0,0,0,0,0,0,0,0,0,0,1,128,51,0,0,17,110,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,1995,14302,14232,0,45,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1165.22005607396,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,1995,142,34,0,54,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,1995,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,1995,60,45,0,0,0,0,0,0,13,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,1995,5525,30,0,24,0,0,1,10,13,1,0,0,141,532,0,4491,0,1,281,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,1995,58886,52455,132,222,0,1,8,249,125,0,1,41,29,2953,934,1542,0,28,166,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,1995,25697,25697,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2338.11338479477,1996,101,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,1996,47,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6573.61695158385,1996,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4762.69743864261,1996,804,0,0,0,0,0,0,0,0,0,0,0,0,804,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,10581.2234375929,1996,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,1996,16141,172,21,9319,0,0,5,1310,16,0,0,2,40,718,2878,609,0,188,863,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,1996,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,1996,707,0,0,627,0,0,0,0,0,0,0,0,0,33,0,0,0,47,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2443.09829030048,1996,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,1996,48,5,0,0,2,0,0,3,2,0,0,0,0,4,0,0,0,0,32,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8229.87956783449,1996,85,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,1996,818,0,0,273,0,0,0,0,0,0,0,0,160,364,19,2,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,1996,1133,20,0,67,0,26,0,0,1,0,0,0,83,936,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,1996,1229,500,0,0,0,0,0,0,0,0,0,0,0,729,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8102.80906897208,1996,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,1996,860,11,5,10,0,0,0,0,0,0,0,0,41,791,0,0,0,2,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5009.09582528918,1996,128,120,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,1996,2017,32,1,354,0,0,0,1520,0,0,0,0,11,1,34,0,0,19,45,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,1996,43,7,0,2,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5504.80621368861,1996,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,1996,44149,26641,0,12159,0,0,14,371,155,0,2,44,11,992,15,3044,0,244,457,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,1996,28,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,1996,138,0,0,0,0,0,0,1,0,102,0,0,10,21,0,2,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,1996,1842,27,0,73,0,0,0,0,8,0,0,0,0,25,1083,373,0,0,253,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,1996,68,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,1996,24,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5459.4999028295,1996,28,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4971.92005431886,1996,3957,3900,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,1996,95475,95089,0,213,0,0,0,0,0,0,0,0,1,172,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,1996,1936,1651,0,41,0,0,0,126,0,0,0,0,0,118,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,1996,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,1996,4684,74,0,499,0,0,0,3094,3,0,0,0,21,714,213,66,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,1996,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5270.29481882726,1996,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,1996,66,30,0,15,0,0,0,2,2,0,1,0,4,3,7,2,0,0,0,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,392.674321807166,1996,23,0,0,0,6,0,1,0,0,0,0,0,5,7,1,2,0,0,1,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6982.37032983377,1996,2600,0,0,0,0,0,0,0,0,0,0,0,0,0,2600,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5505.02312304225,1996,103,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,1996,1817,0,0,0,0,0,0,0,0,0,0,0,0,0,1817,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,1996,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11186.6844396926,1996,26072,26072,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,1996,12918,209,100,107,0,0,0,3847,0,0,0,0,1,96,5080,288,0,70,3120,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,1996,271,0,0,233,0,0,0,0,0,2,0,0,0,4,3,29,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5822.00632537334,1996,1081,0,0,0,0,0,0,0,0,0,0,0,0,0,1081,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,1996,40515,40493,0,7,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7796.64668429025,1996,56,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,1996,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,1996,71,0,0,0,0,0,0,1,0,0,0,0,0,3,0,7,0,60,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,1996,239,29,0,2,0,0,0,0,0,2,0,40,19,141,0,0,0,2,4,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,1996,939,0,0,0,0,0,0,0,0,0,0,0,0,0,939,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,1996,1211,1158,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,1996,3092,8,0,728,0,0,0,0,42,0,0,0,0,1230,0,688,0,0,396,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,1996,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,1996,2634,587,0,0,0,0,0,0,0,0,0,0,2000,47,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,1996,5700,5700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1165.22005607396,1996,41,11,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,1996,88,19,0,0,0,0,0,0,18,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,1996,361,71,0,44,0,0,0,0,41,0,0,0,0,2,0,145,0,26,32,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,1996,2407,10,0,0,0,0,0,3,10,3,0,0,29,371,0,1944,0,0,37,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,1996,22537,16554,18,16,0,0,2,97,708,6,1,54,24,1701,2555,622,0,139,40,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,1996,29314,29314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,1997,395,22,0,373,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,1997,664,0,0,0,0,0,0,0,0,0,0,0,0,664,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4762.69743864261,1997,232,0,0,0,0,0,0,0,0,0,0,0,0,232,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,1997,21635,1513,1,15756,3,0,2,600,22,0,0,1,20,1435,1001,286,0,455,540,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8513.63621381134,1997,41,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,1997,988,7,0,889,0,0,0,0,0,0,0,0,13,55,0,0,0,24,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,1997,80,39,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2443.09829030048,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,1997,1575,1406,0,0,0,0,0,0,15,0,0,0,0,41,113,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8229.87956783449,1997,38,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,1997,85,6,0,0,0,0,0,0,1,2,0,0,26,18,0,8,0,0,24,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,1997,9168,9028,0,0,0,0,0,0,0,0,0,0,98,42,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,1997,11389,11375,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,1997,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8102.80906897208,1997,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,1997,2575,15,0,0,0,5,8,0,0,1,0,0,72,1500,527,0,2,0,447,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5009.09582528918,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,1997,705,500,0,0,0,0,0,0,0,0,0,0,1,47,0,148,0,1,8,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,1997,106196,77764,134,21013,0,12,66,688,191,0,0,136,70,857,1815,1436,1,388,1626,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,1997,69,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,1997,98,0,0,1,0,0,0,0,0,0,0,0,29,25,4,7,0,2,30,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,1997,3622,229,0,1320,0,0,0,96,12,0,0,0,0,170,989,195,0,0,611,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,1997,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,1997,179,0,0,0,0,0,0,0,0,0,0,0,87,92,0,0,0,0,0,0,0,0,0,0
+GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7229.2821443827,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,1997,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,1997,7166,6708,0,396,0,0,0,21,0,0,0,0,25,16,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,1997,3034,3000,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,1997,39,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,32,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,1997,3846,220,0,0,0,0,0,3401,22,7,0,0,15,134,22,12,0,13,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,1997,9058,8907,0,0,0,0,0,112,0,0,0,0,0,0,0,36,0,0,3,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6303.74444560445,1997,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,1997,193,17,0,4,0,0,0,20,58,0,13,0,11,52,2,14,0,0,2,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,392.674321807166,1997,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5505.02312304225,1997,53,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,1997,120,0,0,0,0,0,0,0,0,0,0,0,0,40,80,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,1997,388,0,0,11,0,0,2,0,19,0,0,0,0,0,0,251,0,0,105,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5898.76846185169,1997,112,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,1997,15725,242,207,158,0,0,61,6804,10,0,0,0,34,110,5388,414,0,32,2265,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,18718.4056997178,1997,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,1997,270,4,0,242,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7101.54496567452,1997,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,1997,62542,62441,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7796.64668429025,1997,500,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,1997,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,1997,85,62,0,3,0,0,0,0,7,0,0,0,0,2,0,11,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,1997,65,2,0,0,0,0,0,0,0,0,0,0,38,24,0,0,0,0,1,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,1997,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,282.364433067797,1997,278,261,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,1997,445,19,0,1,0,0,0,0,0,0,0,0,0,18,402,0,0,5,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,1997,11716,11340,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,329,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,1997,3834,8,0,31,0,0,0,57,109,0,0,0,108,2987,11,373,0,0,150,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,1997,165,0,0,0,0,0,0,0,71,0,0,0,61,0,0,33,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,1997,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,1997,330,0,0,0,0,0,0,0,0,0,0,0,0,154,100,0,0,0,76,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,1997,2322,2000,0,0,0,0,0,322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,1997,106,79,0,7,0,0,0,0,0,0,0,0,3,17,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,1997,273,60,0,0,0,0,0,33,0,0,0,0,12,0,0,168,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,1997,3630,19,0,1176,0,0,0,1,0,0,0,0,6,1035,30,911,0,0,452,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,1997,31033,24768,0,14,1478,1,2,11,187,0,0,3,5,2639,1784,126,0,15,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6801.20030718326,1997,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,1997,87921,87921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,1998,315,26,0,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,1998,1735,1000,0,0,0,0,0,0,0,0,0,0,0,695,0,40,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4762.69743864261,1998,53,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,10581.2234375929,1998,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,1998,25925,3393,13,17392,0,0,3,487,17,0,0,1,40,2024,1499,450,0,107,499,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,1998,50,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,1998,1180,5,0,824,0,0,0,0,0,0,0,0,0,51,300,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,1998,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4635.79328126936,1998,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,1998,1802,495,0,0,1113,0,0,5,29,0,0,0,0,20,140,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,1998,141,0,0,4,0,0,0,57,0,7,0,0,7,9,57,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,1998,65569,64975,0,0,0,0,0,26,0,0,0,64,195,308,0,0,0,0,1,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,1998,20654,20380,0,0,0,0,0,0,0,0,0,0,10,264,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,1998,129,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,1998,2119,76,0,18,0,0,0,0,0,0,0,0,78,1352,501,0,0,0,94,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7356.70699014053,1998,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,1998,2000,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,1998,390,42,0,0,0,0,0,0,0,0,0,0,0,139,69,82,0,20,38,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6566.05124493992,1998,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5787.15662374472,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6455.5778775539,1998,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,1998,86003,51334,16,26343,0,0,51,312,382,0,1,563,89,908,830,3020,0,631,1523,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,1998,71,2,0,0,0,0,0,61,2,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,1998,56,0,0,0,0,0,0,0,0,0,0,0,4,0,0,10,0,0,42,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,1998,4016,175,0,1297,0,0,0,266,3,0,0,0,7,638,874,455,0,0,301,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,1998,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,1998,642,0,0,0,0,0,0,0,20,0,0,0,80,542,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8715.84471260702,1998,10,1,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5459.4999028295,1998,9,0,0,0,0,0,0,0,4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,1998,8149,7877,0,242,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,1998,36,1,0,13,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6023.90191189103,1998,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,1998,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,1998,16593,675,0,11389,0,0,0,4073,50,0,0,1,46,182,39,21,0,61,56,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,1998,10161,9890,0,258,0,0,0,0,6,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5270.29481882726,1998,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5386.70494230496,1998,17,0,0,12,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6303.74444560445,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,1998,77,15,0,0,0,0,0,15,2,0,0,0,0,18,0,27,0,0,0,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,392.674321807166,1998,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5505.02312304225,1998,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,1998,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1048.67972616371,1998,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1238.63543677687,1998,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9863.89148238974,1998,1500,0,0,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,1998,527,14,0,0,0,0,3,40,3,0,0,0,0,0,0,315,0,0,152,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5898.76846185169,1998,47,0,0,0,0,0,0,0,0,0,0,0,0,13,0,34,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4780.37680840647,1998,516,516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9863.13331517487,1998,172,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,1998,17682,854,213,131,0,0,0,6011,0,0,0,0,0,125,6834,439,0,5,3070,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,1998,152,0,0,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7101.54496567452,1998,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,1998,9355,9355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7796.64668429025,1998,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,1998,224,142,0,0,0,0,0,0,0,0,0,0,0,12,0,20,0,50,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,1998,137,19,0,0,0,0,0,0,0,0,0,20,0,97,0,0,0,0,1,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,1998,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,282.364433067797,1998,914,0,0,0,0,0,0,0,0,0,0,0,900,0,14,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,1998,1206,0,0,30,0,0,0,0,0,0,0,0,0,2,1134,0,0,0,40,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,1998,179,3,0,6,0,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,1998,3264,84,0,4,0,0,18,22,0,0,0,0,57,2434,20,231,0,0,394,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,1998,79,0,0,0,0,0,0,0,0,0,0,0,27,52,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,1998,10512,10500,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,1998,139,8,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,94,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,1998,122,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1165.22005607396,1998,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,1998,47,38,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,1998,209,140,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,1998,19,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,1998,76,54,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,19,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,1998,5375,92,0,7,1,0,0,0,0,0,0,0,6,4446,0,673,0,0,150,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5266.69079172229,1998,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,1998,13669,7709,2,2,373,10,5,59,448,0,1,18,35,2665,2178,115,0,31,18,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,1998,40047,40028,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.98059597909,1998,17,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,1999,66,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,1999,3018,1106,0,0,0,0,0,0,0,0,0,0,0,1894,0,18,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6575.98660045603,1999,27,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5439.91174912388,1999,17,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5908.11200107836,1999,18,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,1999,28767,412,1,21368,0,0,2,271,23,0,1,2,66,2177,3416,248,0,154,626,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8513.63621381134,1999,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,1999,73,42,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,1999,2072,0,0,1322,0,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,1999,37,15,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4635.79328126936,1999,16,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,1999,2382,2356,0,1,0,0,0,0,1,0,0,0,0,3,0,21,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,1999,514,323,0,10,0,0,0,0,0,0,0,0,36,145,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,1999,50333,49884,0,15,0,0,0,106,0,0,0,32,201,93,0,2,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,1999,29644,29576,0,0,0,0,0,0,0,0,0,0,0,67,1,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,1999,98,96,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,16600.5736167235,1999,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,1999,1600,226,0,70,0,0,7,0,0,0,0,0,90,1144,2,0,1,5,56,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,1999,25000,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5009.09582528918,1999,142,14,0,0,0,0,0,0,0,0,0,0,0,89,0,39,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12918.3571604163,1999,192,57,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,1999,1012,29,0,118,0,0,0,0,0,0,0,0,0,422,190,242,0,7,4,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,1999,125360,86471,2,30854,315,2,25,211,274,0,0,144,69,1488,363,3371,0,604,1167,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,1999,38,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,1999,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,1999,8978,1277,0,3409,0,0,0,298,15,0,0,0,117,947,1215,1039,0,0,661,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,1999,50,44,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,1999,390,0,0,0,0,0,0,0,0,0,0,0,0,390,0,0,0,0,0,0,0,0,0,0
+GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7229.2821443827,1999,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8715.84471260702,1999,64,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,1999,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,1999,34983,34206,0,539,0,0,0,0,0,0,0,0,0,63,175,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,1999,57,0,0,3,0,0,0,0,0,0,0,0,0,37,17,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6933.54174805301,1999,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5157.72445449208,1999,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,1999,24783,1959,0,16894,0,0,0,5373,0,0,0,0,23,117,161,117,0,35,104,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,1999,450,0,0,409,0,0,0,0,0,0,0,0,0,30,0,1,0,1,9,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6303.74444560445,1999,19,1,0,0,0,0,0,0,10,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,1999,131,1,0,6,0,0,0,26,11,0,7,0,2,27,1,50,0,0,0,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,392.674321807166,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6982.37032983377,1999,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5505.02312304225,1999,90,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,1999,94,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8094.82644863995,1999,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,1999,664,0,0,0,0,0,19,0,0,0,0,0,51,0,0,557,0,0,37,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,1999,22376,1563,162,160,0,0,0,8007,29,0,0,0,0,255,6594,541,0,100,4965,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,1999,328,0,8,253,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,1999,32800,32782,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,1999,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5184.10001924986,1999,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,1999,178,62,0,0,0,0,0,0,41,0,1,0,0,14,0,0,0,60,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,1999,1116,1084,0,0,0,0,0,0,5,0,0,0,0,12,0,4,2,0,11,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,1999,77,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,1999,3674,64,0,25,0,0,0,0,0,0,0,0,11,0,3507,3,0,30,34,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6184.8907112108,1999,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,1999,1311,1084,0,12,0,0,0,114,0,0,0,0,0,40,0,61,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,1999,3644,199,0,43,0,0,0,169,52,0,0,0,98,2284,132,224,0,0,443,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,1999,97,0,0,18,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,1999,360,0,0,0,0,0,0,0,0,0,0,0,11,348,0,0,0,0,1,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,1999,5771,5771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1165.22005607396,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,1999,142,74,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,1999,806,624,0,165,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,1999,106,42,0,51,0,0,0,3,0,0,0,0,0,0,0,1,0,0,9,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,1999,3239,71,0,658,0,3,0,18,0,0,3,0,27,1176,1,1266,0,0,16,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,1999,25643,17528,18,56,2991,2,3,21,61,0,1,6,11,2838,1802,123,0,61,121,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,1999,28096,28096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,2000,3330,966,0,0,0,0,0,0,0,0,0,0,0,2284,22,58,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4762.69743864261,2000,124,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,2000,35298,1184,30,25099,0,2,8,297,13,0,0,10,7,1796,5825,378,0,36,613,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1320.22866078723,2000,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,2000,959,4,0,799,0,0,0,0,0,0,0,0,7,0,0,0,0,149,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,2000,1000,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,2000,349,0,0,0,0,0,0,0,0,0,0,0,0,0,318,0,0,0,31,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,2000,47,0,0,0,0,0,0,0,0,1,0,0,29,17,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,2000,68863,68097,0,25,0,0,0,132,2,9,0,173,282,35,0,108,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,2000,1001,1000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,2000,27,22,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,2000,2478,830,0,45,0,0,0,0,0,0,0,0,66,1486,10,0,48,0,41,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,2000,59900,59900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12918.3571604163,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,2000,2685,2,0,470,0,0,0,493,0,0,0,0,6,435,749,483,0,32,15,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,2000,70,0,0,0,17,0,0,23,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,2000,115080,95088,175,15706,0,9,57,241,283,0,0,4,35,1142,391,564,2,726,659,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,2000,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2000,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2000,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,2000,8328,23,0,1751,1123,0,0,90,26,0,0,0,15,988,1776,397,0,95,2044,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,2000,308,0,0,0,0,0,0,0,0,0,0,0,0,308,0,0,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,2000,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5459.4999028295,2000,27,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,2000,1033,62,0,944,0,0,0,0,0,0,0,0,0,13,8,0,0,0,6,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,2000,60,22,0,31,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6933.54174805301,2000,19,0,0,2,0,0,0,0,3,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,2000,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5157.72445449208,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,2000,25519,6674,0,12747,0,0,0,5261,0,0,0,0,1,113,559,105,0,0,59,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7321.32707307231,2000,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,2000,1080,931,0,0,0,0,0,0,0,0,0,0,15,134,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6303.74444560445,2000,5,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,2000,111,13,0,0,1,0,0,7,53,0,0,0,0,20,0,17,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5992.8823906485,2000,123,96,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,392.674321807166,2000,215,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4672.86647625308,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,2000,271,165,0,0,0,0,0,0,0,0,0,0,0,3,76,0,0,0,27,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9863.89148238974,2000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,2000,2048,903,0,0,0,0,0,0,19,0,0,0,0,3,47,1020,0,0,56,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,2000,23949,474,177,20,0,0,11,10082,0,0,0,0,0,125,8996,578,1,185,3301,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,2000,207,0,0,97,0,0,0,0,0,0,0,2,0,108,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,2000,23307,23307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,2000,199,0,0,0,0,0,0,0,20,0,0,0,0,0,0,179,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,2000,10,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5184.10001924986,2000,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,2000,480,78,0,0,0,0,0,0,242,0,0,0,0,100,0,60,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,2000,166,0,0,0,0,0,0,0,0,0,0,0,7,159,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,2000,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,282.364433067797,2000,48,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,3,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,2000,3330,27,0,0,0,0,0,0,0,0,0,0,12,57,3185,0,0,0,49,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,2000,7312,7252,0,0,0,0,0,0,2,2,0,0,0,16,0,24,0,0,16,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,2000,5121,489,36,74,0,0,0,2,10,0,0,0,204,2828,441,317,0,0,720,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,2000,63,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,2000,1040,0,0,0,0,0,0,0,0,0,0,0,0,1031,0,0,0,0,9,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,2000,1068,1043,0,7,0,0,0,8,9,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1165.22005607396,2000,14,0,0,0,0,0,0,0,4,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,2000,156,107,0,7,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,2000,1474,817,0,501,0,0,0,0,0,0,0,0,23,0,0,133,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,2000,51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,2000,87,53,1,19,0,0,3,3,0,0,0,0,0,6,0,1,0,0,1,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,2000,3103,62,1,152,4,0,0,38,19,0,0,0,21,1529,61,1049,0,0,167,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,2000,20827,13836,2,251,2250,0,1,38,74,0,1,2,8,2559,1662,37,0,32,74,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6801.20030718326,2000,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,2000,14900,14900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,2000,21,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2338.11338479477,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,2001,3168,218,0,0,0,0,0,0,0,0,0,0,0,2939,0,0,0,0,11,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5439.91174912388,2001,440,440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,2001,51954,12088,0,33664,0,0,0,246,24,0,0,33,3,1855,2812,203,0,68,958,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,2001,1201,256,0,899,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,2001,1000,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2443.09829030048,2001,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,2001,1486,0,0,0,853,0,0,510,0,0,0,0,2,0,69,1,0,0,51,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7656.66323822456,2001,1013,1000,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8229.87956783449,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,2001,31,3,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,2001,182727,182442,0,21,0,0,0,103,3,0,0,32,109,17,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,2001,1000,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,2001,1007,1001,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5009.09582528918,2001,56,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,2001,1384,457,1,0,1,0,0,297,3,0,0,1,0,46,1,527,0,27,23,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,2001,9131,9124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,2001,95337,70049,299,20862,0,9,95,312,423,0,2,44,57,1089,240,542,0,721,593,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,2001,674,534,0,0,0,0,0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2001,67,2,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,2001,8893,53,0,4502,0,0,15,58,112,0,0,0,26,360,1724,773,0,22,1248,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,2001,2579,2065,0,0,0,0,0,0,0,0,0,0,44,459,11,0,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,2001,34,0,0,22,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5459.4999028295,2001,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4971.92005431886,2001,9,1,0,0,0,0,0,2,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,2001,8336,8098,0,173,0,0,0,0,0,1,0,0,0,14,2,0,0,48,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,2001,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,2001,18290,5437,0,6820,0,0,0,5139,23,0,0,0,1,27,723,20,0,71,29,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,2001,6401,6400,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,2001,162,14,0,1,4,0,0,11,20,0,0,0,11,34,1,66,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4672.86647625308,2001,226,49,0,0,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,2001,706,439,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,266,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1048.67972616371,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,2001,3511,2597,0,0,0,0,0,0,11,0,0,0,0,0,159,601,0,0,143,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9863.13331517487,2001,34,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,2001,20259,384,391,25,0,0,3,9912,36,0,0,0,0,1248,5119,864,0,92,2185,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,2001,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5822.00632537334,2001,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,2001,16050,16050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6477.29290757781,2001,39,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5352.23659937081,2001,45,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,2001,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,2001,1918,90,0,15,0,0,0,0,0,0,0,0,88,1710,0,0,0,0,15,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,2001,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,42,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,2001,598,0,0,495,0,0,7,0,0,0,0,20,3,53,0,18,0,2,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,2001,192,0,0,0,0,0,0,0,0,0,0,0,0,192,0,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,282.364433067797,2001,54,0,0,0,0,0,0,0,0,0,0,0,0,33,0,21,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,2001,4452,203,0,89,0,0,0,0,0,0,0,0,4,40,3754,88,0,0,274,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,2001,19,0,0,8,0,0,0,0,5,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,2001,29631,14850,3,109,2700,0,1,18,137,0,0,3,430,6832,3744,677,0,73,54,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,2001,113,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,34,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,2001,34,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,2001,977,0,0,969,0,0,0,0,0,0,0,0,0,6,0,0,0,0,2,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,2001,1080,1052,0,27,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,2001,53,40,0,0,0,0,0,0,0,0,0,0,0,1,0,12,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,2001,1607,1036,0,460,0,0,0,0,61,0,0,0,34,16,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,2001,205,39,0,53,0,0,0,20,0,0,0,0,5,34,0,54,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,2001,3399,106,0,129,2,0,0,10,47,0,15,0,7,924,5,1630,0,3,521,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5266.69079172229,2001,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,2001,19151,19150,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,2001,51,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,2002,225,28,0,134,0,0,0,0,1,0,0,0,1,0,28,0,0,33,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,2002,4150,0,0,0,0,0,0,0,0,0,0,0,0,4119,31,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,2002,41244,10109,0,26070,0,0,0,8,14,0,0,28,0,1105,3556,152,0,109,93,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,2002,31879,0,0,31201,0,0,0,0,0,0,0,0,56,0,500,0,0,122,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,2002,1000,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1692.10114545827,2002,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,2002,94,14,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,75,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3393.85168720193,2002,21,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,2002,16,0,0,0,0,0,0,0,0,11,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,2002,207851,207018,0,20,0,0,0,135,0,6,0,164,413,95,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,2002,49,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,2002,25,18,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,2002,2131,21,0,0,0,0,0,0,0,0,0,0,78,2016,0,0,0,0,16,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,2002,813,1,4,144,0,0,0,117,16,0,0,0,0,57,182,261,0,11,20,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,2002,8090,8000,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2394.18435573973,2002,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5787.15662374472,2002,46,0,0,0,0,0,0,0,17,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,2002,101778,88245,195,9158,0,0,103,265,434,0,1,19,20,1372,6,870,19,643,447,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2002,21,0,0,4,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,2002,14597,979,0,1778,0,0,0,138,0,0,0,0,15,631,8668,662,0,0,1726,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,2002,622,0,0,0,0,0,0,0,0,0,0,0,65,436,0,121,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,2002,324,82,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4971.92005431886,2002,87,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,2002,64276,63977,0,251,0,0,0,29,0,0,0,0,0,0,3,0,0,16,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6933.54174805301,2002,14,11,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,2002,41,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,32,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,2002,22544,1617,3,12917,499,0,0,7008,0,0,0,0,1,102,5,37,0,141,214,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,2002,1005,1000,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6303.74444560445,2002,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,2002,182,41,0,4,6,0,0,15,51,0,1,0,1,11,3,48,0,0,1,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5992.8823906485,2002,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4672.86647625308,2002,420,0,0,0,0,0,0,0,0,0,0,0,0,420,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,2002,234,0,0,0,0,0,0,0,0,0,0,0,0,0,136,0,0,0,98,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8094.82644863995,2002,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,2002,1671,0,0,0,0,0,0,0,86,0,0,0,0,9,409,1025,0,0,142,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5898.76846185169,2002,17050,17050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11186.6844396926,2002,31966,31966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,16562.2175369864,2002,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,2002,3,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7101.54496567452,2002,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,2002,413,406,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,2002,23,0,0,0,0,0,0,0,0,0,0,0,10,0,0,13,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,2002,58,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,55,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,2002,54,0,0,0,0,0,9,0,0,15,0,0,2,28,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,2002,77,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,2002,4192,1147,0,1,0,0,0,5,0,0,0,0,1,24,2692,0,0,0,322,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6184.8907112108,2002,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,2002,733,0,0,0,0,0,0,0,235,0,0,0,0,61,0,360,0,0,77,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,2002,4966,103,0,163,0,0,0,21,20,0,0,0,193,2856,260,1111,0,0,239,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,2002,97,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4363.46987525196,2002,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,2002,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,2002,1626,0,0,0,0,0,0,0,0,0,0,0,0,1626,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,2002,65,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,2002,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,2002,1051,223,0,726,0,0,0,0,0,0,0,0,11,67,0,0,0,0,24,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,2002,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,2002,134,29,0,65,0,0,0,1,0,0,0,0,0,36,0,3,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,2002,3132,126,0,72,4,0,1,10,23,0,8,2,34,1238,109,947,0,10,548,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5266.69079172229,2002,93,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,2002,9781,47,0,0,560,0,34,0,6,0,0,0,0,3193,5931,10,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6274.21573523499,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,2002,56,48,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2338.11338479477,2003,21,0,0,0,0,0,0,0,0,0,0,0,17,4,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,2003,6132,2000,0,0,0,0,0,0,0,0,0,0,0,4103,0,18,0,0,11,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5439.91174912388,2003,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,2003,44639,8205,125,30588,2,0,0,295,23,0,0,15,1,351,4155,259,0,187,433,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5194.15982462888,2003,45,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,2003,38842,75,0,28521,0,0,0,0,0,0,0,0,115,0,10000,22,0,109,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,2003,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2443.09829030048,2003,1435,0,0,0,0,0,0,0,0,0,0,0,0,1435,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,2003,281,0,0,0,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,2003,108,46,0,0,0,0,0,0,0,0,0,0,26,36,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,2003,266127,264441,0,521,0,0,0,136,6,0,0,194,717,108,2,2,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,2003,15000,0,0,15000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,2003,3675,43,0,0,0,0,0,0,0,0,0,0,132,3456,0,0,0,0,44,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,2003,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,2003,1648,18,2,0,999,0,0,167,3,0,0,0,0,0,45,385,0,13,16,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,2003,31,10,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,2003,133522,118682,129,9444,0,0,47,249,272,0,0,70,15,1363,18,1961,0,1043,229,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15607.027775973,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2003,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,725.18728042392,2003,405,0,0,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,2003,11796,992,3,4933,0,0,0,0,16,0,0,0,18,1099,3593,622,0,65,455,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,2003,63,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,29,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,2003,478,0,0,0,0,0,0,0,0,0,0,0,0,478,0,0,0,0,0,0,0,0,0,0
+GW,Guinea-Bissau,country,Sub-Saharan Africa,11.803749,-15.180413,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,634.135465172124,2003,253,17,0,0,0,0,0,0,21,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,2003,30159,29528,0,443,0,0,0,0,0,0,1,0,0,123,1,0,0,63,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,2003,532,146,0,49,0,0,0,0,0,0,0,0,0,0,337,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6933.54174805301,2003,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,2003,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,2003,13598,1337,0,4646,0,0,0,7209,0,0,0,0,0,240,4,14,0,148,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,2003,3597,3579,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5270.29481882726,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,2003,140,10,9,0,4,0,2,5,21,0,20,0,0,39,20,10,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5992.8823906485,2003,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4672.86647625308,2003,581,0,0,0,0,0,0,0,0,0,0,0,0,581,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,2003,4977,310,0,0,0,0,0,0,0,0,0,0,0,0,4599,0,0,0,68,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3779.57654493487,2003,24,1,0,0,0,0,0,0,0,0,0,0,1,22,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,2003,1645,0,0,0,0,0,13,24,62,0,0,0,0,0,1190,275,0,0,81,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11186.6844396926,2003,3000,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4780.37680840647,2003,45,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,16562.2175369864,2003,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,360,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2100.93488061166,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,2003,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,2003,1034,1034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7543.36484741337,2003,566,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,546,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,14102.186328537,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,2003,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,2003,1457,223,0,0,0,0,0,0,12,0,0,0,0,61,0,2,0,0,1159,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,2003,132,0,0,0,0,0,28,0,0,14,0,0,1,89,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,2003,5980,1128,0,0,0,0,0,0,20,0,0,0,0,0,4524,0,0,0,308,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,2003,2120,0,0,0,0,0,0,0,336,0,0,0,0,336,0,1386,0,0,62,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,2003,3013,60,0,102,0,0,0,0,29,0,0,0,66,1588,0,1090,0,0,78,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,2003,209,0,0,0,0,0,0,0,0,0,0,0,209,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,2003,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,2003,2721,101,0,0,0,0,0,0,0,0,0,0,0,2620,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,2003,49,29,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,2003,48,12,0,8,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,2003,5355,4312,0,816,0,0,0,0,24,0,0,0,115,33,0,1,0,0,54,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,2003,145,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,2003,414,75,0,1,0,0,0,1,3,0,0,0,0,276,0,5,0,0,53,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,2003,5091,230,1,845,128,4,0,19,33,0,0,2,21,2016,1,647,0,7,1137,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,2003,20097,8497,4887,22,322,0,32,4,19,0,0,0,6,3786,2512,6,0,4,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,2003,4307,4200,0,0,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,2003,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2338.11338479477,2008,2835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2835,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,18075.1797494481,2008,23,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7757.35594573433,2008,1657,235,0,1379,0,0,0,0,0,0,0,0,0,18,0,0,0,0,25,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,15822.4250270043,2008,43,0,0,0,0,0,0,0,0,0,0,0,0,29,0,14,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4762.69743864261,2008,2218,0,0,0,0,0,0,0,0,0,0,0,0,2200,0,18,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6542.70521510863,2008,61,0,0,0,0,0,0,0,21,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,10581.2234375929,2008,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5439.91174912388,2008,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4698.74424359392,2008,8719,6063,19,1363,0,0,0,130,38,0,0,105,4,151,317,9,0,56,450,0,14,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5383.16427133359,2008,137701,10766,0,125589,0,0,22,0,0,0,0,37,48,238,13,0,0,981,7,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4996.67467467095,2008,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9509.01107607523,2008,1204,0,0,0,535,0,0,0,0,0,0,0,0,0,19,0,0,650,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8229.87956783449,2008,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12930.8777842454,2008,840,559,0,19,0,0,0,0,19,0,0,0,31,212,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11447.41108319,2008,22438,10951,0,2252,0,0,0,4448,109,50,0,3,2731,1703,2,106,5,19,64,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13493.3013663735,2008,109,0,0,0,0,0,0,0,34,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7149.06610081979,2008,210,0,0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,529.267168854545,2008,4320,1194,0,128,0,0,0,0,0,0,0,0,28,2970,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4580.77730419505,2008,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5185.31302328119,2008,54,0,0,0,0,0,0,0,42,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5009.09582528918,2008,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5419.3322141145,2008,501,0,2,0,0,0,0,5,1,0,0,0,0,35,0,293,0,7,158,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4644.85408276509,2008,468,9,0,1,0,0,0,0,190,0,0,0,0,180,0,0,0,0,88,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6455.5778775539,2008,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4194.44221661375,2008,59238,47053,302,978,0,1,3,495,274,0,0,396,37,1135,5159,539,6,2446,420,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2646.56639538762,2008,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4943.36791526139,2008,959,176,0,0,0,0,0,0,31,0,0,0,13,28,114,502,0,77,18,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,979.323285557068,2008,312,111,0,27,0,0,0,0,0,0,0,0,60,54,0,0,0,0,60,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4505.52859066252,2008,46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8715.84471260702,2008,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4971.92005431886,2008,125,66,0,0,0,0,0,0,9,0,0,0,0,0,0,2,0,48,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9493.11533702067,2008,36603,30816,0,2059,0,0,0,21,7,0,6,0,72,60,3508,0,0,31,23,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13715.2989077836,2008,8477,9,0,175,0,0,0,1,8,0,0,0,19,23,8242,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6933.54174805301,2008,103,0,0,0,0,0,0,20,61,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4840.50957937737,2008,134,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5157.72445449208,2008,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4167.19363702819,2008,3288,116,0,0,0,0,376,2173,0,0,0,0,0,467,0,0,0,156,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13899.7748047173,2008,461,449,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5386.70494230496,2008,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5344.96383120058,2008,780,168,0,15,0,1,1,17,227,0,3,0,52,141,7,23,0,104,21,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5830.56224341434,2008,56,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4672.86647625308,2008,264,0,0,0,0,0,0,0,0,0,0,0,0,264,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12299.9849665606,2008,8317,1382,0,65,0,0,0,0,77,0,0,0,0,13,6424,163,0,0,193,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,1048.67972616371,2008,177,104,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2446.67353291601,2008,23051,21896,0,695,0,0,0,0,69,0,0,0,0,0,250,56,0,3,82,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4888.42740265752,2008,32202,4227,309,88,0,0,17,23073,43,0,0,0,0,104,1174,1864,9,965,338,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,18718.4056997178,2008,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,16562.2175369864,2008,48,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,2019.05439518496,2008,602,13,0,0,0,0,0,0,0,0,0,0,0,580,0,0,0,0,9,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5822.00632537334,2008,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7101.54496567452,2008,27,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,8414.5711174689,2008,53384,53120,0,205,0,0,0,0,0,0,0,0,8,51,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,7543.36484741337,2008,1431,1394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3282.09329066613,2008,160,69,0,0,0,0,0,0,61,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,13259.7684462802,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,10317.1629131389,2008,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5998.61288801566,2008,1403,599,0,46,0,0,0,1,457,0,0,0,0,9,53,233,0,0,5,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,724.080010697117,2008,1162,0,0,0,0,0,0,0,0,0,0,0,12,1150,0,0,1,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4808.17242867492,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,282.364433067797,2008,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12565.9477624339,2008,7432,953,0,3,0,0,20,21,20,0,0,0,0,79,6154,40,0,0,142,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5700.81483271011,2008,10030,6227,0,1269,0,0,380,21,456,0,0,0,1,1652,0,20,0,0,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3447.58367554001,2008,2701,5,0,0,0,0,0,0,64,0,0,0,11,1323,0,1233,0,53,12,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9918.73459373252,2008,225,0,0,0,0,0,0,0,0,0,0,0,225,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5158.98634565663,2008,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6022.420390393,2008,148,0,0,0,0,0,0,0,29,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6060.31109154078,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,4440.73065338202,2008,105,8,0,0,0,0,0,20,0,0,0,0,0,0,44,0,0,26,7,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5651.5997099611,2008,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,11878.690643901,2008,42728,42550,0,0,0,0,0,0,0,0,0,0,0,0,46,132,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,3310.20171191461,2008,1011,22,0,0,0,0,0,0,0,0,0,17,0,146,776,0,0,50,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5499.6537855345,2008,3384,2429,0,33,0,0,0,0,80,0,0,0,81,498,0,183,0,80,0,0,0,0,0,0
+TC,Turks and Caicos Islands,country,Latin America and the Caribbean,21.694025,-71.797928,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6737.36009324914,2008,38,0,0,19,0,0,0,0,9,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5721.77936751011,2008,45,3,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,33,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6888.56279535457,2008,12469,5053,2,485,0,0,20,40,463,12,28,0,155,5417,47,670,0,13,64,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,5087.33046196285,2008,1728,6,0,280,0,0,0,0,10,0,0,0,61,110,0,994,0,26,241,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,9001.9640041232,2008,13091,7430,0,29,1270,0,0,4,9,0,0,53,6,2141,1612,25,0,423,89,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6801.20030718326,2008,1804,1724,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,12686.8700353232,2008,29891,29855,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,6333.65990270237,2008,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

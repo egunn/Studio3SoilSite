@@ -1,0 +1,257 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BN,Brunei Darussalam,country,,4.535277,114.727669,16262.1835674072,1986,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BN,Brunei Darussalam,country,,4.535277,114.727669,3905.35554845055,1986,13728,524,85,4,3,3,0,2149,1899,0,13,1325,106,6232,20,646,0,511,208,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BN,Brunei Darussalam,country,,4.535277,114.727669,10405.8408394756,1986,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BN,Brunei Darussalam,country,,4.535277,114.727669,11034.0503963671,1986,185,0,0,0,0,0,0,0,0,0,0,0,0,1,0,127,0,2,55,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BN,Brunei Darussalam,country,,4.535277,114.727669,18218.4596178935,1986,176,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,173,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BN,Brunei Darussalam,country,,4.535277,114.727669,12320.9062286556,1986,71,0,8,0,7,0,19,30,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BN,Brunei Darussalam,country,,4.535277,114.727669,16511.7330015213,1986,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BN,Brunei Darussalam,country,,4.535277,114.727669,1989.40946092368,1986,1784,116,0,10,0,2,2,61,16,0,3,7,20,204,42,1203,3,98,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BN,Brunei Darussalam,country,,4.535277,114.727669,3650.78989394783,1986,5485,374,897,36,339,45,417,724,718,0,158,70,56,548,12,292,0,372,427,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BN,Brunei Darussalam,country,,4.535277,114.727669,2235.64200625679,1986,2644,72,657,54,8,1,1,524,720,0,0,57,0,171,0,374,0,2,3,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BN,Brunei Darussalam,country,,4.535277,114.727669,10527.2447765972,1986,1425,74,0,0,0,0,0,6,31,0,0,0,22,14,3,33,0,755,487,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,BN,Brunei Darussalam,country,,4.535277,114.727669,17392.0650614908,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BN,Brunei Darussalam,country,,4.535277,114.727669,9188.37156129253,1986,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BN,Brunei Darussalam,country,,4.535277,114.727669,11348.4238214825,1986,279,15,0,0,0,0,0,0,25,0,0,0,0,2,0,183,0,36,18,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BN,Brunei Darussalam,country,,4.535277,114.727669,12769.3343693999,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BN,Brunei Darussalam,country,,4.535277,114.727669,11434.0602739424,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BN,Brunei Darussalam,country,,4.535277,114.727669,4261.16793770098,1986,963,21,5,0,35,50,2,633,3,0,62,0,0,152,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BN,Brunei Darussalam,country,,4.535277,114.727669,599.472541609892,1986,288,20,0,0,0,0,2,1,5,0,84,14,40,122,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BN,Brunei Darussalam,country,,4.535277,114.727669,7042.92308155315,1986,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,BN,Brunei Darussalam,country,,4.535277,114.727669,7980.50089229366,1986,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BN,Brunei Darussalam,country,,4.535277,114.727669,11695.5084914906,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BN,Brunei Darussalam,country,,4.535277,114.727669,8793.60361054822,1986,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BN,Brunei Darussalam,country,,4.535277,114.727669,10680.629355154,1986,62,4,0,0,0,0,0,3,23,0,0,0,0,7,2,18,0,5,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BN,Brunei Darussalam,country,,4.535277,114.727669,4269.1223572903,1986,2583,254,1,34,6,14,0,6,262,0,0,97,14,1694,73,126,0,2,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BN,Brunei Darussalam,country,,4.535277,114.727669,7871.7367121618,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BN,Brunei Darussalam,country,,4.535277,114.727669,1415.84574005925,1986,17595,2816,13,2360,22,5,362,990,582,0,97,3678,229,3861,175,804,486,35,1566,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BN,Brunei Darussalam,country,,4.535277,114.727669,14919.4592525278,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BN,Brunei Darussalam,country,,4.535277,114.727669,4826.7884089753,1986,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BN,Brunei Darussalam,country,,4.535277,114.727669,2800.274484301,1986,6,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BN,Brunei Darussalam,country,,4.535277,114.727669,4184.55767598397,1986,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BN,Brunei Darussalam,country,,4.535277,114.727669,10922.3526361993,1986,906,32,20,2,0,0,0,127,2,0,0,0,3,27,6,264,0,376,47,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BN,Brunei Darussalam,country,,4.535277,114.727669,7919.90059738602,1986,753,5,0,0,0,0,0,113,161,0,0,0,0,207,0,5,0,80,182,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BN,Brunei Darussalam,country,,4.535277,114.727669,10457.6021722448,1986,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BN,Brunei Darussalam,country,,4.535277,114.727669,5555.51120134,1986,52,50,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BN,Brunei Darussalam,country,,4.535277,114.727669,1209.49311387709,1986,106,0,0,0,0,0,0,4,57,0,0,0,0,41,0,4,6,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BN,Brunei Darussalam,country,,4.535277,114.727669,12427.985610363,1986,23,1,0,0,0,0,0,0,18,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BN,Brunei Darussalam,country,,4.535277,114.727669,3739.63398514872,1986,2474,3,0,347,0,0,0,8,166,0,0,0,0,1770,0,180,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BN,Brunei Darussalam,country,,4.535277,114.727669,1263.20905664743,1986,61438,6027,39,1053,36,175,30,601,1203,1,478,1899,415,25124,2670,18986,1086,489,2212,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BN,Brunei Darussalam,country,,4.535277,114.727669,12031.175784974,1986,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BN,Brunei Darussalam,country,,4.535277,114.727669,3774.92293895676,1986,12,0,0,0,0,0,9,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BN,Brunei Darussalam,country,,4.535277,114.727669,9917.06018921136,1986,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,21,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BN,Brunei Darussalam,country,,4.535277,114.727669,10889.4602626216,1986,93,0,0,5,0,0,0,0,0,0,0,0,17,3,0,68,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BN,Brunei Darussalam,country,,4.535277,114.727669,1961.6521728364,1986,45342,28447,0,1764,163,6,15,217,1234,0,33,270,0,13164,3,0,263,21,5,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BN,Brunei Darussalam,country,,4.535277,114.727669,8791.80335396597,1986,14,0,0,0,12,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BN,Brunei Darussalam,country,,4.535277,114.727669,11317.7315643934,1986,1410,158,0,80,4,4,1,113,252,0,3,101,124,173,8,215,10,82,92,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BN,Brunei Darussalam,country,,4.535277,114.727669,8955.00850556826,1986,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BN,Brunei Darussalam,country,,4.535277,114.727669,14430.8619318203,1986,5981,84,40,26,5,28,0,147,1972,0,0,88,35,886,42,28,0,2465,135,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BN,Brunei Darussalam,country,,4.535277,114.727669,16768.5237227304,1986,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,BN,Brunei Darussalam,country,,4.535277,114.727669,5850.42577869561,2002,8,0,4,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BN,Brunei Darussalam,country,,4.535277,114.727669,16262.1835674072,2002,728,106,0,0,0,0,0,0,56,0,0,565,0,0,0,0,0,1,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BN,Brunei Darussalam,country,,4.535277,114.727669,3905.35554845055,2002,16177,764,291,286,3,3,23,2174,2107,0,40,1098,209,6955,88,982,0,219,935,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BN,Brunei Darussalam,country,,4.535277,114.727669,10405.8408394756,2002,35,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,BN,Brunei Darussalam,country,,4.535277,114.727669,3373.98295837336,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BN,Brunei Darussalam,country,,4.535277,114.727669,11034.0503963671,2002,320,3,29,2,0,0,0,12,2,0,0,1,3,2,0,266,0,0,0,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,BN,Brunei Darussalam,country,,4.535277,114.727669,16520.6250941914,2002,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,BN,Brunei Darussalam,country,,4.535277,114.727669,10214.7846868825,2002,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BN,Brunei Darussalam,country,,4.535277,114.727669,18218.4596178935,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,BN,Brunei Darussalam,country,,4.535277,114.727669,17481.1193921982,2002,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BN,Brunei Darussalam,country,,4.535277,114.727669,12320.9062286556,2002,1026,30,10,0,56,3,121,2,2,0,0,1,0,800,0,0,0,0,1,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BN,Brunei Darussalam,country,,4.535277,114.727669,16511.7330015213,2002,262,0,0,0,0,0,0,0,52,0,0,0,0,210,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BN,Brunei Darussalam,country,,4.535277,114.727669,1989.40946092368,2002,608,23,24,30,0,0,2,63,39,0,9,0,49,356,0,4,0,4,5,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BN,Brunei Darussalam,country,,4.535277,114.727669,3650.78989394783,2002,102556,2573,1390,33,190,81,214,2179,2594,0,669,627,2,91626,54,9,0,274,41,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BN,Brunei Darussalam,country,,4.535277,114.727669,2235.64200625679,2002,4653,4,20,11,0,0,19,2,416,0,0,0,3,4161,0,15,0,2,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BN,Brunei Darussalam,country,,4.535277,114.727669,18611.0502193566,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,BN,Brunei Darussalam,country,,4.535277,114.727669,11008.3950833422,2002,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BN,Brunei Darussalam,country,,4.535277,114.727669,8936.59268421347,2002,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BN,Brunei Darussalam,country,,4.535277,114.727669,10527.2447765972,2002,106,18,50,0,0,3,0,32,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BN,Brunei Darussalam,country,,4.535277,114.727669,18571.3823648295,2002,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BN,Brunei Darussalam,country,,4.535277,114.727669,9188.37156129253,2002,21,0,0,0,0,16,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BN,Brunei Darussalam,country,,4.535277,114.727669,11348.4238214825,2002,396,4,0,0,0,0,0,0,153,0,0,0,0,9,0,189,0,0,41,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BN,Brunei Darussalam,country,,4.535277,114.727669,10609.9206581402,2002,625,100,0,3,0,0,0,3,2,0,5,0,7,502,0,3,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BN,Brunei Darussalam,country,,4.535277,114.727669,9950.87296905629,2002,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BN,Brunei Darussalam,country,,4.535277,114.727669,16477.0158700698,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BN,Brunei Darussalam,country,,4.535277,114.727669,4261.16793770098,2002,3465,94,49,1,52,73,80,2941,106,0,53,0,0,8,5,3,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BN,Brunei Darussalam,country,,4.535277,114.727669,599.472541609892,2002,14272,1835,6,200,3,17,68,143,1631,0,8,0,133,7779,105,685,321,0,1659,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BN,Brunei Darussalam,country,,4.535277,114.727669,7042.92308155315,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BN,Brunei Darussalam,country,,4.535277,114.727669,11695.5084914906,2002,31,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BN,Brunei Darussalam,country,,4.535277,114.727669,8793.60361054822,2002,3,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BN,Brunei Darussalam,country,,4.535277,114.727669,10680.629355154,2002,102,15,0,0,0,0,1,6,19,0,0,2,18,22,19,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BN,Brunei Darussalam,country,,4.535277,114.727669,4269.1223572903,2002,875,626,0,0,0,0,1,7,0,0,1,0,0,239,1,0,0,0,0,0,0,0,0,0
+LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,BN,Brunei Darussalam,country,,4.535277,114.727669,2160.52553296757,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BN,Brunei Darussalam,country,,4.535277,114.727669,8708.92959565421,2002,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BN,Brunei Darussalam,country,,4.535277,114.727669,1415.84574005925,2002,356547,14002,580,1202,73,29,2310,3688,7753,6,945,1441,1010,309676,3298,4130,866,1838,4566,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BN,Brunei Darussalam,country,,4.535277,114.727669,14919.4592525278,2002,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BN,Brunei Darussalam,country,,4.535277,114.727669,2800.274484301,2002,163,100,0,0,20,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BN,Brunei Darussalam,country,,4.535277,114.727669,10922.3526361993,2002,1675,18,277,1,1,1,0,87,0,0,2,4,1,542,6,22,0,2,711,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BN,Brunei Darussalam,country,,4.535277,114.727669,7919.90059738602,2002,1585,0,258,0,3,2,0,71,577,0,0,0,0,486,0,1,0,0,187,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BN,Brunei Darussalam,country,,4.535277,114.727669,6609.97199483139,2002,19,15,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BN,Brunei Darussalam,country,,4.535277,114.727669,5555.51120134,2002,124,66,1,0,9,0,0,0,46,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BN,Brunei Darussalam,country,,4.535277,114.727669,18842.8242297869,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BN,Brunei Darussalam,country,,4.535277,114.727669,1209.49311387709,2002,714,29,2,60,0,4,14,0,398,0,0,0,4,158,0,4,0,9,32,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BN,Brunei Darussalam,country,,4.535277,114.727669,12427.985610363,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BN,Brunei Darussalam,country,,4.535277,114.727669,3739.63398514872,2002,2312,15,0,34,0,0,0,0,20,0,0,0,0,2243,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BN,Brunei Darussalam,country,,4.535277,114.727669,7744.82448375156,2002,347,10,0,0,0,105,0,40,179,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BN,Brunei Darussalam,country,,4.535277,114.727669,1263.20905664743,2002,41994,3696,161,1506,332,147,675,618,5501,9,453,500,176,21969,1658,3255,0,321,1017,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BN,Brunei Darussalam,country,,4.535277,114.727669,10446.5317806561,2002,160,0,0,0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BN,Brunei Darussalam,country,,4.535277,114.727669,12031.175784974,2002,23,2,0,0,0,0,0,1,17,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BN,Brunei Darussalam,country,,4.535277,114.727669,3774.92293895676,2002,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BN,Brunei Darussalam,country,,4.535277,114.727669,9576.10099040829,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BN,Brunei Darussalam,country,,4.535277,114.727669,9917.06018921136,2002,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BN,Brunei Darussalam,country,,4.535277,114.727669,10889.4602626216,2002,67,9,0,0,0,0,0,0,4,0,0,0,43,1,0,0,0,0,10,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,BN,Brunei Darussalam,country,,4.535277,114.727669,8427.62908165467,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BN,Brunei Darussalam,country,,4.535277,114.727669,1961.6521728364,2002,110569,20425,14,2553,34,12,74,559,5884,0,73,147,52,79626,20,249,787,247,600,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BN,Brunei Darussalam,country,,4.535277,114.727669,11126.116776326,2002,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BN,Brunei Darussalam,country,,4.535277,114.727669,8791.80335396597,2002,20,1,0,0,5,0,0,0,10,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BN,Brunei Darussalam,country,,4.535277,114.727669,6850.39763763388,2002,666,241,0,16,0,8,0,0,94,0,3,0,6,41,53,202,0,0,2,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BN,Brunei Darussalam,country,,4.535277,114.727669,11317.7315643934,2002,739,189,40,6,0,0,5,98,65,0,0,26,6,184,17,89,1,2,12,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BN,Brunei Darussalam,country,,4.535277,114.727669,14430.8619318203,2002,3445,136,141,84,4,44,12,521,2136,0,2,15,84,197,22,10,0,0,37,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BN,Brunei Darussalam,country,,4.535277,114.727669,1274.64024188895,2002,124,1,0,0,4,0,21,2,19,0,0,0,0,2,0,0,0,0,75,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BN,Brunei Darussalam,country,,4.535277,114.727669,16262.1835674072,2003,81,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BN,Brunei Darussalam,country,,4.535277,114.727669,3905.35554845055,2003,10243,726,198,801,2,4,15,2296,2610,0,47,436,186,889,94,548,0,273,1118,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BN,Brunei Darussalam,country,,4.535277,114.727669,10405.8408394756,2003,17,0,0,0,0,0,0,0,8,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,BN,Brunei Darussalam,country,,4.535277,114.727669,3373.98295837336,2003,8,0,0,0,0,0,0,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BN,Brunei Darussalam,country,,4.535277,114.727669,11034.0503963671,2003,398,2,30,0,0,0,0,29,0,0,0,0,2,0,1,334,0,0,0,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,BN,Brunei Darussalam,country,,4.535277,114.727669,16520.6250941914,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BN,Brunei Darussalam,country,,4.535277,114.727669,18218.4596178935,2003,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BN,Brunei Darussalam,country,,4.535277,114.727669,12320.9062286556,2003,237,91,1,0,59,0,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BN,Brunei Darussalam,country,,4.535277,114.727669,16511.7330015213,2003,46,0,0,0,0,0,0,0,43,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BN,Brunei Darussalam,country,,4.535277,114.727669,1989.40946092368,2003,644,3,0,0,0,0,0,3,43,1,0,0,0,101,0,493,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BN,Brunei Darussalam,country,,4.535277,114.727669,3650.78989394783,2003,8933,114,1204,27,140,136,104,3860,2345,6,435,25,3,208,55,6,0,217,48,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BN,Brunei Darussalam,country,,4.535277,114.727669,2235.64200625679,2003,1673,4,11,12,0,2,5,23,360,0,19,368,2,843,0,22,0,0,2,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BN,Brunei Darussalam,country,,4.535277,114.727669,8936.59268421347,2003,98,86,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,BN,Brunei Darussalam,country,,4.535277,114.727669,4186.69192310516,2003,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BN,Brunei Darussalam,country,,4.535277,114.727669,10527.2447765972,2003,314,23,243,0,0,0,0,27,0,0,0,0,0,0,1,18,0,0,2,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BN,Brunei Darussalam,country,,4.535277,114.727669,18571.3823648295,2003,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BN,Brunei Darussalam,country,,4.535277,114.727669,9188.37156129253,2003,38,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BN,Brunei Darussalam,country,,4.535277,114.727669,11348.4238214825,2003,415,0,0,0,0,0,0,0,82,0,0,0,0,8,0,284,0,0,41,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BN,Brunei Darussalam,country,,4.535277,114.727669,10609.9206581402,2003,8461,24,0,1,0,0,0,21,7,0,5,0,8,8373,0,22,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BN,Brunei Darussalam,country,,4.535277,114.727669,16477.0158700698,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BN,Brunei Darussalam,country,,4.535277,114.727669,11434.0602739424,2003,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BN,Brunei Darussalam,country,,4.535277,114.727669,4261.16793770098,2003,3089,292,31,8,92,176,232,2087,43,0,57,0,5,41,3,22,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BN,Brunei Darussalam,country,,4.535277,114.727669,599.472541609892,2003,6900,2408,23,168,0,40,68,75,1935,5,7,169,127,371,169,677,612,0,658,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BN,Brunei Darussalam,country,,4.535277,114.727669,7042.92308155315,2003,3,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BN,Brunei Darussalam,country,,4.535277,114.727669,11695.5084914906,2003,40,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BN,Brunei Darussalam,country,,4.535277,114.727669,8793.60361054822,2003,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BN,Brunei Darussalam,country,,4.535277,114.727669,10680.629355154,2003,197,0,0,0,0,0,0,18,33,0,0,73,32,39,2,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BN,Brunei Darussalam,country,,4.535277,114.727669,4269.1223572903,2003,31,7,0,1,0,0,6,0,0,0,0,15,0,0,1,1,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BN,Brunei Darussalam,country,,4.535277,114.727669,8708.92959565421,2003,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BN,Brunei Darussalam,country,,4.535277,114.727669,9101.91781261535,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BN,Brunei Darussalam,country,,4.535277,114.727669,1415.84574005925,2003,159207,13359,1002,808,237,34,1481,4209,9079,4,802,47179,1185,63432,4170,5700,3372,1764,4740,0,22,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BN,Brunei Darussalam,country,,4.535277,114.727669,14919.4592525278,2003,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BN,Brunei Darussalam,country,,4.535277,114.727669,2800.274484301,2003,107,0,0,0,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BN,Brunei Darussalam,country,,4.535277,114.727669,10922.3526361993,2003,1338,20,164,0,0,0,1,658,4,0,0,76,1,363,10,20,0,0,21,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BN,Brunei Darussalam,country,,4.535277,114.727669,7919.90059738602,2003,1274,15,259,1,0,0,0,519,379,0,3,0,0,0,0,8,0,0,90,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BN,Brunei Darussalam,country,,4.535277,114.727669,10457.6021722448,2003,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BN,Brunei Darussalam,country,,4.535277,114.727669,6609.97199483139,2003,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BN,Brunei Darussalam,country,,4.535277,114.727669,5555.51120134,2003,483,135,194,0,6,0,0,94,53,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,BN,Brunei Darussalam,country,,4.535277,114.727669,17783.1299010748,2003,13,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BN,Brunei Darussalam,country,,4.535277,114.727669,18842.8242297869,2003,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BN,Brunei Darussalam,country,,4.535277,114.727669,1209.49311387709,2003,3100,26,1,33,0,3,21,0,271,0,1,0,11,2657,3,23,0,7,43,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BN,Brunei Darussalam,country,,4.535277,114.727669,3739.63398514872,2003,61,28,0,7,0,0,0,0,21,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BN,Brunei Darussalam,country,,4.535277,114.727669,7744.82448375156,2003,608,71,0,18,2,0,0,17,287,0,1,0,11,123,0,78,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BN,Brunei Darussalam,country,,4.535277,114.727669,1263.20905664743,2003,32546,2743,470,1655,239,401,553,369,7113,4,687,2076,294,3520,6888,4114,0,241,1179,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BN,Brunei Darussalam,country,,4.535277,114.727669,10446.5317806561,2003,281,0,0,0,0,0,0,0,230,0,1,50,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BN,Brunei Darussalam,country,,4.535277,114.727669,12031.175784974,2003,35,0,0,0,0,0,0,0,14,0,1,18,0,0,0,0,0,0,2,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BN,Brunei Darussalam,country,,4.535277,114.727669,3774.92293895676,2003,14,0,0,0,0,0,0,10,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BN,Brunei Darussalam,country,,4.535277,114.727669,9917.06018921136,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BN,Brunei Darussalam,country,,4.535277,114.727669,10889.4602626216,2003,64,7,0,1,0,0,0,2,7,0,1,0,27,3,0,0,0,0,16,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BN,Brunei Darussalam,country,,4.535277,114.727669,1961.6521728364,2003,83773,21301,64,1268,27,9,166,735,4432,1,54,2579,38,51979,1,475,186,343,301,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BN,Brunei Darussalam,country,,4.535277,114.727669,11126.116776326,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BN,Brunei Darussalam,country,,4.535277,114.727669,8791.80335396597,2003,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BN,Brunei Darussalam,country,,4.535277,114.727669,6850.39763763388,2003,597,77,0,6,3,0,0,1,201,0,2,0,5,8,38,248,0,8,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BN,Brunei Darussalam,country,,4.535277,114.727669,11317.7315643934,2003,760,200,33,8,0,0,2,138,96,0,0,23,8,71,47,66,0,23,45,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BN,Brunei Darussalam,country,,4.535277,114.727669,14430.8619318203,2003,3529,212,251,23,1,103,16,521,1926,2,3,28,56,200,133,11,0,0,43,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BN,Brunei Darussalam,country,,4.535277,114.727669,16768.5237227304,2003,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BN,Brunei Darussalam,country,,4.535277,114.727669,1274.64024188895,2003,121,0,0,0,8,1,39,0,56,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BN,Brunei Darussalam,country,,4.535277,114.727669,3905.35554845055,2012,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BN,Brunei Darussalam,country,,4.535277,114.727669,3650.78989394783,2012,308,0,308,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BN,Brunei Darussalam,country,,4.535277,114.727669,2235.64200625679,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BN,Brunei Darussalam,country,,4.535277,114.727669,9188.37156129253,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BN,Brunei Darussalam,country,,4.535277,114.727669,599.472541609892,2012,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BN,Brunei Darussalam,country,,4.535277,114.727669,4269.1223572903,2012,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BN,Brunei Darussalam,country,,4.535277,114.727669,1415.84574005925,2012,390,0,390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BN,Brunei Darussalam,country,,4.535277,114.727669,3739.63398514872,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BN,Brunei Darussalam,country,,4.535277,114.727669,1263.20905664743,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BN,Brunei Darussalam,country,,4.535277,114.727669,1961.6521728364,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BN,Brunei Darussalam,country,,4.535277,114.727669,14430.8619318203,2012,14,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BN,Brunei Darussalam,country,,4.535277,114.727669,1274.64024188895,2012,14,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,BN,Brunei Darussalam,country,,4.535277,114.727669,5850.42577869561,2013,3,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BN,Brunei Darussalam,country,,4.535277,114.727669,16262.1835674072,2013,4610,0,0,0,0,0,0,1010,83,0,0,3500,1,0,0,0,0,0,16,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BN,Brunei Darussalam,country,,4.535277,114.727669,3905.35554845055,2013,8878,193,252,1246,0,0,8,1087,881,0,39,750,140,290,5,509,0,2392,1086,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BN,Brunei Darussalam,country,,4.535277,114.727669,10405.8408394756,2013,12,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,BN,Brunei Darussalam,country,,4.535277,114.727669,7209.71755992914,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,BN,Brunei Darussalam,country,,4.535277,114.727669,3373.98295837336,2013,371,7,357,0,0,1,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BN,Brunei Darussalam,country,,4.535277,114.727669,11034.0503963671,2013,428,0,25,0,0,2,0,49,0,0,1,41,1,28,0,240,0,40,1,0,0,0,0,0
+BM,Bermuda,country,North America,32.321384,-64.75737,BN,Brunei Darussalam,country,,4.535277,114.727669,15934.2818173654,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BN,Brunei Darussalam,country,,4.535277,114.727669,18218.4596178935,2013,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,BN,Brunei Darussalam,country,,4.535277,114.727669,1394.95326860368,2013,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BN,Brunei Darussalam,country,,4.535277,114.727669,12320.9062286556,2013,835,0,96,1,0,0,531,23,0,0,0,150,0,22,12,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BN,Brunei Darussalam,country,,4.535277,114.727669,16511.7330015213,2013,70,0,28,0,0,0,0,0,38,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BN,Brunei Darussalam,country,,4.535277,114.727669,1989.40946092368,2013,1052,2,0,8,5,6,2,112,106,0,0,0,0,121,0,690,0,0,0,0,0,0,0,0
+MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,BN,Brunei Darussalam,country,,4.535277,114.727669,1970.42497127284,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BN,Brunei Darussalam,country,,4.535277,114.727669,3650.78989394783,2013,12212,59,2012,99,108,75,144,5277,2329,1,921,83,24,475,1,219,0,383,2,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BN,Brunei Darussalam,country,,4.535277,114.727669,2235.64200625679,2013,49533,62,2,12,1,2,2,217,178,0,0,139,60,100,1,48756,0,0,1,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BN,Brunei Darussalam,country,,4.535277,114.727669,18611.0502193566,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BN,Brunei Darussalam,country,,4.535277,114.727669,8936.59268421347,2013,42,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,BN,Brunei Darussalam,country,,4.535277,114.727669,4186.69192310516,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BN,Brunei Darussalam,country,,4.535277,114.727669,10527.2447765972,2013,133,9,35,0,0,0,0,78,0,0,0,0,0,4,0,0,0,0,7,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BN,Brunei Darussalam,country,,4.535277,114.727669,9188.37156129253,2013,94,0,0,0,3,1,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BN,Brunei Darussalam,country,,4.535277,114.727669,11348.4238214825,2013,517,15,0,1,0,0,0,0,85,0,0,0,0,2,0,376,0,0,38,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BN,Brunei Darussalam,country,,4.535277,114.727669,10609.9206581402,2013,450,121,0,0,0,0,0,15,80,0,10,21,30,41,0,57,0,55,20,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BN,Brunei Darussalam,country,,4.535277,114.727669,12769.3343693999,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BN,Brunei Darussalam,country,,4.535277,114.727669,16477.0158700698,2013,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BN,Brunei Darussalam,country,,4.535277,114.727669,11434.0602739424,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BN,Brunei Darussalam,country,,4.535277,114.727669,4261.16793770098,2013,11237,5029,164,0,33,137,131,2925,19,0,252,642,7,15,38,29,0,1774,42,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BN,Brunei Darussalam,country,,4.535277,114.727669,599.472541609892,2013,12263,1435,14,170,16,2,502,276,144,8,49,109,494,1690,1852,4963,0,476,63,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BN,Brunei Darussalam,country,,4.535277,114.727669,7042.92308155315,2013,13,0,0,0,0,1,0,0,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BN,Brunei Darussalam,country,,4.535277,114.727669,11695.5084914906,2013,46,5,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,1,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BN,Brunei Darussalam,country,,4.535277,114.727669,8793.60361054822,2013,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BN,Brunei Darussalam,country,,4.535277,114.727669,10680.629355154,2013,351,60,0,0,0,0,0,4,24,0,0,14,35,140,38,36,0,0,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,BN,Brunei Darussalam,country,,4.535277,114.727669,17191.9392842831,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BN,Brunei Darussalam,country,,4.535277,114.727669,4269.1223572903,2013,89,16,9,0,0,0,0,0,0,0,0,31,14,0,19,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,BN,Brunei Darussalam,country,,4.535277,114.727669,8659.61303240416,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BN,Brunei Darussalam,country,,4.535277,114.727669,8708.92959565421,2013,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BN,Brunei Darussalam,country,,4.535277,114.727669,7871.7367121618,2013,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BN,Brunei Darussalam,country,,4.535277,114.727669,9101.91781261535,2013,40,0,0,0,0,0,0,1,0,0,17,0,0,2,0,0,0,0,20,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BN,Brunei Darussalam,country,,4.535277,114.727669,1415.84574005925,2013,210650,18014,895,829,91,211,2499,14820,11310,15,1786,91607,2731,34367,3400,18303,774,3767,6005,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,BN,Brunei Darussalam,country,,4.535277,114.727669,4611.80175336219,2013,17,0,0,0,0,0,0,0,0,0,2,0,1,14,0,0,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,BN,Brunei Darussalam,country,,4.535277,114.727669,12874.019322441,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BN,Brunei Darussalam,country,,4.535277,114.727669,10648.8632423267,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MH,Marshall Islands,country,East Asia and Pacific,7.131474,171.184478,BN,Brunei Darussalam,country,,4.535277,114.727669,6255.42657266094,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BN,Brunei Darussalam,country,,4.535277,114.727669,14919.4592525278,2013,10,0,0,0,0,0,0,0,6,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BN,Brunei Darussalam,country,,4.535277,114.727669,9047.48404629349,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BN,Brunei Darussalam,country,,4.535277,114.727669,2800.274484301,2013,90,0,0,0,26,0,0,47,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BN,Brunei Darussalam,country,,4.535277,114.727669,4184.55767598397,2013,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BN,Brunei Darussalam,country,,4.535277,114.727669,10922.3526361993,2013,2093,1,293,0,0,0,0,1597,0,0,1,46,0,26,0,49,0,73,7,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BN,Brunei Darussalam,country,,4.535277,114.727669,7919.90059738602,2013,1374,13,22,2,0,0,0,285,663,0,0,0,5,2,0,2,0,0,380,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BN,Brunei Darussalam,country,,4.535277,114.727669,6609.97199483139,2013,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BN,Brunei Darussalam,country,,4.535277,114.727669,5555.51120134,2013,510,29,200,0,0,0,0,57,215,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BN,Brunei Darussalam,country,,4.535277,114.727669,18842.8242297869,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BN,Brunei Darussalam,country,,4.535277,114.727669,1209.49311387709,2013,2282,351,0,22,0,3,33,51,813,0,0,0,55,433,1,283,0,150,87,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BN,Brunei Darussalam,country,,4.535277,114.727669,10003.2509892829,2013,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BN,Brunei Darussalam,country,,4.535277,114.727669,12427.985610363,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BN,Brunei Darussalam,country,,4.535277,114.727669,3739.63398514872,2013,295,14,0,0,0,3,0,3,16,0,0,15,1,19,0,224,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,BN,Brunei Darussalam,country,,4.535277,114.727669,18038.0749007603,2013,9,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,2,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BN,Brunei Darussalam,country,,4.535277,114.727669,7744.82448375156,2013,369,0,0,0,0,0,0,3,332,0,0,0,0,6,0,28,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,BN,Brunei Darussalam,country,,4.535277,114.727669,14043.2076618496,2013,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BN,Brunei Darussalam,country,,4.535277,114.727669,1263.20905664743,2013,30237,2830,170,281,5,102,103,532,918,0,36,40,655,1899,974,19957,0,399,1336,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,BN,Brunei Darussalam,country,,4.535277,114.727669,10008.0999825025,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,BN,Brunei Darussalam,country,,4.535277,114.727669,7597.77106521836,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BN,Brunei Darussalam,country,,4.535277,114.727669,10446.5317806561,2013,799,0,0,0,0,0,0,0,795,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BN,Brunei Darussalam,country,,4.535277,114.727669,12031.175784974,2013,40,0,0,0,0,0,5,1,16,0,1,0,0,1,15,1,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BN,Brunei Darussalam,country,,4.535277,114.727669,3774.92293895676,2013,592,576,0,0,0,0,0,0,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BN,Brunei Darussalam,country,,4.535277,114.727669,9576.10099040829,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BN,Brunei Darussalam,country,,4.535277,114.727669,9917.06018921136,2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BN,Brunei Darussalam,country,,4.535277,114.727669,10889.4602626216,2013,208,28,73,3,0,0,0,0,36,0,0,0,67,0,0,0,0,0,1,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BN,Brunei Darussalam,country,,4.535277,114.727669,1961.6521728364,2013,32405,23207,359,2123,7,3,162,457,1572,0,11,1559,9,1088,1,1776,0,2,69,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BN,Brunei Darussalam,country,,4.535277,114.727669,11126.116776326,2013,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BN,Brunei Darussalam,country,,4.535277,114.727669,8791.80335396597,2013,245,4,0,0,1,0,0,14,185,0,12,0,3,1,0,25,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BN,Brunei Darussalam,country,,4.535277,114.727669,9165.67371754363,2013,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BN,Brunei Darussalam,country,,4.535277,114.727669,6850.39763763388,2013,326,36,0,4,6,0,0,0,182,0,2,0,12,11,14,49,0,10,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BN,Brunei Darussalam,country,,4.535277,114.727669,11317.7315643934,2013,725,128,2,13,0,0,0,80,59,0,0,16,22,116,24,228,0,19,18,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BN,Brunei Darussalam,country,,4.535277,114.727669,8955.00850556826,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BN,Brunei Darussalam,country,,4.535277,114.727669,14430.8619318203,2013,4024,154,242,15,0,50,27,958,1687,0,2,461,48,203,54,50,0,40,33,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BN,Brunei Darussalam,country,,4.535277,114.727669,16768.5237227304,2013,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,87,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BN,Brunei Darussalam,country,,4.535277,114.727669,1274.64024188895,2013,396,121,35,2,0,0,5,1,72,0,15,15,0,73,0,50,0,0,7,0,0,0,0,0

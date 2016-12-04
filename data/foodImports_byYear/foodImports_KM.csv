@@ -1,785 +1,246 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,491,0,0,0,0,0,0,0,0,0,0,0,0,491,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,4,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,5209,3788,1,8,20,1,1,156,4,0,4,5,8,59,273,299,42,220,362,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,5,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,410,345,0,0,0,0,0,53,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,500,1,0,0,0,0,0,0,0,0,1,0,1,33,29,35,0,12,388,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,32,1,0,2,0,0,0,9,0,0,0,0,0,16,0,4,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,6,0,0,1,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,121,0,0,0,0,0,0,0,0,0,0,0,0,10,0,22,0,89,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1986,167,137,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,29592,29592,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,3581,2471,38,154,11,0,2,99,26,0,3,6,5,50,129,185,20,220,182,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,493,345,0,0,0,0,0,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,675,1,0,0,0,0,0,0,0,0,0,0,0,21,128,52,0,30,443,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,38,5,0,0,0,0,1,20,2,0,0,2,1,6,0,1,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,55,1,0,6,0,0,0,9,0,0,7,0,0,0,29,3,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1987,104,1,0,0,0,0,0,0,0,0,0,0,0,14,16,8,0,65,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,809,462,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,343,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,20,2,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,2888,2279,1,6,3,0,2,72,11,0,6,8,6,45,76,132,154,106,135,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,122,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,1092,833,0,0,0,0,0,215,0,0,0,0,0,0,4,0,0,40,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,699,32,0,0,0,0,0,0,0,0,2,0,0,1,222,66,0,3,373,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,51,5,0,0,2,0,0,1,3,0,0,5,2,20,0,13,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,34,0,0,0,0,0,0,0,1,0,4,0,0,0,29,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,31,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,61,0,0,0,0,0,0,0,0,0,0,0,0,13,3,20,0,25,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,2316,2020,0,100,0,0,0,0,0,0,0,0,0,0,170,0,0,26,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,3414,2092,38,10,0,1,1,152,21,0,0,19,16,76,226,298,71,99,365,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,154,0,0,0,0,0,0,122,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,786,24,0,0,0,0,0,0,0,0,0,0,0,1,341,122,0,20,278,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,18,0,0,0,1,0,0,10,0,0,0,0,2,1,0,4,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,395,0,0,0,0,0,0,5,10,0,0,0,0,0,377,3,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,60,3,0,17,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,40,1,0,0,0,0,0,0,0,0,0,0,0,17,0,21,0,0,1,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1989,220,0,0,0,0,0,0,0,0,0,0,0,0,0,220,0,0,0,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,2545,2379,0,0,0,0,0,0,0,0,0,80,0,1,77,8,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,2348,1568,0,8,0,0,0,118,2,0,0,5,12,57,34,92,68,243,209,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,1190,833,0,0,0,0,0,106,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,116,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,114,1,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,936,24,18,299,17,0,46,404,0,0,16,0,0,18,0,2,0,92,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,743,304,0,11,0,0,0,0,0,0,0,424,4,0,0,0,0,0,0,0,0,0,0,0
-MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,957,36,0,0,0,0,0,0,0,0,0,0,0,6,201,35,0,79,600,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,1440,1440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,154,1,0,0,0,0,0,0,0,0,2,0,5,0,127,11,0,0,8,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,152,0,0,6,0,0,0,0,0,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1990,34,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,2033,1807,0,0,0,0,0,0,0,0,0,0,0,1,15,0,0,207,3,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,4543,2156,3,3,0,0,1,161,2,0,0,21,15,51,261,157,35,1324,388,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,851,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,848,3,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,12480,12480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,60,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,1228,833,0,0,0,0,0,145,0,0,0,0,0,0,0,148,0,102,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,236,0,4,1,0,0,0,46,0,0,0,25,14,5,4,0,0,132,5,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,852,50,17,43,20,0,52,564,0,0,10,0,0,11,0,4,0,81,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,416,102,0,13,0,0,0,10,0,0,0,181,6,0,90,9,7,0,5,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,1220,56,1,0,0,0,0,0,0,0,0,0,2,1,179,227,0,31,723,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,14905,14905,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,82,0,0,0,0,0,0,6,0,0,0,5,0,5,1,61,0,0,4,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,1055,10,0,6,0,0,0,0,0,0,0,0,4,0,982,10,0,0,43,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,114,0,0,3,0,0,0,0,0,0,0,0,0,0,0,100,0,11,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,423,5,0,5,0,0,0,0,1,0,0,0,2,0,0,0,0,340,70,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1991,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,3768,3343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223,202,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,15014,15004,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,3095,570,0,4,0,0,7,14,4,0,0,8,9,58,25,203,5,1988,205,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,228,65,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,428,0,0,0,0,0,0,207,0,0,0,0,0,0,0,16,0,205,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,60,0,0,0,0,0,0,1,1,0,0,0,58,0,0,0,1,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,936,57,27,36,12,0,50,679,1,0,21,2,0,3,0,3,0,45,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,1659,539,30,681,0,0,0,0,0,0,0,370,6,1,32,0,5,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,1131,26,0,0,0,0,0,0,16,0,0,0,0,0,176,134,0,131,648,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,103,0,0,1,0,0,2,15,0,0,1,17,0,19,0,48,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,1021,9,0,7,0,0,0,0,6,0,0,0,0,0,958,41,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,242,0,0,2,0,0,0,0,11,0,0,0,0,0,0,179,0,50,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,30,2,0,9,0,0,0,0,0,0,0,0,1,0,17,0,0,0,1,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,1470,1400,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1992,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,19,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,4121,3297,0,479,0,0,0,7,0,0,0,0,0,0,45,15,0,278,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,1,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,3808,815,3,293,0,0,0,108,6,0,0,29,18,73,507,269,2,1471,216,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,255,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,17,88,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,1197,104,0,147,0,0,0,207,5,0,0,0,0,0,0,19,0,715,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,64,3,0,2,0,0,0,2,2,0,4,0,0,25,2,21,0,1,2,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,1732,354,0,1066,0,0,0,0,0,0,0,294,1,0,0,17,38,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,667,0,4,0,0,0,0,0,0,0,0,0,0,0,1,121,0,65,476,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,3934,3934,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,41,0,0,0,0,0,0,0,0,0,0,0,0,15,0,26,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,461,3,0,5,0,0,0,0,0,0,0,0,0,0,446,7,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,249,0,0,0,0,0,0,0,22,0,0,0,0,0,0,181,0,46,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,61,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,4067,4054,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1993,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,3168,2181,0,823,0,0,0,0,0,0,0,2,0,0,0,29,0,88,45,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,500,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,3582,888,4,527,0,0,1,182,4,0,0,6,6,106,105,169,7,1366,218,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,174,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,12,10,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,1388,371,0,157,0,0,0,16,0,0,0,0,0,0,88,0,0,756,0,0,0,0,0,0
-JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,1071,74,45,36,40,0,49,727,1,0,16,4,0,0,0,16,0,60,3,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,2880,1223,0,1229,0,0,0,0,0,0,17,179,0,4,134,94,46,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,752,0,4,0,0,0,0,0,0,0,0,0,0,0,1,175,0,77,495,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,1150,1150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,22,0,0,0,0,0,0,0,3,0,0,0,0,14,0,5,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,191,2,0,2,0,0,0,2,1,0,0,0,0,0,167,17,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,6046,573,45,1881,0,1,2,52,252,0,0,132,6,19,4,2718,0,113,248,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,174,0,103,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,4128,4102,0,0,0,0,0,0,4,0,0,0,0,22,0,0,3,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1994,480,1,0,8,0,0,0,0,0,0,0,0,0,0,0,21,0,450,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,33,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,1173,1052,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,92,10,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,22,0,0,0,0,0,0,0,0,0,15,0,0,7,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
-EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,68,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,6998,2655,2,1481,0,4,5,209,24,0,0,0,8,30,339,138,4,1824,279,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,126,0,0,4,0,0,0,0,0,0,0,0,0,0,70,0,0,22,30,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,303,0,0,0,0,0,0,167,0,0,0,0,0,0,0,0,0,136,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,826,58,48,25,13,0,27,542,6,0,10,0,1,2,0,39,0,54,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,251,0,0,0,0,0,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,544,0,6,0,0,0,0,0,0,0,0,0,0,0,33,114,0,177,214,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,39,1,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,8,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,553,7,0,2,0,0,1,2,1,0,0,0,1,0,515,24,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190,0,114,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,56,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,2135,2111,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,521,0,0,0,0,0,0,0,0,0,21,0,0,0,0,2,0,498,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1995,2320,2320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,2876,2141,1,156,0,0,0,0,0,0,0,0,0,0,103,0,0,469,6,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,5568,1782,0,1537,0,0,0,24,0,0,0,0,0,44,1,121,0,1859,200,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,357,153,0,64,0,0,0,0,0,0,0,0,13,0,0,0,0,127,0,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,66,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,501,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,124,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,348,24,0,0,0,0,0,209,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0
-JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,263,0,0,0,3,0,0,0,32,0,0,156,11,45,0,12,0,0,4,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,1207,226,15,0,15,0,41,623,3,0,12,41,4,1,0,133,15,92,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,306,0,0,0,0,0,0,0,0,0,0,0,0,0,137,169,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,613,11,7,0,0,0,0,1,20,0,0,0,1,0,0,40,0,115,418,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,879,151,0,1,0,0,0,0,0,0,0,0,0,0,718,7,0,0,2,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,68,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,9391,9391,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1996,407,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,374,16,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,37,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,1328,997,0,0,0,0,0,12,0,0,0,0,0,16,205,2,0,93,3,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,5898,2877,2,300,0,0,8,0,0,0,0,0,3,142,288,165,4,1937,176,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,1428,438,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,886,61,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,558,67,0,0,0,0,0,356,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,343,0,0,0,0,0,0,1,0,0,0,123,201,17,1,0,0,0,0,0,0,0,0,0
-MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,1791,1033,2,0,0,0,0,1,0,0,0,20,0,0,0,139,0,157,439,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,837,22,0,0,0,0,1,0,1,0,1,0,0,0,807,5,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,8147,437,174,4575,0,0,0,99,369,0,0,7,25,265,49,2007,10,53,87,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,7134,6993,0,3,0,0,0,0,8,0,0,0,1,0,0,128,0,0,1,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,41,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,26,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,629,425,0,0,0,0,0,0,0,0,0,0,0,2,133,0,0,63,6,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,348,0,0,0,0,0,0
-CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,261,0,0,0,0,0,0,0,0,0,0,0,261,0,0,0,0,0,0,0,0,0,0,0
-CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,7508,4046,1,1147,0,0,0,42,1,0,0,0,2,86,18,175,0,1849,141,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,915,129,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,679,42,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,1203,1201,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,396,0,0,0,0,0,0,0,0,0,0,0,0,0,396,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,1173,610,0,0,0,0,0,530,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,1283,1283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,366,222,0,0,0,0,0,1,0,0,0,119,0,24,0,0,0,0,0,0,0,0,0,0
-LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,62,2,0,0,0,0,0,20,28,0,0,0,5,0,0,6,14,1,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,1728,616,12,0,0,0,0,0,0,0,0,0,0,0,1,116,0,501,482,0,0,0,0,0
-SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,512,23,0,0,0,0,1,0,2,0,0,0,0,0,459,7,0,0,20,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,9499,215,52,5345,21,0,0,84,448,0,0,8,18,370,20,2732,4,87,99,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,135,0,0,0,0,0,0,0,1,0,0,0,0,0,0,134,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,9335,9335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,4,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1998,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,4,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,1860,0,0,600,0,0,0,0,0,0,0,0,0,0,247,0,0,1011,2,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,463,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,6630,4299,19,645,0,0,0,14,12,0,0,5,1,55,312,70,0,1082,116,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,340,0,0,22,0,0,0,0,0,0,0,0,0,0,0,84,0,214,20,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,320,5,0,0,0,0,0,0,0,0,1,0,0,0,226,0,0,0,88,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,616,37,0,0,0,0,0,545,0,0,0,0,0,1,0,0,0,33,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,423,8,0,0,1,0,0,9,0,0,0,170,3,30,202,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,447,241,22,7,39,0,2,72,25,0,1,0,1,2,15,11,16,9,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,33,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,1359,358,2,0,0,0,0,0,0,0,0,0,0,0,150,63,0,385,401,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,967,898,0,10,0,0,0,0,50,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-LC,St. Lucia,country,Latin America and the Caribbean,13.909444,-60.978893,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,469,3,0,0,0,0,0,0,7,0,0,0,0,0,457,2,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,7518,40,44,5061,0,0,0,201,241,0,1,0,5,221,18,1346,20,82,258,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,13542,13401,0,100,0,0,0,0,5,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,87,0,0,21,0,0,0,0,0,0,0,0,0,57,0,9,3,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,16,0,0,0,0,0,0,0,0,1,1,0,14,0,0,0,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1999,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,3120,0,0,1271,0,0,0,0,0,0,0,0,0,0,804,0,0,1043,2,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,68,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,10,1,0,0,0,0,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
-DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,5659,3930,3,194,0,0,3,16,9,0,0,11,4,57,115,260,0,977,80,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,801,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,745,20,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,23,0,0,0,0,0,0,0,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,157,109,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,164,0,0,6,0,0,0,0,0,0,0,0,0,0,69,0,0,0,89,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,16,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,861,82,0,0,0,0,0,607,2,0,0,0,13,0,0,0,0,157,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,1400,1,0,1121,0,0,0,25,0,0,0,161,0,15,77,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,37,3,1,8,1,0,2,16,0,0,0,0,0,2,0,2,10,0,2,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,51,13,0,0,0,0,0,0,0,0,0,0,0,0,33,5,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,917,542,24,1,1,0,6,102,0,0,1,182,0,6,0,50,9,0,2,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,313,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,1141,48,12,0,0,0,0,5,0,0,0,0,0,0,190,104,0,658,124,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,2319,2284,0,15,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,158,6,0,3,0,0,0,0,12,0,1,0,1,0,135,0,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,5104,403,2,4140,0,0,0,25,36,0,0,0,5,0,4,0,4,7,482,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,11555,11555,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,61,7,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2000,105,71,0,0,0,2,0,20,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,4988,1694,0,2401,0,0,0,0,0,0,0,0,0,0,411,0,0,482,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,12,0,0,0,0,0,0,0,0,0,2,0,0,10,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,7292,3757,15,563,0,0,0,42,5,0,0,0,1,104,50,324,0,2377,54,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,289,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,71,68,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,265,0,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,0,114,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,747,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,841,63,0,0,0,0,0,721,0,0,0,0,0,1,0,0,0,56,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,373,0,0,64,0,0,0,2,0,0,0,198,3,104,0,2,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,782,123,22,27,11,0,75,303,6,0,2,0,2,12,0,45,6,0,154,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,47,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,2685,1828,9,7,3,0,15,168,20,0,3,467,0,11,43,110,20,0,1,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,1437,48,0,0,0,0,0,0,0,0,0,0,0,0,263,164,0,658,304,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,562,480,0,62,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,324,137,0,0,0,0,0,0,6,0,1,0,0,0,162,0,0,0,18,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,12472,126,1,8429,0,0,0,11,143,0,1,0,18,169,0,2905,1,7,662,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,338,0,0,0,0,0,0,14,0,0,0,0,0,0,0,154,0,170,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,15220,15127,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,29,17,0,0,0,0,0,0,8,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,75,0,0,0,0,0,0,0,0,0,0,0,0,65,0,10,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,142,0,4,0,0,0,0,118,0,0,0,0,15,2,0,0,0,0,3,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,3573,306,0,2134,0,0,0,0,0,0,0,0,0,0,605,0,0,512,16,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,64,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,6601,4027,64,344,0,4,0,71,49,0,0,2,2,44,19,314,0,1637,24,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,389,375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,31169,31166,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,198,0,0,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,868,108,0,0,0,0,0,619,0,0,0,0,0,0,0,0,0,141,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,134,0,0,0,0,0,1,0,0,0,0,82,0,51,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,1054,458,20,6,18,0,94,374,4,0,2,0,1,1,0,59,6,0,17,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,101,6,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,19,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,4049,3056,11,71,1,0,7,269,62,0,2,356,1,28,13,146,0,0,26,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,333,0,0,10,0,0,0,0,0
-NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,1783,56,5,0,0,0,0,0,0,0,0,0,0,0,491,223,0,783,225,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,35,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,13575,13455,0,80,0,0,0,0,10,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
-PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,443,116,0,6,0,0,1,11,37,0,0,0,0,3,201,0,0,0,68,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,11236,21,0,7847,0,0,0,5,169,0,0,0,9,79,3,2830,0,20,253,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,623,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,0,416,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,13787,13514,0,0,0,0,0,0,39,0,0,0,0,31,0,0,0,0,203,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,4,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,320,141,0,0,0,0,0,1,63,0,0,0,1,36,28,50,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,67,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2002,202,0,0,0,0,0,0,67,7,0,0,0,124,3,1,0,5,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,4718,598,2,2421,0,0,0,0,0,0,0,0,0,12,615,55,0,1015,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,2072,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2072,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,70,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,5625,2622,31,1,0,5,6,77,16,0,0,0,1,68,3,472,0,2279,44,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,1753,1660,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,118,112,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,308,0,0,0,0,0,0,0,0,0,0,0,0,0,308,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,173,0,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,13614,0,0,0,0,0,0,0,0,0,0,0,0,13614,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,930,63,0,0,0,0,0,476,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,278,3,0,78,0,0,0,0,0,0,1,63,34,76,23,0,0,0,0,0,0,0,0,0
-LU,Luxembourg,country,Europe and Central Asia,49.815273,6.129583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,1322,530,26,8,17,2,165,463,18,0,4,6,1,2,0,73,1,0,7,0,0,0,0,0
-MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,323,0,0,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,477,25,0,0,0,0,0,0,32,0,0,0,0,0,420,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,4260,2574,0,75,1,0,0,545,17,0,0,532,4,52,116,220,41,0,124,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,972,27,14,0,0,0,0,0,0,0,0,0,0,0,352,111,0,110,358,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,1831,1827,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,0,0,0,0,0,0
-PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,10,0,0,0,0,0,0,0,1,0,0,0,3,1,1,0,0,4,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,864,175,0,0,0,0,3,0,26,0,0,0,0,4,462,0,0,0,194,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,9153,72,0,5677,0,0,0,3,65,0,2,0,17,17,1,3070,0,4,225,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,0,687,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,13675,13660,0,0,0,0,0,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,299,286,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
-AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,768,405,0,31,0,0,0,14,33,0,2,0,0,86,5,178,0,6,8,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,1652,1382,15,50,0,1,1,153,11,0,0,0,0,39,0,0,1,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2003,16,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,2561,1228,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1328,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,1045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1045,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,598,2,1,0,0,0,0,0,0,0,0,0,0,0,0,593,0,2,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,4926,2074,17,0,0,0,6,37,3,0,0,0,1,67,18,236,0,2443,24,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,2118,1894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,224,0,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,148,25,0,0,0,0,0,0,0,0,0,0,4,119,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,497,0,0,0,0,0,0,0,0,0,0,0,0,0,459,0,0,0,38,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,676,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,1569,75,0,0,0,0,0,1242,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,229,0,0,145,0,0,0,0,6,0,1,30,4,38,2,3,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,2100,398,121,5,49,4,264,926,28,161,23,10,0,11,1,99,1,0,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,391,6,0,0,0,0,0,0,0,0,0,0,0,1,378,0,0,0,6,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,4377,2845,0,83,0,0,0,237,2,0,0,755,1,22,17,122,43,0,293,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,1136,190,0,0,0,0,0,0,0,0,0,0,0,0,239,123,0,84,500,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,38,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,12843,12843,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,908,167,0,4,0,0,0,1,0,0,1,0,0,2,618,0,0,0,115,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,12707,158,0,9182,0,0,0,67,58,0,0,0,0,31,2,2914,0,1,294,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,1197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,189,0,1008,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,8183,8183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,76,43,0,0,0,0,0,0,0,0,0,0,1,32,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,64,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,2009,1762,21,91,1,0,3,24,24,0,0,0,0,11,3,68,0,0,1,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,3951,1668,4,458,0,0,0,46,0,0,0,0,0,11,0,0,0,1764,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,1255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1255,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,216,2,1,1,0,0,0,0,0,0,0,0,0,0,0,207,0,3,2,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,3654,1735,41,113,0,0,0,2,15,0,0,1,1,71,0,254,1,1406,15,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,923,915,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,20,0,0,0,0,0,0,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,239,2,0,0,0,0,0,218,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,345,2,0,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,659,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,659,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,919,60,0,0,0,0,0,799,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,200,0,0,122,0,1,0,0,2,0,1,16,0,57,1,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,1887,65,109,134,89,24,295,879,28,0,54,0,1,8,23,176,0,1,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,850,0,0,0,0,0,0,0,0,0,0,0,0,0,845,0,0,0,5,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,3562,2093,0,56,0,0,0,122,0,0,0,887,1,37,9,325,47,0,32,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,643,54,25,0,0,0,0,0,0,0,0,0,0,0,0,160,1,73,331,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,28933,28918,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,16,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,13,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,950,253,0,3,0,0,0,0,0,0,0,0,0,1,584,10,0,0,99,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,15007,22,0,7135,0,0,0,4,1,0,16,0,3,11,1,7612,0,14,188,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,945,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,866,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,7458,7449,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,5,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,15,14,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,133,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161,0,127,0,0,0,0,0,0
-AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,6390,3922,0,548,0,0,0,61,491,0,0,0,108,797,118,304,0,0,41,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,56,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,45,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,347,260,10,0,0,0,0,19,6,0,0,0,0,10,37,5,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0
-UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2005,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,333,10,0,0,0,0,0
-BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,4149,2236,0,802,0,0,0,0,0,0,0,0,0,0,4,0,0,1093,14,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,2500,0,0,648,0,0,0,0,0,0,0,0,0,0,0,0,0,1852,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,110,0,1,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,80,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0
-EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,5731,3891,18,44,0,0,1,30,37,0,0,0,2,40,0,179,0,1462,27,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,610,586,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,23,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,1177,715,0,59,0,0,0,209,0,0,7,0,0,10,0,174,0,3,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,502,3,0,0,0,0,0,0,0,0,0,0,0,0,499,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,729,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,1077,111,0,0,0,0,0,966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,178,0,0,97,0,0,0,0,21,0,0,0,1,59,0,0,0,0,0,0,0,0,0,0
-LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,77,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,3126,481,81,207,241,11,572,1215,17,0,38,0,0,5,2,255,0,0,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,924,153,0,50,0,0,0,0,0,0,0,0,0,0,658,0,0,0,63,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,3188,1704,0,104,0,0,0,63,1,0,0,831,1,14,98,302,36,0,70,0,0,0,0,0
-MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,626,11,13,0,0,0,0,0,0,0,0,20,0,1,0,220,0,32,329,0,0,0,0,0
-NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,32,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,32,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,27267,27252,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,15,0,0,0,0,0,0
-SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,320,0,0,0,0,0,0,0,250,0,0,0,0,0,0,22,0,48,0,0,0,0,0,0
-RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,5,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,1735,548,0,3,0,0,0,0,0,0,0,0,0,0,1123,0,0,0,61,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,24632,38,0,22364,0,0,0,0,0,0,0,0,25,27,3,1888,0,2,285,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,268,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,2810,2810,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,636,636,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,277,0,338,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,7545,3909,0,0,0,0,45,19,67,3,3,0,0,10,3,12,0,3474,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2006,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,377,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,357,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,2584,1267,19,0,0,0,0,0,0,0,0,0,0,0,38,0,0,1260,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,2404,0,0,134,0,0,0,0,0,0,0,0,0,0,0,0,0,2270,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,457,3,1,0,0,0,0,4,2,0,0,0,0,0,0,437,0,4,6,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,86,68,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,156,140,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,5573,4286,46,0,0,0,0,44,4,0,0,3,2,20,5,349,0,800,14,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,698,574,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,6913,5628,0,766,0,0,0,315,0,0,0,200,3,1,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,792,3,0,0,0,0,0,0,0,0,0,0,0,0,784,5,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,1393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1393,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,544,22,0,0,0,0,0,453,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,289,5,2,190,0,0,0,40,1,0,1,0,0,49,0,1,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,4545,459,76,1,99,1,2507,899,38,0,13,0,13,7,0,432,0,0,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,1239,300,0,0,0,0,0,0,0,0,0,0,0,3,822,46,0,0,68,0,0,0,0,0
-ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,98,0,0,0,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,2184,1143,0,85,0,0,0,22,12,0,0,481,1,29,9,381,0,0,21,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,651,28,0,0,0,0,0,0,0,0,0,0,0,0,0,421,0,92,110,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,20379,20374,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,25,0,0,0,0,0,0
-SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,446,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0,0,24,308,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,1344,277,0,69,0,0,0,0,0,0,0,0,0,0,961,20,0,0,17,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,9117,2,9,7316,0,0,0,0,21,0,0,0,25,8,0,1502,0,0,234,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,278,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,0,173,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,9248,9248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,95,86,0,0,0,0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,757,739,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,24,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
-AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,14395,9373,0,518,0,20,2,163,598,0,7,0,467,1180,414,1577,0,13,63,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2007,4771,4395,17,0,0,0,47,49,185,0,1,10,2,2,2,22,0,39,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,673,0,0,0,0,0,0,0,0,0,0,0,0,8,0,22,0,628,15,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
-BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,2109,984,0,0,0,0,0,44,0,0,0,0,0,2,27,1,0,1051,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,1688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1688,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,487,2,0,0,0,0,0,1,2,0,0,0,0,0,1,475,0,4,2,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,79,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,5682,3368,30,0,0,0,0,8,63,0,0,0,0,53,9,285,0,1800,66,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,467,427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,8959,8530,0,0,0,0,0,408,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,597,1,0,0,0,0,0,0,0,0,0,0,0,0,596,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,402,44,0,0,0,0,0,358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,704,0,0,189,0,4,0,2,67,0,0,20,0,64,0,358,0,0,0,0,0,0,0,0
-LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,28,0,0,0,0,0,0,1,0,0,0,0,0,2,0,24,0,0,1,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,2630,71,22,3,85,2,1510,705,10,0,1,2,14,13,0,191,0,0,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,2125,635,0,4,0,0,0,0,0,0,0,0,0,1,1368,17,0,0,100,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,2010,1071,0,136,3,0,0,0,3,0,0,543,0,5,9,205,0,0,35,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,852,2,0,0,0,0,0,0,0,0,0,0,0,0,0,387,0,370,93,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,196,11,0,0,0,0,0,174,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,26222,26209,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,33,8,8,0,0,0,0,0,0,0,0,0,0,1,0,11,0,5,0,0,0,0,0,0
-RW,Rwanda,country,Sub-Saharan Africa,-1.940278,29.873888,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,45,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0
-RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,1806,234,0,0,0,0,0,0,0,0,0,0,0,1,1571,0,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,7846,56,0,6436,0,0,0,27,22,0,0,0,25,2,1,853,0,5,419,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,324,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,665,494,0,150,0,0,0,13,6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,35,24,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,502,446,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,475,0,0,0,0,0,0,0,0
-AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,5993,2234,0,460,0,0,0,152,429,0,0,0,24,1646,77,904,0,8,59,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,2939,2829,0,0,0,0,11,9,10,0,0,0,0,9,0,32,0,39,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
-UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2008,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,696,0,0,0,0,0,0,0,0,0,0,0,0,42,0,19,0,611,24,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,169,0,0,0,0,0,0
-BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,3316,2072,26,0,0,0,0,2,0,0,0,0,8,0,0,5,0,1172,31,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,1422,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1420,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,0,1,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,66,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,8527,5169,30,10,0,0,0,30,19,0,0,0,10,14,65,340,0,2776,64,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,498,281,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,148,67,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,772,42,0,0,0,0,0,569,0,0,0,0,0,0,0,0,0,9,152,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,164,0,0,0,0,0,0,0,0,0,0,0,0,0,143,0,0,0,21,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,266,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,199,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,2151,0,0,1312,0,0,0,8,80,0,0,0,0,134,19,598,0,0,0,0,0,0,0,0
-LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,17,2,0,0,0,0,1,2,1,0,0,0,0,3,0,4,0,4,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,1372,143,13,8,28,8,472,511,8,0,3,0,0,25,0,149,2,0,4,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,2945,1297,0,1,0,0,0,0,14,0,0,0,6,0,1506,3,0,0,118,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,2435,1517,0,45,0,0,0,24,0,0,1,661,0,1,12,170,0,0,4,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,755,4,0,0,0,0,0,0,0,0,0,0,0,0,19,265,0,315,152,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,334,0,0,0,0,0,0,334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,32191,32191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0
-ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,24,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,1116,458,0,0,0,0,0,0,0,0,0,0,0,0,658,0,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,6220,18,0,4741,0,0,0,0,2,0,0,0,32,65,1,983,0,0,378,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,241,5,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,16,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,1292,915,0,350,0,0,0,0,24,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,13,3,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,107,71,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,1585,1386,20,30,0,0,0,2,19,0,0,12,0,1,7,23,20,85,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0
-UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,533,0,0,0,0,0,0,0,0,0,0,0,0,27,0,19,0,487,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0
-BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,4036,1488,63,0,0,0,0,40,0,0,0,0,0,32,17,14,0,2374,8,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1014,0,0,177,0,0,0,0,0,0,0,0,0,0,0,0,0,837,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,132,0,0,0,0,0,0,2,30,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,239,0,0,0,0,0,0,0,0,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0
-CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
-HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,27,2,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
-CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,237,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,10157,6111,61,12,1,0,0,64,63,0,0,0,1,204,0,438,0,3044,158,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1721,9,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,1264,429,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,202,23,0,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,803,107,1,0,0,0,0,452,0,0,12,0,0,0,0,0,0,5,226,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,724,2,0,0,0,0,0,0,0,0,0,0,0,0,639,0,0,0,83,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,295,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,791,0,0,0,0,0,0,43,0,0,0,0,0,0,0,19,0,729,0,0,0,0,0,0
-JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1141,105,2,488,0,0,0,13,33,0,0,0,0,186,121,191,6,1,1,0,0,0,0,0
-LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,12,4,0,1,0,0,0,1,0,0,0,0,0,1,1,4,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1760,99,17,20,38,22,348,929,74,0,3,0,0,33,0,172,5,0,5,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,2094,565,0,0,0,0,0,0,0,0,0,0,0,0,1461,0,0,0,68,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,2194,1470,0,54,0,0,0,0,0,0,0,494,0,1,18,157,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1648,2,15,0,0,0,0,2,0,0,0,0,0,0,3,395,0,1077,154,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,357,0,0,0,0,0,0,357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,40390,40390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,1428,244,0,0,0,0,0,0,0,0,0,0,0,0,1151,33,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,7786,6,0,5472,0,0,0,1,36,0,0,0,33,4,0,1858,0,0,376,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,540,5,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,394,131,0,220,0,0,0,0,1,0,0,0,0,4,0,30,0,0,8,0,0,0,0,0
-TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,53,0,0,0,0,0,0,0,24,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,398,363,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,625,0,1,0,0,0,0,0,0,0,0,0,0,0,14,610,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,967,794,5,51,0,0,0,45,20,0,0,0,1,30,0,15,0,6,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,247,0,0,0,0,0,0
-UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2010,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,194,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,180,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,22,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
-BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,2504,1002,79,0,0,0,0,28,0,0,0,60,0,1,21,33,0,1185,95,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,157,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,149,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,33,0,0,0,0,0,0,0,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,133,0,7,88,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,96,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0
-CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,25,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,16,0,0,0,0,0,0,0,10,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
-CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0
-EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,86,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,8349,5223,58,4,0,2,1,119,90,0,0,4,17,200,53,607,14,1803,168,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1537,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,806,712,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1795,1141,0,0,0,0,0,308,21,0,17,0,0,0,0,61,0,16,231,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1230,0,0,0,0,0,0,0,0,0,0,0,0,0,1149,0,0,0,81,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,157,0,0,0,0,0,0,17,0,0,0,0,0,0,0,38,0,102,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,326,326,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1853,140,40,15,64,11,437,1012,8,0,2,2,0,24,0,97,5,0,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,2801,1094,0,25,0,0,0,0,0,0,0,0,0,0,1332,64,0,0,286,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,3843,2759,0,66,0,0,0,0,0,0,3,800,1,2,12,152,0,0,48,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,2782,20,175,0,0,0,0,0,0,0,0,0,0,0,19,331,0,2133,104,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,493,10,0,0,0,0,0,478,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,36236,36236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,143,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,25,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1340,369,0,0,0,0,0,0,0,0,0,0,0,0,971,0,0,0,0,0,0,0,0,0
-SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,6888,7,0,5293,0,0,0,1,19,0,0,0,32,5,0,1198,0,0,333,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1092,3,0,0,0,0,0,0,0,0,0,0,0,0,0,131,0,947,11,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,459,264,0,100,0,0,0,4,2,0,0,0,0,59,0,30,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,1644,1342,19,1,16,3,5,63,7,0,4,0,4,35,9,111,0,10,15,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,756,0,1,0,0,0,0,0,0,0,0,0,0,0,0,755,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,150,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,330,251,0,52,0,0,0,0,4,0,0,10,0,4,0,4,0,5,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2011,416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,416,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1243,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,1223,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1996,556,161,0,0,0,0,0,0,0,0,124,0,27,0,39,0,1039,50,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,379,0,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,249,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,57,0,0,0,0,0,0,0,56,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,419,0,0,0,141,0,0,0,0,0,0,278,0,0,0,0,0,0,0,0,0,0,0,0
-CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,122,2,0,0,0,0,0,117,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0
-CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,36,0,0,0,0,0,0,0,22,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
-CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,172,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,8703,5881,64,4,0,1,13,91,30,0,0,3,39,272,20,655,3,1484,146,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,3487,0,0,0,0,0,0,0,5,0,0,0,0,1,0,90,0,2615,776,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,14059,12740,0,453,0,0,0,469,0,0,3,0,0,0,0,1,0,40,353,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1345,2,0,0,0,0,0,0,0,0,0,0,0,0,1303,0,0,0,40,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,703,0,0,0,0,0,0,18,0,0,0,0,0,0,0,259,0,426,0,0,0,0,0,0
-JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1508,187,53,10,114,21,44,952,1,0,4,54,0,24,0,35,5,0,9,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,2200,727,0,25,0,0,0,2,0,0,0,0,0,0,1334,10,0,0,102,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,3884,2670,0,128,0,0,0,24,0,0,0,710,0,15,40,253,0,28,16,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,27,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0
-NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,4211,70,4,0,0,0,0,0,0,0,0,0,0,5,18,334,0,3656,124,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,512,150,0,0,0,0,0,333,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,49743,49525,0,208,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,343,7,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,313,0,0,0,0,0,0
-PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
-RO,Romania,country,Europe and Central Asia,45.943161,24.96676,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,613,76,0,0,0,0,0,0,0,0,0,0,0,0,537,0,0,0,0,0,0,0,0,0
-SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,5830,4,0,4033,0,0,0,0,117,0,0,41,14,4,0,1266,0,0,351,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1397,4,0,0,0,0,0,0,0,0,0,0,0,0,0,125,0,1263,5,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,655,190,0,450,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,27,1,0,0,0,0,0,0,5,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,1772,1676,0,0,0,0,0,0,8,0,0,0,0,32,3,52,0,0,1,0,0,0,0,0
-UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,264,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,219,23,0,0,0,0,0,0,0,0,0,0,0,6,0,14,0,176,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,3374,3250,0,0,0,0,4,1,20,0,0,0,0,2,4,85,1,0,8,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2012,447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,447,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,1602,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1602,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,646,99,32,0,0,0,0,1,0,0,0,0,0,18,0,140,0,312,44,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,662,0,0,286,0,0,0,0,0,0,0,0,5,0,0,0,0,371,0,0,0,0,0,0
-BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,56,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,89,0,0,0,70,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
-CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
-HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,164,15,0,21,0,0,0,126,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0
-HR,Croatia,country,Europe and Central Asia,45.1,15.2,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
-CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,12,0,0,0,0,0,0,0,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,126,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,8392,5459,114,4,0,2,1,96,44,0,0,4,18,354,63,489,9,1471,273,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,1414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,608,769,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,3695,2358,28,78,0,0,0,819,0,0,6,0,0,6,0,57,0,48,295,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,2059,1,0,0,0,0,0,0,0,0,0,0,0,0,1953,0,0,0,105,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,315,2,0,0,0,0,0,51,0,0,0,0,0,0,0,39,0,223,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,1849,0,0,1588,0,0,0,0,0,0,0,0,0,241,20,0,7,0,0,0,0,0,0,0
-LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,173,173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,2093,252,109,15,108,3,24,1368,12,0,3,84,0,47,0,58,2,0,10,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,2447,1428,0,24,0,0,0,4,0,0,0,0,0,0,863,0,0,0,128,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,3898,2637,12,106,0,0,0,0,0,0,0,745,1,16,12,367,0,0,2,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,2941,4,4,0,0,0,0,1,0,0,0,0,0,0,0,551,0,2332,49,0,0,0,0,0
-OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,318,25,0,0,0,0,0,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,39946,39937,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0
-PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,31,0,0,0,0,0,0,0,0
-ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,1020,92,0,0,0,0,0,0,0,0,0,0,0,0,928,0,0,0,0,0,0,0,0,0
-SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,5329,4,0,3050,0,0,0,0,278,0,0,100,10,2,15,1396,0,0,474,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,729,0,0,0,0,0,0,0,0,0,0,22,0,0,0,255,0,449,3,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,1083,30,0,1000,0,0,0,35,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,11,3,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,2199,2133,0,0,0,0,0,0,8,0,0,0,8,27,0,23,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,170,0,0,0,0,0,0
-TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,85,3,0,0,0,0,5,16,3,0,1,1,0,2,0,53,4,1,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2013,715,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,715,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10674.0560243968,1995,33,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,1995,203,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13189.5454257939,1995,35,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8225.49225323788,1995,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DJ,Djibouti,country,Middle East and North Africa,11.825138,42.590275,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2642.08895380491,1995,65,0,0,40,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,1995,8079,3609,3,1286,3,1,5,234,9,0,3,20,9,145,411,310,2,1723,308,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,1995,124,0,0,20,0,0,0,0,0,0,0,0,0,0,73,0,0,0,31,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,1995,31378,31110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,268,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,1995,134,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,1995,309,41,0,151,0,0,0,3,0,0,0,73,0,7,1,7,0,0,26,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,1995,437,61,1,4,74,0,13,241,1,0,4,3,0,4,0,11,0,19,0,0,1,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6159.2244249532,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,1995,828,342,0,209,0,0,0,0,0,0,0,55,1,0,194,26,10,0,1,0,0,0,0,0
+NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13596.1291714695,1995,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,1995,188,0,0,0,0,0,0,0,0,0,0,0,4,0,14,0,0,109,61,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,1995,5717,5717,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7489.40968828361,1995,53,33,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,12157.6393537508,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,1995,247,34,0,6,0,0,0,15,8,0,5,1,0,0,46,131,0,0,1,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,1995,1614,1266,0,0,0,0,0,0,0,0,0,0,0,0,346,0,0,0,2,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,1995,2627,140,0,1440,0,0,22,37,72,0,0,0,1,94,25,569,0,67,160,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,1995,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3139.69178744855,1995,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2084.80080211246,1995,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,1995,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,1995,86,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,11886.0128841597,1995,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,1995,909,140,0,516,2,0,0,28,24,0,2,0,1,2,78,108,0,0,8,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,1995,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,320,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,1995,11,4,0,0,0,0,0,2,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,15131.152745492,1995,2338,2323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10674.0560243968,1996,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,1996,655,252,0,158,0,0,0,1,0,0,0,0,0,0,0,20,0,216,8,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,14883.1086949165,1996,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13189.5454257939,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,1996,7525,3750,2,1130,0,0,6,261,12,0,1,16,13,153,92,207,3,1670,212,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,1996,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,1996,283,202,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,80,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5020.34955910579,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8780.34809669553,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,1996,58,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13697.8665173153,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,1996,205,2,0,14,0,0,0,0,2,0,0,110,6,19,0,9,0,0,43,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4601.24950648508,1996,200,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,1996,434,16,0,22,70,0,6,269,0,0,0,0,2,0,0,0,0,34,15,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,1996,601,174,0,246,0,0,0,0,0,0,0,117,4,43,0,17,17,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6817.47492353695,1996,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,1996,79,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,12303.9516077832,1996,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,37,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,1996,14534,14534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7489.40968828361,1996,399,200,0,125,0,0,0,0,0,0,0,0,0,0,9,0,0,65,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,9749.92082965695,1996,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,1996,140,40,0,7,0,0,0,2,10,0,2,0,0,1,23,55,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,1996,539,0,0,0,0,0,0,0,0,0,0,0,0,0,520,0,0,0,19,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,1996,3131,414,0,1984,0,0,0,0,3,0,0,0,0,3,23,641,0,5,58,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,1996,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,1996,283,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,1996,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6257.72773867678,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5729.87517945518,1996,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,1996,1175,492,0,79,0,0,0,34,44,0,13,0,9,98,99,294,0,0,13,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,1996,204,0,0,0,0,0,0,0,0,0,0,0,0,18,0,18,0,168,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,1996,7,4,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,15131.152745492,1996,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,12387.9917094054,1996,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7669.10819267572,1996,11649,11649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,9448.06305388175,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,1997,671,64,0,50,0,0,0,0,1,0,0,0,0,9,60,20,0,461,6,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10307.2422065815,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,1997,6642,3223,1,702,1,0,3,283,17,0,1,1,9,165,267,139,0,1610,220,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,1997,920,328,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,527,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.12688365525,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,1997,494,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,1997,210,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,1997,56,26,0,2,0,0,0,0,1,0,0,0,4,5,0,2,0,0,16,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4601.24950648508,1997,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,1997,310,10,0,0,25,0,2,144,0,0,3,0,0,2,0,11,0,113,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6674.94230734348,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,1997,369,150,0,160,0,0,0,0,0,0,0,33,0,2,2,16,0,0,6,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,1997,376,12,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,18,341,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,12696.2924566473,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,1997,20289,20289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,11932.7363889336,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,1997,172,30,0,15,0,0,0,4,83,0,1,0,0,0,16,23,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,1997,318,22,0,0,0,0,0,0,0,0,0,0,0,0,279,0,0,0,17,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,1997,3655,245,0,2326,0,0,1,22,13,0,6,0,16,108,33,615,1,98,172,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,1997,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,1997,169,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,158,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,1997,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5282.1271752348,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,14501.4564029166,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,1997,753,386,0,61,0,0,0,12,34,0,3,0,7,15,93,132,0,0,10,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,1997,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,1997,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,15131.152745492,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7669.10819267572,1997,10679,10679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,1998,208,0,0,50,0,0,0,0,0,0,0,0,0,0,18,0,0,135,5,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10307.2422065815,1998,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,1998,4812,2676,0,353,0,0,3,111,14,0,0,0,9,103,185,161,0,1116,81,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,1998,603,131,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,470,1,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,1998,65,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,63,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,1998,826,659,0,0,0,0,0,104,0,0,0,0,0,27,0,0,0,36,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13697.8665173153,1998,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,1998,119,46,0,4,0,0,0,0,0,0,0,34,1,15,0,0,0,0,19,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,1998,641,514,4,0,21,0,6,79,0,0,3,0,0,3,0,11,14,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6674.94230734348,1998,11,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,1998,342,143,0,160,0,0,0,0,0,0,0,0,0,1,0,37,0,0,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,1998,523,5,15,0,0,0,4,0,0,0,0,0,0,0,0,0,0,223,276,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8642.730084891,1998,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,1998,10529,10529,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7489.40968828361,1998,60,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,1998,121,59,0,7,0,0,0,1,10,0,0,0,1,0,0,43,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,1998,318,0,0,44,0,0,2,0,0,0,0,0,0,0,195,55,0,0,22,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,1998,3693,173,0,2377,0,0,0,38,14,0,0,0,12,60,29,841,0,65,84,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,1998,41,0,0,0,0,0,0,0,8,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,1998,213,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,199,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,1998,1880,1476,0,72,0,0,3,4,81,0,6,0,1,16,5,194,0,0,22,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,1998,88,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,38,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,1998,367,364,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,15131.152745492,1998,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,1999,748,21,0,97,0,0,0,0,0,0,0,0,0,1,19,0,0,610,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8261.00879522975,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13189.5454257939,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,1999,6133,3218,17,1020,0,2,4,275,14,0,2,0,15,108,249,238,0,790,181,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,1999,167,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,164,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,1999,318,303,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8780.34809669553,1999,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,1999,110,4,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13697.8665173153,1999,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,11185.1897463702,1999,4112,4112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,1999,117,13,0,0,0,0,0,0,0,0,5,19,8,7,0,0,0,0,65,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6242.31681311319,1999,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,1999,343,117,0,1,25,1,13,153,6,0,3,7,1,3,0,13,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,1999,290,118,0,69,0,0,0,0,0,0,0,19,0,0,2,82,0,0,0,0,0,0,0,0
+NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13596.1291714695,1999,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,1999,136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,89,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3943.18261329708,1999,15,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,1999,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10250.8668258639,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,1999,53,20,0,6,0,0,0,1,9,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,1999,52,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,15,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,1999,3187,42,0,2229,0,2,8,48,11,0,0,0,6,45,9,574,6,60,153,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,1999,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,1999,124,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,1999,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,11886.0128841597,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,1999,2239,1853,0,181,0,0,1,18,45,0,0,0,3,24,2,89,0,0,23,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,1999,67,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,1999,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,15131.152745492,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7669.10819267572,1999,7562,7562,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,2000,924,179,2,0,0,0,0,0,0,0,0,0,0,4,44,0,0,695,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4094.2331543385,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13189.5454257939,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13757.8770402985,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,14914.590279914,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,2000,4994,2728,3,560,0,0,4,176,30,0,0,10,7,83,172,180,0,895,146,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,16438.2363002308,2000,19,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,2000,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,2000,116,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7828.33524238534,2000,21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,19,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,2000,66,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,2000,323,160,0,0,0,0,0,0,0,0,1,0,2,4,0,0,0,47,109,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,2000,263,69,0,3,9,0,21,116,0,0,1,0,0,5,0,37,0,0,2,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,2000,646,473,0,56,0,0,0,0,0,0,0,0,0,29,0,85,0,0,3,0,0,0,0,0
+NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13596.1291714695,2000,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,2000,96,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,42,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3943.18261329708,2000,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,2000,22331,22331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7489.40968828361,2000,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10250.8668258639,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,2000,21,5,0,3,0,0,0,0,7,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,2000,17,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,2000,3529,155,0,1656,0,1,2,41,9,0,0,97,2,34,8,1336,0,30,158,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,2000,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2084.80080211246,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,2000,52,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,2000,65,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,2000,603,436,0,48,0,0,0,3,49,0,1,0,1,6,0,47,0,8,4,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,2000,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,2000,67,51,0,11,0,0,0,0,0,0,2,0,2,0,0,0,2,0,1,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,15131.152745492,2000,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,2001,39,0,0,0,0,0,0,0,0,0,0,0,0,1,38,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10307.2422065815,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,2001,5058,1945,3,730,1,0,3,305,8,0,0,2,3,255,430,78,2,1109,186,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,2001,121,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,6,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7004.48397488406,2001,29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,2001,5364,5346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7828.33524238534,2001,16,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5020.34955910579,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8780.34809669553,2001,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,2001,22,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,2001,507,2,3,442,0,0,1,2,1,0,1,10,2,1,0,0,3,18,24,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4601.24950648508,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,2001,300,83,2,2,33,0,27,120,0,0,0,0,0,5,0,18,2,0,10,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6674.94230734348,2001,5,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,2001,1239,1134,3,0,0,0,0,0,0,0,0,0,0,12,0,90,3,0,0,0,0,0,0,0
+YT,Mayotte,country,,-12.8275,45.166244,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,176.190763983215,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,13596.1291714695,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,2001,218,4,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,102,72,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3943.18261329708,2001,17,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,2001,8501,8500,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,2001,45,26,0,3,0,0,0,0,5,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,2001,90,0,0,22,0,0,0,0,0,0,0,0,0,0,53,0,0,0,15,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,2001,2405,110,15,1437,0,0,0,3,49,0,0,3,14,18,10,495,2,35,216,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,2001,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,0,30,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,11185.5708479591,2001,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,2001,45,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,2001,85,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6257.72773867678,2001,32,7,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,2001,694,480,0,101,0,0,0,6,45,0,7,0,2,9,0,25,0,15,4,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,2001,161,0,0,108,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,2001,3,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3095.8268045068,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10674.0560243968,2002,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7926.70732761952,2002,777,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,713,19,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10307.2422065815,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8261.00879522975,2002,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7689.00738539215,2002,5539,2665,2,661,0,2,3,323,24,0,0,3,9,360,111,190,0,1057,129,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7725.24399702099,2002,30,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,18,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5273.87263733539,2002,17648,17610,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5041.24205699936,2002,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8780.34809669553,2002,671,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,671,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6787.17106744887,2002,159,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1474.87890720509,2002,238,156,1,0,0,0,0,2,1,0,2,0,1,7,1,0,6,0,67,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,831.853402955773,2002,482,23,3,1,50,1,37,337,1,0,3,0,0,2,0,24,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6674.94230734348,2002,219,0,0,180,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1739.11234928113,2002,1477,1331,0,20,0,0,0,11,0,0,0,0,0,18,1,88,0,0,8,0,0,0,0,0
+YT,Mayotte,country,,-12.8275,45.166244,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,176.190763983215,2002,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7286.1794635261,2002,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8027.61704570925,2002,377,31,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,241,26,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,12303.9516077832,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3943.18261329708,2002,3,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,5437.02993931789,2002,118,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,10719.4983442033,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,3983.05606630754,2002,46,6,0,0,0,0,0,0,37,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,6788.50201968798,2002,115,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,60,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,2996.28202455745,2002,5062,49,0,3111,0,0,0,7,52,0,1,0,43,24,27,1307,0,3,438,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7613.09218139501,2002,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,212,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7434.6602749185,2002,142,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,104,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,7007.77453674944,2002,129,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,4076.92564076272,2002,1335,936,0,68,0,0,1,25,148,0,8,0,17,54,7,69,0,0,2,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,8684.55973654393,2002,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1161.78020606869,2002,19,7,1,0,0,0,0,4,0,0,3,0,0,4,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,1766.52701781894,2002,108,0,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

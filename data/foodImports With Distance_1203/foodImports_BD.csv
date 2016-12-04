@@ -1,0 +1,516 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BD,Bangladesh,country,South Asia,23.684994,90.356331,17079.4012566986,1986,11793,0,0,0,0,0,0,0,0,0,0,0,0,0,11793,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BD,Bangladesh,country,South Asia,23.684994,90.356331,7183.84385171473,1986,97221,82782,0,0,0,0,328,0,105,0,0,0,0,0,8589,59,0,0,5358,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BD,Bangladesh,country,South Asia,23.684994,90.356331,7726.08236810151,1986,1567,112,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,1403,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BD,Bangladesh,country,South Asia,23.684994,90.356331,15943.1166773441,1986,23671,0,0,16114,0,0,0,0,0,0,8,0,0,3,7546,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BD,Bangladesh,country,South Asia,23.684994,90.356331,6241.17871108374,1986,14175,0,0,13933,0,0,0,0,0,242,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BD,Bangladesh,country,South Asia,23.684994,90.356331,11013.2212979032,1986,209427,209186,0,0,0,0,0,0,3,0,0,0,0,24,0,0,0,0,214,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BD,Bangladesh,country,South Asia,23.684994,90.356331,2434.69734247981,1986,617,0,0,0,0,0,0,0,11,1,14,0,0,0,0,0,0,0,591,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BD,Bangladesh,country,South Asia,23.684994,90.356331,1899.98662669885,1986,1266,9,0,136,0,0,0,0,0,80,887,0,16,112,26,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BD,Bangladesh,country,South Asia,23.684994,90.356331,3113.59306766267,1986,31,0,0,0,0,0,0,0,0,2,0,0,0,0,7,22,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BD,Bangladesh,country,South Asia,23.684994,90.356331,16478.2366695342,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BD,Bangladesh,country,South Asia,23.684994,90.356331,6962.89685678296,1986,9182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9182,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BD,Bangladesh,country,South Asia,23.684994,90.356331,7289.99220590719,1986,13369,0,0,0,0,0,0,0,0,0,0,0,0,5,0,157,0,0,13207,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BD,Bangladesh,country,South Asia,23.684994,90.356331,5951.20804631553,1986,108,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BD,Bangladesh,country,South Asia,23.684994,90.356331,8004.3512791765,1986,85285,71178,0,13943,0,0,0,0,0,0,0,0,0,10,104,50,0,0,0,0,0,0,0,0
+GI,Gibraltar,country,Europe and Central Asia,36.137741,-5.345374,BD,Bangladesh,country,South Asia,23.684994,90.356331,8971.72847285584,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BD,Bangladesh,country,South Asia,23.684994,90.356331,6580.05281721472,1986,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BD,Bangladesh,country,South Asia,23.684994,90.356331,15643.4347446866,1986,12646,0,0,12636,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BD,Bangladesh,country,South Asia,23.684994,90.356331,1223.69420111112,1986,20110,381,0,0,0,0,0,369,16895,2138,14,0,0,50,263,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BD,Bangladesh,country,South Asia,23.684994,90.356331,3730.35439733117,1986,350,0,0,0,0,84,0,0,0,0,136,0,0,96,24,10,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BD,Bangladesh,country,South Asia,23.684994,90.356331,3711.49947717687,1986,931,0,0,0,0,0,0,0,0,0,931,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,BD,Bangladesh,country,South Asia,23.684994,90.356331,4650.90722059297,1986,268,0,0,0,0,0,0,0,268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BD,Bangladesh,country,South Asia,23.684994,90.356331,8466.8138694039,1986,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,209,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BD,Bangladesh,country,South Asia,23.684994,90.356331,7307.76106779282,1986,256,241,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BD,Bangladesh,country,South Asia,23.684994,90.356331,4773.96736698547,1986,12728,12636,0,0,0,0,0,0,28,23,3,0,0,17,1,5,0,0,15,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,BD,Bangladesh,country,South Asia,23.684994,90.356331,5366.13775759877,1986,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BD,Bangladesh,country,South Asia,23.684994,90.356331,6243.44141209879,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BD,Bangladesh,country,South Asia,23.684994,90.356331,6680.24355754325,1986,80,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BD,Bangladesh,country,South Asia,23.684994,90.356331,7354.72901459482,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BD,Bangladesh,country,South Asia,23.684994,90.356331,2501.45020206639,1986,58327,0,3184,11583,0,1014,0,0,140,0,35,0,6,293,42028,10,0,0,34,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BD,Bangladesh,country,South Asia,23.684994,90.356331,7593.02780869699,1986,521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,521,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BD,Bangladesh,country,South Asia,23.684994,90.356331,607.482252415137,1986,23241,23184,0,0,0,15,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BD,Bangladesh,country,South Asia,23.684994,90.356331,9342.91967400016,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BD,Bangladesh,country,South Asia,23.684994,90.356331,7632.39230045145,1986,36002,113,2,461,0,39,0,0,0,0,0,0,0,99,9296,69,0,0,25923,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BD,Bangladesh,country,South Asia,23.684994,90.356331,11283.724065472,1986,3283,0,0,0,0,0,0,0,0,0,0,0,0,0,1398,0,0,0,1885,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,BD,Bangladesh,country,South Asia,23.684994,90.356331,15940.1723970895,1986,16059,0,0,16059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BD,Bangladesh,country,South Asia,23.684994,90.356331,7301.71989425854,1986,15,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BD,Bangladesh,country,South Asia,23.684994,90.356331,2208.29163869853,1986,25737,12849,0,0,0,0,456,0,1148,11236,48,0,0,0,0,0,3,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BD,Bangladesh,country,South Asia,23.684994,90.356331,3521.82911191147,1986,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BD,Bangladesh,country,South Asia,23.684994,90.356331,6693.01535591711,1986,8618,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8618,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BD,Bangladesh,country,South Asia,23.684994,90.356331,9062.32997474219,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BD,Bangladesh,country,South Asia,23.684994,90.356331,3833.39958355868,1986,168,0,0,130,0,16,0,0,0,19,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,BD,Bangladesh,country,South Asia,23.684994,90.356331,6274.677339243,1986,16062,0,0,16062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BD,Bangladesh,country,South Asia,23.684994,90.356331,4591.60924913344,1986,7,0,0,0,0,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BD,Bangladesh,country,South Asia,23.684994,90.356331,2879.17008205952,1986,162485,63,105,94,0,273,0,0,81,67,859,0,9,353,156979,292,0,0,3310,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BD,Bangladesh,country,South Asia,23.684994,90.356331,8663.99737618064,1986,4398,0,0,0,0,0,0,0,0,0,0,0,0,0,4398,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BD,Bangladesh,country,South Asia,23.684994,90.356331,2035.66206696733,1986,3403,0,0,0,0,243,0,0,0,0,87,0,0,390,2683,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BD,Bangladesh,country,South Asia,23.684994,90.356331,6426.18560106151,1986,5026,0,0,0,0,0,0,0,0,5026,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BD,Bangladesh,country,South Asia,23.684994,90.356331,6741.92154071546,1986,170,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BD,Bangladesh,country,South Asia,23.684994,90.356331,7541.26228950079,1986,17518,123,0,16229,0,19,0,0,0,66,0,0,0,0,0,0,0,0,1081,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BD,Bangladesh,country,South Asia,23.684994,90.356331,1412.49123518025,1986,24447,4199,4529,12853,0,2846,0,0,0,0,0,0,0,0,6,0,0,0,14,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BD,Bangladesh,country,South Asia,23.684994,90.356331,5422.38407587905,1986,3623,0,0,0,0,0,0,0,0,0,3623,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BD,Bangladesh,country,South Asia,23.684994,90.356331,3715.18551755001,1986,259,0,0,0,0,0,0,0,259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BD,Bangladesh,country,South Asia,23.684994,90.356331,8101.03902961707,1986,4461,1439,0,99,0,1,0,0,5,58,0,0,0,138,8,240,84,0,2473,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BD,Bangladesh,country,South Asia,23.684994,90.356331,6888.17124888705,1986,235,0,0,0,0,0,0,0,0,219,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BD,Bangladesh,country,South Asia,23.684994,90.356331,13242.1548837342,1986,473238,424974,0,7,0,0,0,0,5,7329,0,0,0,217,40701,2,0,0,3,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BD,Bangladesh,country,South Asia,23.684994,90.356331,4363.83289461987,1986,4310,0,0,0,0,0,0,0,0,4104,0,0,0,1,0,0,0,0,205,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,BD,Bangladesh,country,South Asia,23.684994,90.356331,9392.24764634206,1986,40,0,0,0,0,3,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,BD,Bangladesh,country,South Asia,23.684994,90.356331,2478.37712409515,1998,115,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,BD,Bangladesh,country,South Asia,23.684994,90.356331,11382.8530875153,1998,6828,0,0,0,0,0,3480,0,62,2695,0,0,0,2,589,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BD,Bangladesh,country,South Asia,23.684994,90.356331,17079.4012566986,1998,150811,0,0,0,0,0,0,0,0,0,0,0,0,0,150811,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BD,Bangladesh,country,South Asia,23.684994,90.356331,7183.84385171473,1998,445074,190350,0,22,59395,0,142989,3,710,24048,0,1089,0,16,19696,3,0,7,6746,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BD,Bangladesh,country,South Asia,23.684994,90.356331,7056.63405621953,1998,1454,0,0,0,0,0,1229,0,0,0,0,0,0,42,183,0,0,0,0,0,0,0,0,0
+BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,BD,Bangladesh,country,South Asia,23.684994,90.356331,14455.5408761288,1998,55,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,BD,Bangladesh,country,South Asia,23.684994,90.356331,4006.10930653132,1998,121,0,0,0,0,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BD,Bangladesh,country,South Asia,23.684994,90.356331,7726.08236810151,1998,1465,367,0,499,0,0,0,2,0,0,0,197,0,327,27,0,0,0,46,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,1998,4509,0,0,0,0,0,0,0,0,4509,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BM,Bermuda,country,North America,32.321384,-64.75737,BD,Bangladesh,country,South Asia,23.684994,90.356331,13264.7685909736,1998,368,0,0,0,0,0,0,0,0,368,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BT,Bhutan,country,South Asia,27.514162,90.433601,BD,Bangladesh,country,South Asia,23.684994,90.356331,426.331566882579,1998,4872,0,0,0,0,0,7,7,4856,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BD,Bangladesh,country,South Asia,23.684994,90.356331,15943.1166773441,1998,122579,0,0,46161,0,0,0,0,0,0,0,16,0,865,75537,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,BD,Bangladesh,country,South Asia,23.684994,90.356331,9666.49388678553,1998,3704,0,0,0,0,0,0,0,0,3704,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,BD,Bangladesh,country,South Asia,23.684994,90.356331,11646.7439173144,1998,655,0,0,0,655,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BD,Bangladesh,country,South Asia,23.684994,90.356331,8470.75176260359,1998,5868,0,0,0,0,0,4421,0,0,1447,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BD,Bangladesh,country,South Asia,23.684994,90.356331,11013.2212979032,1998,355478,252314,0,0,28822,0,73248,0,0,0,0,0,0,1020,72,0,98,0,2,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,BD,Bangladesh,country,South Asia,23.684994,90.356331,15128.7962985079,1998,275,0,0,0,151,0,0,0,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,BD,Bangladesh,country,South Asia,23.684994,90.356331,7628.40735727921,1998,1163,0,0,0,0,0,0,0,0,1163,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BD,Bangladesh,country,South Asia,23.684994,90.356331,2434.69734247981,1998,199,1,0,23,0,0,0,0,0,45,8,0,0,122,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BD,Bangladesh,country,South Asia,23.684994,90.356331,1899.98662669885,1998,3734,11,0,0,0,0,0,20,0,2203,1318,0,10,172,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BD,Bangladesh,country,South Asia,23.684994,90.356331,3113.59306766267,1998,75,10,0,24,0,0,0,0,0,5,0,15,0,20,1,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BD,Bangladesh,country,South Asia,23.684994,90.356331,16478.2366695342,1998,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,BD,Bangladesh,country,South Asia,23.684994,90.356331,3927.08021346638,1998,253,11,0,124,0,0,0,0,3,38,0,0,0,46,11,0,0,0,20,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BD,Bangladesh,country,South Asia,23.684994,90.356331,7289.99220590719,1998,56570,53031,0,4,0,0,2,0,10,0,0,0,5,164,0,8,0,0,3346,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BD,Bangladesh,country,South Asia,23.684994,90.356331,17309.0605986495,1998,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BD,Bangladesh,country,South Asia,23.684994,90.356331,5951.20804631553,1998,301,0,0,0,0,0,0,0,1,297,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BD,Bangladesh,country,South Asia,23.684994,90.356331,6386.09963993626,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BD,Bangladesh,country,South Asia,23.684994,90.356331,8004.3512791765,1998,125680,60489,0,517,0,0,63881,0,14,97,0,0,0,577,0,32,379,0,73,0,0,0,0,0
+GF,French Guiana,country,Latin America and the Caribbean,3.933889,-53.125782,BD,Bangladesh,country,South Asia,23.684994,90.356331,15024.307945196,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BD,Bangladesh,country,South Asia,23.684994,90.356331,7299.27961476356,1998,9252,47,583,7471,0,0,327,0,0,87,4,0,0,31,40,6,79,0,656,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BD,Bangladesh,country,South Asia,23.684994,90.356331,6580.05281721472,1998,303,0,0,0,0,0,0,0,0,263,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BD,Bangladesh,country,South Asia,23.684994,90.356331,15643.4347446866,1998,519,0,0,0,0,0,0,0,0,0,519,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,BD,Bangladesh,country,South Asia,23.684994,90.356331,15693.0542360722,1998,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,BD,Bangladesh,country,South Asia,23.684994,90.356331,6688.07010646732,1998,246,0,0,0,242,0,0,0,0,0,0,0,0,0,0,0,84,0,4,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BD,Bangladesh,country,South Asia,23.684994,90.356331,8503.2719622202,1998,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BD,Bangladesh,country,South Asia,23.684994,90.356331,1223.69420111112,1998,1193862,1074795,212,784,209,6,32,50081,38427,13177,4777,6979,358,1982,541,86,593,5,1410,0,1,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BD,Bangladesh,country,South Asia,23.684994,90.356331,3730.35439733117,1998,30023,143,0,71,0,0,11992,0,0,0,38,2,22,143,17611,1,30,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BD,Bangladesh,country,South Asia,23.684994,90.356331,3711.49947717687,1998,15879,5,0,0,234,7,0,0,13523,2040,64,0,0,3,0,0,0,0,3,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BD,Bangladesh,country,South Asia,23.684994,90.356331,8466.8138694039,1998,1755,0,0,0,0,0,0,0,0,0,0,0,0,1619,0,0,0,0,136,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BD,Bangladesh,country,South Asia,23.684994,90.356331,7307.76106779282,1998,536,178,0,232,0,0,0,0,0,117,0,0,0,3,0,6,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BD,Bangladesh,country,South Asia,23.684994,90.356331,4773.96736698547,1998,1441,21,0,37,0,0,27,0,0,0,24,0,0,1327,5,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,BD,Bangladesh,country,South Asia,23.684994,90.356331,4293.53365676465,1998,2614,0,0,0,0,0,0,1,7,0,0,0,0,0,2606,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,BD,Bangladesh,country,South Asia,23.684994,90.356331,7279.39890499158,1998,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BD,Bangladesh,country,South Asia,23.684994,90.356331,6680.24355754325,1998,27,8,0,1,0,0,0,0,0,0,8,0,0,10,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BD,Bangladesh,country,South Asia,23.684994,90.356331,2501.45020206639,1998,240203,202,0,3,0,0,1936,4,11,0,174,0,21,404,237422,26,18,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,BD,Bangladesh,country,South Asia,23.684994,90.356331,9667.70784645329,1998,558,0,0,0,0,0,0,0,0,558,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BD,Bangladesh,country,South Asia,23.684994,90.356331,7286.62609772221,1998,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BD,Bangladesh,country,South Asia,23.684994,90.356331,6056.68085049415,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BD,Bangladesh,country,South Asia,23.684994,90.356331,14588.3192014465,1998,79141,3,0,78858,0,0,0,0,0,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BD,Bangladesh,country,South Asia,23.684994,90.356331,7593.02780869699,1998,15375,14525,0,8,0,0,842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BD,Bangladesh,country,South Asia,23.684994,90.356331,607.482252415137,1998,4589,3083,0,0,1316,0,0,159,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,1998,20393,7114,0,0,13236,0,0,0,0,0,0,0,0,43,0,0,101,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BD,Bangladesh,country,South Asia,23.684994,90.356331,7632.39230045145,1998,8877,4802,396,300,0,0,0,59,36,0,0,0,0,533,1333,6,469,2,1410,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BD,Bangladesh,country,South Asia,23.684994,90.356331,11283.724065472,1998,11932,19,0,1115,0,0,0,0,14,0,0,0,0,29,7843,0,0,0,2912,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,BD,Bangladesh,country,South Asia,23.684994,90.356331,15940.1723970895,1998,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BD,Bangladesh,country,South Asia,23.684994,90.356331,8480.46228650362,1998,66,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BD,Bangladesh,country,South Asia,23.684994,90.356331,8771.91257956289,1998,691,0,0,0,0,0,0,0,0,691,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NU,Niue,country,East Asia and Pacific,-19.054445,-169.867233,BD,Bangladesh,country,South Asia,23.684994,90.356331,11816.3802233173,1998,44,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MP,Northern Mariana Islands,country,East Asia and Pacific,17.33083,145.38469,BD,Bangladesh,country,South Asia,23.684994,90.356331,5747.51795507912,1998,403,0,0,21,0,0,0,0,0,382,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BD,Bangladesh,country,South Asia,23.684994,90.356331,3538.60307695496,1998,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BD,Bangladesh,country,South Asia,23.684994,90.356331,2208.29163869853,1998,37459,24333,0,274,0,3,0,5,2364,9284,1020,1,0,48,0,0,0,0,127,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,BD,Bangladesh,country,South Asia,23.684994,90.356331,16323.1655055819,1998,21623,21623,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,BD,Bangladesh,country,South Asia,23.684994,90.356331,6708.87734522271,1998,8699,0,0,0,0,0,8699,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BD,Bangladesh,country,South Asia,23.684994,90.356331,17795.7264941305,1998,92,0,0,0,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BD,Bangladesh,country,South Asia,23.684994,90.356331,3521.82911191147,1998,3388,12,0,0,0,0,3197,0,0,0,0,0,0,179,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BD,Bangladesh,country,South Asia,23.684994,90.356331,6693.01535591711,1998,1894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1894,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,BD,Bangladesh,country,South Asia,23.684994,90.356331,3957.70887263231,1998,110,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BD,Bangladesh,country,South Asia,23.684994,90.356331,3833.39958355868,1998,1940,37,0,1429,0,0,0,3,14,92,1,0,0,308,52,0,0,0,4,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,BD,Bangladesh,country,South Asia,23.684994,90.356331,6274.677339243,1998,12979,12963,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BD,Bangladesh,country,South Asia,23.684994,90.356331,4363.83289461987,1998,46292,0,0,0,0,0,27844,0,0,18337,0,0,0,0,0,0,0,0,111,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,BD,Bangladesh,country,South Asia,23.684994,90.356331,14920.0386965855,1998,23,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BD,Bangladesh,country,South Asia,23.684994,90.356331,4591.60924913344,1998,1806,17,0,0,0,0,0,0,55,0,0,0,0,12,0,0,0,1722,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BD,Bangladesh,country,South Asia,23.684994,90.356331,2879.17008205952,1998,8275,491,0,705,0,0,271,46,160,958,0,0,28,388,4819,173,0,6,230,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,BD,Bangladesh,country,South Asia,23.684994,90.356331,7041.42271171751,1998,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,BD,Bangladesh,country,South Asia,23.684994,90.356331,8443.74773699905,1998,10708,0,0,0,0,0,10708,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,BD,Bangladesh,country,South Asia,23.684994,90.356331,5158.12619197687,1998,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BD,Bangladesh,country,South Asia,23.684994,90.356331,9389.08431997754,1998,20992,18095,0,90,0,0,0,0,252,156,0,0,0,0,2397,2,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BD,Bangladesh,country,South Asia,23.684994,90.356331,8663.99737618064,1998,712,14,0,341,0,2,0,0,21,216,0,0,2,0,116,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BD,Bangladesh,country,South Asia,23.684994,90.356331,2035.66206696733,1998,2798,268,0,0,0,0,224,0,0,0,64,0,0,754,1488,0,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BD,Bangladesh,country,South Asia,23.684994,90.356331,6426.18560106151,1998,36297,0,0,26912,0,0,0,0,0,9385,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BD,Bangladesh,country,South Asia,23.684994,90.356331,8446.76598449672,1998,1318,0,0,0,0,0,0,0,0,1312,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BD,Bangladesh,country,South Asia,23.684994,90.356331,6741.92154071546,1998,204,77,0,0,0,0,0,0,0,58,0,0,26,0,0,1,0,0,42,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BD,Bangladesh,country,South Asia,23.684994,90.356331,7541.26228950079,1998,2411,1,0,15,0,0,0,0,0,2257,1,0,6,4,0,0,0,0,127,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,BD,Bangladesh,country,South Asia,23.684994,90.356331,5083.67799201727,1998,1071,0,0,0,866,0,0,0,0,111,91,0,0,0,3,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BD,Bangladesh,country,South Asia,23.684994,90.356331,1412.49123518025,1998,8199,2189,4621,243,0,7,0,106,37,69,0,2,10,393,8,22,0,0,492,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,BD,Bangladesh,country,South Asia,23.684994,90.356331,9587.21388933109,1998,355,0,0,0,0,0,0,0,0,355,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BD,Bangladesh,country,South Asia,23.684994,90.356331,7770.27887953464,1998,32,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BD,Bangladesh,country,South Asia,23.684994,90.356331,5422.38407587905,1998,1568,0,0,0,585,0,0,5,16,719,130,0,0,113,0,0,0,0,0,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,BD,Bangladesh,country,South Asia,23.684994,90.356331,3362.69192029874,1998,674,0,0,0,0,0,0,0,0,674,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BD,Bangladesh,country,South Asia,23.684994,90.356331,6724.18120769747,1998,1234,0,0,0,0,0,0,0,0,1234,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BD,Bangladesh,country,South Asia,23.684994,90.356331,5819.53384727614,1998,162,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0,86,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BD,Bangladesh,country,South Asia,23.684994,90.356331,3715.18551755001,1998,2186,102,0,9,0,11,0,1,1335,84,22,0,5,3,560,52,0,0,2,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BD,Bangladesh,country,South Asia,23.684994,90.356331,8101.03902961707,1998,214501,209319,19,179,0,0,0,0,38,1578,0,0,1,1547,19,72,0,0,1676,53,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BD,Bangladesh,country,South Asia,23.684994,90.356331,6888.17124888705,1998,3340,0,0,0,0,0,0,0,0,3340,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BD,Bangladesh,country,South Asia,23.684994,90.356331,13242.1548837342,1998,297691,209416,0,99,1,0,0,394,905,61809,0,0,10,1068,23808,8,92,0,173,0,0,0,0,0
+VI,Virgin Islands (U.S.),country,Latin America and the Caribbean,18.335765,-64.896335,BD,Bangladesh,country,South Asia,23.684994,90.356331,14642.3506045071,1998,75,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,BD,Bangladesh,country,South Asia,23.684994,90.356331,9392.24764634206,1998,7959,0,0,0,0,0,7959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BD,Bangladesh,country,South Asia,23.684994,90.356331,2167.35125381508,1998,16710,16261,0,0,0,0,0,0,0,142,307,0,0,0,0,0,0,0,0,0,0,0,0,0
+EH,Western Sahara,country,,24.215527,-12.885834,BD,Bangladesh,country,South Asia,23.684994,90.356331,10188.0863722678,1998,48,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,BD,Bangladesh,country,South Asia,23.684994,90.356331,4463.29402953326,1998,511,0,0,0,0,0,0,0,0,466,0,0,0,0,45,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BD,Bangladesh,country,South Asia,23.684994,90.356331,7938.39496856878,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BD,Bangladesh,country,South Asia,23.684994,90.356331,8167.47967429978,1998,515,0,0,0,0,0,0,0,0,0,0,0,0,515,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,BD,Bangladesh,country,South Asia,23.684994,90.356331,2478.37712409515,2005,8062,0,0,0,0,0,0,0,156,0,7906,0,0,0,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,BD,Bangladesh,country,South Asia,23.684994,90.356331,8687.6563882242,2005,200,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BD,Bangladesh,country,South Asia,23.684994,90.356331,17079.4012566986,2005,684948,431301,0,1,0,0,61301,1,0,0,0,0,0,0,191920,0,0,0,424,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BD,Bangladesh,country,South Asia,23.684994,90.356331,7183.84385171473,2005,374013,157550,0,282,97642,0,98389,9,2344,1508,0,1942,3,35,837,108,0,1,13363,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BD,Bangladesh,country,South Asia,23.684994,90.356331,7056.63405621953,2005,320,1,0,21,0,0,0,0,1,194,0,100,0,2,0,1,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,BD,Bangladesh,country,South Asia,23.684994,90.356331,4385.35451970349,2005,851,0,0,0,0,0,0,0,0,851,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,BD,Bangladesh,country,South Asia,23.684994,90.356331,4006.10930653132,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BD,Bangladesh,country,South Asia,23.684994,90.356331,7726.08236810151,2005,7878,7183,9,0,0,0,0,0,0,0,0,21,1,342,0,2,0,0,320,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,BD,Bangladesh,country,South Asia,23.684994,90.356331,15485.6331794583,2005,1007,0,0,1007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2005,4582,0,0,0,0,0,0,0,0,4582,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BD,Bangladesh,country,South Asia,23.684994,90.356331,15943.1166773441,2005,603075,0,0,504695,0,0,27707,0,5097,10880,138,0,1,223,54313,0,0,5,16,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BD,Bangladesh,country,South Asia,23.684994,90.356331,6241.17871108374,2005,48646,48646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,BD,Bangladesh,country,South Asia,23.684994,90.356331,9666.49388678553,2005,9078,0,0,0,0,0,0,0,0,9078,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BD,Bangladesh,country,South Asia,23.684994,90.356331,8470.75176260359,2005,6329,0,0,0,0,0,0,0,0,6307,22,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BD,Bangladesh,country,South Asia,23.684994,90.356331,11013.2212979032,2005,224057,68685,0,1,132808,0,21750,0,0,0,0,524,5,269,15,0,0,0,0,0,0,0,0,0
+TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,BD,Bangladesh,country,South Asia,23.684994,90.356331,7495.99572251605,2005,3448,0,0,0,0,0,0,0,0,3448,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BD,Bangladesh,country,South Asia,23.684994,90.356331,17842.5857085156,2005,13,0,0,0,0,0,0,0,0,0,0,0,0,12,0,1,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BD,Bangladesh,country,South Asia,23.684994,90.356331,2434.69734247981,2005,1618,1,0,0,0,0,6,0,0,1580,25,0,1,0,5,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BD,Bangladesh,country,South Asia,23.684994,90.356331,1899.98662669885,2005,69783,11588,0,3212,56,1,432,20065,23712,2699,7611,0,10,351,19,15,0,0,12,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BD,Bangladesh,country,South Asia,23.684994,90.356331,3113.59306766267,2005,650,465,0,0,0,0,0,0,1,133,0,0,1,35,13,0,0,0,2,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BD,Bangladesh,country,South Asia,23.684994,90.356331,16478.2366695342,2005,7364,0,0,7362,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,BD,Bangladesh,country,South Asia,23.684994,90.356331,6422.77378638011,2005,222,0,0,0,0,0,0,0,0,0,222,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,BD,Bangladesh,country,South Asia,23.684994,90.356331,10278.1771094849,2005,3165,0,0,0,0,0,0,0,0,3165,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BD,Bangladesh,country,South Asia,23.684994,90.356331,5590.21212258191,2005,137,27,0,0,0,0,0,0,84,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BD,Bangladesh,country,South Asia,23.684994,90.356331,6962.89685678296,2005,600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,BD,Bangladesh,country,South Asia,23.684994,90.356331,3927.08021346638,2005,41,1,0,0,0,0,0,0,22,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,BD,Bangladesh,country,South Asia,23.684994,90.356331,8041.53861398003,2005,158,0,0,0,0,0,0,0,0,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BD,Bangladesh,country,South Asia,23.684994,90.356331,7289.99220590719,2005,19224,13893,0,0,0,0,0,0,0,0,0,0,14,123,0,102,6,16,5076,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BD,Bangladesh,country,South Asia,23.684994,90.356331,17309.0605986495,2005,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BD,Bangladesh,country,South Asia,23.684994,90.356331,5951.20804631553,2005,1475,0,0,0,0,0,0,0,70,1285,48,0,0,72,0,0,29,0,0,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,BD,Bangladesh,country,South Asia,23.684994,90.356331,15864.5526939646,2005,69,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BD,Bangladesh,country,South Asia,23.684994,90.356331,5534.02116818123,2005,412,0,0,0,211,0,0,0,0,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BD,Bangladesh,country,South Asia,23.684994,90.356331,6386.09963993626,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BD,Bangladesh,country,South Asia,23.684994,90.356331,8004.3512791765,2005,23815,72,0,3204,19200,0,0,0,89,510,10,0,0,307,186,26,564,0,211,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,BD,Bangladesh,country,South Asia,23.684994,90.356331,8909.40675075354,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,BD,Bangladesh,country,South Asia,23.684994,90.356331,10960.564145738,2005,49,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BD,Bangladesh,country,South Asia,23.684994,90.356331,7299.27961476356,2005,30029,46,139,7534,0,0,1,0,0,546,0,1000,2,18,171,15,34,0,20557,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BD,Bangladesh,country,South Asia,23.684994,90.356331,9803.76819825155,2005,100,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BD,Bangladesh,country,South Asia,23.684994,90.356331,6580.05281721472,2005,538,0,0,0,0,0,0,0,3,535,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BD,Bangladesh,country,South Asia,23.684994,90.356331,15643.4347446866,2005,6627,0,0,5037,0,0,0,0,0,0,1590,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BD,Bangladesh,country,South Asia,23.684994,90.356331,8503.2719622202,2005,550,0,0,0,0,0,550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BD,Bangladesh,country,South Asia,23.684994,90.356331,1223.69420111112,2005,1075843,841485,0,6674,38570,1,20,76373,2946,33985,12087,43807,99,3292,5054,8,0,0,11442,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BD,Bangladesh,country,South Asia,23.684994,90.356331,3730.35439733117,2005,297360,101,0,177,0,0,58,0,8,588,2658,0,102,242,293391,35,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BD,Bangladesh,country,South Asia,23.684994,90.356331,3711.49947717687,2005,22008,0,0,4,0,58,0,0,20602,1128,216,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,BD,Bangladesh,country,South Asia,23.684994,90.356331,4650.90722059297,2005,210,0,0,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BD,Bangladesh,country,South Asia,23.684994,90.356331,8466.8138694039,2005,226,0,25,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,198,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BD,Bangladesh,country,South Asia,23.684994,90.356331,7307.76106779282,2005,936,517,0,0,1,0,0,2,0,336,0,0,0,17,32,1,0,0,30,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BD,Bangladesh,country,South Asia,23.684994,90.356331,4773.96736698547,2005,80,1,0,0,0,0,1,0,1,0,0,0,0,31,12,34,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,BD,Bangladesh,country,South Asia,23.684994,90.356331,5366.13775759877,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,BD,Bangladesh,country,South Asia,23.684994,90.356331,3407.68191418738,2005,12018,0,0,0,0,0,0,0,0,12018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BD,Bangladesh,country,South Asia,23.684994,90.356331,6243.44141209879,2005,448,0,0,0,0,0,0,0,0,442,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,BD,Bangladesh,country,South Asia,23.684994,90.356331,11281.1495596373,2005,2336,0,0,0,0,0,2336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,BD,Bangladesh,country,South Asia,23.684994,90.356331,1324.71107209227,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BD,Bangladesh,country,South Asia,23.684994,90.356331,5374.62285409729,2005,35,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LR,Liberia,country,Sub-Saharan Africa,6.428055,-9.429499,BD,Bangladesh,country,South Asia,23.684994,90.356331,10719.8291384058,2005,184,0,0,0,0,0,0,0,0,184,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BD,Bangladesh,country,South Asia,23.684994,90.356331,6680.24355754325,2005,137,0,0,0,0,0,0,0,0,0,137,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BD,Bangladesh,country,South Asia,23.684994,90.356331,7354.72901459482,2005,1500,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BD,Bangladesh,country,South Asia,23.684994,90.356331,2501.45020206639,2005,339566,928,27,1917,0,0,521,32,157,910,85,145,402,918,333415,2,40,42,30,0,35,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,BD,Bangladesh,country,South Asia,23.684994,90.356331,9667.70784645329,2005,13661,0,0,0,0,0,0,0,0,13661,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BD,Bangladesh,country,South Asia,23.684994,90.356331,7286.62609772221,2005,95,10,0,1,0,0,0,0,5,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0
+MH,Marshall Islands,country,East Asia and Pacific,7.131474,171.184478,BD,Bangladesh,country,South Asia,23.684994,90.356331,8768.87419822448,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BD,Bangladesh,country,South Asia,23.684994,90.356331,6056.68085049415,2005,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BD,Bangladesh,country,South Asia,23.684994,90.356331,14588.3192014465,2005,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+FM,Micronesia,country,East Asia and Pacific,7.425554,150.550812,BD,Bangladesh,country,South Asia,23.684994,90.356331,6654.928667139,2005,332,0,0,0,0,0,332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,BD,Bangladesh,country,South Asia,23.684994,90.356331,9311.10140023058,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BD,Bangladesh,country,South Asia,23.684994,90.356331,7593.02780869699,2005,1442,0,0,0,0,0,0,0,0,1442,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BD,Bangladesh,country,South Asia,23.684994,90.356331,607.482252415137,2005,180991,153567,0,0,27260,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BD,Bangladesh,country,South Asia,23.684994,90.356331,7632.39230045145,2005,6930,845,4639,406,0,0,0,0,20,0,0,260,4,556,38,30,238,1,131,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BD,Bangladesh,country,South Asia,23.684994,90.356331,11283.724065472,2005,12905,0,0,1129,0,0,0,0,143,4497,0,0,14,0,1590,0,0,0,5532,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BD,Bangladesh,country,South Asia,23.684994,90.356331,8480.46228650362,2005,38,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BD,Bangladesh,country,South Asia,23.684994,90.356331,8771.91257956289,2005,9112,0,0,0,0,0,0,0,0,9092,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BD,Bangladesh,country,South Asia,23.684994,90.356331,7301.71989425854,2005,4935,0,0,0,0,0,0,0,0,0,0,4935,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BD,Bangladesh,country,South Asia,23.684994,90.356331,3538.60307695496,2005,292,17,0,9,0,0,0,0,107,0,0,0,19,0,116,13,0,0,11,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BD,Bangladesh,country,South Asia,23.684994,90.356331,2208.29163869853,2005,38358,3848,0,784,3065,3,0,13,2093,26046,885,1077,5,489,0,0,0,0,50,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,BD,Bangladesh,country,South Asia,23.684994,90.356331,6708.87734522271,2005,2016,0,0,0,0,0,2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,BD,Bangladesh,country,South Asia,23.684994,90.356331,16860.2955867564,2005,863,0,0,0,0,0,0,0,0,863,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BD,Bangladesh,country,South Asia,23.684994,90.356331,17795.7264941305,2005,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BD,Bangladesh,country,South Asia,23.684994,90.356331,3521.82911191147,2005,1059,95,0,0,0,0,70,0,0,0,808,0,0,0,86,0,213,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BD,Bangladesh,country,South Asia,23.684994,90.356331,6693.01535591711,2005,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BD,Bangladesh,country,South Asia,23.684994,90.356331,9062.32997474219,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BD,Bangladesh,country,South Asia,23.684994,90.356331,3833.39958355868,2005,2280,344,1,1334,0,0,3,2,21,97,0,347,1,99,17,0,0,0,14,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BD,Bangladesh,country,South Asia,23.684994,90.356331,4363.83289461987,2005,57608,10118,0,0,352,0,47138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BD,Bangladesh,country,South Asia,23.684994,90.356331,4591.60924913344,2005,1229,81,0,19,0,0,0,31,541,0,0,0,0,20,19,0,0,465,53,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,BD,Bangladesh,country,South Asia,23.684994,90.356331,10824.8532371411,2005,580,0,0,0,0,0,0,0,0,580,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,BD,Bangladesh,country,South Asia,23.684994,90.356331,10858.822021974,2005,3,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BD,Bangladesh,country,South Asia,23.684994,90.356331,2879.17008205952,2005,7054,1416,0,77,0,15,1013,7,445,327,1082,0,219,467,1655,298,0,2,31,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,BD,Bangladesh,country,South Asia,23.684994,90.356331,6664.73081019315,2005,384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,384,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,BD,Bangladesh,country,South Asia,23.684994,90.356331,7041.42271171751,2005,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,BD,Bangladesh,country,South Asia,23.684994,90.356331,8443.74773699905,2005,4543,0,0,0,0,0,4543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,BD,Bangladesh,country,South Asia,23.684994,90.356331,5158.12619197687,2005,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BD,Bangladesh,country,South Asia,23.684994,90.356331,9389.08431997754,2005,6590,0,0,0,0,0,0,0,2414,4173,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BD,Bangladesh,country,South Asia,23.684994,90.356331,8663.99737618064,2005,617,61,0,381,0,0,1,7,49,0,0,0,56,1,59,0,0,0,2,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BD,Bangladesh,country,South Asia,23.684994,90.356331,2035.66206696733,2005,2845,2,0,11,0,0,1281,0,0,2,0,0,17,507,1024,0,0,1,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BD,Bangladesh,country,South Asia,23.684994,90.356331,6426.18560106151,2005,9776,0,0,0,0,0,0,0,0,9776,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,BD,Bangladesh,country,South Asia,23.684994,90.356331,15269.7609152805,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BD,Bangladesh,country,South Asia,23.684994,90.356331,8446.76598449672,2005,300,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BD,Bangladesh,country,South Asia,23.684994,90.356331,6741.92154071546,2005,82,18,0,0,0,0,0,0,0,0,0,0,47,12,5,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BD,Bangladesh,country,South Asia,23.684994,90.356331,7541.26228950079,2005,447,1,0,24,0,0,0,0,12,359,0,0,0,32,2,0,0,0,17,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,BD,Bangladesh,country,South Asia,23.684994,90.356331,5083.67799201727,2005,4148,0,0,0,1506,0,0,0,16,2292,334,0,0,0,0,0,0,0,0,0,0,0,0,0
+TJ,Tajikistan,country,Europe and Central Asia,38.861034,71.276093,BD,Bangladesh,country,South Asia,23.684994,90.356331,2469.94150529211,2005,10542,0,0,0,0,0,0,0,0,10542,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BD,Bangladesh,country,South Asia,23.684994,90.356331,1412.49123518025,2005,199609,11806,22848,149592,0,12,36,92,168,96,51,289,246,3145,9836,1142,0,2,248,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,BD,Bangladesh,country,South Asia,23.684994,90.356331,9587.21388933109,2005,3609,0,0,0,0,0,0,0,0,3609,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BD,Bangladesh,country,South Asia,23.684994,90.356331,7770.27887953464,2005,123,0,0,0,0,0,0,0,30,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BD,Bangladesh,country,South Asia,23.684994,90.356331,5422.38407587905,2005,16634,0,0,0,14572,0,0,0,17,1110,98,0,0,660,0,0,0,0,177,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,BD,Bangladesh,country,South Asia,23.684994,90.356331,3362.69192029874,2005,9588,0,0,0,0,0,0,0,0,9588,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BD,Bangladesh,country,South Asia,23.684994,90.356331,6724.18120769747,2005,3687,0,0,0,0,0,1,0,0,3686,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BD,Bangladesh,country,South Asia,23.684994,90.356331,5819.53384727614,2005,130584,82012,0,0,4492,0,42266,0,0,325,0,0,0,0,1,0,36,0,1488,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BD,Bangladesh,country,South Asia,23.684994,90.356331,3715.18551755001,2005,11031,385,1,21,0,4,1472,15,5604,0,202,2777,27,210,101,138,33,24,50,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BD,Bangladesh,country,South Asia,23.684994,90.356331,8101.03902961707,2005,2872,1641,4,2,0,0,0,9,6,202,0,0,5,32,20,66,73,7,878,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BD,Bangladesh,country,South Asia,23.684994,90.356331,6888.17124888705,2005,6395,0,0,0,130,0,0,0,0,6194,71,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BD,Bangladesh,country,South Asia,23.684994,90.356331,13242.1548837342,2005,144063,88854,277,28,4,41,2,822,924,50915,0,194,29,332,773,24,38,15,829,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BD,Bangladesh,country,South Asia,23.684994,90.356331,16584.9903924115,2005,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,BD,Bangladesh,country,South Asia,23.684994,90.356331,3097.77451143068,2005,255496,0,0,0,0,0,0,0,0,255496,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,BD,Bangladesh,country,South Asia,23.684994,90.356331,9392.24764634206,2005,2464,0,0,0,0,0,2464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BD,Bangladesh,country,South Asia,23.684994,90.356331,2167.35125381508,2005,3543,2664,171,0,0,0,0,0,0,0,528,0,0,180,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,BD,Bangladesh,country,South Asia,23.684994,90.356331,4463.29402953326,2005,397,0,0,0,0,0,0,0,0,397,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BD,Bangladesh,country,South Asia,23.684994,90.356331,7938.39496856878,2005,8412,0,0,0,0,0,0,0,0,8412,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BD,Bangladesh,country,South Asia,23.684994,90.356331,8167.47967429978,2005,1443,0,0,0,0,0,0,0,11,1332,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,BD,Bangladesh,country,South Asia,23.684994,90.356331,2478.37712409515,2006,6296,0,0,0,0,0,0,0,0,231,6065,0,0,0,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,BD,Bangladesh,country,South Asia,23.684994,90.356331,6693.44930654354,2006,6974,0,0,0,0,0,0,0,0,0,0,0,0,0,6974,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,BD,Bangladesh,country,South Asia,23.684994,90.356331,11382.8530875153,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,BD,Bangladesh,country,South Asia,23.684994,90.356331,14584.2990691532,2006,73,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BD,Bangladesh,country,South Asia,23.684994,90.356331,17079.4012566986,2006,520916,45010,0,0,0,0,119328,0,21,0,0,0,0,278,356185,0,0,0,94,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BD,Bangladesh,country,South Asia,23.684994,90.356331,7183.84385171473,2006,403029,260360,0,922,90855,0,35475,2,1812,210,0,8,4,16,2171,264,855,10,10920,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BD,Bangladesh,country,South Asia,23.684994,90.356331,7056.63405621953,2006,119,0,0,0,0,0,0,0,91,12,0,0,5,0,0,11,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,BD,Bangladesh,country,South Asia,23.684994,90.356331,4385.35451970349,2006,549,0,0,0,0,0,0,0,0,549,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,BD,Bangladesh,country,South Asia,23.684994,90.356331,14455.5408761288,2006,50,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BD,Bangladesh,country,South Asia,23.684994,90.356331,7726.08236810151,2006,2639,554,12,1305,0,0,0,0,0,0,0,0,1,318,50,11,0,0,388,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,BD,Bangladesh,country,South Asia,23.684994,90.356331,15485.6331794583,2006,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0
+BJ,Benin,country,Sub-Saharan Africa,9.30769,2.315834,BD,Bangladesh,country,South Asia,23.684994,90.356331,9406.33242445428,2006,251,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,BD,Bangladesh,country,South Asia,23.684994,90.356331,17195.4080396547,2006,84,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BD,Bangladesh,country,South Asia,23.684994,90.356331,15943.1166773441,2006,416439,0,0,363597,0,0,0,0,1035,2279,0,0,0,1282,48215,0,0,31,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BD,Bangladesh,country,South Asia,23.684994,90.356331,6241.17871108374,2006,202,0,0,0,0,0,0,0,0,177,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,BD,Bangladesh,country,South Asia,23.684994,90.356331,9666.49388678553,2006,3463,0,0,0,0,0,0,0,0,3463,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BD,Bangladesh,country,South Asia,23.684994,90.356331,7202.09066673386,2006,881,0,0,0,0,0,0,0,0,881,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BD,Bangladesh,country,South Asia,23.684994,90.356331,8470.75176260359,2006,4173,0,0,0,0,0,0,0,0,4139,34,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BD,Bangladesh,country,South Asia,23.684994,90.356331,11013.2212979032,2006,266063,67382,8,0,103275,0,94238,0,31,0,0,0,0,1019,10,0,39,0,100,0,0,0,0,0
+TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,BD,Bangladesh,country,South Asia,23.684994,90.356331,7495.99572251605,2006,6002,0,0,0,0,0,0,0,0,6002,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BD,Bangladesh,country,South Asia,23.684994,90.356331,17842.5857085156,2006,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BD,Bangladesh,country,South Asia,23.684994,90.356331,2434.69734247981,2006,769,0,0,0,0,0,1,0,0,763,0,0,3,2,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BD,Bangladesh,country,South Asia,23.684994,90.356331,1899.98662669885,2006,59014,6339,616,1670,1,3,150,14706,22677,1706,10345,264,20,420,59,12,0,0,26,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BD,Bangladesh,country,South Asia,23.684994,90.356331,3113.59306766267,2006,1139,5,0,1003,0,0,0,5,0,3,0,0,0,99,5,0,0,0,19,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BD,Bangladesh,country,South Asia,23.684994,90.356331,16478.2366695342,2006,6937,0,0,6937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,BD,Bangladesh,country,South Asia,23.684994,90.356331,6422.77378638011,2006,195,0,0,0,0,0,0,0,0,0,195,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,BD,Bangladesh,country,South Asia,23.684994,90.356331,16260.8565402604,2006,89,0,0,0,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,BD,Bangladesh,country,South Asia,23.684994,90.356331,10278.1771094849,2006,231,0,0,0,0,0,0,0,0,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BD,Bangladesh,country,South Asia,23.684994,90.356331,5590.21212258191,2006,357,49,0,0,0,0,0,0,224,0,0,0,0,1,83,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BD,Bangladesh,country,South Asia,23.684994,90.356331,6962.89685678296,2006,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,497,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,BD,Bangladesh,country,South Asia,23.684994,90.356331,3927.08021346638,2006,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BD,Bangladesh,country,South Asia,23.684994,90.356331,7289.99220590719,2006,5993,768,4,0,0,0,0,0,4,0,0,0,16,89,1,219,0,0,4892,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BD,Bangladesh,country,South Asia,23.684994,90.356331,17309.0605986495,2006,460,0,0,0,0,0,0,0,0,0,0,460,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BD,Bangladesh,country,South Asia,23.684994,90.356331,5951.20804631553,2006,2282,6,0,0,0,0,0,0,219,1739,171,0,0,147,0,0,200,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BD,Bangladesh,country,South Asia,23.684994,90.356331,5534.02116818123,2006,143,0,0,0,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BD,Bangladesh,country,South Asia,23.684994,90.356331,6386.09963993626,2006,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BD,Bangladesh,country,South Asia,23.684994,90.356331,8004.3512791765,2006,4628,125,0,3668,0,0,0,31,227,4,0,0,0,327,85,154,1039,7,0,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,BD,Bangladesh,country,South Asia,23.684994,90.356331,4778.21536964247,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BD,Bangladesh,country,South Asia,23.684994,90.356331,7299.27961476356,2006,19952,26,65,18905,0,0,0,0,0,130,0,193,0,86,68,89,53,0,390,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BD,Bangladesh,country,South Asia,23.684994,90.356331,9803.76819825155,2006,310,0,0,0,0,0,0,0,0,310,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BD,Bangladesh,country,South Asia,23.684994,90.356331,6580.05281721472,2006,29,2,0,0,0,0,0,0,2,0,0,0,5,19,0,1,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BD,Bangladesh,country,South Asia,23.684994,90.356331,15643.4347446866,2006,3923,0,0,2000,0,0,0,0,0,0,1923,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,BD,Bangladesh,country,South Asia,23.684994,90.356331,6688.07010646732,2006,97130,97130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IS,Iceland,country,Europe and Central Asia,64.963051,-19.020835,BD,Bangladesh,country,South Asia,23.684994,90.356331,8503.2719622202,2006,362,0,0,0,0,0,362,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BD,Bangladesh,country,South Asia,23.684994,90.356331,1223.69420111112,2006,1576183,881496,20,118820,44304,2,1,113362,11425,110304,3289,107192,120,171425,5501,12,0,0,8910,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BD,Bangladesh,country,South Asia,23.684994,90.356331,3730.35439733117,2006,796654,125,173,29,0,72,45,0,84,305,1489,0,88,363,793881,0,22,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BD,Bangladesh,country,South Asia,23.684994,90.356331,3711.49947717687,2006,22253,0,0,11,0,25,0,12,18438,3029,710,0,0,27,0,1,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BD,Bangladesh,country,South Asia,23.684994,90.356331,8466.8138694039,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BD,Bangladesh,country,South Asia,23.684994,90.356331,7307.76106779282,2006,1550,412,66,92,0,0,1,3,283,637,0,0,0,16,31,9,0,0,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,BD,Bangladesh,country,South Asia,23.684994,90.356331,15195.438922312,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BD,Bangladesh,country,South Asia,23.684994,90.356331,4773.96736698547,2006,70,8,0,0,0,0,0,0,0,0,0,0,0,50,3,9,0,0,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,BD,Bangladesh,country,South Asia,23.684994,90.356331,3407.68191418738,2006,7683,0,0,0,0,0,0,0,0,7683,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BD,Bangladesh,country,South Asia,23.684994,90.356331,6243.44141209879,2006,44,0,0,0,0,0,0,0,0,37,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,BD,Bangladesh,country,South Asia,23.684994,90.356331,4293.53365676465,2006,488,1,0,0,0,0,0,0,0,0,0,0,0,0,487,0,0,0,0,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,BD,Bangladesh,country,South Asia,23.684994,90.356331,2430.53657887284,2006,130,0,0,0,0,0,0,0,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,BD,Bangladesh,country,South Asia,23.684994,90.356331,1324.71107209227,2006,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,BD,Bangladesh,country,South Asia,23.684994,90.356331,6365.80090016658,2006,44,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BD,Bangladesh,country,South Asia,23.684994,90.356331,5374.62285409729,2006,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,BD,Bangladesh,country,South Asia,23.684994,90.356331,6391.70382304957,2006,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BD,Bangladesh,country,South Asia,23.684994,90.356331,6680.24355754325,2006,54,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BD,Bangladesh,country,South Asia,23.684994,90.356331,7354.72901459482,2006,624,0,0,0,0,0,0,0,0,622,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BD,Bangladesh,country,South Asia,23.684994,90.356331,2501.45020206639,2006,758062,1489,199,251,237,0,281,15,101,110,132,0,449,957,752921,33,0,18,118,0,751,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,BD,Bangladesh,country,South Asia,23.684994,90.356331,9667.70784645329,2006,18995,0,0,0,0,0,0,0,0,18995,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BD,Bangladesh,country,South Asia,23.684994,90.356331,7286.62609772221,2006,37,2,0,0,0,0,0,0,2,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+MH,Marshall Islands,country,East Asia and Pacific,7.131474,171.184478,BD,Bangladesh,country,South Asia,23.684994,90.356331,8768.87419822448,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BD,Bangladesh,country,South Asia,23.684994,90.356331,14588.3192014465,2006,435,0,0,0,0,0,0,0,0,428,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+MS,Montserrat,country,Latin America and the Caribbean,16.7425,-62.1874,BD,Bangladesh,country,South Asia,23.684994,90.356331,14637.0690543484,2006,32,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BD,Bangladesh,country,South Asia,23.684994,90.356331,7593.02780869699,2006,444,0,0,0,0,0,0,0,0,444,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BD,Bangladesh,country,South Asia,23.684994,90.356331,607.482252415137,2006,53584,45951,0,999,6414,0,0,202,0,0,0,0,0,1,17,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BD,Bangladesh,country,South Asia,23.684994,90.356331,7632.39230045145,2006,4958,797,2110,549,0,0,0,0,21,51,3,740,2,433,38,205,772,1,8,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BD,Bangladesh,country,South Asia,23.684994,90.356331,11283.724065472,2006,11254,5,0,1883,0,0,0,0,0,2005,20,0,3,0,930,0,0,2,6406,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BD,Bangladesh,country,South Asia,23.684994,90.356331,8771.91257956289,2006,9068,11,0,0,0,0,0,0,0,9057,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BD,Bangladesh,country,South Asia,23.684994,90.356331,7301.71989425854,2006,255,0,0,0,0,0,0,0,0,0,0,255,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BD,Bangladesh,country,South Asia,23.684994,90.356331,3538.60307695496,2006,445,64,0,23,0,0,0,0,187,0,0,0,18,0,138,8,0,0,7,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BD,Bangladesh,country,South Asia,23.684994,90.356331,2208.29163869853,2006,77624,7232,0,501,4844,31,0,8,1545,26780,2060,130,13,34460,0,20,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,BD,Bangladesh,country,South Asia,23.684994,90.356331,16323.1655055819,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PG,Papua New Guinea,country,East Asia and Pacific,-6.314993,143.95555,BD,Bangladesh,country,South Asia,23.684994,90.356331,6708.87734522271,2006,2067,0,0,0,0,0,2067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BD,Bangladesh,country,South Asia,23.684994,90.356331,17795.7264941305,2006,168,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BD,Bangladesh,country,South Asia,23.684994,90.356331,3521.82911191147,2006,1381,114,0,0,0,0,0,0,0,0,1232,0,0,1,34,0,27,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BD,Bangladesh,country,South Asia,23.684994,90.356331,6693.01535591711,2006,19248,0,0,19248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BD,Bangladesh,country,South Asia,23.684994,90.356331,9062.32997474219,2006,82,0,0,0,0,0,0,0,0,0,0,0,0,78,0,4,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,BD,Bangladesh,country,South Asia,23.684994,90.356331,3957.70887263231,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BD,Bangladesh,country,South Asia,23.684994,90.356331,3833.39958355868,2006,1440,335,1,900,0,0,2,2,22,22,1,0,1,92,0,19,0,0,43,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,BD,Bangladesh,country,South Asia,23.684994,90.356331,6018.83031102716,2006,11451,11451,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,BD,Bangladesh,country,South Asia,23.684994,90.356331,6274.677339243,2006,289,0,0,0,0,0,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BD,Bangladesh,country,South Asia,23.684994,90.356331,4363.83289461987,2006,1018605,996242,0,0,0,0,22230,0,0,131,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BD,Bangladesh,country,South Asia,23.684994,90.356331,4591.60924913344,2006,512,2,0,16,0,0,0,0,128,0,0,0,0,0,0,59,0,307,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,BD,Bangladesh,country,South Asia,23.684994,90.356331,10824.8532371411,2006,89,0,0,0,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BD,Bangladesh,country,South Asia,23.684994,90.356331,2879.17008205952,2006,10604,248,0,67,0,0,28,2,411,2,1024,0,154,521,6311,1274,0,35,527,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,BD,Bangladesh,country,South Asia,23.684994,90.356331,6664.73081019315,2006,81,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,BD,Bangladesh,country,South Asia,23.684994,90.356331,7041.42271171751,2006,15,6,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,3,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,BD,Bangladesh,country,South Asia,23.684994,90.356331,8443.74773699905,2006,12332,0,0,0,0,0,12332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BD,Bangladesh,country,South Asia,23.684994,90.356331,9389.08431997754,2006,57142,2,0,54500,0,0,0,0,1544,1071,0,0,0,3,0,19,0,0,3,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BD,Bangladesh,country,South Asia,23.684994,90.356331,8663.99737618064,2006,632,55,0,202,0,0,1,0,14,0,0,217,0,2,138,2,0,0,1,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BD,Bangladesh,country,South Asia,23.684994,90.356331,2035.66206696733,2006,2675,55,0,0,0,0,1167,0,0,0,0,0,9,258,1184,2,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BD,Bangladesh,country,South Asia,23.684994,90.356331,6426.18560106151,2006,8968,0,0,0,0,0,0,0,0,8968,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BD,Bangladesh,country,South Asia,23.684994,90.356331,8446.76598449672,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BD,Bangladesh,country,South Asia,23.684994,90.356331,6741.92154071546,2006,1595,9,0,1540,0,0,0,0,0,0,0,0,27,0,0,19,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BD,Bangladesh,country,South Asia,23.684994,90.356331,7541.26228950079,2006,845,0,0,54,0,0,0,0,0,697,0,0,0,78,0,0,0,0,16,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,BD,Bangladesh,country,South Asia,23.684994,90.356331,5083.67799201727,2006,9745,0,0,0,0,0,0,0,0,7313,2432,0,0,0,0,0,0,0,0,0,0,0,0,0
+TJ,Tajikistan,country,Europe and Central Asia,38.861034,71.276093,BD,Bangladesh,country,South Asia,23.684994,90.356331,2469.94150529211,2006,5973,0,0,0,0,0,0,0,0,5973,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BD,Bangladesh,country,South Asia,23.684994,90.356331,1412.49123518025,2006,62528,341,24616,26908,0,264,40,52,134,1,141,290,251,6461,2521,477,0,4,27,0,0,0,0,0
+TG,Togo,country,Sub-Saharan Africa,8.619543,0.824782,BD,Bangladesh,country,South Asia,23.684994,90.356331,9587.21388933109,2006,324,0,0,0,0,0,0,0,0,324,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,BD,Bangladesh,country,South Asia,23.684994,90.356331,11376.7979542396,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BD,Bangladesh,country,South Asia,23.684994,90.356331,7770.27887953464,2006,86,0,0,0,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BD,Bangladesh,country,South Asia,23.684994,90.356331,5422.38407587905,2006,48315,47319,0,2,0,0,0,0,0,109,201,0,16,638,30,0,0,0,0,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,BD,Bangladesh,country,South Asia,23.684994,90.356331,3362.69192029874,2006,8336,0,0,0,0,0,0,0,21,8315,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BD,Bangladesh,country,South Asia,23.684994,90.356331,6724.18120769747,2006,790,0,0,0,0,0,0,0,0,689,0,0,0,1,0,0,0,0,100,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BD,Bangladesh,country,South Asia,23.684994,90.356331,5819.53384727614,2006,527967,488726,0,0,2447,0,35056,0,0,662,0,0,0,0,0,0,110,0,1076,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BD,Bangladesh,country,South Asia,23.684994,90.356331,3715.18551755001,2006,16259,148,9,10,0,8,5,5,4429,0,896,0,30,70,10341,121,0,3,184,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BD,Bangladesh,country,South Asia,23.684994,90.356331,8101.03902961707,2006,4942,1441,6,0,0,0,0,0,4,578,0,23,0,94,3,459,107,3,2331,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BD,Bangladesh,country,South Asia,23.684994,90.356331,6888.17124888705,2006,4598,0,0,0,0,0,0,0,0,4598,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BD,Bangladesh,country,South Asia,23.684994,90.356331,13242.1548837342,2006,159167,91026,339,548,256,131,6339,1058,902,28006,0,501,3,813,25768,41,251,3,3433,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,BD,Bangladesh,country,South Asia,23.684994,90.356331,3097.77451143068,2006,283862,0,0,0,0,0,0,0,0,283862,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,BD,Bangladesh,country,South Asia,23.684994,90.356331,9392.24764634206,2006,81,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,BD,Bangladesh,country,South Asia,23.684994,90.356331,15853.0254377722,2006,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BD,Bangladesh,country,South Asia,23.684994,90.356331,2167.35125381508,2006,2894,3,1336,0,0,0,34,0,2,2,989,0,0,266,0,262,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,BD,Bangladesh,country,South Asia,23.684994,90.356331,4463.29402953326,2006,46,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BD,Bangladesh,country,South Asia,23.684994,90.356331,7938.39496856878,2006,6945,0,0,0,0,0,0,0,0,6945,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BD,Bangladesh,country,South Asia,23.684994,90.356331,8167.47967429978,2006,3860,0,0,0,0,0,0,0,0,2921,0,0,0,939,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,BD,Bangladesh,country,South Asia,23.684994,90.356331,2478.37712409515,2007,12311,0,0,0,0,0,0,0,0,0,12311,0,0,0,0,0,0,0,0,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,BD,Bangladesh,country,South Asia,23.684994,90.356331,14584.2990691532,2007,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BD,Bangladesh,country,South Asia,23.684994,90.356331,17079.4012566986,2007,643897,0,0,6,0,0,140340,0,21,0,0,0,0,341,502029,0,0,0,1160,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,BD,Bangladesh,country,South Asia,23.684994,90.356331,4596.46198383735,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BD,Bangladesh,country,South Asia,23.684994,90.356331,7183.84385171473,2007,156132,3233,0,3568,111712,0,20646,4,3266,25,0,6,6,35,2012,336,767,32,11251,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BD,Bangladesh,country,South Asia,23.684994,90.356331,7056.63405621953,2007,151,0,0,0,0,0,0,1,33,0,0,0,0,0,114,3,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,BD,Bangladesh,country,South Asia,23.684994,90.356331,4385.35451970349,2007,1817,0,0,0,0,0,0,0,0,1817,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BS,The Bahamas,country,Latin America and the Caribbean,25.03428,-77.39628,BD,Bangladesh,country,South Asia,23.684994,90.356331,14455.5408761288,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+BY,Belarus,country,Europe and Central Asia,53.709807,27.953389,BD,Bangladesh,country,South Asia,23.684994,90.356331,6112.41889500881,2007,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BD,Bangladesh,country,South Asia,23.684994,90.356331,7726.08236810151,2007,1143,559,26,56,0,0,0,0,0,0,0,0,1,348,53,37,0,0,63,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,BD,Bangladesh,country,South Asia,23.684994,90.356331,15485.6331794583,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BD,Bangladesh,country,South Asia,23.684994,90.356331,15943.1166773441,2007,792918,7,0,680254,0,0,0,0,3041,583,179,0,0,1365,107417,0,0,72,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BD,Bangladesh,country,South Asia,23.684994,90.356331,6241.17871108374,2007,51152,51128,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+BF,Burkina Faso,country,Sub-Saharan Africa,12.238333,-1.561593,BD,Bangladesh,country,South Asia,23.684994,90.356331,9666.49388678553,2007,2414,0,0,0,0,0,0,0,0,2414,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,BD,Bangladesh,country,South Asia,23.684994,90.356331,7202.09066673386,2007,828,0,0,0,0,0,0,0,0,828,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BD,Bangladesh,country,South Asia,23.684994,90.356331,8470.75176260359,2007,1269,0,0,0,0,0,0,0,0,1226,43,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BD,Bangladesh,country,South Asia,23.684994,90.356331,11013.2212979032,2007,708779,266219,0,0,323830,0,118448,0,0,0,0,0,0,279,0,0,250,0,0,3,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,BD,Bangladesh,country,South Asia,23.684994,90.356331,15128.7962985079,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TD,Chad,country,Sub-Saharan Africa,15.454166,18.732207,BD,Bangladesh,country,South Asia,23.684994,90.356331,7495.99572251605,2007,3542,0,0,0,0,0,0,0,0,3542,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BD,Bangladesh,country,South Asia,23.684994,90.356331,17842.5857085156,2007,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BD,Bangladesh,country,South Asia,23.684994,90.356331,2434.69734247981,2007,914,0,0,0,0,0,1,137,0,741,23,0,0,12,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BD,Bangladesh,country,South Asia,23.684994,90.356331,1899.98662669885,2007,238652,66194,157,3161,318,8,20,107748,39408,2199,17796,40,37,951,517,5,0,0,93,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BD,Bangladesh,country,South Asia,23.684994,90.356331,3113.59306766267,2007,246,0,0,20,0,0,0,0,0,59,0,0,0,86,21,60,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,BD,Bangladesh,country,South Asia,23.684994,90.356331,16478.2366695342,2007,2577,0,0,2577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,BD,Bangladesh,country,South Asia,23.684994,90.356331,6422.77378638011,2007,135,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,BD,Bangladesh,country,South Asia,23.684994,90.356331,16260.8565402604,2007,44,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,BD,Bangladesh,country,South Asia,23.684994,90.356331,10278.1771094849,2007,351,0,0,0,0,0,0,0,0,351,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BD,Bangladesh,country,South Asia,23.684994,90.356331,5590.21212258191,2007,269,45,0,0,0,0,0,0,167,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BD,Bangladesh,country,South Asia,23.684994,90.356331,6962.89685678296,2007,1352,0,0,0,0,0,0,0,0,301,0,0,0,0,0,1,0,0,1050,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BD,Bangladesh,country,South Asia,23.684994,90.356331,7289.99220590719,2007,6006,1001,0,5,0,0,0,0,1,0,0,0,7,43,0,199,0,12,4738,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,BD,Bangladesh,country,South Asia,23.684994,90.356331,14862.9937861277,2007,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BD,Bangladesh,country,South Asia,23.684994,90.356331,5951.20804631553,2007,4332,6,0,1,0,0,0,0,2161,1108,994,0,0,57,0,4,0,0,1,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,BD,Bangladesh,country,South Asia,23.684994,90.356331,15864.5526939646,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BD,Bangladesh,country,South Asia,23.684994,90.356331,5534.02116818123,2007,476,0,0,0,0,0,0,0,0,476,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BD,Bangladesh,country,South Asia,23.684994,90.356331,6386.09963993626,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BD,Bangladesh,country,South Asia,23.684994,90.356331,8004.3512791765,2007,893,120,160,1,0,0,0,8,15,2,0,0,2,362,2,221,660,0,0,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,BD,Bangladesh,country,South Asia,23.684994,90.356331,4778.21536964247,2007,36,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BD,Bangladesh,country,South Asia,23.684994,90.356331,7299.27961476356,2007,3403,103,36,2608,0,0,0,1,0,74,0,0,5,9,69,15,0,0,483,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BD,Bangladesh,country,South Asia,23.684994,90.356331,6580.05281721472,2007,99,5,0,0,0,0,0,0,0,0,0,0,23,70,0,1,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,BD,Bangladesh,country,South Asia,23.684994,90.356331,15643.4347446866,2007,1848,0,0,0,0,0,0,0,0,0,1848,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,BD,Bangladesh,country,South Asia,23.684994,90.356331,15693.0542360722,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BD,Bangladesh,country,South Asia,23.684994,90.356331,1223.69420111112,2007,1730905,777919,127,283178,15362,6,3,99214,26214,170098,31040,311637,148,3513,7269,0,0,0,5162,15,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BD,Bangladesh,country,South Asia,23.684994,90.356331,3730.35439733117,2007,1007229,113,0,44,0,501,0,0,0,5,774,0,71,407,1005231,4,0,0,25,0,54,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BD,Bangladesh,country,South Asia,23.684994,90.356331,3711.49947717687,2007,19726,19,0,27,0,17,0,3,12036,7601,0,0,8,0,0,0,0,0,15,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,BD,Bangladesh,country,South Asia,23.684994,90.356331,4650.90722059297,2007,45,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BD,Bangladesh,country,South Asia,23.684994,90.356331,8466.8138694039,2007,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BD,Bangladesh,country,South Asia,23.684994,90.356331,5492.97228956818,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BD,Bangladesh,country,South Asia,23.684994,90.356331,7307.76106779282,2007,1625,178,0,23,6,1,2,8,24,1131,0,0,0,158,85,4,0,0,0,5,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BD,Bangladesh,country,South Asia,23.684994,90.356331,4773.96736698547,2007,128,2,0,0,0,0,0,0,0,0,0,0,0,102,1,23,0,0,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,BD,Bangladesh,country,South Asia,23.684994,90.356331,3407.68191418738,2007,54488,50794,0,0,0,0,0,0,0,3694,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BD,Bangladesh,country,South Asia,23.684994,90.356331,6243.44141209879,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,BD,Bangladesh,country,South Asia,23.684994,90.356331,4293.53365676465,2007,10,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,2,0,0,0,0,0
+KG,Kyrgyz Rep.,country,Europe and Central Asia,41.20438,74.766098,BD,Bangladesh,country,South Asia,23.684994,90.356331,2430.53657887284,2007,323,0,0,0,0,0,0,0,0,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LV,Latvia,country,Europe and Central Asia,56.879635,24.603189,BD,Bangladesh,country,South Asia,23.684994,90.356331,6365.80090016658,2007,119,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,BD,Bangladesh,country,South Asia,23.684994,90.356331,6391.70382304957,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BD,Bangladesh,country,South Asia,23.684994,90.356331,6680.24355754325,2007,331,0,0,0,0,0,0,0,0,0,331,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BD,Bangladesh,country,South Asia,23.684994,90.356331,7354.72901459482,2007,348,0,0,0,0,0,0,0,0,348,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BD,Bangladesh,country,South Asia,23.684994,90.356331,2501.45020206639,2007,757806,1188,126,3480,0,126,300,7,84,0,126,0,507,1206,749267,14,0,4,986,0,385,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,BD,Bangladesh,country,South Asia,23.684994,90.356331,9667.70784645329,2007,13575,0,0,0,0,0,0,0,0,13575,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BD,Bangladesh,country,South Asia,23.684994,90.356331,7286.62609772221,2007,112,19,0,2,0,0,0,0,6,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BD,Bangladesh,country,South Asia,23.684994,90.356331,14588.3192014465,2007,6,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,BD,Bangladesh,country,South Asia,23.684994,90.356331,607.482252415137,2007,29118,21027,0,0,8076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,BD,Bangladesh,country,South Asia,23.684994,90.356331,814.253395692093,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BD,Bangladesh,country,South Asia,23.684994,90.356331,7632.39230045145,2007,6696,606,4886,443,0,0,0,0,30,0,0,0,6,403,24,233,158,1,64,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BD,Bangladesh,country,South Asia,23.684994,90.356331,11283.724065472,2007,14223,4,0,1881,0,0,0,1,0,2613,0,0,0,0,750,0,0,2,8972,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,BD,Bangladesh,country,South Asia,23.684994,90.356331,15940.1723970895,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BD,Bangladesh,country,South Asia,23.684994,90.356331,8771.91257956289,2007,6068,0,0,0,0,0,0,0,0,6068,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BD,Bangladesh,country,South Asia,23.684994,90.356331,7301.71989425854,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BD,Bangladesh,country,South Asia,23.684994,90.356331,3538.60307695496,2007,273,50,0,24,0,0,0,0,27,0,0,0,27,0,139,2,14,0,4,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BD,Bangladesh,country,South Asia,23.684994,90.356331,2208.29163869853,2007,79689,56167,0,509,0,24,0,12,1683,18166,2439,0,18,671,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,BD,Bangladesh,country,South Asia,23.684994,90.356331,17795.7264941305,2007,308,0,0,1,0,0,0,0,0,0,0,0,0,307,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BD,Bangladesh,country,South Asia,23.684994,90.356331,3521.82911191147,2007,477,94,0,0,0,0,0,0,0,0,312,0,0,0,71,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BD,Bangladesh,country,South Asia,23.684994,90.356331,6693.01535591711,2007,297,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,200,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BD,Bangladesh,country,South Asia,23.684994,90.356331,9062.32997474219,2007,230,0,0,0,0,0,0,0,0,0,0,0,0,229,0,1,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,BD,Bangladesh,country,South Asia,23.684994,90.356331,3957.70887263231,2007,15,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BD,Bangladesh,country,South Asia,23.684994,90.356331,3833.39958355868,2007,3996,594,0,1532,0,0,4,0,49,1065,0,0,0,501,110,9,0,0,132,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,BD,Bangladesh,country,South Asia,23.684994,90.356331,6018.83031102716,2007,9976,9976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,BD,Bangladesh,country,South Asia,23.684994,90.356331,6274.677339243,2007,164313,164313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BD,Bangladesh,country,South Asia,23.684994,90.356331,4363.83289461987,2007,1251247,1221267,0,0,396,0,29479,0,0,98,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,BD,Bangladesh,country,South Asia,23.684994,90.356331,9372.75626150451,2007,26,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BD,Bangladesh,country,South Asia,23.684994,90.356331,4591.60924913344,2007,1256,22,0,0,0,0,0,0,854,0,0,0,0,1,0,0,0,344,35,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,BD,Bangladesh,country,South Asia,23.684994,90.356331,10858.822021974,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BD,Bangladesh,country,South Asia,23.684994,90.356331,2879.17008205952,2007,6919,210,1,108,0,0,31,0,7,1483,968,0,217,446,1419,1236,0,9,784,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,BD,Bangladesh,country,South Asia,23.684994,90.356331,6664.73081019315,2007,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0
+SI,Slovenia,country,Europe and Central Asia,46.151241,14.995463,BD,Bangladesh,country,South Asia,23.684994,90.356331,7041.42271171751,2007,5,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,BD,Bangladesh,country,South Asia,23.684994,90.356331,8443.74773699905,2007,3448,0,0,0,0,0,3448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,BD,Bangladesh,country,South Asia,23.684994,90.356331,5158.12619197687,2007,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BD,Bangladesh,country,South Asia,23.684994,90.356331,9389.08431997754,2007,4601,9,0,0,0,0,0,0,3043,1506,0,0,0,12,0,27,0,0,4,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BD,Bangladesh,country,South Asia,23.684994,90.356331,8663.99737618064,2007,445,114,0,119,0,0,35,1,43,0,0,0,0,0,123,10,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BD,Bangladesh,country,South Asia,23.684994,90.356331,2035.66206696733,2007,2827,27,0,0,0,0,1760,0,0,0,0,0,18,250,768,4,0,0,0,0,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BD,Bangladesh,country,South Asia,23.684994,90.356331,6426.18560106151,2007,7212,0,0,0,0,0,0,0,0,7212,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,BD,Bangladesh,country,South Asia,23.684994,90.356331,15269.7609152805,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BD,Bangladesh,country,South Asia,23.684994,90.356331,8446.76598449672,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BD,Bangladesh,country,South Asia,23.684994,90.356331,6741.92154071546,2007,86,0,0,0,0,0,0,0,0,0,0,0,14,31,0,21,0,0,20,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BD,Bangladesh,country,South Asia,23.684994,90.356331,7541.26228950079,2007,4766,0,0,80,0,0,0,0,0,4619,0,0,1,28,0,0,0,0,38,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,BD,Bangladesh,country,South Asia,23.684994,90.356331,5083.67799201727,2007,989,0,0,0,0,0,0,0,0,984,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+TJ,Tajikistan,country,Europe and Central Asia,38.861034,71.276093,BD,Bangladesh,country,South Asia,23.684994,90.356331,2469.94150529211,2007,5819,0,0,0,0,0,0,0,0,5819,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BD,Bangladesh,country,South Asia,23.684994,90.356331,1412.49123518025,2007,221448,1788,43431,137007,0,6772,59,97,317,2,21,2,242,3765,27641,281,0,1,22,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,BD,Bangladesh,country,South Asia,23.684994,90.356331,7770.27887953464,2007,351,0,0,0,249,0,0,0,9,92,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BD,Bangladesh,country,South Asia,23.684994,90.356331,5422.38407587905,2007,117752,59534,0,13,55677,0,0,7,10,1810,154,0,72,429,46,0,0,0,0,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,BD,Bangladesh,country,South Asia,23.684994,90.356331,3362.69192029874,2007,43272,0,0,0,0,36,0,0,0,43236,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TC,Turks and Caicos Islands,country,Latin America and the Caribbean,21.694025,-71.797928,BD,Bangladesh,country,South Asia,23.684994,90.356331,14628.7469337473,2007,120,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BD,Bangladesh,country,South Asia,23.684994,90.356331,6724.18120769747,2007,2241,0,0,0,0,0,0,0,0,2126,0,0,0,0,0,0,0,0,115,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,BD,Bangladesh,country,South Asia,23.684994,90.356331,5819.53384727614,2007,502288,456712,0,0,6743,0,31505,0,0,1538,92,0,1,1,0,23,0,0,5673,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BD,Bangladesh,country,South Asia,23.684994,90.356331,3715.18551755001,2007,11545,194,4,121,0,30,10,10,8677,0,1781,0,33,77,183,182,85,6,195,42,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BD,Bangladesh,country,South Asia,23.684994,90.356331,8101.03902961707,2007,5088,1829,0,355,0,0,0,1,3,1162,0,0,3,117,2,468,76,0,1148,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BD,Bangladesh,country,South Asia,23.684994,90.356331,6888.17124888705,2007,265,0,0,0,0,0,0,0,0,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BD,Bangladesh,country,South Asia,23.684994,90.356331,13242.1548837342,2007,121810,50788,82,2023,309,56,2,818,581,39140,0,1801,4,1176,22054,27,1372,14,2935,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BD,Bangladesh,country,South Asia,23.684994,90.356331,16584.9903924115,2007,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,BD,Bangladesh,country,South Asia,23.684994,90.356331,3097.77451143068,2007,435718,0,0,0,0,0,0,0,0,435718,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,BD,Bangladesh,country,South Asia,23.684994,90.356331,9392.24764634206,2007,5762,0,0,0,0,0,5762,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VE,Venezuela,country,Latin America and the Caribbean,6.42375,-66.58973,BD,Bangladesh,country,South Asia,23.684994,90.356331,15853.0254377722,2007,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BD,Bangladesh,country,South Asia,23.684994,90.356331,2167.35125381508,2007,8808,28,7703,5,0,0,0,0,10,194,369,0,1,260,0,238,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,BD,Bangladesh,country,South Asia,23.684994,90.356331,4463.29402953326,2007,180,0,0,0,0,0,0,0,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BD,Bangladesh,country,South Asia,23.684994,90.356331,7938.39496856878,2007,3025,0,0,0,0,0,0,0,0,3011,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BD,Bangladesh,country,South Asia,23.684994,90.356331,8167.47967429978,2007,4259,0,0,0,0,0,0,0,0,3530,0,0,0,729,0,0,0,0,0,0,0,0,0,0

@@ -55,11 +55,9 @@ var balance_data = d3.map();
 var mouseSim;
 
 
-
-
 //size scales
 var destScale = d3.scaleSqrt();
-var numParticles = d3.scaleLinear().domain([0, 20000]).range([1,20]);
+var numParticles = d3.scaleThreshold().domain([0, 10000, 12500, 15000, 17500, 20000]).range([1,5,8,9,12,20]);
 var countryColor = d3.scaleLinear().domain([0, 45000000 / 2, 45000000]).range(['#593c31', '#a08d75', '#9b9081']);//'#b5684c','#c16e4f']);//'#ad7966'
 
 //color scales
@@ -69,6 +67,21 @@ var balanceColorScale = d3.scaleLinear()
 
 //area generator
 var area = d3.area();
+var importLine = d3.line()
+    .x(function (d) {
+        return x(+d.year);
+    })
+    .y(function (d) {
+        return y(+d.importQuantity);
+    });
+var exportLine = d3.line()
+    .x(function (d) {
+        return x(+d.year);
+    })
+    .y(function (d) {
+        return y(+d.exportQuantity);
+    });
+
 
 //map projection
 var proj = d3.geoEquirectangular();
@@ -113,7 +126,6 @@ function resetScales(){
     xBar.rangeRound([0, width - 200]);
     y.rangeRound([90, 0]);
 
-    console.log((width/1100));
     destScale.domain([0, 45000000]).range([1, 10*(width/1100)]);
 
     area
@@ -124,6 +136,7 @@ function resetScales(){
         .y1(function (d) {
             return y(+d.totalTons);
         });
+
 
     d3.selectAll('.country')
         .attr("d", path);
@@ -211,18 +224,32 @@ queue()
                 .attr("value", n.NAME); //what is going to be written in value
         });
 
+
+        resetScales();
+
         foodExports.forEach(function (d) {
             var dest = proj([d.destLong, d.destLat]);
             var source = proj([d.sourceLong, d.sourceLat]);
             var destTotal = d.totalTons;
             d.nP = numParticles(destTotal);
 
-            d.bezPoints = {
-                p0: {x: source[0], y: source[1]},
-                p1: {x: source[0] + 0, y: source[1] - (150)},//control 1 y
-                p2: {x: dest[0] - 0, y: dest[1] - (100)}, //control 2 y
-                p3: {x: dest[0], y: dest[1]}
-            };
+            if(selectedDirection == "Imports"){
+                d.bezPoints = {
+                    p0: {x: source[0], y: source[1]},
+                    p1: {x: source[0] + 0, y: source[1] - (20)},//control 1 y
+                    p2: {x: dest[0] - 0, y: dest[1] - (350)}, //control 2 y
+                    p3: {x: dest[0], y: dest[1]}
+                };
+            }
+            else if (selectedDirection == "Exports"){
+                d.bezPoints = {
+                    p0: {x: source[0], y: source[1]},
+                    p1: {x: source[0] + 0, y: source[1] - (250)},//control 1 y
+                    p2: {x: dest[0] - 0, y: dest[1] - (100)}, //control 2 y
+                    p3: {x: dest[0], y: dest[1]}
+                };
+            }
+
 
             var particleArray = [];
             var particleRandom = Math.random() * 1 / d.nP;
@@ -239,9 +266,6 @@ queue()
             return d.year == selectedYear;
         });
 
-        console.log(trade);
-
-        console.log(balance);
 
         balanceData = balance;
 
@@ -254,9 +278,7 @@ queue()
 
         var scaleMax = Math.max(maxIn, maxOut);
 
-        //balanceColorScale.domain([-scaleMax, 0, scaleMax]);
 
-        //balanceColorScale.domain([]);
         balance.forEach(function (d) {
 
             balance_data.set(d.countryCode,
@@ -270,7 +292,7 @@ queue()
 
         });
 
-        resetScales();
+
         drawTimeline(timelineData);
         svgLoaded(mapData, countryTable)
 
@@ -362,6 +384,12 @@ function drawTimeline(timelineData) {
         .attr('fill', 'transparent')
         .on('mouseenter', function (d) {
             //d3.selectAll('.bar').attr('fill','transparent');
+
+            clearInterval (myTimer);
+
+            d3.selectAll('#playButton')
+                .classed("selected", false);
+
             selectedYear = d.year;
             d3.select(this).style('fill-opacity', .2).attr('fill', 'gray');//.style('fill-opacity',.2).attr('fill',mapHighlightColor);
             update(selectedCountry, selectedDirection, d.year);
@@ -467,8 +495,6 @@ function svgLoaded(data, countryLookup) {
             }
         });
 
-    console.log(data);
-
     topoData = topojson.feature(data, data.objects.worldcountries);
 
     var titleText;
@@ -493,12 +519,9 @@ function svgLoaded(data, countryLookup) {
 
         })
         .style('fill-opacity', '.5')
-        .style('stroke', mapOutlineColor)//'#baada9')
-        .style('stroke-width', 1)
+        .attr('stroke', mapOutlineColor)//'#baada9')
+        .attr('stroke-width', 1)
         .attr("d", path);
-
-
-    console.log(countryLookup);
 
     var countryDots = map.selectAll('.dot')
         .data(countryLookup)
@@ -541,9 +564,6 @@ function svgLoaded(data, countryLookup) {
 };
 
 
-function updateParticles() {
-    drawCanvas();
-}
 
 var t = .01;
 
@@ -667,7 +687,7 @@ function main() {
         context.clearRect(0, 0, width, height);
 
         if (!balanceSelected) {
-            updateParticles();
+            drawCanvas();
         }
     }
 
@@ -677,7 +697,6 @@ function main() {
 function update(value, impExp, year) {
 
     if (!balanceSelected) {
-        console.log('here');
 
         d3.csv('data/food' + impExp + '_byYear/food' + impExp + '_' + value + '.csv', function (data) {
 
@@ -694,12 +713,23 @@ function update(value, impExp, year) {
                 var destTotal = d.distance;
                 d.nP = numParticles(destTotal);
 
-                d.bezPoints = {
-                    p0: {x: source[0], y: source[1]},
-                    p1: {x: source[0] + 0, y: source[1] - (200)},//control 1 y
-                    p2: {x: dest[0] - 0, y: dest[1] - (100)}, //control 2 y
-                    p3: {x: dest[0], y: dest[1]}
-                };
+                if(d.sourceRegion == "Sub-Saharan Africa" || d.sourceRegion == "Middle East and North Africa"  ){
+                    d.bezPoints = {
+                        p0: {x: source[0], y: source[1]},
+                        p1: {x: source[0] + 0, y: source[1] - (50)},//control 1 y
+                        p2: {x: dest[0] - 0, y: dest[1] - (100)}, //control 2 y
+                        p3: {x: dest[0], y: dest[1]}
+                    };
+                }
+                else{
+                    d.bezPoints = {
+                        p0: {x: source[0], y: source[1]},
+                        p1: {x: source[0] + 0, y: source[1] - (250)},//control 1 y
+                        p2: {x: dest[0] - 0, y: dest[1] - (100)}, //control 2 y
+                        p3: {x: dest[0], y: dest[1]}
+                    };
+                }
+
 
                 var particleArray = [];
                 var particleRandom = Math.random() * 1 / d.nP;
@@ -788,6 +818,7 @@ function update(value, impExp, year) {
 
             timeline.selectAll('.timeline-graph')
                 .datum(timelinePoints)
+                .attr('id','impExp-area')
                 .attr('d', area);
 
 
@@ -809,6 +840,9 @@ function update(value, impExp, year) {
 
         tempCountries.attr('fill', 'gray');
 
+        d3.selectAll('#'+ selectedCountry).attr('stroke','#d7dbe2').attr('stroke-width',2);
+        d3.selectAll('#impExp-area').attr('fill','none');
+
         d3.selectAll('.dot').attr('r', '1').attr('fill', 'gray');
         /*
          d.countryName, //0
@@ -828,6 +862,47 @@ function update(value, impExp, year) {
                 d3.selectAll('#' + d.countryCode).attr('fill', balanceColorScale(d.exportQuantity - d.importQuantity));
             }
         });
+
+
+        var countryPoints = balanceData.filter(function (d) {
+            return d.countryCode == selectedCountry;
+        });
+
+        var timelinePoints = countryPoints.filter(function(d){
+            return +d.year >= 1986;
+        })
+
+        y.domain([0, Math.max(
+            d3.max(timelinePoints, function (d) {return +d.exportQuantity;}),
+            d3.max(timelinePoints, function (d) {return +d.importQuantity;})
+        )]);
+
+        var yAxis = timeline.selectAll('.axis--y')
+            .call(d3.axisLeft(y).ticks(5));
+
+        yAxis.selectAll('text')
+            .attr('fill', axisTextColor);
+
+        //console.log(timelinePoints);
+
+//******Move out of update and into setup function!!
+        timeline.append('path')
+            .datum(timelinePoints)
+            .attr('class','import-line')
+            .attr('d', importLine)
+            .attr('stroke','black')
+            .attr('stroke-width',1)
+            .attr('fill','none');
+
+
+        timeline.append('path')
+            .datum(timelinePoints)
+            .attr('class','export-line')
+            .attr('d', exportLine)
+            .attr('stroke','white')
+            .attr('stroke-width',2)
+            .attr('fill','none');
+
 
         /*tempCountries.nodes().forEach(function(d){
          var tempBal =  balance_data.get(d.id);
@@ -895,6 +970,7 @@ function exportClicked() {
 function balanceClicked() {
 
     balanceSelected = true;
+    countrySelected = "US"
 
     //from http://jaketrent.com/post/d3-class-operations/
     var exportButton = d3.selectAll('#exportButton')
@@ -915,6 +991,8 @@ function balanceClicked() {
 }
 
 
+var myTimer;
+
 function playClicked() {
     var playButton = d3.selectAll('#playButton')
         .classed("selected", true); //toggle !exportButton.classed("selected")
@@ -922,7 +1000,18 @@ function playClicked() {
     var pauseButton = d3.selectAll('#pauseButton')
         .classed('selected', false);
 
-    console.log('play')
+    clearInterval (myTimer);
+    myTimer = setInterval (function() {
+        d3.selectAll('.bar').attr('fill', 'transparent');
+        if (selectedYear < 2013){
+            update(selectedCountry,selectedDirection, selectedYear);
+            d3.select('#bar-'+selectedYear).style('fill-opacity', .2).attr('fill', 'gray');
+            selectedYear++
+        }
+        else {
+            d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+        }
+    }, 200);
 }
 
 
@@ -935,5 +1024,9 @@ function pauseClicked() {
         .classed('selected', true);
 
     console.log('pause')
+    clearInterval (myTimer);
+    d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
 }
+
+
 

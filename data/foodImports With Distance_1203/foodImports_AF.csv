@@ -1,0 +1,146 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,AF,Afghanistan,country,South Asia,33.93911,67.709953,9597.57907648534,2009,151,0,0,0,0,0,0,0,0,0,0,0,0,10,0,141,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,AF,Afghanistan,country,South Asia,33.93911,67.709953,4631.88314735583,2009,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,AF,Afghanistan,country,South Asia,33.93911,67.709953,1912.25901199365,2009,16245,88,0,16153,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,AF,Afghanistan,country,South Asia,33.93911,67.709953,5349.47295107329,2009,374,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,124,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,AF,Afghanistan,country,South Asia,33.93911,67.709953,13618.7008962459,2009,17822,0,0,15930,0,0,0,0,0,0,0,0,0,15,0,0,0,1877,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,AF,Afghanistan,country,South Asia,33.93911,67.709953,3772.46838195308,2009,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,AF,Afghanistan,country,South Asia,33.93911,67.709953,4689.15181225672,2009,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,AF,Afghanistan,country,South Asia,33.93911,67.709953,3318.67893231044,2009,4259,263,0,599,0,0,0,0,0,653,0,0,2170,370,0,103,0,68,33,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,AF,Afghanistan,country,South Asia,33.93911,67.709953,5258.81950912141,2009,220,0,0,210,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,AF,Afghanistan,country,South Asia,33.93911,67.709953,14181.1001129851,2009,2652,0,0,2652,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,AF,Afghanistan,country,South Asia,33.93911,67.709953,12862.0151075215,2009,998,0,0,998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,AF,Afghanistan,country,South Asia,33.93911,67.709953,5010.03395244623,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,AF,Afghanistan,country,South Asia,33.93911,67.709953,5579.2239918124,2009,112,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,108,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,AF,Afghanistan,country,South Asia,33.93911,67.709953,4926.13797838739,2009,148,0,0,0,0,0,0,0,0,0,0,0,0,62,0,86,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,AF,Afghanistan,country,South Asia,33.93911,67.709953,14028.3150753744,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,AF,Afghanistan,country,South Asia,33.93911,67.709953,1853.62385884276,2009,21567,0,0,3893,0,0,0,0,0,93,0,0,561,869,0,67,0,502,15582,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,AF,Afghanistan,country,South Asia,33.93911,67.709953,6178.59271291729,2009,291,0,0,7,0,0,0,0,0,0,0,0,271,2,0,5,0,0,6,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,AF,Afghanistan,country,South Asia,33.93911,67.709953,1316.08981955771,2009,14686,2472,0,6222,0,0,0,0,8,966,0,0,445,3116,0,1054,56,68,335,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,AF,Afghanistan,country,South Asia,33.93911,67.709953,6163.46033461371,2009,357,0,0,0,0,0,0,0,0,0,0,0,0,7,0,36,0,0,314,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,AF,Afghanistan,country,South Asia,33.93911,67.709953,4839.04443894389,2009,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,AF,Afghanistan,country,South Asia,33.93911,67.709953,6283.180182728,2009,1284,617,0,14,0,0,0,0,0,76,0,0,0,456,0,0,0,121,0,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,AF,Afghanistan,country,South Asia,33.93911,67.709953,1568.79922976193,2009,856941,855866,0,515,0,0,0,0,0,0,0,0,0,512,0,0,0,0,48,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,AF,Afghanistan,country,South Asia,33.93911,67.709953,4895.03645182668,2009,3324,0,0,0,0,0,0,0,0,0,0,0,3324,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,AF,Afghanistan,country,South Asia,33.93911,67.709953,4847.93019258895,2009,808,0,0,655,0,0,0,0,0,0,0,0,51,7,0,44,0,0,51,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,AF,Afghanistan,country,South Asia,33.93911,67.709953,5279.45682081029,2009,649,0,0,0,0,0,0,0,0,0,0,0,0,126,0,39,0,0,484,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,AF,Afghanistan,country,South Asia,33.93911,67.709953,425.577336776719,2009,88221,28907,0,4363,0,0,0,0,37558,1350,0,0,75,8649,0,3899,0,671,2749,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,AF,Afghanistan,country,South Asia,33.93911,67.709953,4331.83693864786,2009,89,0,0,42,0,0,0,0,0,0,0,0,0,0,0,14,0,0,33,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,AF,Afghanistan,country,South Asia,33.93911,67.709953,5397.07135962418,2009,6069,0,0,0,0,0,0,0,0,48,0,0,0,5769,0,252,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,AF,Afghanistan,country,South Asia,33.93911,67.709953,4060.26829923363,2009,122781,106863,0,15725,0,0,0,0,0,0,0,0,0,22,0,0,0,0,171,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,AF,Afghanistan,country,South Asia,33.93911,67.709953,2465.07426421318,2009,17893,0,0,15565,0,0,0,0,0,1,0,0,447,1650,0,212,0,0,18,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,AF,Afghanistan,country,South Asia,33.93911,67.709953,5221.20710246478,2009,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0
+TJ,Tajikistan,country,Europe and Central Asia,38.861034,71.276093,AF,Afghanistan,country,South Asia,33.93911,67.709953,634.130757132362,2009,92619,91380,0,1029,0,0,0,0,0,0,0,0,15,93,0,29,0,0,73,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,AF,Afghanistan,country,South Asia,33.93911,67.709953,3889.0926922362,2009,5271,0,0,4660,0,0,0,0,0,0,0,0,0,30,0,581,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,AF,Afghanistan,country,South Asia,33.93911,67.709953,2944.23947624646,2009,1579,13,0,815,0,0,0,0,0,3,0,0,0,265,0,424,0,59,0,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,AF,Afghanistan,country,South Asia,33.93911,67.709953,919.441237842286,2009,869,576,0,192,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,AF,Afghanistan,country,South Asia,33.93911,67.709953,3414.76407134658,2009,4843,4174,0,664,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,AF,Afghanistan,country,South Asia,33.93911,67.709953,1786.34088935768,2009,4610,61,0,2472,0,0,0,0,0,413,0,0,94,335,0,1040,0,82,113,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,AF,Afghanistan,country,South Asia,33.93911,67.709953,5820.04986581806,2009,38,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,AF,Afghanistan,country,South Asia,33.93911,67.709953,11945.9354467417,2009,21321,229,0,0,0,0,0,0,0,0,0,0,0,144,0,14,0,20614,320,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,AF,Afghanistan,country,South Asia,33.93911,67.709953,872.45124322484,2009,83843,73148,0,10359,0,0,0,0,0,15,0,0,0,191,0,0,0,0,130,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,AF,Afghanistan,country,South Asia,33.93911,67.709953,4638.86782441007,2009,2431,0,0,0,0,0,0,0,0,0,0,0,2334,13,0,84,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,AF,Afghanistan,country,South Asia,33.93911,67.709953,9597.57907648534,2010,725,32,0,0,0,0,0,0,0,0,0,0,0,3,0,528,0,0,162,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,AF,Afghanistan,country,South Asia,33.93911,67.709953,4631.88314735583,2010,206,0,0,0,0,0,0,0,0,0,0,0,0,1,0,184,0,0,21,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,AF,Afghanistan,country,South Asia,33.93911,67.709953,1912.25901199365,2010,20926,0,0,20926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,AF,Afghanistan,country,South Asia,33.93911,67.709953,2478.37712409515,2010,26,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,AF,Afghanistan,country,South Asia,33.93911,67.709953,5349.47295107329,2010,1543,0,0,0,0,0,0,0,0,236,0,0,0,15,0,0,0,52,1240,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,AF,Afghanistan,country,South Asia,33.93911,67.709953,13618.7008962459,2010,52263,0,0,49500,0,0,0,0,0,0,0,0,179,26,0,0,0,2558,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,AF,Afghanistan,country,South Asia,33.93911,67.709953,9995.16899604884,2010,1049,80,0,215,0,0,0,0,0,43,0,0,53,11,0,186,0,298,163,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,AF,Afghanistan,country,South Asia,33.93911,67.709953,4689.15181225672,2010,126,0,0,0,0,0,0,0,0,0,0,0,0,98,0,28,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,AF,Afghanistan,country,South Asia,33.93911,67.709953,3318.67893231044,2010,10489,166,0,2225,0,0,0,0,0,913,0,0,4467,1339,0,896,0,52,431,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,AF,Afghanistan,country,South Asia,33.93911,67.709953,5258.81950912141,2010,331,0,0,1,0,0,0,0,0,0,0,0,0,3,0,327,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,AF,Afghanistan,country,South Asia,33.93911,67.709953,14181.1001129851,2010,479,0,0,479,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,AF,Afghanistan,country,South Asia,33.93911,67.709953,5010.03395244623,2010,209,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,204,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,AF,Afghanistan,country,South Asia,33.93911,67.709953,3611.55743226467,2010,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,AF,Afghanistan,country,South Asia,33.93911,67.709953,4282.26221631343,2010,50,0,0,0,0,0,0,0,0,0,0,0,0,14,0,36,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,AF,Afghanistan,country,South Asia,33.93911,67.709953,5579.2239918124,2010,132,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,128,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,AF,Afghanistan,country,South Asia,33.93911,67.709953,4926.13797838739,2010,3878,0,0,3606,0,0,0,0,0,0,0,0,0,73,0,184,0,0,15,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,AF,Afghanistan,country,South Asia,33.93911,67.709953,14028.3150753744,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,AF,Afghanistan,country,South Asia,33.93911,67.709953,1853.62385884276,2010,29724,1823,0,14751,0,0,0,0,0,2320,0,0,1388,1984,0,55,0,546,6857,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,AF,Afghanistan,country,South Asia,33.93911,67.709953,6178.59271291729,2010,2357,435,0,6,0,0,0,0,0,0,0,0,1725,53,0,82,0,0,56,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,AF,Afghanistan,country,South Asia,33.93911,67.709953,1316.08981955771,2010,45881,21875,0,12777,0,0,0,0,7,307,0,0,482,5423,0,946,164,1,4063,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,AF,Afghanistan,country,South Asia,33.93911,67.709953,2224.95707024289,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,AF,Afghanistan,country,South Asia,33.93911,67.709953,6163.46033461371,2010,627,0,0,9,0,0,0,0,0,0,0,0,0,1,0,80,0,0,537,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,AF,Afghanistan,country,South Asia,33.93911,67.709953,4839.04443894389,2010,123,0,0,10,0,0,0,0,0,0,0,0,0,40,0,0,0,0,73,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,AF,Afghanistan,country,South Asia,33.93911,67.709953,6283.180182728,2010,1726,533,0,35,0,0,0,0,0,3,0,0,0,1099,0,34,0,0,22,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,AF,Afghanistan,country,South Asia,33.93911,67.709953,1568.79922976193,2010,648026,646769,0,227,0,0,0,0,0,0,0,30,0,1000,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,AF,Afghanistan,country,South Asia,33.93911,67.709953,4895.03645182668,2010,13266,0,0,0,0,0,0,0,0,0,0,0,13266,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,AF,Afghanistan,country,South Asia,33.93911,67.709953,2930.71198706876,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,AF,Afghanistan,country,South Asia,33.93911,67.709953,4847.93019258895,2010,1693,0,0,1595,0,0,0,0,0,0,0,0,18,3,0,77,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,AF,Afghanistan,country,South Asia,33.93911,67.709953,5279.45682081029,2010,1185,0,0,19,0,0,0,0,0,0,0,0,0,236,0,294,0,0,636,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,AF,Afghanistan,country,South Asia,33.93911,67.709953,425.577336776719,2010,175543,102751,0,18616,0,0,0,0,21297,1117,0,0,1116,6363,0,13482,3728,2747,8054,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,AF,Afghanistan,country,South Asia,33.93911,67.709953,5921.63122953341,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,AF,Afghanistan,country,South Asia,33.93911,67.709953,4331.83693864786,2010,121,0,0,87,0,0,0,0,0,0,0,0,0,0,0,23,0,0,11,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,AF,Afghanistan,country,South Asia,33.93911,67.709953,5397.07135962418,2010,3585,0,0,0,0,0,0,0,0,28,0,0,110,3276,0,171,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,AF,Afghanistan,country,South Asia,33.93911,67.709953,4060.26829923363,2010,19042,8166,0,10846,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,AF,Afghanistan,country,South Asia,33.93911,67.709953,2465.07426421318,2010,41301,112,0,33071,0,0,0,0,0,38,0,0,594,386,0,6563,0,38,499,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,AF,Afghanistan,country,South Asia,33.93911,67.709953,5221.20710246478,2010,105,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,83,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,AF,Afghanistan,country,South Asia,33.93911,67.709953,6204.29653179016,2010,16,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,10,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,AF,Afghanistan,country,South Asia,33.93911,67.709953,3196.47726651922,2010,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,AF,Afghanistan,country,South Asia,33.93911,67.709953,4562.61852634988,2010,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,AF,Afghanistan,country,South Asia,33.93911,67.709953,5114.0515919614,2010,30,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+TJ,Tajikistan,country,Europe and Central Asia,38.861034,71.276093,AF,Afghanistan,country,South Asia,33.93911,67.709953,634.130757132362,2010,39423,39104,0,2,0,0,0,0,0,1,0,0,1,270,0,0,0,0,45,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,AF,Afghanistan,country,South Asia,33.93911,67.709953,3889.0926922362,2010,5771,0,0,319,0,0,0,0,0,0,0,0,0,80,0,5314,0,0,58,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,AF,Afghanistan,country,South Asia,33.93911,67.709953,2944.23947624646,2010,3585,143,0,2041,0,0,0,0,0,0,0,0,71,685,0,422,0,189,34,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,AF,Afghanistan,country,South Asia,33.93911,67.709953,919.441237842286,2010,2927,1277,0,1535,0,0,0,0,0,0,0,0,10,105,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,AF,Afghanistan,country,South Asia,33.93911,67.709953,3414.76407134658,2010,1454,0,0,1382,0,0,0,0,0,0,0,0,0,21,0,0,0,0,51,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,AF,Afghanistan,country,South Asia,33.93911,67.709953,1786.34088935768,2010,14981,865,0,8624,0,0,0,0,0,44,0,0,442,617,0,2977,0,1085,327,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,AF,Afghanistan,country,South Asia,33.93911,67.709953,5820.04986581806,2010,431,0,0,0,0,0,0,0,0,0,0,0,0,102,0,216,0,113,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,AF,Afghanistan,country,South Asia,33.93911,67.709953,11945.9354467417,2010,35540,1433,0,496,0,0,0,0,0,71,0,0,0,68,0,86,0,32699,687,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,AF,Afghanistan,country,South Asia,33.93911,67.709953,872.45124322484,2010,20594,17500,0,0,0,0,0,0,0,0,0,631,0,1793,0,626,0,0,44,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,AF,Afghanistan,country,South Asia,33.93911,67.709953,4638.86782441007,2010,7651,0,0,96,0,0,0,0,0,0,0,0,6939,11,0,574,0,0,31,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,AF,Afghanistan,country,South Asia,33.93911,67.709953,15686.1248202243,2011,514,0,0,315,0,0,0,0,0,0,0,0,0,1,0,0,0,198,0,0,0,0,0,0
+AM,Armenia,country,Europe and Central Asia,40.069099,45.038189,AF,Afghanistan,country,South Asia,33.93911,67.709953,2120.85332049979,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,AF,Afghanistan,country,South Asia,33.93911,67.709953,9597.57907648534,2011,776,0,0,0,0,0,0,0,0,0,0,0,0,6,0,760,0,0,10,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,AF,Afghanistan,country,South Asia,33.93911,67.709953,4631.88314735583,2011,1345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1312,0,0,33,0,0,0,0,0
+AZ,Azerbaijan,country,Europe and Central Asia,40.143105,47.576927,AF,Afghanistan,country,South Asia,33.93911,67.709953,1912.25901199365,2011,3153,0,0,3153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,AF,Afghanistan,country,South Asia,33.93911,67.709953,2478.37712409515,2011,111,0,0,0,0,0,0,0,0,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,AF,Afghanistan,country,South Asia,33.93911,67.709953,5349.47295107329,2011,297,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,23,267,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,AF,Afghanistan,country,South Asia,33.93911,67.709953,13618.7008962459,2011,14572,0,0,9277,0,0,0,0,0,0,0,0,0,71,0,0,0,5224,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,AF,Afghanistan,country,South Asia,33.93911,67.709953,9995.16899604884,2011,4601,2933,0,4,0,0,0,0,0,0,0,0,0,28,0,1292,0,332,12,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,AF,Afghanistan,country,South Asia,33.93911,67.709953,4689.15181225672,2011,90,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,40,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,AF,Afghanistan,country,South Asia,33.93911,67.709953,3318.67893231044,2011,35875,24062,0,953,0,0,0,0,0,293,0,0,6915,1270,0,2090,0,106,186,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,AF,Afghanistan,country,South Asia,33.93911,67.709953,5258.81950912141,2011,25,0,0,0,0,0,0,0,0,0,0,0,23,2,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,AF,Afghanistan,country,South Asia,33.93911,67.709953,3130.8996745252,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,AF,Afghanistan,country,South Asia,33.93911,67.709953,5010.03395244623,2011,257,0,0,0,0,0,0,0,0,0,0,0,0,47,0,33,0,129,48,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,AF,Afghanistan,country,South Asia,33.93911,67.709953,3611.55743226467,2011,95,0,0,0,0,0,0,0,0,0,0,0,0,1,0,76,0,0,18,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,AF,Afghanistan,country,South Asia,33.93911,67.709953,4282.26221631343,2011,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,AF,Afghanistan,country,South Asia,33.93911,67.709953,5579.2239918124,2011,120,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,116,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,AF,Afghanistan,country,South Asia,33.93911,67.709953,4926.13797838739,2011,1454,0,0,582,0,0,0,0,0,0,0,0,0,160,0,660,0,40,12,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,AF,Afghanistan,country,South Asia,33.93911,67.709953,4101.68512925998,2011,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,AF,Afghanistan,country,South Asia,33.93911,67.709953,14028.3150753744,2011,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,AF,Afghanistan,country,South Asia,33.93911,67.709953,1853.62385884276,2011,45924,4075,0,31601,0,0,0,0,0,82,0,0,372,715,0,240,0,1246,7593,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,AF,Afghanistan,country,South Asia,33.93911,67.709953,6178.59271291729,2011,3274,216,0,84,0,0,0,0,0,0,0,0,2854,65,0,15,0,0,40,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,AF,Afghanistan,country,South Asia,33.93911,67.709953,1316.08981955771,2011,25921,3277,0,7791,0,0,0,0,76,614,0,0,1717,9379,0,2058,1388,130,879,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,AF,Afghanistan,country,South Asia,33.93911,67.709953,2224.95707024289,2011,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,AF,Afghanistan,country,South Asia,33.93911,67.709953,6163.46033461371,2011,926,0,0,0,0,0,0,0,0,0,0,0,0,54,0,391,0,0,481,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,AF,Afghanistan,country,South Asia,33.93911,67.709953,4839.04443894389,2011,168,0,0,7,0,0,0,0,0,0,0,0,0,119,0,39,0,0,3,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,AF,Afghanistan,country,South Asia,33.93911,67.709953,6283.180182728,2011,3473,1824,0,70,0,0,0,0,0,19,0,0,0,1030,0,395,0,13,122,0,0,0,0,0
+KZ,Kazakhstan,country,Europe and Central Asia,48.019573,66.923684,AF,Afghanistan,country,South Asia,33.93911,67.709953,1568.79922976193,2011,469919,466849,0,249,0,0,0,0,0,0,0,100,0,2715,0,0,0,0,6,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,AF,Afghanistan,country,South Asia,33.93911,67.709953,4895.03645182668,2011,31705,0,0,20,0,0,0,0,0,0,0,0,31525,160,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,AF,Afghanistan,country,South Asia,33.93911,67.709953,2930.71198706876,2011,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,AF,Afghanistan,country,South Asia,33.93911,67.709953,4847.93019258895,2011,1534,149,0,134,0,0,0,0,0,0,0,0,62,224,0,441,0,284,240,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,AF,Afghanistan,country,South Asia,33.93911,67.709953,1678.34616927823,2011,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,AF,Afghanistan,country,South Asia,33.93911,67.709953,5279.45682081029,2011,1532,0,0,0,0,0,0,0,0,0,0,0,0,2,0,318,0,0,1212,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,AF,Afghanistan,country,South Asia,33.93911,67.709953,13738.7577664531,2011,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,AF,Afghanistan,country,South Asia,33.93911,67.709953,425.577336776719,2011,379111,223900,0,34464,0,0,0,0,27617,1446,0,0,2077,13049,0,34228,3332,2395,39935,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,AF,Afghanistan,country,South Asia,33.93911,67.709953,4331.83693864786,2011,294,0,0,80,0,0,0,0,0,0,0,0,0,0,0,151,0,0,63,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,AF,Afghanistan,country,South Asia,33.93911,67.709953,5397.07135962418,2011,10994,0,0,242,0,0,0,0,0,0,0,0,0,10095,0,657,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,AF,Afghanistan,country,South Asia,33.93911,67.709953,4060.26829923363,2011,5314,4213,0,1014,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,AF,Afghanistan,country,South Asia,33.93911,67.709953,2465.07426421318,2011,11428,0,0,871,0,0,0,0,0,13,0,0,547,387,0,9449,0,0,161,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,AF,Afghanistan,country,South Asia,33.93911,67.709953,5221.20710246478,2011,222,0,0,0,0,0,0,0,0,0,0,0,0,12,0,209,0,0,1,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,AF,Afghanistan,country,South Asia,33.93911,67.709953,6204.29653179016,2011,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,AF,Afghanistan,country,South Asia,33.93911,67.709953,3196.47726651922,2011,95,0,0,0,0,0,0,0,0,0,0,0,93,2,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,AF,Afghanistan,country,South Asia,33.93911,67.709953,5114.0515919614,2011,95,0,0,80,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+TJ,Tajikistan,country,Europe and Central Asia,38.861034,71.276093,AF,Afghanistan,country,South Asia,33.93911,67.709953,634.130757132362,2011,4195,3860,0,21,0,0,0,0,0,5,0,0,2,306,0,1,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,AF,Afghanistan,country,South Asia,33.93911,67.709953,3889.0926922362,2011,18613,72,0,301,0,0,0,0,0,0,0,0,9,31,0,18193,0,0,7,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,AF,Afghanistan,country,South Asia,33.93911,67.709953,2944.23947624646,2011,5206,34,0,866,0,0,0,0,0,1,0,0,112,1504,0,2293,0,231,165,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,AF,Afghanistan,country,South Asia,33.93911,67.709953,919.441237842286,2011,2432,482,0,1695,0,0,0,0,0,0,0,0,0,224,0,31,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,AF,Afghanistan,country,South Asia,33.93911,67.709953,3414.76407134658,2011,1513,0,0,1400,0,0,0,0,0,0,0,0,0,70,0,0,0,35,8,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,AF,Afghanistan,country,South Asia,33.93911,67.709953,1786.34088935768,2011,16147,580,0,5242,0,0,0,0,0,1,0,0,175,1351,0,7881,0,568,349,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,AF,Afghanistan,country,South Asia,33.93911,67.709953,5820.04986581806,2011,198,0,0,0,0,0,0,0,0,0,0,0,0,6,0,122,0,0,70,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,AF,Afghanistan,country,South Asia,33.93911,67.709953,11945.9354467417,2011,44231,891,0,24,0,0,0,0,0,6,0,0,0,143,0,1051,0,41840,276,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,AF,Afghanistan,country,South Asia,33.93911,67.709953,14840.6195787372,2011,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,AF,Afghanistan,country,South Asia,33.93911,67.709953,872.45124322484,2011,22456,20064,0,0,0,0,0,0,0,0,0,1392,0,785,0,214,0,0,1,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,AF,Afghanistan,country,South Asia,33.93911,67.709953,4638.86782441007,2011,17556,0,0,0,0,0,0,0,0,0,0,0,16721,142,0,693,0,0,0,0,0,0,0,0

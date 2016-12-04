@@ -1,0 +1,49 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,5075.94601477671,2001,710,270,1,1,0,0,5,12,15,0,0,45,2,13,11,238,0,78,19,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7658.66473385149,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1071.40054387714,2001,119,18,4,23,0,0,9,10,1,0,0,0,0,3,5,10,0,13,23,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,15660.9379888116,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,2009.17037252222,2001,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,3771.58967770357,2001,25,1,4,0,0,0,0,4,4,0,0,0,0,0,0,9,0,0,3,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,14663.4173461512,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,5075.94601477671,2002,2144,684,6,243,0,0,1,61,69,0,0,60,6,90,15,271,0,517,121,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1071.40054387714,2002,673,232,14,152,0,0,0,11,1,0,0,35,6,39,17,88,0,32,46,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,6337.45081335671,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1397.57675529248,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,3771.58967770357,2002,145,68,7,2,0,0,0,26,0,0,0,0,0,6,1,35,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1485.4203091711,2002,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,5075.94601477671,2003,1227,416,5,206,0,0,1,41,31,0,6,143,4,44,9,126,0,151,44,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7658.66473385149,2003,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CK,Cook Islands,country,East Asia and Pacific,-21.236736,-159.777671,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,2892.7814762485,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1071.40054387714,2003,308,32,26,18,0,0,11,5,2,0,0,23,7,29,17,49,0,39,50,0,0,0,0,0
+NR,Nauru,country,East Asia and Pacific,-0.522778,166.931503,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1397.57675529248,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,3771.58967770357,2003,94,9,4,3,0,0,0,18,4,0,0,0,0,7,0,40,0,0,9,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,10198.7502187189,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1485.4203091711,2003,15,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,5075.94601477671,2004,2062,788,5,344,0,0,52,48,43,0,0,49,27,46,7,254,0,300,99,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7658.66473385149,2004,7,0,0,1,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,9016.32909370147,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7046.89032216345,2004,29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1071.40054387714,2004,484,220,14,24,0,0,5,12,2,0,0,40,4,5,26,61,0,43,28,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,3771.58967770357,2004,121,3,9,5,0,0,0,12,7,0,0,0,2,23,0,42,0,6,12,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,6567.47716205066,2004,9,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,2,3,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,8822.64341679804,2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1485.4203091711,2004,12,0,7,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,5075.94601477671,2005,2097,753,1,477,0,0,5,28,31,0,5,140,11,64,5,142,0,311,124,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7658.66473385149,2005,14,6,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,9016.32909370147,2005,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7046.89032216345,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1071.40054387714,2005,704,292,16,19,0,0,1,20,6,0,0,116,6,7,25,97,0,51,48,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,3771.58967770357,2005,153,8,29,0,0,0,0,34,12,0,0,21,2,5,2,12,0,1,27,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,6567.47716205066,2005,29,4,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,8,14,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,8252.76029737893,2005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1485.4203091711,2005,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,5075.94601477671,2006,1276,352,14,242,0,0,8,24,12,0,5,102,23,41,10,127,0,263,53,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7658.66473385149,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,9016.32909370147,2006,9,2,0,1,0,0,0,0,2,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,1071.40054387714,2006,520,203,21,22,0,0,0,5,7,0,0,96,5,27,6,60,0,51,17,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,7106.53958720569,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,8500.53214068444,2006,9,4,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,3771.58967770357,2006,115,14,12,2,0,0,0,13,6,0,0,23,1,12,0,11,0,7,14,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,13389.9251984835,2006,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,TV,Tuvalu,country,East Asia and Pacific,-7.109535,177.64933,8014.75777393418,2006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

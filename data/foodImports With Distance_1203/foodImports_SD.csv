@@ -1,0 +1,635 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3297.65293210166,1997,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,1997,20000,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3006.11052434888,1997,26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11234.1631371959,1997,46650,46650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,1997,124786,124639,0,0,0,0,86,0,12,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,1997,15,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,6426.18560106151,1997,3158,0,0,0,0,0,0,0,0,0,0,0,3158,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,1997,910,50,0,61,0,0,22,0,0,0,14,483,0,76,15,0,0,0,189,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10815.3091924331,1997,90,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0
+BN,Brunei Darussalam,country,,4.535277,114.727669,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9312.0041168966,1997,95,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3356.35556752125,1997,63,0,0,0,0,0,12,0,0,0,0,0,15,11,0,0,0,0,25,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8086.43185381319,1997,531,0,0,0,531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,1997,52436,52436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11641.7154931548,1997,115,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,1997,2304,29,0,0,1361,0,0,2,18,0,338,0,0,342,196,2,0,0,16,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9521.40234437771,1997,389,0,0,0,0,0,0,0,0,0,0,0,0,389,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3959.32695732099,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11293.746761103,1997,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,1997,65,1,0,1,0,0,10,10,6,0,13,0,1,17,5,0,0,0,1,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9701.11210389731,1997,24,0,0,0,0,0,0,0,0,0,0,0,23,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,1997,1832,0,1,0,1827,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,1997,3096,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10624.6042793955,1997,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,1997,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,1997,18432,14683,0,1038,1400,0,0,2,682,1,20,0,173,320,71,36,0,0,5,0,1,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,1997,123693,121267,0,0,500,0,0,0,0,0,0,0,38,639,8,0,0,0,1241,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,1997,381,11,0,0,0,0,40,294,29,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+GU,Guam,country,East Asia and Pacific,13.444304,144.793731,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12249.0462817272,1997,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,1997,29,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3947.11902491859,1997,15755,15755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,1997,2337,204,0,0,836,0,8,0,0,1,85,22,693,118,98,0,10,0,272,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,1997,3703,0,0,0,0,0,0,0,0,0,0,1,1738,1756,208,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,1997,165,0,0,0,0,0,0,0,126,0,16,0,0,23,0,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2646.92724903033,1997,48,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,1997,72,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,1997,625,87,0,194,0,0,0,42,0,0,28,0,0,27,36,211,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,1997,98,0,0,0,25,0,0,0,0,0,0,0,0,1,0,0,0,0,72,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,1997,1528,151,0,12,0,0,0,1251,6,0,32,0,0,8,22,0,0,0,46,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,1997,21512,0,0,0,0,0,0,0,0,0,0,0,20427,1070,0,0,0,0,15,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2555.9566209566,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,1997,111,43,0,0,0,0,0,10,30,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3966.85857036191,1997,32,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,1997,308,0,0,0,0,0,0,0,84,0,4,0,0,54,166,0,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,1997,6,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,1997,99,0,0,0,0,0,0,0,21,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,1997,8021,4005,358,1060,25,0,0,1,7,0,1,372,0,56,791,7,113,0,1338,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15218.5903009313,1997,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,1997,718,0,0,0,500,0,11,0,0,0,0,0,0,144,0,0,0,0,63,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12357.2135131472,1997,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2390.59937868237,1997,19,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,1997,119,0,0,0,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,1997,1111,1101,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12045.5317768636,1997,52,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,48,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,1997,22,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,17,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,1997,101,46,0,0,0,0,0,0,32,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,1997,680,6,0,0,0,0,0,7,0,0,0,0,0,667,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,1997,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,1997,69,24,0,11,0,0,1,2,2,0,0,0,1,7,17,0,0,0,4,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,1997,4812,579,0,373,190,0,21,126,543,2,127,17,184,105,1580,141,0,105,719,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4615.54732989532,1997,12,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,1997,828,0,0,0,0,0,0,0,0,0,207,0,18,280,307,0,0,0,16,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,1997,82,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,80,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5555.37022585152,1997,20,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,1997,37,1,0,0,0,0,22,0,0,0,0,0,0,0,0,13,0,0,1,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4386.43292249407,1997,10454,10454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,1997,47,0,0,3,0,0,0,0,1,0,18,0,0,9,0,16,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,1997,360,70,0,14,0,0,0,0,142,3,86,0,1,2,0,0,11,0,42,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,1997,109,0,0,0,0,0,0,0,101,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,1997,8692,6,0,551,7331,0,0,0,1,0,0,0,0,784,19,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,1997,3112,0,0,0,0,0,0,0,0,0,0,0,3112,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,1997,61,0,0,0,0,0,0,0,45,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,1997,14662,13624,0,6,172,4,14,32,417,0,108,0,3,39,41,127,0,2,73,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,1997,6590,5780,0,74,0,0,13,3,9,0,0,0,18,299,76,21,0,0,297,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,1997,216,0,0,0,0,0,0,0,0,0,22,0,194,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,1997,15425,13189,0,5,320,0,0,10,16,0,46,0,3,212,1620,4,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,1997,545,0,0,0,0,0,0,0,0,0,41,0,504,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,1997,524,500,0,0,0,0,0,0,5,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2905.71782961382,1997,46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,1997,1946,0,0,0,0,0,0,0,0,0,0,0,0,1946,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3006.11052434888,1998,250,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11234.1631371959,1998,6263,6263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10786.2514023426,1998,29,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,1998,115640,111751,0,0,0,0,50,0,11,0,0,0,5,0,3805,0,0,0,18,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,1998,26,0,0,0,0,0,0,0,12,0,8,0,0,6,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,6426.18560106151,1998,468,0,0,0,0,0,0,0,0,0,0,0,468,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,1998,349,17,0,0,0,0,0,0,0,0,0,189,0,48,15,0,0,0,80,0,0,0,0,0
+BM,Bermuda,country,North America,32.321384,-64.75737,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9715.16442626954,1998,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9543.53519650681,1998,19,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3356.35556752125,1998,258,0,0,0,0,0,0,0,0,0,7,63,188,0,0,0,0,0,0,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1807.66977649561,1998,324,0,0,0,0,0,0,0,0,0,0,0,324,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,1998,81840,80841,0,0,999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11641.7154931548,1998,133,0,0,0,0,0,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,1998,658,2,0,0,0,0,11,0,25,0,410,0,44,142,0,16,0,0,8,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9521.40234437771,1998,324,0,0,0,0,0,0,0,0,0,0,0,0,324,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2155.68215644636,1998,36,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,1998,1193,1006,0,13,0,0,0,0,21,0,0,0,14,91,7,0,0,0,41,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,1998,1942,0,0,0,609,0,0,0,6,0,0,0,7,3,934,0,0,0,383,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,1998,183,1,0,161,0,0,0,0,0,0,0,0,20,1,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,1998,1747,1510,0,0,0,0,0,0,0,0,0,0,0,1,88,18,0,0,130,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,1998,32254,30318,0,911,304,0,0,2,24,0,0,0,12,442,172,68,0,0,1,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,1998,197470,193194,0,0,378,0,0,0,0,0,0,0,0,672,2196,1,0,0,1029,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4928.42190527937,1998,34,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,1998,3421,3264,0,100,0,0,32,2,0,0,0,0,0,3,0,0,0,0,20,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,1998,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4363.46987525196,1998,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HT,Haiti,country,Latin America and the Caribbean,18.971187,-72.285215,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10832.3875379017,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3947.11902491859,1998,8669,8669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,1998,12080,4786,0,0,5383,0,0,0,0,0,185,0,1617,89,0,0,0,0,20,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,1998,4924,0,0,0,0,0,0,0,0,0,102,20,1589,133,3061,0,0,0,19,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,1998,488,23,0,0,0,0,0,5,227,0,20,0,2,115,0,0,0,0,96,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,1998,211,0,0,0,0,0,0,0,0,0,0,0,0,179,0,0,0,0,32,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,1998,13804,13737,0,0,0,0,0,10,8,0,0,0,0,33,16,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,1998,387,35,0,0,350,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,1998,1819,718,1,0,18,0,0,1013,30,0,0,10,1,24,1,0,0,0,3,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,1998,19654,0,0,0,0,0,0,0,0,0,0,0,19654,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2555.9566209566,1998,59,0,0,19,17,0,0,10,0,0,0,0,0,0,2,0,0,0,11,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,1998,5,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3966.85857036191,1998,22598,22566,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,1998,5329,0,0,0,0,0,0,0,0,0,7,0,0,37,5266,0,0,0,19,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,1998,175,0,0,0,0,0,13,0,0,0,0,0,0,15,147,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,1998,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3557.82236629677,1998,57,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,1998,8202,92,306,2958,0,0,7,0,0,0,0,1158,1,5,1042,17,81,4,2612,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15218.5903009313,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,1998,218,6,0,100,0,0,0,0,0,0,0,0,0,48,0,0,0,0,64,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2433.70444935435,1998,6,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2390.59937868237,1998,46,0,0,0,0,0,0,0,0,0,26,20,0,0,0,0,0,0,0,0,0,0,0,0
+NU,Niue,country,East Asia and Pacific,-19.054445,-169.867233,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17782.0905106466,1998,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,1998,31,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2893.27044997598,1998,237,8,1,0,0,0,0,0,1,0,0,0,0,0,0,83,0,0,144,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,1998,862,841,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12045.5317768636,1998,341,0,0,0,0,0,0,299,0,0,0,0,20,0,15,0,0,0,7,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11884.806638024,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9866.87840309519,1998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,1998,510,500,0,8,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,1998,20,1,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,1998,98,0,0,0,0,0,0,0,5,0,0,0,90,3,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,1998,700,700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,1998,1213,495,0,452,0,0,0,21,53,0,38,120,0,14,3,0,0,0,17,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,1998,14403,7448,22,717,523,0,87,2729,296,0,117,103,156,367,857,196,0,432,353,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4827.55150085766,1998,48,0,0,0,0,0,0,0,0,0,7,0,0,0,41,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4615.54732989532,1998,20,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,1998,3055,0,0,0,0,0,0,0,0,0,56,0,0,1445,1554,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,1998,1125,1078,0,0,0,0,0,0,0,0,0,9,3,0,0,3,0,0,32,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5555.37022585152,1998,74,0,0,0,0,0,0,0,0,0,14,0,60,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,1998,44,0,0,0,0,0,0,0,3,0,0,0,15,0,0,26,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5346.76904074661,1998,2000,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,1998,88,0,0,0,0,0,0,0,0,0,25,0,4,43,0,16,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,1998,284,15,0,78,0,0,0,0,124,0,12,0,0,2,0,0,0,0,53,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,1998,91,0,25,0,0,0,0,0,50,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3139.48557980866,1998,2000,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,1998,20558,12000,0,2305,4999,0,0,0,96,0,0,10,2,1079,0,67,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,1998,6073,0,0,0,0,0,0,0,0,0,0,0,6073,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,1998,1671,1671,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,1998,26405,24983,0,38,1,0,0,11,317,0,98,0,56,220,266,371,0,7,37,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,1998,1549,508,0,83,0,25,0,8,35,0,0,63,63,304,96,81,0,0,283,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,1998,287,0,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,1998,30671,25800,0,3,3475,0,8,3,51,0,22,0,36,215,958,10,0,0,90,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,1998,30,0,0,0,0,0,0,0,0,0,12,0,18,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,1998,42,0,0,0,0,0,0,0,0,0,0,0,0,10,32,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,1998,1955,0,0,0,0,0,0,0,0,0,0,0,134,1821,0,0,0,0,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3297.65293210166,1999,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,1999,33603,33559,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3006.11052434888,1999,71,0,0,0,0,0,0,0,0,0,0,0,3,68,0,0,0,0,0,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9811.0591642587,1999,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,1999,64266,62380,0,0,733,0,121,0,4,0,0,0,0,926,0,0,0,0,102,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,1999,95221,95178,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,6426.18560106151,1999,533,0,0,0,0,0,0,0,0,0,0,0,533,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,1999,2228,8,0,450,0,0,0,0,0,0,0,183,0,169,1366,0,0,0,52,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9543.53519650681,1999,194,0,0,0,0,0,0,0,0,0,0,1,181,12,0,0,0,0,0,0,0,0,0,0
+VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10069.6491805689,1999,143,0,0,0,0,0,0,0,0,0,0,0,143,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3356.35556752125,1999,726,0,0,0,0,0,38,0,0,0,0,567,74,47,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,1999,60817,60730,0,0,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11641.7154931548,1999,56,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8859.66127042641,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,1999,4803,1980,16,0,21,0,0,1925,12,0,528,0,0,249,66,0,0,0,6,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9521.40234437771,1999,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+CG,"Congo, Rep.",country,Sub-Saharan Africa,-0.228021,15.827659,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2155.68215644636,1999,72,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12317.5429808646,1999,28,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,1999,534,44,0,10,214,0,0,3,157,0,0,0,25,56,0,1,0,0,24,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2101.11661027242,1999,125,0,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,1999,3899,990,0,129,1714,0,0,0,1,0,0,0,0,20,975,0,0,0,70,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,1999,809,800,0,0,0,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10624.6042793955,1999,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,1999,7534,5557,0,1856,0,0,0,0,0,0,0,40,0,81,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,1999,20158,18319,0,211,313,0,0,5,533,0,1,0,51,515,5,0,1,0,205,0,0,0,0,0
+ER,Eritrea,country,Sub-Saharan Africa,15.179384,39.782334,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1064.5675063381,1999,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5473.25084978639,1999,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,1999,59550,58037,0,0,0,0,0,0,0,0,0,0,15,722,2,0,0,0,774,0,0,0,0,0
+PF,French Polynesia,country,East Asia and Pacific,-17.679742,-149.406843,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,19499.7764189078,1999,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2556.71790531346,1999,300,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,1999,3334,3013,0,122,0,0,67,0,0,0,0,0,0,38,94,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,1999,28,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4363.46987525196,1999,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12373.2278288064,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,1999,9013,80,0,0,7191,0,0,0,107,0,146,59,1238,151,41,0,3,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,1999,4708,14,0,0,0,0,0,0,0,0,39,17,1099,10,3529,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,1999,1067,0,0,0,0,0,0,573,460,0,0,0,0,1,0,32,0,0,1,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,1999,386,0,0,0,0,0,0,0,0,0,0,0,0,317,0,0,0,0,69,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,1999,12944,12391,0,224,0,0,23,1,1,0,0,149,0,91,7,1,0,0,56,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,1999,470,0,0,0,323,0,0,6,2,0,0,54,10,66,1,1,0,0,7,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,1999,454,0,0,0,0,0,0,195,1,0,0,60,0,180,4,0,0,0,14,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,1999,24315,0,0,2984,60,0,0,0,32,0,0,0,21218,13,0,0,0,0,8,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,1999,27,0,0,1,1,0,1,3,10,0,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3966.85857036191,1999,11,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,1999,9509,0,0,0,0,0,69,0,0,0,0,0,0,130,9310,0,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,1999,113,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,1999,15,2,0,0,0,0,0,0,6,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+MS,Montserrat,country,Latin America and the Caribbean,16.7425,-62.1874,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9859.58164408179,1999,252,0,0,0,0,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,1999,707,0,0,0,21,0,0,0,0,0,0,0,0,0,686,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3557.82236629677,1999,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7007.84239415418,1999,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,1999,7624,290,66,2703,0,0,0,0,14,0,0,770,0,119,2018,13,94,4,1627,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15218.5903009313,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,1999,874,0,0,469,0,0,0,0,0,0,0,0,0,200,0,0,0,0,205,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12357.2135131472,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2433.70444935435,1999,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2390.59937868237,1999,9,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,1999,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2893.27044997598,1999,1722,1500,0,0,0,0,0,0,0,0,0,0,0,0,166,0,0,0,56,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,1999,40,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12045.5317768636,1999,22,0,0,0,0,0,0,0,3,0,0,2,3,0,14,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11884.806638024,1999,18,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,1999,26285,26250,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,25,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,1999,1422,1374,0,21,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,1999,564,0,0,0,0,0,0,0,0,0,0,0,552,12,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,1999,30479,30459,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9905.81758471851,1999,90,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,1999,46,0,0,0,0,0,0,0,1,0,39,0,0,0,0,6,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,1999,25610,20635,1,429,106,0,7,15,559,0,113,0,31,1136,1558,396,18,165,459,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4827.55150085766,1999,239,0,0,0,0,0,0,0,0,0,0,0,0,0,239,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3409.6410991269,1999,19,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+SL,Sierra Leone,country,Sub-Saharan Africa,8.460555,-11.779889,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4615.54732989532,1999,24,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,1999,2491,6,0,0,0,0,0,0,0,0,0,0,0,960,1525,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,1999,4728,4700,0,1,0,0,0,0,3,0,0,0,1,0,5,0,0,0,18,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5555.37022585152,1999,32,0,0,0,13,3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,1999,146,65,0,49,0,0,0,0,8,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4386.43292249407,1999,67,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5346.76904074661,1999,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,1999,196,0,0,0,0,0,0,0,1,0,55,0,0,100,1,0,0,0,39,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,1999,1288,0,0,157,889,2,0,0,125,0,75,0,0,10,0,0,0,0,30,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,1999,771,0,0,61,0,0,0,4,294,0,0,0,1,410,0,0,0,0,1,0,0,0,0,0
+TO,Tonga,country,East Asia and Pacific,-21.178986,-175.198242,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17182.8711806275,1999,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3139.48557980866,1999,47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,1999,24748,19177,0,1133,2887,0,0,0,12,0,0,0,0,1519,20,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,1999,7254,0,0,0,0,0,0,0,0,0,0,0,7254,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,1999,8274,8185,0,0,0,0,0,0,2,0,0,0,0,68,19,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,1999,40663,37848,0,35,452,0,12,48,284,0,82,0,93,107,1497,85,0,2,113,5,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,1999,29251,19096,192,451,6487,0,12,82,516,0,27,301,273,637,105,37,0,0,1035,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,1999,281,0,0,0,0,0,0,0,0,0,13,0,268,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,1999,51025,45291,0,1,3588,0,0,3,17,0,0,0,2,54,2063,6,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,1999,170,0,0,0,0,0,0,0,0,0,44,0,126,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,1999,220,0,0,0,0,0,0,0,206,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2905.71782961382,1999,135,0,0,0,0,0,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,1999,883,0,0,0,0,0,0,0,0,0,0,0,0,883,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,2000,125,15,0,7,0,0,0,0,0,0,10,0,1,0,92,0,0,0,0,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9811.0591642587,2000,14021,14021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11234.1631371959,2000,150632,150632,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10786.2514023426,2000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,2000,413662,412425,0,0,254,0,25,0,22,0,0,0,25,856,0,0,0,0,55,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,2000,36,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,34,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2584.6734602416,2000,73,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,46,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,2000,2082,8,5,0,1500,0,0,45,0,0,0,0,0,1,499,0,0,0,24,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12516.5549200741,2000,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9543.53519650681,2000,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+BN,Brunei Darussalam,country,,4.535277,114.727669,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9312.0041168966,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3356.35556752125,2000,317,16,0,0,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CV,Cape Verde,country,Sub-Saharan Africa,16.002082,-24.013197,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5841.21574501016,2000,13,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2049.83715260181,2000,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,2000,93494,91706,0,0,1788,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11641.7154931548,2000,68,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0
+MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8805.91963285727,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,2000,3603,1592,11,2,0,0,0,966,50,0,620,0,6,286,64,3,0,0,3,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9521.40234437771,2000,14,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3860.54775224867,2000,10070,10070,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11293.746761103,2000,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,2000,236,24,0,0,0,0,11,1,118,0,0,0,60,11,0,0,0,0,11,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2101.11661027242,2000,110,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,2000,1110,38,0,0,42,0,0,0,0,0,0,0,0,1,38,0,0,0,991,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,2000,33,2,0,0,1,0,0,0,0,0,0,0,24,6,0,0,0,0,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10624.6042793955,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,2000,244,0,0,0,0,0,23,0,0,0,0,125,30,50,15,1,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,2000,33084,30571,3,101,1518,0,99,109,92,0,4,0,35,329,88,17,0,0,118,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1196.06486202414,2000,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5473.25084978639,2000,325,0,0,0,0,0,0,0,0,0,0,0,0,0,325,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,2000,102418,101177,0,213,75,0,0,0,2,0,0,0,0,257,0,0,0,0,694,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,2000,206,28,0,122,0,0,55,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,2000,13,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4363.46987525196,2000,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12373.2278288064,2000,140,0,0,0,0,0,0,0,0,0,0,105,0,2,0,0,0,0,33,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,2000,25265,220,0,41,19814,0,0,46,0,0,143,0,2423,2525,37,0,13,0,16,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,2000,1215,0,0,0,0,0,0,0,13,0,10,0,227,526,439,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,2000,211,47,0,0,0,0,0,64,21,0,0,0,0,38,12,0,0,0,29,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,2000,278,0,0,0,0,0,0,0,0,0,0,0,0,275,0,0,0,0,3,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,2000,48169,47951,0,0,0,0,0,0,2,0,0,105,1,28,0,0,0,0,82,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,2000,461,9,0,0,286,0,0,0,12,0,0,0,9,43,3,0,0,0,99,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,2000,135,0,0,0,0,0,0,12,3,0,0,0,0,18,87,0,0,0,15,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,2000,17684,0,0,0,0,0,0,0,18,0,0,0,17658,0,8,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,2000,40,0,0,0,0,0,0,21,10,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3966.85857036191,2000,12,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,2000,9186,0,0,8,0,0,15,0,5,0,14,0,0,31,9090,10,0,0,13,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,2000,170,0,0,0,0,0,0,0,0,0,0,0,0,16,154,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,2000,16,1,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MR,Mauritania,country,Sub-Saharan Africa,21.00789,-10.940835,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.95103856711,2000,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,2000,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,2000,7510,0,448,4351,0,1,0,25,53,0,0,891,1,108,744,0,62,0,888,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,2000,481,5,0,102,0,0,0,0,0,0,0,0,0,48,0,0,0,0,326,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12357.2135131472,2000,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,2000,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2893.27044997598,2000,342,0,0,0,0,0,0,186,1,0,0,0,5,0,0,0,0,0,150,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,2000,996,996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12045.5317768636,2000,7,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,2000,23529,23518,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,2000,72,14,0,0,0,0,0,0,55,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,2000,184,121,0,0,0,0,0,0,0,0,0,0,62,1,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,2000,4110,4000,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7973.5098848738,2000,10,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9905.81758471851,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,2000,168,29,0,0,0,2,0,2,9,0,91,0,2,26,0,7,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,2000,11924,6906,88,336,1161,0,3,384,1108,1,44,112,37,123,970,265,86,7,379,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4827.55150085766,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,2000,725,0,0,0,0,0,0,0,0,0,63,0,0,31,631,0,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,14568.0784230823,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,2000,7133,6625,0,412,0,0,0,0,0,0,0,0,0,0,9,39,0,0,48,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5555.37022585152,2000,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,2000,50,0,0,49,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4386.43292249407,2000,144,0,0,42,0,0,0,0,0,0,0,0,0,3,0,0,0,0,99,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5346.76904074661,2000,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,2000,113,0,0,15,0,0,0,0,27,0,27,0,1,28,0,0,0,0,15,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,2000,1707,0,0,263,1056,0,0,17,127,3,0,0,80,4,10,0,0,0,147,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,2000,233,0,0,0,0,0,0,22,191,0,0,0,0,2,0,12,0,0,6,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,2000,10340,5792,0,1492,0,0,0,109,10,0,0,0,44,2859,34,0,6,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,2000,4396,0,0,0,0,0,0,0,0,0,0,0,4396,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,2000,148,76,0,0,0,0,0,26,0,0,7,0,0,0,0,0,0,0,39,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,2000,67357,44864,2,20069,376,0,6,308,476,0,194,0,59,160,568,119,0,0,156,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,2000,99964,80149,85,1322,14536,0,27,276,429,0,150,796,160,580,423,18,0,0,1013,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,2000,313,0,0,0,0,0,0,0,0,0,36,0,277,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,2000,179850,176194,0,0,789,0,0,0,221,0,15,0,1,2,2598,0,0,0,30,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,2000,57,0,0,0,0,0,0,0,0,0,19,0,38,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,2000,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2905.71782961382,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,2000,1855,0,0,0,0,0,0,0,0,0,0,0,0,1855,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3410.00475770796,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,2001,100,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,12,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9811.0591642587,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11234.1631371959,2001,29832,29800,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10786.2514023426,2001,106,0,0,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,2001,372916,369566,0,23,1140,0,0,0,59,0,0,0,9,1748,3,1,0,0,367,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,2001,212,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,6426.18560106151,2001,41,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,2001,4876,1420,0,3263,0,0,0,0,0,0,0,96,0,87,0,0,0,0,10,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9543.53519650681,2001,30679,8,0,30658,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3356.35556752125,2001,338,180,0,143,0,0,0,0,0,0,0,0,0,5,10,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,2001,178648,176931,0,0,812,0,0,0,0,0,0,0,1,0,904,0,0,0,0,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11641.7154931548,2001,1052,496,0,0,0,0,0,0,0,0,0,0,556,0,0,0,0,0,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1232.63723002454,2001,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8859.66127042641,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,2001,18658,15673,0,15,0,0,0,1001,257,0,713,0,26,692,239,0,0,0,42,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9521.40234437771,2001,18,0,0,0,0,0,0,0,8,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11471.6325593822,2001,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12317.5429808646,2001,115,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3959.32695732099,2001,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3860.54775224867,2001,12860,12860,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,2001,87,4,0,0,0,0,34,0,34,0,0,0,13,2,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,2001,6166,75,0,0,2080,0,0,1078,0,0,0,0,0,219,994,0,0,0,1720,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,2001,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10624.6042793955,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,2001,1440,392,0,567,0,0,0,0,24,0,0,0,0,2,62,0,17,0,393,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,2001,43142,41166,8,43,750,1,403,146,213,0,0,0,51,175,130,0,128,0,56,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1196.06486202414,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5473.25084978639,2001,1287,0,0,0,0,0,0,0,0,0,0,0,0,0,1287,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,2001,68514,67256,4,0,0,0,0,0,0,0,0,42,150,74,0,2,0,0,986,0,0,0,0,0
+GM,The Gambia,country,Sub-Saharan Africa,13.443182,-15.310139,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4928.42190527937,2001,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,2001,3052,1646,0,0,0,0,101,1178,2,0,0,63,4,24,2,0,18,0,32,0,0,0,0,0
+GD,Grenada,country,Latin America and the Caribbean,12.262776,-61.604171,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9910.34178586404,2001,1250,1250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,2001,97,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4363.46987525196,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GY,Guyana,country,Latin America and the Caribbean,4.860416,-58.93018,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9806.26198514414,2001,501,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HT,Haiti,country,Latin America and the Caribbean,18.971187,-72.285215,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10832.3875379017,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3947.11902491859,2001,47,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,2001,144091,110388,0,21680,7822,0,1,0,13,0,31,0,813,3091,189,0,0,0,23,0,40,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,2001,6954,0,0,1000,12,0,0,0,0,0,10,35,544,46,5307,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,2001,500,4,0,0,0,0,0,24,329,0,0,0,0,143,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,2001,280,0,0,0,0,0,0,0,0,0,0,0,0,213,0,0,0,0,67,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,2001,11233,10595,0,20,0,0,0,169,4,0,0,159,2,144,0,0,0,0,140,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,2001,66,19,0,0,0,0,0,20,18,0,0,0,0,1,0,0,0,0,8,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,2001,229,3,0,52,17,0,0,70,8,0,5,10,0,5,53,0,0,0,6,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,2001,27389,0,0,0,0,0,0,0,2,0,0,0,27315,72,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17699.293796017,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2555.9566209566,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,2001,150,0,0,0,0,0,0,0,102,0,0,0,0,35,13,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,2001,11196,0,0,0,0,0,42,6,21,0,13,0,166,452,10496,0,0,0,0,0,0,0,0,0
+MV,Maldives,country,South Asia,3.202778,73.22068,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4852.43966444585,2001,50,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,2001,295,0,12,0,29,0,0,0,0,0,0,0,15,0,239,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,2001,98,0,0,0,0,0,0,0,72,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+MS,Montserrat,country,Latin America and the Caribbean,16.7425,-62.1874,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9859.58164408179,2001,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,2001,1353,0,0,0,0,0,0,0,173,0,0,0,0,0,1180,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,2001,9786,38,70,5561,0,0,0,2,15,0,0,2044,17,136,161,143,23,1,1598,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,2001,1676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1676,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2433.70444935435,2001,7,0,0,0,0,0,0,0,4,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2390.59937868237,2001,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,2001,522,20,0,0,0,0,0,0,0,0,0,0,0,0,502,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2893.27044997598,2001,800,27,0,0,0,0,0,688,0,0,0,0,62,2,0,0,0,0,21,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,2001,8255,8245,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12045.5317768636,2001,12,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11884.806638024,2001,107,29,0,0,0,0,0,0,0,0,0,38,0,40,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,2001,64,0,0,14,0,0,0,0,0,0,0,0,34,0,0,0,0,0,16,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,2001,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,2001,171,0,0,0,0,0,0,0,0,0,0,43,125,3,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,2001,31198,31198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,2001,279,0,0,9,0,0,0,16,17,0,83,20,25,22,18,3,0,0,66,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,2001,15225,11876,47,551,24,0,8,480,453,0,46,0,137,187,663,194,54,1,558,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4827.55150085766,2001,14,0,0,0,0,0,0,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,2001,3457,0,0,0,0,0,0,0,0,0,412,0,0,70,2975,0,0,0,0,0,0,0,0,0
+SB,Solomon Islands,country,East Asia and Pacific,-9.64571,160.156194,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,14568.0784230823,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4896.22181444902,2001,29,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,2001,360,39,0,78,0,0,0,0,20,0,0,0,0,57,166,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5555.37022585152,2001,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,2001,31,0,0,0,0,0,0,0,0,0,16,0,0,10,0,5,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4386.43292249407,2001,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,221,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5346.76904074661,2001,12,0,0,0,0,0,0,0,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,2001,204,34,0,0,0,0,0,0,0,0,0,40,0,26,0,21,0,0,83,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,2001,1213,1,0,445,50,0,0,6,370,0,0,0,1,276,3,0,0,0,61,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,2001,1125,0,0,600,0,0,0,5,340,0,1,0,0,84,0,0,0,0,95,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3139.48557980866,2001,35,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,2001,16207,9201,0,787,2250,0,0,693,14,0,0,0,16,3232,14,0,37,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,2001,9265,0,0,0,0,0,0,0,0,0,0,0,9265,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,2001,304,0,0,0,285,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,2001,65805,44684,0,17162,702,0,30,375,779,0,183,0,325,507,696,142,0,1,219,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,2001,22741,5209,0,899,11002,4,317,624,315,1,120,515,467,579,2014,50,0,0,625,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,2001,94,0,0,0,0,0,0,0,0,0,13,0,81,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,2001,114843,111649,0,25,1430,0,0,0,96,0,0,0,0,83,1506,0,0,0,54,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,2001,271,0,0,0,0,0,0,0,0,0,265,0,0,6,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,2001,47,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2905.71782961382,2001,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,2001,2220,0,0,38,0,0,0,0,0,0,0,0,0,2182,0,0,0,0,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3410.00475770796,2002,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,2002,320,0,0,212,0,0,0,0,2,0,0,0,0,0,100,0,0,0,6,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9811.0591642587,2002,217,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11234.1631371959,2002,43825,43406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,419,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,2002,408044,405877,0,0,43,39,1,0,20,0,0,0,0,1640,62,0,0,0,362,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,2002,3868,0,0,0,3631,0,0,0,0,0,0,0,0,100,0,0,0,0,137,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,2002,5339,696,2,4158,194,0,0,0,0,0,0,105,0,1,0,0,0,0,183,0,0,0,0,0
+BZ,Belize,country,Latin America and the Caribbean,17.189877,-88.49765,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12516.5549200741,2002,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9543.53519650681,2002,36478,0,0,36282,0,0,0,0,0,0,5,0,0,146,0,0,6,13,32,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3356.35556752125,2002,581,158,0,232,0,0,0,0,0,0,0,0,0,125,0,12,0,0,54,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2049.83715260181,2002,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,2002,376660,376021,0,0,639,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KY,Cayman Islands,country,Latin America and the Caribbean,19.513469,-80.566956,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11641.7154931548,2002,982,0,0,22,0,0,0,0,0,0,0,0,916,44,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11903.6781782259,2002,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8859.66127042641,2002,69,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,55,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,2002,5126,226,0,51,0,0,0,2725,337,0,840,42,16,868,0,2,0,0,19,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12317.5429808646,2002,176,0,0,0,0,0,0,0,0,0,0,0,0,176,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3860.54775224867,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,2002,57,0,0,0,0,0,11,0,29,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,2002,2186,0,0,0,805,0,0,0,44,0,0,21,111,4,0,0,0,0,1201,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,2002,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10624.6042793955,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,2002,1404,0,416,98,0,0,39,0,38,0,0,20,17,164,222,0,21,8,382,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,2002,35472,31003,10,556,1240,0,4,105,1209,20,44,0,44,487,204,70,324,72,404,0,0,0,0,0
+SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12696.320772907,2002,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1196.06486202414,2002,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5473.25084978639,2002,93,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,2002,15003,14134,0,0,0,0,0,0,6,0,0,227,30,102,0,0,0,0,504,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,2002,1142,29,0,63,0,0,169,270,2,0,0,0,43,565,0,1,0,0,0,0,0,0,0,0
+GD,Grenada,country,Latin America and the Caribbean,12.262776,-61.604171,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9910.34178586404,2002,22,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,2002,43,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12373.2278288064,2002,50,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3947.11902491859,2002,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,2002,69172,35419,0,24846,6245,0,1,0,224,0,37,0,244,1860,294,0,0,0,2,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,2002,2623,0,0,166,0,0,0,0,0,0,10,0,188,254,1638,0,0,0,367,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,2002,1253,2,0,0,0,0,0,0,333,0,0,0,0,671,0,0,0,0,247,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,2002,490,0,0,0,0,0,0,0,0,0,0,0,0,357,0,0,0,0,133,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,2002,31080,26810,0,460,990,0,0,83,9,0,3,200,1,26,2380,36,0,0,82,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.0820317969,2002,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,2002,41,1,0,0,0,0,0,39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,2002,262,11,0,60,0,0,2,61,34,0,0,0,0,56,31,0,0,3,4,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,2002,28805,0,0,40,150,0,0,0,0,23,0,0,28342,206,44,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2555.9566209566,2002,40,12,0,0,0,0,0,0,0,0,0,0,0,13,0,15,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,2002,43,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LY,Libya,country,Middle East and North Africa,26.3351,17.228331,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2022.87168267894,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3966.85857036191,2002,27,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,2002,11956,9,0,0,0,0,0,0,20,0,0,0,30,13,11884,0,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,2002,39,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,2002,43,0,0,0,0,0,0,0,24,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+MS,Montserrat,country,Latin America and the Caribbean,16.7425,-62.1874,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9859.58164408179,2002,241,0,0,0,0,0,0,0,0,0,0,0,0,0,241,0,24,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,2002,2544,0,0,0,0,0,0,0,1,0,0,0,0,0,2543,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3557.82236629677,2002,313,0,0,0,0,0,0,0,0,0,0,0,0,84,229,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,2002,7988,0,477,3358,0,0,0,0,0,0,0,1854,0,151,4,93,38,0,2051,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,2002,2023,0,0,33,0,0,0,107,0,0,0,0,0,0,0,0,0,0,1883,0,0,0,0,0
+NI,Nicaragua,country,Latin America and the Caribbean,12.865416,-85.207229,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12357.2135131472,2002,7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2433.70444935435,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,2002,208,0,0,120,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2893.27044997598,2002,1366,2,0,0,0,0,0,667,0,0,0,0,0,0,0,0,0,0,697,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,2002,85514,85461,0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10450.6914014392,2002,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11884.806638024,2002,47,44,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,2002,77,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,32,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4786.78769515811,2002,302,0,0,0,0,0,0,0,0,0,0,0,0,302,0,0,0,0,0,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,2002,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,2002,1795,0,0,1728,0,0,0,0,0,0,5,0,47,15,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,2002,3050,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7973.5098848738,2002,14945,14945,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9905.81758471851,2002,111,0,0,0,0,0,0,0,0,0,0,0,111,0,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,2002,211,77,0,0,0,0,0,35,11,0,57,0,0,6,5,0,0,0,20,0,0,0,0,0
+ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2962.50082491781,2002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,2002,45651,42123,59,564,12,0,11,250,1013,0,52,0,17,294,801,115,116,93,247,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4827.55150085766,2002,18,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,2002,737,0,0,0,0,0,0,0,0,0,70,0,0,5,662,0,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,2002,300,16,9,64,0,0,0,0,18,0,0,54,13,92,34,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,2002,43,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4386.43292249407,2002,39,0,0,0,0,0,0,0,0,0,0,0,7,14,0,0,0,0,18,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5346.76904074661,2002,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,2002,96,0,0,0,0,0,0,0,32,0,29,0,0,35,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,2002,1218,16,0,377,0,0,50,13,485,0,0,0,1,155,10,0,0,0,111,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,2002,476,92,0,0,0,0,0,0,239,0,0,0,0,25,5,64,0,0,51,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3139.48557980866,2002,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,2002,6583,688,0,1107,1068,0,0,1169,3,0,0,0,1,2521,2,0,0,0,24,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,2002,12208,0,0,0,0,0,0,0,0,0,0,0,12208,0,0,0,0,0,0,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,2002,3000,0,0,0,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,2002,57782,43415,0,8014,3200,0,0,496,899,0,199,0,193,307,719,109,28,1,230,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,2002,25934,20051,27,196,4504,12,0,36,161,1,13,0,15,242,6,30,0,4,636,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,2002,97,0,0,0,0,0,0,0,0,0,25,0,72,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,2002,30249,22505,22,240,4551,0,199,0,238,0,6,0,1,108,2237,0,0,0,142,0,0,0,0,0
+VU,Vanuatu,country,East Asia and Pacific,-15.376706,166.959158,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15366.5157339191,2002,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,2002,202,0,0,0,0,0,0,0,22,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,2002,33,30,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2905.71782961382,2002,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,2002,2254,0,0,0,0,0,0,0,0,0,12,0,0,2242,0,0,0,0,0,0,0,0,0,0
+AF,Afghanistan,country,South Asia,33.93911,67.709953,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4452.9233708761,2008,14,1,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3410.00475770796,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+WS,Samoa,country,East Asia and Pacific,-13.759029,-172.104629,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17618.1554278279,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11234.1631371959,2008,142,0,0,0,0,0,0,0,1,0,0,0,0,40,0,0,0,0,101,0,0,0,0,0
+AW,Aruba,country,Latin America and the Caribbean,12.52111,-69.968338,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10786.2514023426,2008,177,9,1,0,0,0,0,0,0,0,0,0,0,92,0,40,0,0,35,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11973.5528030138,2008,418371,416358,0,0,0,0,0,0,53,0,0,0,0,25,0,0,0,0,1935,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4124.04534453551,2008,18,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2584.6734602416,2008,13,0,0,0,0,0,0,1,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+BB,Barbados,country,Latin America and the Caribbean,13.193887,-59.543198,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9669.22453936708,2008,24,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4796.68508722182,2008,257,0,0,0,0,0,0,25,0,0,0,0,0,8,20,0,0,0,204,0,0,0,0,0
+BO,Bolivia,country,Latin America and the Caribbean,-16.290154,-63.588653,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10815.3091924331,2008,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9543.53519650681,2008,5082,0,0,28,0,0,0,1,46,0,14,0,0,1860,0,0,0,0,3133,0,0,0,0,0
+BI,Burundi,country,Sub-Saharan Africa,-3.373056,29.918886,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1807.66977649561,2008,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.1842844515,2008,324005,324005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1232.63723002454,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11903.6781782259,2008,1159,0,0,0,0,0,0,0,1120,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8859.66127042641,2008,26,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7748.3888228001,2008,9661,203,0,260,10,1,8,1697,1161,8,1388,0,275,3481,34,84,0,2,1049,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3860.54775224867,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2499.37911729277,2008,21,0,0,0,0,0,0,0,20,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4328.76610952174,2008,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,20,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2101.11661027242,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5148.14985156219,2008,63,0,0,0,0,0,0,0,19,0,0,0,0,21,0,0,0,22,1,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9807.48069755991,2008,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12060.6657923808,2008,573,0,0,550,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1554.96730449106,2008,72701,17784,1380,14893,2363,33,547,822,25562,8,60,50,309,2144,5603,245,0,4,891,3,0,0,0,0
+GQ,Equatorial Guinea,country,Sub-Saharan Africa,1.650801,10.267895,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2528.62555296175,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1196.06486202414,2008,3158,0,0,0,2667,0,0,0,0,0,489,0,0,0,0,0,0,2,0,0,0,0,0,0
+FK,Falkland Islands,country,,-51.796253,-59.523613,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11122.6581688345,2008,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FO,Faroe Islands,country,Europe and Central Asia,61.892635,-6.911806,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,6208.00259901228,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+FJ,Fiji,country,East Asia and Pacific,-16.578193,179.414413,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,16698.6998407834,2008,14,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5473.25084978639,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,2,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4549.39663230441,2008,601,24,0,0,0,0,0,0,62,0,11,0,21,197,17,2,0,0,267,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4621.97033940976,2008,2751,1250,0,22,0,0,19,1,0,0,13,0,10,292,0,236,0,0,908,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3032.80119246334,2008,416,1,0,0,0,0,388,0,0,0,0,0,0,25,0,0,0,0,2,0,0,0,0,0
+GL,Greenland,country,Europe and Central Asia,71.706936,-42.604303,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8063.73183330133,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12747.2900937338,2008,132,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12373.2278288064,2008,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3947.11902491859,2008,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5248.68965178132,2008,7865,256,0,2895,0,0,21,0,58,0,27,0,8,4148,15,0,0,0,437,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9355.24272607025,2008,79,0,0,0,0,0,13,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3234.03375616255,2008,2887,14,0,0,0,1,2,0,2847,0,4,0,0,0,0,19,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5640.7971942961,2008,1455,0,0,0,0,0,0,0,3,0,3,0,0,368,0,0,0,0,1081,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3653.61391675178,2008,1715,11,0,0,0,0,0,1364,39,0,0,0,2,274,0,25,0,0,0,0,0,0,0,0
+JM,Jamaica,country,Latin America and the Caribbean,18.109581,-77.297508,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,11366.0820317969,2008,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10734.9827289386,2008,2718,9,0,2315,0,0,0,0,1,0,0,0,0,38,0,0,0,0,355,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2067.64342684952,2008,334,0,0,0,0,0,0,97,59,0,0,0,0,46,0,71,0,0,61,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1666.73381423034,2008,1414,7,0,126,0,0,0,0,2,0,0,0,831,438,10,0,0,0,0,0,0,0,0,0
+KW,Kuwait,country,Middle East and North Africa,29.31166,47.481766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2555.9566209566,2008,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2405.73542823948,2008,1736,137,0,1,0,0,0,0,1165,1,4,0,1,217,1,209,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7936.5278998193,2008,6161,76,0,0,0,0,0,17,7,0,0,0,0,62,5978,21,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3707.19722427755,2008,65,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3019.55034479438,2008,55,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4756.36519280522,2008,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4349.48878086735,2008,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4187.41723769914,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NP,Nepal,country,South Asia,28.394857,84.124008,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5825.51645722112,2008,20,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4906.40724658617,2008,2085,45,604,182,0,0,4,0,26,0,0,17,0,54,278,218,0,1,656,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15218.5903009313,2008,10,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,15398.1706633699,2008,1489,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,1459,0,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2433.70444935435,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2390.59937868237,2008,30,26,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NU,Niue,country,East Asia and Pacific,-19.054445,-169.867233,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,17782.0905106466,2008,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5589.29844075871,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PS,Palestine,country,Middle East and North Africa,31.952162,35.233154,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2185.94737310535,2008,534,0,0,530,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2893.27044997598,2008,1294,295,0,0,0,0,0,49,0,0,0,0,46,5,26,83,0,0,790,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4462.80237615862,2008,543,517,0,4,0,0,0,0,19,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9866.87840309519,2008,23,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4459.8592081711,2008,779,0,31,168,0,0,0,0,0,0,0,0,374,0,0,0,0,0,206,0,0,0,0,0
+QA,Qatar,country,Middle East and North Africa,25.354826,51.183884,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2600.98745827774,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9847.6762108305,2008,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MD,Moldova,country,Europe and Central Asia,47.411631,28.369885,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3849.81393995969,2008,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3715.60031105125,2008,33,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+VC,St. Vincent & Grenadines,country,Latin America and the Caribbean,12.984305,-61.287228,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9858.83494255662,2008,7,0,0,0,0,0,0,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+ST,Sao Tome and Principe,country,Sub-Saharan Africa,0.18636,6.613081,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2962.50082491781,2008,951,0,0,950,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1989.77963096684,2008,1091485,6918,35,1074524,100,6,13,1539,1673,0,488,1,370,2215,651,1345,0,143,1460,4,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4827.55150085766,2008,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3409.6410991269,2008,92,0,0,0,0,0,0,0,79,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8206.04055451589,2008,238,0,0,0,0,0,0,0,0,0,5,0,0,31,202,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4896.22181444902,2008,6074,0,0,712,0,0,0,0,5201,0,11,0,0,128,0,22,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4516.06214628501,2008,385,26,0,1,0,0,0,0,4,0,0,0,4,321,21,8,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5555.37022585152,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,9514.95340580176,2008,8496,0,0,8455,0,1,0,0,35,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4386.43292249407,2008,2551,0,0,138,0,0,190,0,8,0,0,0,0,96,1625,468,0,0,26,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5346.76904074661,2008,160,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,159,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4302.89338181797,2008,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2597.69149381398,2008,3818,31,1,266,0,0,4,83,2974,0,0,0,4,284,137,22,0,0,12,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,7603.73334044386,2008,2732,1169,0,0,0,0,0,62,1402,0,0,0,0,37,11,0,0,0,51,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3139.48557980866,2008,82,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2947.51011830892,2008,11823,8597,0,812,149,0,2,499,105,0,0,0,434,327,814,60,0,0,24,0,0,0,0,0
+TM,Turkmenistan,country,Europe and Central Asia,38.969719,59.556278,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4096.28719362546,2008,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TC,Turks and Caicos Islands,country,Latin America and the Caribbean,21.694025,-71.797928,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,10697.9562362873,2008,295,248,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1299.26121548597,2008,472,0,0,0,0,0,0,0,0,0,0,0,420,2,0,0,0,0,50,0,0,0,0,0
+UA,Ukraine,country,Europe and Central Asia,48.379433,31.16558,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3954.66559148663,2008,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2756.54594892937,2008,7585,1034,80,1698,40,0,46,624,282,0,536,0,56,1366,115,1433,0,11,264,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,5553.66062584278,2008,563,254,1,192,0,0,15,1,0,0,0,0,1,60,0,25,0,0,14,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,2202.34525043738,2008,198,0,0,0,0,0,0,0,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,12110.3441413662,2008,674,506,17,0,0,0,0,0,65,0,0,0,0,79,1,0,0,0,6,0,0,0,0,0
+UZ,Uzbekistan,country,Europe and Central Asia,41.377491,64.585262,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,4600.12816601809,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,8408.85376991777,2008,930,45,0,0,0,0,0,0,13,0,435,0,0,437,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,1996.55530210888,2008,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,3550.58447910398,2008,265,0,0,0,0,0,0,0,0,0,0,0,0,265,0,0,0,0,0,0,0,0,0,0

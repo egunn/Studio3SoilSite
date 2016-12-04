@@ -1,371 +1,506 @@
-sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,660,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,637,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,1224,155,0,3,16,0,0,88,30,0,0,544,7,321,4,12,0,43,1,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,2520,0,0,0,0,0,0,0,0,0,0,2520,0,0,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,138,126,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,103518,28902,749,900,2667,195,286,3847,4451,4,78,3073,1379,3067,9322,13596,1477,12975,18027,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,70,0,0,4,0,0,0,0,0,0,0,0,1,55,0,10,0,0,0,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,229,0,0,0,0,0,0,0,229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,1473,56,0,9,0,0,0,269,2,1,0,0,22,101,0,1013,0,0,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,413,0,0,0,0,0,0,0,0,0,0,0,0,0,0,413,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,5221,141,13,4,0,1,0,30,214,0,0,2000,225,94,0,1546,0,652,301,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,212,24,0,0,11,0,34,30,0,0,99,0,0,3,11,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,817,10,0,9,0,0,0,10,11,0,0,0,2,0,0,775,0,0,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,11,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,20228,20113,7,0,93,0,3,0,0,0,1,0,0,11,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,1022,6,0,19,0,3,0,0,34,0,0,0,5,127,0,764,0,0,64,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,41,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1986,40836,40836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,840,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,2117,169,3,5,0,0,0,29,41,1,0,803,6,355,522,127,0,56,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,13000,0,0,0,0,0,0,0,0,0,0,13000,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,431,18,0,3,69,0,184,83,6,0,0,0,2,53,0,13,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,172,150,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,109965,27823,836,1146,2522,213,336,5906,5038,1,75,3321,2026,3385,8538,15291,1380,13881,19627,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,759,50,0,0,0,0,0,700,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,41,0,0,5,0,0,0,0,0,0,0,0,1,26,0,9,0,0,0,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,675,0,0,0,0,0,0,0,675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,6406,6033,0,5,0,0,0,312,0,1,0,0,37,14,0,3,0,0,1,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,448,0,0,0,80,0,0,0,0,0,0,0,0,0,0,368,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,3461,104,78,11,0,0,0,4,276,0,0,57,97,149,10,1786,21,609,280,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,628,52,1,0,24,0,43,128,15,0,150,0,0,82,131,2,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,10247,9692,0,10,0,0,0,0,0,0,0,0,1,0,0,539,0,5,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,38,0,0,0,0,0,37,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,16958,16812,16,0,83,0,0,22,8,0,4,0,0,13,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,1207,10,0,3,0,0,0,13,0,0,0,2,6,184,0,989,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,6510,6251,0,0,250,0,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1987,9647,9647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,736,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,732,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,3397,266,0,4,0,0,0,90,14,0,0,1744,39,286,521,226,0,189,18,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,6050,0,0,0,0,0,0,0,0,0,0,5550,0,0,500,0,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,426,29,0,5,34,0,236,36,30,0,0,0,6,28,0,1,0,21,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,534,157,0,0,0,0,0,0,0,0,0,0,0,0,244,0,0,133,0,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,8,0,3,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,126641,32501,1184,1688,5714,101,440,5111,5917,6,71,4964,2193,2923,9876,18078,736,13284,22590,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,3412,55,0,0,0,0,0,0,0,0,0,3357,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,52,0,0,5,0,0,0,0,0,0,0,0,1,46,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,13337,12566,0,15,0,0,0,685,0,0,0,0,56,0,0,3,0,0,12,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,316,0,0,0,62,0,0,0,0,0,0,0,0,0,0,254,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,3490,81,50,4,0,0,0,16,225,0,0,50,1,127,197,1590,26,610,539,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,358,0,0,0,129,0,0,0,0,0,0,0,0,2,0,0,0,227,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,987,57,4,2,17,1,43,464,23,0,148,0,0,121,24,83,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,15347,14817,0,13,0,0,0,0,0,0,0,0,2,0,0,515,0,0,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,9565,9356,70,6,74,0,0,12,29,0,2,0,0,16,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,1197,9,0,10,0,0,0,0,1,0,0,0,4,251,0,922,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1988,114,18,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,814,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,810,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,4134,608,32,13,0,0,0,65,31,0,0,1029,16,325,203,774,0,820,218,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,466,13,0,0,0,0,199,45,0,0,0,0,5,34,1,1,0,168,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,120,81,0,0,0,0,0,0,0,0,0,0,0,1,0,12,0,26,0,0,0,0,0,0
-ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,147112,43967,1201,1507,4280,170,742,7410,7765,5,83,4262,2406,3167,9755,20752,1030,14966,24658,0,16,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,3860,84,0,0,0,0,0,200,0,0,18,3558,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,142,0,0,1,0,0,0,0,0,0,0,0,0,63,0,5,0,73,0,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,397,0,0,0,0,0,0,0,397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,43904,43497,0,17,0,0,0,230,66,0,0,0,65,22,0,1,0,5,1,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,285,0,0,3,21,0,0,0,0,0,9,0,0,0,0,252,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,4021,1228,8,6,0,0,0,56,146,0,0,268,15,234,0,1231,43,602,227,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,358,0,0,0,129,0,0,0,0,0,0,0,0,2,0,0,0,227,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,1475,74,6,7,4,1,40,433,449,0,150,0,3,98,55,138,0,0,17,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,5812,5525,0,25,0,0,0,0,0,0,0,0,2,0,0,249,0,11,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,22,0,0,0,0,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,5715,5495,43,6,53,0,2,57,57,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,1267,31,11,1,0,0,0,0,1,0,0,0,0,187,0,1036,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1989,40,36,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,3473,0,0,0,0,0,0,0,0,0,0,3473,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,298,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,276,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,37,36,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,4501,707,98,2,0,0,0,81,36,0,0,1546,9,255,361,779,0,598,29,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,1852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1852,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,600,0,0,0,0,0,0,0,0,0,0,0,600,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,657,6,0,0,57,0,298,54,0,0,20,0,1,38,0,1,0,182,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,72,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,124151,29344,983,1801,1056,132,501,5659,6899,2,99,7217,1919,3843,10403,18821,666,15573,19899,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,20,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,1075,213,0,0,0,0,0,845,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,53,0,0,1,0,0,0,0,0,0,0,0,0,37,0,0,0,15,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,513,159,0,4,0,0,0,189,51,0,0,0,65,23,0,9,14,13,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,39001,39000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,36534,29144,63,1,4216,0,4,349,19,16,46,2102,571,1,0,0,0,2,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,75,0,0,0,0,0,0,0,1,0,0,0,0,1,0,73,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,492,47,0,0,20,0,9,145,15,0,9,153,18,28,0,5,23,40,3,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,2951,113,35,4,0,0,0,34,0,0,0,41,173,335,182,1064,10,717,253,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,1170,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,1084,0,0,0,0,0,0
-SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,1173,104,23,6,2,0,49,511,93,0,198,0,6,0,96,80,0,0,5,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,4097,702,0,20,0,1,0,36,87,0,0,0,3,0,0,3214,0,34,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,32,0,0,0,0,0,22,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,18807,18668,69,0,44,0,0,13,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,40,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,1769,17,0,4,0,0,0,0,0,0,0,17,2,249,0,1480,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1990,55,34,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,13874,0,0,0,0,0,0,0,0,0,0,13874,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,1485,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,1473,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,62,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,4604,312,123,0,21,0,0,39,62,0,0,1341,9,359,341,1285,0,692,20,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1991,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,461,9,0,0,59,0,226,15,0,0,0,0,4,26,0,1,0,121,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,166,70,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,77,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,181330,81082,1115,1753,404,56,387,6483,6084,6,43,10143,2127,5535,9287,19952,701,16096,20777,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,309,66,0,10,0,0,0,0,11,0,0,0,0,189,10,23,0,0,0,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,41,0,0,0,0,0,0,0,40,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,1387,551,0,0,0,0,0,798,19,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,66,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,4,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,500,190,0,9,0,0,0,198,19,0,0,0,52,4,0,28,5,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,82,0,0,0,0,1,0,0,0,0,0,0,72,9,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,26813,15844,550,0,7031,0,20,853,28,15,19,1710,585,0,0,9,0,149,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,868,16,136,9,0,0,0,172,9,0,31,332,20,28,0,0,22,115,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,330,0,0,20,0,0,28,27,0,0,0,0,0,0,0,255,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,22321,152,25,7,0,0,0,57,254,0,0,65,294,225,5,20417,9,573,247,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,898,0,0,0,65,0,0,0,94,0,0,0,0,0,0,0,0,739,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,19,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,1020,161,0,5,0,0,45,469,34,0,140,0,0,7,35,123,0,0,1,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,3787,56,0,30,0,0,0,0,148,0,0,0,4,0,0,3531,0,18,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,37,0,0,0,0,1,34,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,48962,48824,54,5,38,0,0,13,15,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,160,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,1237,10,8,0,25,0,0,0,0,0,0,17,110,257,0,810,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,87,35,0,0,0,0,0,35,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1991,22054,22034,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,26885,8240,0,0,0,0,0,122,0,0,0,16710,0,0,1813,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,1000,0,0,0,0,0,0,15,117,0,27,0,0,0,0,0,0,841,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,43,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,6067,1600,321,9,144,0,6,156,22,0,0,695,16,314,222,1790,0,733,39,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,1624,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1622,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,121,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,391,3,0,0,19,0,229,17,7,0,0,0,0,21,0,0,0,95,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,363,91,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,241,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,212994,109594,1300,1727,486,111,454,6590,6143,5,39,10414,2752,5411,9528,19104,725,14717,24619,0,0,0,0,0
-GF,French Guiana,country,Latin America and the Caribbean,3.933889,-53.125782,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,514,72,0,65,0,0,0,0,288,0,0,1,0,69,10,9,0,0,0,0,0,0,0,0
-GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,45,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,919,604,0,0,0,0,0,212,0,0,102,0,0,1,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,787,242,0,2,0,0,0,430,0,0,0,0,84,10,0,19,2,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,64,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,11100,2853,0,0,4915,0,39,960,50,0,44,1198,821,0,0,11,0,209,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,51,22,0,0,0,0,12,0,9,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,2242,1369,95,2,0,0,0,109,6,7,9,473,25,25,1,0,0,121,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,343,0,0,0,0,0,14,6,0,0,0,0,0,0,0,323,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,4126,116,79,5,0,0,0,264,159,0,0,5,260,180,34,1963,0,763,298,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,1081,0,0,0,129,0,0,0,265,0,0,0,0,0,0,0,0,687,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,961,199,0,0,0,2,46,279,19,0,147,0,0,0,13,256,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,2351,43,0,45,0,0,0,0,248,0,0,0,2,0,0,1964,0,49,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,42,0,0,0,0,2,21,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,48610,48351,124,2,60,0,0,32,33,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,154,0,0,74,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,1550,24,0,0,0,0,0,16,0,0,0,144,15,262,0,1089,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,107,49,0,0,18,0,16,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1992,17,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,26949,3500,0,0,80,0,18,0,0,0,20,21331,0,0,2000,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,1416,5,0,0,0,0,0,33,382,0,63,0,0,0,0,0,0,933,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,8,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,5680,3096,467,11,292,14,16,0,74,0,0,272,16,217,269,311,0,509,116,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,2858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2858,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,144,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,4905,4431,0,0,0,0,287,40,0,0,0,0,1,46,0,1,0,99,0,0,0,0,0,0
-CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,377,49,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0,316,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,248004,140230,1519,2707,530,164,471,7772,5875,6,51,12868,3316,6560,6804,23865,1034,15185,20081,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,230,105,0,16,0,0,0,0,6,0,0,2,1,99,0,0,0,1,0,0,0,0,0,0
-GP,Guadeloupe,country,Latin America and the Caribbean,16.995971,-62.067641,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,6620,3169,0,0,0,0,0,50,0,0,1,3400,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,34,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,987,208,1,0,0,0,0,556,78,0,0,83,30,31,0,0,0,0,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,48,0,0,0,0,0,0,14,0,0,0,0,0,33,0,0,0,0,1,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,69,49,0,0,0,0,12,0,0,0,0,0,1,3,0,4,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,7429,718,21,46,0,2,0,133,2,7,5,6251,50,16,18,33,0,127,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,250,0,0,0,0,0,34,0,0,0,0,0,0,0,0,216,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,4159,98,134,7,13,0,3,119,112,0,0,97,334,226,0,1778,0,795,425,18,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,954,0,0,0,108,0,0,0,183,0,0,0,0,0,0,0,0,663,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,2770,2770,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,1153,233,0,8,0,0,46,297,84,0,112,0,0,0,10,363,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,3544,28,0,43,0,0,0,2,537,0,0,0,2,0,0,2819,0,31,82,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,50991,50698,87,5,61,0,0,45,57,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,1496,1,0,8,0,0,0,0,0,0,0,0,0,233,0,1037,0,217,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,100,51,0,0,16,0,0,32,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1993,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,47574,21010,0,0,0,0,0,41,0,0,10,22913,0,0,3600,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1498,14,0,0,86,0,0,0,699,0,36,0,0,0,0,0,0,663,0,0,0,0,0,0
-AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,5806,1905,796,27,63,0,33,49,176,0,0,542,17,289,552,755,0,394,208,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1361,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,491,0,0,0,491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,353,0,0,0,0,0,142,0,0,0,0,0,0,43,0,1,0,167,0,0,0,0,0,0
-CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,6,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,437,68,0,0,0,0,0,0,0,0,0,0,0,0,4,168,0,197,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,213152,102044,1470,1336,631,167,419,8112,7246,1,80,13132,3152,6969,5563,26518,1041,17893,18419,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,309,124,0,22,0,0,0,0,17,0,0,2,0,100,0,44,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,250,126,0,0,0,0,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,51,0,0,6,0,0,0,0,0,0,0,0,2,43,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1210,382,0,15,0,0,0,450,49,0,0,73,45,10,0,185,0,0,1,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,25775,16682,18,0,3811,0,185,1916,28,0,90,2418,489,0,0,0,0,138,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,149,62,0,9,0,0,23,0,0,0,0,0,5,4,37,9,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,6045,649,17,8,0,0,0,51,4,7,14,4560,19,31,3,548,0,134,0,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,191,0,0,0,0,0,8,0,0,0,0,0,0,6,0,177,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,3965,115,85,6,0,0,2,114,160,0,0,106,357,311,0,1327,0,1062,320,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1180,0,0,0,65,0,0,0,230,0,0,0,0,0,0,0,0,885,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,6063,6051,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
-SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1419,217,0,2,0,0,33,525,36,0,98,0,0,0,13,495,0,0,0,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,11209,184,304,263,4,0,18,651,7731,0,0,36,53,1,0,336,0,1628,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,3499,57,0,72,0,0,0,97,404,0,0,15,3,3,0,2797,0,15,36,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,40692,40293,80,3,72,7,0,112,63,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1278,17,0,9,0,0,0,0,0,0,0,0,11,66,0,518,0,657,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,250,35,0,0,73,0,8,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1994,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,69771,31162,0,0,0,0,0,47,0,0,0,32712,0,0,5850,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,1168,0,0,0,0,0,0,29,495,0,90,0,0,3,0,0,0,551,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,6437,2497,437,17,82,0,12,5,124,0,0,207,20,96,1048,1083,0,657,152,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,1090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1090,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,685,0,0,0,685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,715,4,0,0,0,0,437,14,0,0,0,0,0,30,0,0,0,230,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,836,41,0,0,0,0,0,0,0,0,0,0,0,0,0,306,0,489,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,218926,107255,1378,4105,165,178,469,8856,6494,0,267,13396,3098,7188,6307,25176,1173,17904,16690,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,205,31,0,28,0,0,0,0,16,0,0,44,0,77,0,9,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,3077,2663,0,0,0,0,0,396,5,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,319,0,0,0,0,0,0,0,0,0,0,0,0,319,0,0,0,0,0,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,1662,445,0,11,0,0,0,601,116,0,0,91,68,10,0,320,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,14955,4700,22,1,5417,0,138,2005,22,0,112,1774,543,0,0,0,0,221,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,72,36,2,6,0,0,19,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,8050,5634,149,23,0,1,1,24,1,0,12,1566,19,27,84,349,0,158,2,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,3131,59,103,4,0,0,2,68,50,0,0,17,207,290,0,1539,0,612,180,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,1401,0,0,0,0,0,0,0,238,0,0,0,0,0,0,0,0,1160,3,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,72,21,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,44,0,0,0,0,0,0,20,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0
-SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,1081,182,2,4,5,8,34,182,51,0,102,0,3,3,19,485,0,0,1,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,3313,32,0,103,0,0,0,219,396,0,0,19,1,12,0,2514,0,0,17,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,22,0,0,0,0,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,152,46,0,0,0,0,0,0,0,0,0,0,15,5,0,60,0,26,0,0,0,0,0,0
-CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,62299,61807,64,2,52,0,0,174,53,0,5,0,0,142,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,982,0,0,2,0,0,0,0,0,0,0,0,0,42,0,244,0,694,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,49,39,0,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1995,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,52150,22022,0,0,0,0,0,0,0,0,0,27668,0,0,2460,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,855,0,0,0,0,0,0,89,111,0,45,0,0,2,0,0,0,608,0,0,0,0,0,0
-BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,9493,5686,619,19,0,0,2,13,479,0,0,182,17,362,603,451,0,846,214,0,0,0,0,0
-BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,619,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,619,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,596,0,0,0,596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,690,5,0,0,0,0,477,30,0,0,0,0,0,43,0,0,0,135,0,0,0,0,0,0
-DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,623,40,0,0,0,0,0,0,0,0,0,0,0,0,0,398,0,185,0,0,0,0,0,0
-FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,221325,105452,1572,5155,189,219,562,8212,6143,4,118,15892,3751,6873,6231,26479,1432,17549,16924,0,0,0,0,0
-DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,175,31,0,19,0,0,0,0,17,0,0,14,12,60,0,22,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,255,1,0,0,0,0,0,198,0,0,6,0,0,50,0,0,0,0,0,0,0,0,0,0
-IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,116,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,92,0,0,0,0,0
-IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,1329,451,9,0,0,0,0,348,60,0,0,145,0,5,0,296,0,15,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,10619,3375,35,12,3669,0,43,1822,3,0,47,715,675,0,0,0,0,223,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,110,62,0,0,0,0,8,0,0,0,0,0,0,2,38,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,7047,6184,1,15,42,0,0,47,24,7,5,52,21,24,105,412,0,108,0,0,0,0,0,0
-NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,3127,14,143,0,0,0,0,28,33,0,0,4,155,228,32,1633,0,701,156,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,1297,0,0,0,0,0,0,0,451,0,0,0,0,0,0,0,0,846,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,177,42,0,0,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,1452,157,3,1,170,3,40,318,107,0,78,0,0,3,12,558,0,0,2,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,3989,97,0,104,0,1,0,186,407,0,0,0,5,0,0,3158,0,31,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,30,0,0,0,0,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,59921,55344,36,1,80,0,0,144,80,0,1,0,0,4235,0,0,0,0,0,0,0,0,0,0
-GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,1187,64,0,8,0,0,0,0,0,0,1,0,0,68,0,387,0,659,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,101,54,0,0,30,0,0,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,69266,37525,0,0,0,0,0,0,0,0,0,28341,0,0,3400,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,634,0,0,0,0,0,0,146,62,0,62,0,0,2,0,0,0,362,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,495,0,0,0,493,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,1004,0,0,0,0,0,495,30,0,0,0,0,0,72,0,0,0,407,0,0,0,0,0,0
-CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,1373,511,0,0,0,1,2,844,5,0,7,0,0,3,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,58,0,0,0,0,0,0,0,0,8,0,0,0,50,0,0,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,8726,8172,0,16,1,0,1,40,91,9,4,0,20,27,96,137,0,99,13,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,8,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,1492,0,0,0,0,0,0,0,426,0,0,0,0,0,0,0,0,1066,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,360,0,0,0,0,0,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,1496,202,2,4,63,1,74,136,75,0,74,0,0,3,36,806,0,0,20,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,8167,211,229,153,105,10,0,75,7165,1,1,0,77,8,0,116,0,14,2,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,84,0,0,0,0,0,35,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,51425,41708,77,3,78,0,0,75,76,0,2,0,0,9406,0,0,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,76,36,0,0,39,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1997,11,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
-AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,65747,26216,0,0,0,0,0,0,0,0,0,31131,0,0,8400,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,887,0,0,0,0,0,0,305,90,0,273,50,0,2,0,0,0,167,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,697,0,0,0,693,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,633,0,0,0,0,0,328,0,0,0,0,0,1,119,0,8,0,177,0,0,0,0,0,0
-CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
-IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,2539,415,5,2,0,0,5,2059,0,2,42,0,0,6,3,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,700,0,0,0,0,0,700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,47,0,0,0,0,0,0,0,1,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,7245,1448,0,1,3254,0,53,1829,13,0,59,0,572,0,0,16,0,0,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,126,26,0,0,0,0,0,0,0,0,0,0,0,33,61,6,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,7665,6601,42,11,21,0,13,11,28,0,2,612,24,20,0,144,0,135,1,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,255,0,0,0,0,0,18,0,0,0,0,0,0,0,0,237,0,0,0,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,1181,0,0,0,0,0,0,0,360,17,0,0,0,0,0,1,0,803,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,1468,177,3,0,0,0,39,297,74,0,92,0,0,4,14,766,0,0,2,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,7958,424,92,245,6,0,0,228,6678,0,1,0,58,2,130,63,0,31,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,47,0,0,0,0,0,35,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,157,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,66494,20486,141,3,73,0,0,128,50,0,1,0,0,45609,0,0,0,0,3,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,411,74,0,0,21,0,0,292,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1998,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,765,0,0,0,0,0,0,342,48,0,126,49,0,2,0,0,0,198,0,0,0,0,0,0
-BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,667,12,36,0,598,0,19,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,966,1,0,0,0,0,444,38,0,0,0,0,1,159,0,9,0,313,1,0,0,0,0,0
-SV,El Salvador,country,Latin America and the Caribbean,13.794185,-88.89653,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,139,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,675,0,0,0,0,0,0,0,630,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0
-JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,113,17,0,0,0,0,0,2,2,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0
-MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,7056,956,0,0,1984,3,63,2581,60,0,52,700,655,0,1,1,0,0,0,0,0,0,0,0
-MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,88,26,0,0,0,0,0,0,0,0,0,0,0,11,0,51,0,0,0,0,0,0,0,0
-MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,8716,1866,0,71,0,4,1,58,152,11,1,6210,30,39,0,101,0,145,27,0,0,0,0,0
-MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,470,0,0,0,0,0,28,0,0,0,0,0,0,0,0,442,0,0,0,0,0,0,0,0
-NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,1371,0,0,0,0,0,0,0,246,0,0,0,0,0,0,1,0,1124,0,0,0,0,0,0
-PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,1389,135,1,1,4,1,35,146,6,0,55,0,0,5,35,963,0,1,1,0,0,0,0,0
-ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,8803,120,4,215,0,0,0,456,7738,0,0,0,35,77,10,97,0,48,3,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,340,0,0,0,0,12,27,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,139187,16746,126,4,49,0,0,123,284,0,1,0,0,121781,0,73,0,0,0,0,0,0,0,0
-TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,31,18,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
-US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1999,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2003,260,0,0,0,0,17,227,0,3,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1986,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1986,779,0,0,0,0,0,0,0,9,0,2,0,0,12,0,0,0,756,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1986,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1986,2114,136,38,10,11,0,0,113,27,0,0,1405,8,313,39,9,0,4,1,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1986,1637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1637,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1986,8164,0,0,0,0,0,0,0,0,0,0,8149,15,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6579.24331590745,1986,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5684.83959604678,1986,361,345,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1986,195,7,0,7,0,0,0,2,2,0,0,0,0,177,0,0,0,0,0,0,0,0,0,0
+MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7931.13601288165,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1986,614,10,0,1,70,5,68,93,3,0,3,0,4,351,0,2,0,4,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1986,22897,22695,0,0,0,0,0,177,14,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14319.6195055849,1986,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1986,123,0,0,0,0,0,113,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7394.7456688139,1986,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15214.9850618492,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1986,240,137,0,2,0,0,0,0,0,0,0,0,0,84,0,15,0,2,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5965.36105168777,1986,26,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1986,113668,31234,730,1110,2717,233,301,3932,4867,8,90,7349,1419,3528,9160,15400,1377,13513,18077,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5276.72731410592,1986,680,0,0,0,0,0,0,0,0,0,0,662,0,18,0,0,0,0,0,0,0,0,0,0
+HT,Haiti,country,Latin America and the Caribbean,18.971187,-72.285215,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14599.9031710055,1986,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1986,799,2,0,0,0,0,0,717,73,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1986,29,0,0,0,0,0,5,0,0,0,10,0,0,14,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1986,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1986,32,0,0,3,0,0,0,0,7,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1986,739,0,0,0,0,0,0,0,739,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1986,5023,57,0,7,0,0,0,243,15,0,0,0,36,134,0,4531,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10768.9957628981,1986,37,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1986,6488,0,160,0,2954,0,0,39,29,0,31,2158,1100,0,0,0,0,17,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2418.73444196609,1986,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1986,33,0,17,0,0,0,6,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1986,8721,8402,0,11,92,0,0,14,4,0,101,3,19,52,0,0,66,23,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1986,338,0,0,0,0,0,1,0,0,0,13,0,0,0,0,324,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6497.6944292443,1986,9052,9050,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1986,8747,147,13,8,0,2,0,24,192,0,0,5205,180,254,88,1751,0,631,252,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11112.7587597046,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1986,123,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,121,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1986,84,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PY,Paraguay,country,Latin America and the Caribbean,-23.442503,-58.443832,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11332.5097603844,1986,15,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1986,38,2,5,0,0,0,0,0,1,0,10,0,0,10,10,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1986,26120,5282,15,208,18,0,54,316,5450,0,0,14523,22,39,0,160,0,33,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1986,692,27,0,11,0,0,0,10,11,0,0,0,0,0,0,628,0,5,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1986,12,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SR,Suriname,country,Latin America and the Caribbean,3.919305,-56.027783,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,12413.3957656753,1986,3291,3291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1986,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,323,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9640.929188943,1986,21,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1986,32534,32412,85,0,0,0,5,0,16,0,1,0,0,15,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1986,33,0,0,0,20,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1986,1754,10,0,21,0,3,0,0,39,0,0,0,38,239,0,1340,0,0,64,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1986,4739,34,0,0,54,2,0,0,0,0,0,4636,0,6,0,0,0,7,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10206.7460772733,1986,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1986,11000,0,11000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1986,25788,25350,0,0,0,0,0,0,0,0,0,419,0,0,0,0,0,19,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1987,33,0,0,0,14,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1987,932,0,0,0,0,0,0,0,10,0,8,0,0,8,0,0,0,906,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1987,7,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1987,2282,191,72,9,0,0,0,51,41,0,0,603,11,338,440,453,2,72,1,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1987,1489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1489,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1987,24354,0,0,0,0,0,0,0,1,0,0,24353,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1987,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1987,266,3,0,2,0,0,17,27,1,0,0,0,0,216,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1987,917,25,1,6,86,11,87,252,19,0,8,0,4,362,18,13,0,22,3,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1987,16701,16507,0,0,34,0,0,115,16,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14319.6195055849,1987,37,0,0,0,0,0,0,0,2,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1987,81,0,0,0,0,0,77,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7394.7456688139,1987,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15214.9850618492,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1987,177,150,0,3,0,0,0,0,0,0,0,0,0,0,0,10,0,14,0,0,0,0,0,0
+DJ,Djibouti,country,Middle East and North Africa,11.825138,42.590275,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3930.77743582165,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5965.36105168777,1987,918,898,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1987,114319,27988,818,1182,2511,249,287,4884,5243,0,99,6293,1713,3698,9211,17265,1298,14011,18867,0,0,0,0,0
+GA,Gabon,country,Sub-Saharan Africa,-0.803689,11.609444,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5276.72731410592,1987,199,0,0,0,0,0,0,0,0,0,0,199,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1987,925,194,0,0,0,0,0,709,0,0,12,10,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1987,48,0,0,0,0,0,11,0,0,0,3,0,0,34,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1987,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1987,39,0,0,0,0,0,0,0,0,0,0,0,0,28,0,11,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1987,687,0,0,0,0,0,0,0,687,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1987,7606,3041,0,7,0,0,0,142,4,0,0,0,36,51,0,4321,4,0,4,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10768.9957628981,1987,8,0,0,0,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1987,17654,17632,0,0,18,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1987,11788,7078,0,0,2058,0,0,74,42,0,70,1388,1074,4,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2418.73444196609,1987,10,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1987,47,1,9,0,0,0,8,0,0,0,25,0,0,0,4,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1987,5435,5115,51,22,10,0,1,15,13,0,115,1,19,44,0,9,31,19,1,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1987,419,0,0,0,89,0,0,0,0,0,10,0,0,0,0,320,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6497.6944292443,1987,37485,37485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1987,3497,79,46,11,0,0,0,7,326,0,0,39,161,235,39,1696,17,602,256,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1987,169,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1987,140,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8167.89448037149,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9443.65135713543,1987,7,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1987,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+KN,St. Kitts and Nevis,country,Latin America and the Caribbean,17.357822,-62.782998,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,13580.5050479944,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1987,245,6,0,0,0,4,5,4,5,0,27,0,0,53,128,13,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1987,14377,1005,397,524,89,0,217,898,6378,0,0,4565,45,3,19,144,0,88,5,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1987,3602,3002,0,12,0,0,0,0,0,0,0,0,2,0,0,581,0,5,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1987,16,0,0,0,0,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1987,954,785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,169,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1987,18870,18690,98,0,0,0,4,9,12,0,5,0,0,50,0,2,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7825.7248721188,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1987,24,0,0,0,8,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3559.82948911747,1987,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1987,1643,25,0,4,0,0,0,0,0,0,0,0,43,243,0,1328,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2764.74411351652,1987,7400,7400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1987,319,34,0,2,233,2,0,0,0,0,0,0,0,32,0,2,0,14,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1987,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8204.01941177039,1987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1987,19691,19488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,203,0,0,0,0,0,0
+DZ,Algeria,country,Middle East and North Africa,28.033886,1.659626,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7967.40703066454,1988,60,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1988,31,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1988,921,0,0,0,0,0,0,0,36,0,54,0,0,19,0,0,0,812,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1988,7,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1988,3784,227,119,10,18,0,0,73,0,0,0,1919,7,359,499,342,0,211,0,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1988,1706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1706,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1988,20044,0,0,0,0,0,0,0,0,0,15,20029,0,0,0,0,0,0,0,0,0,0,0,0
+KH,Cambodia,country,East Asia and Pacific,12.565679,104.990963,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6579.24331590745,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1988,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1988,280,2,0,1,17,0,41,0,1,0,0,0,0,218,0,0,0,0,0,0,0,0,0,0
+MO,"Macao SAR, China",country,East Asia and Pacific,22.198745,113.543873,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7931.13601288165,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1988,1234,9,0,8,77,0,406,566,33,0,0,0,6,126,0,1,0,0,2,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1988,1334,1213,0,1,20,0,2,14,10,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1988,70,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7394.7456688139,1988,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15214.9850618492,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6682.08836539107,1988,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10102.683342991,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1988,338,165,0,0,0,0,0,0,0,0,0,0,0,13,0,12,0,148,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5965.36105168777,1988,116,0,0,0,0,0,0,0,109,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3748.99205763837,1988,19,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1988,128923,32513,1597,1464,4587,95,443,4960,5596,3,79,7961,2117,3135,8314,20117,660,13364,22578,0,0,0,0,0
+GP,Guadeloupe,country,Latin America and the Caribbean,16.995971,-62.067641,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,13496.718745588,1988,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1988,953,197,0,0,3,0,0,728,21,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1988,53,0,0,0,0,0,2,4,36,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1988,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+IQ,Iraq,country,Middle East and North Africa,33.223191,43.679291,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6178.69014074073,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1988,35,0,0,0,0,0,0,0,0,0,0,0,0,33,0,2,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1988,525,0,0,0,0,0,0,0,525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1988,21226,16719,0,13,0,0,0,240,0,0,0,0,58,24,0,4172,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10768.9957628981,1988,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1988,30357,30355,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1988,24619,16308,1932,0,3566,0,0,96,30,0,58,1675,791,10,0,153,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1988,79,0,12,0,0,0,21,0,2,0,10,0,0,18,0,16,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1988,3939,3733,0,9,12,0,0,96,14,0,5,3,18,30,0,0,22,19,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,17766.9417971132,1988,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1988,400,0,0,0,82,0,0,0,0,0,9,0,0,0,0,309,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1988,3483,74,102,10,0,0,0,30,240,0,0,23,31,215,3,1964,24,551,240,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1988,449,0,0,0,141,0,0,0,0,0,0,0,0,0,0,0,0,308,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1988,26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8167.89448037149,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9443.65135713543,1988,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8077.82345888642,1988,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1988,148,11,0,0,0,1,0,0,2,0,23,0,0,21,28,62,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1988,12293,119,120,216,36,0,5,406,6051,4,0,5006,19,8,0,165,0,138,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1988,17786,17370,0,13,0,0,0,9,18,0,0,0,2,0,0,374,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1988,32,0,0,0,0,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1988,1698,1698,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1988,14197,13924,132,9,24,0,3,22,46,0,2,0,0,24,0,11,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1988,17,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1988,1628,7,0,9,0,0,0,3,25,0,0,0,12,234,0,1338,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2764.74411351652,1988,18911,18911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1988,160,18,0,0,124,1,0,2,0,0,0,0,0,5,0,3,0,7,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1988,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1988,10163,9814,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1989,8234,0,0,0,0,0,0,64,0,0,0,8170,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1989,616,0,0,0,0,0,0,0,101,0,30,0,0,0,0,0,0,485,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1989,4038,1054,137,18,0,0,0,98,29,0,0,574,11,365,142,749,0,821,40,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1989,2165,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,2151,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1989,4587,0,0,0,0,0,0,0,0,0,15,4569,3,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1989,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1989,293,9,0,1,0,0,38,2,0,0,0,0,1,242,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1989,1538,20,0,8,70,11,420,758,3,0,0,0,17,82,1,0,0,148,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1989,101,0,0,0,0,0,0,26,4,0,0,0,0,3,0,68,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1989,35,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7394.7456688139,1989,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15214.9850618492,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6682.08836539107,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1989,143,92,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,39,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5965.36105168777,1989,21,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1989,148821,43025,1265,1557,4170,132,561,5898,7096,1,112,8763,2243,3336,9214,23182,172,14816,23450,0,0,0,0,0
+GF,French Guiana,country,Latin America and the Caribbean,3.933889,-53.125782,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,12113.2356320342,1989,345,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1989,11729,193,0,0,0,0,3,889,19,0,7,10617,0,1,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1989,68,0,0,0,0,0,0,0,49,0,9,0,0,8,0,2,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1989,12,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1989,377,0,0,0,0,0,0,0,2,0,0,0,0,45,0,0,0,130,200,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1989,1053,0,0,0,0,0,0,0,1053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1989,53775,49534,0,9,0,0,0,70,20,0,0,0,65,4,0,4073,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1989,45235,45229,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1989,32652,22290,265,2,4129,0,0,357,70,0,49,3816,1645,0,0,0,0,29,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1989,281,28,9,7,0,0,12,0,3,0,9,0,0,48,0,165,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1989,1737,1482,17,1,3,0,0,123,12,0,4,11,27,32,0,9,8,16,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1989,251,0,0,0,21,0,0,0,0,0,9,0,0,2,0,219,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1989,2922,106,124,8,0,0,0,50,228,0,0,69,36,292,0,1153,10,643,213,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1989,910,0,0,0,182,0,0,0,0,0,0,0,0,0,0,0,0,728,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1989,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8167.89448037149,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1989,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1989,316,19,0,0,0,3,0,0,20,0,37,0,0,83,13,141,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1989,9891,103,305,183,0,0,33,1044,6630,0,0,1113,17,15,0,418,0,30,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1989,23170,22782,0,39,0,0,0,0,11,0,0,0,11,0,0,317,0,10,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1989,344,0,0,0,0,2,19,0,0,0,2,321,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1989,7556,7308,82,3,14,0,2,48,79,0,2,0,0,16,0,2,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1989,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4961.46209179715,1989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1989,1827,25,10,9,0,0,0,0,0,0,0,0,0,196,0,1587,2,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2764.74411351652,1989,14649,14649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1989,28,18,0,0,0,1,0,4,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1989,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1989,2252,1942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1991,23825,0,0,0,0,0,0,71,0,0,0,23397,0,0,357,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1991,897,6,0,0,0,0,0,14,78,0,31,0,0,0,25,3,0,740,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1991,63,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1991,3401,240,166,2,0,0,0,82,45,0,0,622,132,298,135,1044,0,560,75,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1991,1720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1720,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1991,15,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7747.39821580681,1991,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5684.83959604678,1991,318,0,0,0,0,0,0,0,0,0,0,0,318,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1991,43,0,0,0,41,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1991,357,24,0,0,0,0,15,12,0,0,0,0,0,306,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1991,1736,11,0,0,90,0,480,917,1,0,1,0,5,88,0,1,0,142,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1991,91,4,0,0,0,0,0,39,0,0,0,0,0,4,0,44,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14319.6195055849,1991,18,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1991,27,0,0,0,0,0,21,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7394.7456688139,1991,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6682.08836539107,1991,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1991,123,63,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,40,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5965.36105168777,1991,18,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1991,154722,59069,985,8575,502,78,502,5307,4799,1,163,7684,1830,2963,7864,19583,696,15121,19696,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9171.76611387805,1991,450,62,0,10,0,0,0,0,3,0,0,0,0,215,0,153,0,7,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7564.60558702171,1991,40,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1991,5774,738,0,0,0,0,0,989,19,0,8,4020,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1991,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1991,38,0,0,0,0,0,0,0,17,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1991,58,0,0,0,0,0,0,0,3,0,0,0,0,43,0,2,0,10,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1991,891,0,0,0,0,0,0,0,891,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1991,455,160,0,12,0,0,0,122,35,0,0,0,56,5,0,41,0,24,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1991,1903,1903,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1991,26140,18398,550,0,3849,0,23,539,16,0,30,1712,927,1,0,0,0,95,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1991,131,26,8,0,0,0,6,0,17,0,5,0,0,27,6,36,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1991,972,15,185,6,408,0,0,56,0,0,5,219,18,22,0,0,19,38,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1991,256,0,0,0,0,0,0,37,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1991,3056,54,121,13,0,0,0,35,154,0,0,52,109,182,5,1475,14,677,179,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1991,905,0,0,0,65,0,0,0,64,0,0,0,0,0,0,0,0,776,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1991,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1991,168,14,0,1,0,0,0,11,2,0,11,0,0,39,3,87,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1991,3411,43,0,42,0,0,14,33,77,0,0,0,2,0,0,3166,0,34,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1991,28,0,0,0,0,2,21,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1991,42581,42319,133,5,0,0,0,42,40,0,2,13,0,27,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1991,530,32,0,0,498,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4961.46209179715,1991,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1991,1436,4,8,0,0,0,0,0,1,0,0,0,5,155,13,1250,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2764.74411351652,1991,13513,13513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1991,162,53,0,0,0,0,29,59,18,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10206.7460772733,1991,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1991,13316,13316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1991,28945,28927,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1992,52602,26672,0,0,20,0,0,122,0,0,0,23847,0,0,1941,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1992,1355,87,0,0,0,0,0,16,215,0,56,0,0,0,0,0,0,981,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1992,56,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1992,5856,1508,318,8,21,0,1,154,37,0,0,563,155,355,124,1966,0,596,50,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1992,1734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1734,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1992,4695,0,0,0,0,0,0,0,0,0,15,4680,0,0,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7747.39821580681,1992,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5684.83959604678,1992,404,0,0,0,0,0,0,0,0,0,0,0,404,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1992,546,0,0,0,543,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1992,444,9,1,0,0,0,9,0,0,0,0,0,0,417,0,8,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1992,3096,14,0,0,38,6,691,2032,5,0,15,0,3,160,0,0,0,132,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1992,646,608,0,0,0,0,0,35,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1992,42,0,0,0,0,0,31,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+CI,Ivory Coast,country,Sub-Saharan Africa,7.539989,-5.54708,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7394.7456688139,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6682.08836539107,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1992,342,78,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,216,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14375.7786352554,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1992,231967,125697,1667,1935,679,96,519,6825,6442,2,100,11060,2683,3713,10026,21962,678,15975,22586,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9171.76611387805,1992,298,100,0,11,0,0,0,0,23,0,0,5,0,79,0,66,0,14,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7564.60558702171,1992,19,6,0,0,0,0,0,0,9,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1992,1763,504,0,0,0,0,0,1210,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1992,1112,1100,0,8,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1992,45,0,0,0,0,0,0,0,18,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1992,65,0,0,0,0,0,0,0,5,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1992,1495,0,0,0,0,0,0,1,1494,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1992,712,195,0,5,0,0,0,399,0,0,0,0,94,10,0,9,5,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1992,11639,2972,0,0,4784,0,27,1035,30,0,61,1540,872,0,0,10,0,308,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1992,139,62,4,2,0,0,22,0,30,0,0,0,4,5,10,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1992,859,18,122,1,40,0,0,62,3,0,4,471,24,11,0,0,0,103,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1992,283,0,0,0,0,0,13,23,0,0,0,0,0,14,0,233,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3818.21730410329,1992,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,272,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1992,3801,45,296,10,0,0,0,172,134,0,0,8,88,196,38,1762,0,769,283,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1992,1068,0,0,0,193,0,0,0,229,0,0,0,0,0,0,0,0,646,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1992,95,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8167.89448037149,1992,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1992,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+RO,Romania,country,Europe and Central Asia,45.943161,24.96676,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8077.82345888642,1992,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1992,322,49,0,0,0,0,0,0,3,0,16,0,0,27,6,221,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1992,12838,5298,32,261,0,0,18,297,5845,0,0,45,47,0,0,939,0,56,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1992,3404,64,0,46,0,0,0,0,206,0,0,0,3,0,0,3037,0,48,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1992,45,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1992,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6465.72801089515,1992,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1992,52158,51865,180,0,5,0,0,39,51,0,2,0,0,10,0,6,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1992,333,24,0,0,299,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4961.46209179715,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1992,2012,4,0,13,0,0,0,0,165,0,0,0,10,201,0,1619,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1992,96,30,0,0,0,1,16,47,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1992,6201,6201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1992,216,0,0,10,0,0,0,0,193,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1993,40870,5946,0,0,20,0,0,164,0,0,20,31125,0,0,3595,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1993,1587,0,8,0,0,0,0,49,440,0,46,0,0,0,0,0,0,1044,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1993,15,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1993,5712,2479,347,15,102,0,26,81,38,0,0,328,22,334,472,641,0,702,125,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1993,1642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1642,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7747.39821580681,1993,7,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5684.83959604678,1993,624,0,0,0,0,0,0,0,0,0,0,0,624,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1993,593,0,0,0,589,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1993,386,27,0,0,0,0,21,0,2,0,0,0,0,336,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1993,6378,4286,0,0,125,13,750,867,13,0,15,0,5,73,0,1,0,230,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1993,27,4,0,0,0,0,0,17,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14319.6195055849,1993,35,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1993,13,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8829.15498703603,1993,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10102.683342991,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1993,779,64,0,0,0,0,0,0,0,0,0,0,0,1,2,19,0,693,0,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,13378.486157599,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14375.7786352554,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1993,245535,134460,1515,2629,637,220,506,8674,7730,9,124,12722,2833,3738,6380,24304,1079,16641,22413,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9171.76611387805,1993,573,264,0,19,0,0,0,0,41,0,0,20,15,128,5,67,0,0,14,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7564.60558702171,1993,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16381.404496872,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1993,1831,912,0,0,0,0,0,885,10,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1993,25,0,0,0,0,0,0,0,5,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1993,20,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1993,59,0,0,0,0,0,0,0,0,0,0,0,0,57,0,2,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1993,1374,0,0,0,0,0,0,0,1374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1993,904,274,0,3,0,0,0,418,66,0,0,84,48,10,0,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10768.9957628981,1993,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1993,15,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1993,31645,22550,7,1,4618,0,96,1434,51,0,73,2143,538,4,0,2,0,128,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2418.73444196609,1993,11,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1993,188,128,0,8,0,0,32,0,1,0,0,0,2,4,6,7,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1993,15708,12,0,9013,3,2,0,29,0,0,8,6455,17,25,18,13,0,113,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1993,252,0,0,0,0,0,125,0,0,0,0,0,0,0,0,127,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6497.6944292443,1993,19,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3818.21730410329,1993,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1993,4460,43,325,8,0,0,3,235,229,0,0,71,89,207,0,2116,0,743,391,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1993,944,0,0,0,108,0,0,0,261,0,0,0,0,0,0,0,0,575,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1993,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8167.89448037149,1993,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9443.65135713543,1993,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1993,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0
+SC,Seychelles,country,Sub-Saharan Africa,-4.679574,55.491977,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1829.60524435258,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1993,443,68,0,0,0,0,0,0,3,0,21,0,0,38,3,310,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1993,10163,296,47,74,0,0,18,509,8185,0,0,45,17,0,0,972,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1993,257,0,0,0,0,0,0,0,8,0,0,0,0,0,0,225,0,0,24,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1993,11,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1993,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,204,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6465.72801089515,1993,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1993,47153,46726,156,3,32,0,0,68,118,0,0,0,0,25,0,25,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1993,80,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3559.82948911747,1993,20,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4961.46209179715,1993,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1993,1583,6,0,0,0,0,0,0,0,0,0,0,10,176,0,1178,0,197,16,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1993,186,68,0,0,56,1,15,26,1,0,9,0,0,1,0,5,0,0,4,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1993,1970,1946,0,0,0,0,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1993,233,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,227,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7835.1945138392,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1994,34426,12834,0,0,61,0,18,41,0,0,10,16581,0,0,4881,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1994,1659,364,0,0,107,0,0,0,608,0,38,0,0,0,0,0,0,542,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1994,6,1,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1994,5921,2336,336,39,84,0,20,101,201,0,0,291,20,485,421,492,0,598,497,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1994,1271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1271,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1994,35,0,0,0,0,2,0,0,9,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5684.83959604678,1994,2773,0,0,0,0,0,0,0,0,0,0,2000,773,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1994,472,0,0,0,467,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11609.3145194999,1994,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1994,413,18,0,0,0,0,0,0,0,0,0,0,0,393,1,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1994,6415,39,0,0,61,0,788,4738,14,0,0,0,7,104,0,101,0,563,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1994,123,4,0,0,0,0,0,106,0,0,0,0,0,3,0,10,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14319.6195055849,1994,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15504.637794658,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8428.49013985413,1994,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10102.683342991,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1994,420,66,0,3,0,0,0,0,0,0,0,0,0,4,4,136,0,206,1,0,0,0,0,0
+DM,Dominica,country,Latin America and the Caribbean,15.414999,-61.370976,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,13378.486157599,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14375.7786352554,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1994,206793,94274,1526,2259,462,240,427,8082,9154,2,71,14586,2728,3968,6613,26879,1167,17153,18369,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9171.76611387805,1994,529,177,0,28,0,0,0,0,0,0,0,12,12,154,30,52,0,0,64,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7564.60558702171,1994,129,0,0,0,0,0,0,0,125,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16381.404496872,1994,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8415.29703886144,1994,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1994,14964,6119,0,0,0,0,0,841,12,0,10,7980,0,2,0,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1994,58,18,0,3,0,0,0,1,0,0,2,0,0,3,0,31,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1994,59,0,0,0,0,0,0,30,6,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1994,66,0,0,4,0,0,0,0,1,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1994,1552,0,0,0,0,0,0,0,1535,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1994,1983,411,0,27,0,0,0,702,45,0,0,129,135,19,14,495,0,6,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10768.9957628981,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1994,9,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1994,33374,22660,0,0,4612,6,154,2095,21,0,60,2933,658,0,0,0,0,175,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2418.73444196609,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1994,281,144,0,10,0,0,43,3,0,0,0,0,7,16,45,13,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1994,4893,40,0,8,2,2,0,18,0,0,11,4166,29,32,2,461,0,122,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,17766.9417971132,1994,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1994,341,0,0,0,0,0,187,8,11,0,0,0,0,3,0,132,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6497.6944292443,1994,93,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3818.21730410329,1994,273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,273,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1994,3918,68,343,13,0,0,3,202,102,0,0,126,179,291,0,1473,0,865,253,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1994,1285,0,0,0,86,0,0,0,240,0,0,0,0,0,0,0,0,959,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1994,8150,8150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PE,Peru,country,Latin America and the Caribbean,-9.189967,-75.015152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,13665.8923566429,1994,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8867.05135664977,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9443.65135713543,1994,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1994,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+SN,Senegal,country,Sub-Saharan Africa,14.497401,-14.452362,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8611.29957897696,1994,17,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1994,671,91,0,0,0,0,0,0,12,0,28,0,0,58,4,478,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1994,9039,333,302,198,0,0,18,605,6176,0,0,36,51,0,0,1320,0,0,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1994,3005,32,0,66,0,0,0,136,365,0,2,0,0,5,0,2385,0,0,14,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1994,40,0,0,0,0,0,38,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1994,155,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8928.14675493526,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6465.72801089515,1994,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1994,45640,45173,177,0,53,0,0,81,78,0,0,0,0,33,0,45,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7825.7248721188,1994,31,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1994,200,0,0,0,125,0,0,25,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3559.82948911747,1994,37,0,0,0,19,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4961.46209179715,1994,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1994,1924,24,0,14,0,0,0,0,0,0,0,19,40,70,0,1181,0,576,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1994,339,39,0,1,171,7,8,107,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1994,299,98,0,0,0,0,9,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1994,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,405,0,0,0,0,0,0
+AL,Albania,country,Europe and Central Asia,41.153332,20.168331,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7835.1945138392,1995,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10864.5226277684,1995,89090,44115,0,0,0,0,0,348,20,0,0,40045,0,0,4562,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7902.43525420781,1995,1712,523,0,0,0,0,0,29,509,0,76,0,3,3,0,0,0,568,1,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8669.79529445475,1995,3,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+BH,Bahrain,country,Middle East and North Africa,25.930414,50.637772,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5263.73990873246,1995,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9412.77133384209,1995,6323,2304,776,25,62,0,11,13,71,0,0,199,29,464,880,409,0,762,318,0,0,0,0,0
+BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3187.8682293148,1995,971,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,971,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11190.8944182826,1995,26,0,0,0,0,0,0,0,2,0,23,0,1,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5684.83959604678,1995,765,0,0,0,0,0,0,0,0,0,0,0,765,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15861.6921645816,1995,1108,0,0,1,1099,0,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CF,Central African Rep.,country,Sub-Saharan Africa,6.611111,20.939444,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4879.87641275546,1995,34,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,11609.3145194999,1995,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7991.93250697164,1995,456,29,0,1,0,0,75,8,0,0,0,0,0,340,2,1,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8153.20059627139,1995,1921,13,1,25,20,0,866,233,3,0,7,0,10,132,2,0,0,609,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8666.21675811584,1995,138,2,0,0,0,0,0,135,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CO,Colombia,country,Latin America and the Caribbean,4.570868,-74.297333,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14319.6195055849,1995,70,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0
+KM,Comoros,country,Sub-Saharan Africa,-11.875001,43.872219,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,1613.50564440383,1995,15,0,0,0,0,0,7,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0
+CR,Costa Rica,country,Latin America and the Caribbean,9.748917,-83.753428,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15504.637794658,1995,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15214.9850618492,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KP,"Korea, Dem. Rep.",country,East Asia and Pacific,40.339852,127.510093,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10102.683342991,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9635.30298992002,1995,845,54,0,7,0,0,0,1,0,0,0,0,0,6,1,263,0,513,0,0,0,0,0,0
+DO,Dominican Republic,country,Latin America and the Caribbean,18.735693,-70.162651,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14375.7786352554,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5965.36105168777,1995,9,3,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9217.20124866306,1995,227663,113373,1614,4149,178,236,461,9019,7611,2,67,12658,2824,4010,6799,29211,1239,18939,16512,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9171.76611387805,1995,568,134,0,28,0,0,0,1,0,0,0,35,12,157,121,16,0,0,64,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7564.60558702171,1995,11,0,0,0,0,0,0,0,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GT,Guatemala,country,Latin America and the Caribbean,15.783471,-90.230759,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16381.404496872,1995,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+HT,Haiti,country,Latin America and the Caribbean,18.971187,-72.285215,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,14599.9031710055,1995,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+HN,Honduras,country,Latin America and the Caribbean,15.199999,-86.241905,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,15951.1467856052,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8415.29703886144,1995,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5296.62809650858,1995,2802,700,0,0,0,0,3,2047,7,0,44,0,0,0,1,0,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6723.78883628581,1995,126,3,0,29,0,0,0,24,15,0,3,0,0,2,0,50,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5963.63308908282,1995,65,0,0,0,0,0,0,0,58,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10296.9174507589,1995,104,0,0,0,0,0,0,0,10,0,0,0,0,74,0,3,0,17,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6212.87087394184,1995,2325,0,0,0,0,0,0,1,2275,0,0,0,0,7,0,42,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8289.35587455075,1995,2164,451,0,2,0,0,0,828,121,0,0,110,69,20,1,562,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10768.9957628981,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3031.03077589766,1995,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,943.724344036213,1995,15404,4594,0,1,6035,0,135,1970,23,0,108,1769,537,2,0,0,0,230,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5796.64635668863,1995,246,128,0,5,0,0,30,0,2,0,1,0,1,27,38,14,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,226.553734832954,1995,7604,17,137,6,4,2,0,3,0,0,12,6876,19,29,82,245,0,172,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,17766.9417971132,1995,38,0,0,0,0,0,0,0,0,0,0,0,1,0,0,37,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8898.43318241675,1995,310,0,0,1,0,0,205,5,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0
+MM,Myanmar,country,East Asia and Pacific,21.913965,95.956223,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6497.6944292443,1995,20,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3818.21730410329,1995,491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,491,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9496.40112322672,1995,4490,127,420,2,0,0,39,157,202,0,0,35,114,264,0,1682,0,1105,343,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10720.0143062104,1995,1405,0,0,0,0,0,0,0,203,0,0,0,0,0,0,0,0,1202,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5919.32308002307,1995,1859,1859,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8167.89448037149,1995,6,1,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8867.05135664977,1995,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9443.65135713543,1995,49,0,0,0,0,0,0,20,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9895.53642006021,1995,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,5817.44050704998,1995,691,105,0,0,0,2,13,2,4,0,0,0,3,55,2,505,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,8545.57459542491,1995,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,3416.93507400375,1995,8634,218,558,114,19,0,18,319,5763,0,0,0,24,0,1,1584,0,16,0,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9195.48914938552,1995,4036,32,0,110,0,0,3,485,264,0,0,0,5,14,0,3036,0,70,17,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4245.45513107647,1995,39,0,0,0,0,1,35,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2519.81651912176,1995,415,135,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,244,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,9640.929188943,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SY,Syrian Arab Rep.,country,Middle East and North Africa,34.802075,38.996815,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6465.72801089515,1995,12,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6449.10611225787,1995,64503,63902,250,0,42,0,2,180,48,0,2,0,0,32,0,45,0,0,0,0,0,0,0,0
+TN,Tunisia,country,Middle East and North Africa,33.886917,9.537499,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7825.7248721188,1995,29,0,0,5,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,7014.59108303308,1995,61,0,0,0,5,0,8,21,6,0,3,0,0,0,0,18,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4961.46209179715,1995,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,10167.0945619083,1995,2148,106,0,14,0,0,0,0,21,0,0,13,29,91,0,1147,0,692,35,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,16744.3989522372,1995,101,58,0,0,0,19,0,17,3,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,6967.51699677869,1995,35,1,0,0,0,0,5,2,0,0,26,0,0,1,0,0,0,0,0,0,0,0,0,0
+YE,Yemen,country,Middle East and North Africa,15.552727,48.516388,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,4153.26801450119,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,RE,Reunion,country,Sub-Saharan Africa,-21.115141,55.536384,2765.27907747339,1995,623,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,619,0,0,0,0,0,0

@@ -1,0 +1,688 @@
+sourceCode,sourceName,sourceGrouping,sourceRegion,sourceLat,sourceLong,destCode,destName,destGrouping,destRegion,destLat,destLong,distance,year,totalTons,cereals,roots,sugarCrops,pulses,nuts,oilCrops,vegetables,fruits,fibers,spices,fodderCrops,coffeeTea,tobaccoRubber,oilsFats,beverages,livestock,animalMeats,animalProducts,animalHides,nimalOther,pesticides,fertilizers,machinery
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1990,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1990,881,0,0,0,861,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,1990,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1990,161,0,0,0,60,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,1990,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1990,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1990,68,58,0,0,0,0,0,0,0,0,1,0,0,9,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1990,446,0,0,17,0,0,0,3,0,0,0,0,306,120,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9333.78275150753,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,1990,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1990,258070,102849,7896,7212,194,252,224,17833,19862,133,944,19432,2215,8063,6476,33262,2232,4221,26820,175,7,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,1990,35,0,3,0,0,0,0,2,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,1990,14435,14135,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1990,210,100,0,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1990,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1990,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11710.7262695635,1990,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1990,160,25,0,90,0,0,0,0,0,0,0,0,7,25,5,0,0,0,8,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1990,57584,5246,140,46251,52,41,0,139,345,160,0,468,821,176,3337,0,55,54,354,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1991,140,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1991,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,1991,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9379.43529335061,1991,1082,0,0,0,0,0,0,0,0,0,0,0,0,0,1082,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1991,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,1991,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1991,2924,2,0,0,0,0,0,0,0,0,0,0,0,0,2752,0,0,0,170,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1991,93,0,0,0,0,0,0,88,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1991,15,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1991,235,0,0,0,31,0,0,0,0,0,0,0,125,79,0,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,1991,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1991,232780,54504,9689,11736,429,194,516,23848,28038,104,912,18017,4368,9947,5664,28148,2453,5688,30864,114,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,1991,37174,37174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1991,316,100,0,0,0,0,0,0,0,0,0,0,0,0,0,177,0,0,39,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1991,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11710.7262695635,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1991,399,141,0,0,0,0,0,0,0,30,0,28,0,0,0,0,0,0,200,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1991,75676,15892,147,49598,51,32,115,139,219,42,3,4401,662,156,3113,0,69,209,897,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1992,351,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,351,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1992,20,0,0,0,18,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1992,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9379.43529335061,1992,356,0,0,0,0,0,0,0,0,0,0,0,0,0,356,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1992,36,0,0,0,34,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1992,125,0,0,0,0,0,0,0,0,0,0,0,0,0,125,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1992,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1992,1672,25,0,0,0,0,0,0,0,0,0,0,0,3,383,0,0,0,1261,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,1992,185,0,0,0,0,0,0,0,0,0,0,0,0,0,185,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1992,46,0,0,0,0,0,0,35,7,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1992,11,0,3,3,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1992,938,0,0,0,0,0,82,0,0,0,0,0,579,171,106,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,1992,446,0,0,0,0,0,0,0,0,0,0,0,0,0,446,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,1992,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,1992,29,0,0,14,0,0,0,0,0,0,0,12,0,0,0,3,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1992,4185,4000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,1992,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1992,364951,100995,9769,53623,1245,250,428,25096,31586,64,1863,22219,3091,19485,10627,52126,3677,3433,28875,176,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,1992,800,800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,1992,36646,36620,0,0,0,0,0,0,0,0,0,0,0,1,25,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1992,127,0,0,0,18,0,0,0,2,0,0,0,10,0,0,97,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1992,28,0,0,0,18,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1992,93,0,0,0,0,0,0,36,0,0,0,0,0,4,53,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1992,814,25,0,1,15,0,346,0,0,427,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1992,25443,4023,509,14036,66,1,44,323,451,57,6,129,515,196,3862,24,477,139,1062,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1993,38,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1993,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1993,22000,22000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1993,278,240,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1993,142,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1993,46,0,0,0,0,0,0,31,4,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1993,482,29,0,0,0,0,0,0,0,0,0,12,0,0,0,441,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1993,564,5,0,0,100,0,0,0,0,27,0,22,301,109,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,1993,97,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1993,8400,8400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,1993,500,0,0,0,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1993,312607,58683,12964,56925,1241,240,455,26791,35300,44,922,20389,4735,12840,4845,43427,3847,4229,28556,21,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,1993,202,0,0,0,0,0,0,0,0,0,0,0,0,0,202,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,1993,16634,16634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1993,16004,15790,0,0,0,0,0,0,0,0,0,0,35,0,0,89,0,0,90,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1993,68,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1993,17113,16966,0,0,73,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1993,3947,3179,0,0,9,0,262,0,0,453,0,0,0,44,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1993,25901,8427,179,1807,122,0,0,584,378,133,0,4731,558,229,5477,35,225,195,3046,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,1994,229,100,0,0,0,0,0,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1994,4000,4000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,1994,53,0,0,0,38,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,1994,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1994,10026,10026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1994,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1994,38,20,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,2,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,1994,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1994,9194,6001,0,0,2500,0,0,0,0,0,0,0,0,0,503,0,0,0,190,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1994,65,0,0,0,0,0,0,54,6,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1994,58,54,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1994,602,0,0,0,77,0,0,0,0,0,0,0,326,197,0,0,0,0,0,2,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,1994,220,26,3,2,0,0,0,0,3,0,0,157,0,3,0,17,0,9,0,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1994,722,0,0,0,0,0,0,0,0,0,0,0,0,0,722,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,1994,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,1994,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1994,321179,112632,14975,51307,428,462,1562,24747,26442,42,1078,18798,3019,13913,5745,15173,1288,3723,27133,0,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,1994,49720,49720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1994,238,0,0,0,0,0,0,0,0,45,0,0,10,0,0,183,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1994,25,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1994,59,29,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,18,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1994,1953,274,0,80,0,0,59,0,0,1520,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1994,45502,15425,177,3090,32,0,1150,495,481,287,0,14011,476,370,4121,54,1947,367,4962,4,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,1995,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1995,764,0,0,0,0,0,0,2,0,0,0,0,0,0,639,0,0,0,123,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1995,7700,7700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,1995,985,0,0,0,983,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,1995,30,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1995,19617,19463,0,0,0,0,0,0,0,151,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,1995,121,0,0,0,0,0,0,1,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1995,50,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,1995,7,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1995,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,215,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1995,62,0,3,0,0,0,0,50,6,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1995,55,30,5,0,0,0,0,9,2,0,1,1,0,1,6,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1995,560,1,0,90,0,0,0,0,0,0,0,0,300,169,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,1995,132,0,0,0,0,0,0,0,0,47,0,0,25,0,60,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,1995,382,35,10,37,0,1,0,14,38,0,0,83,0,4,31,31,0,86,12,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1995,64,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9333.78275150753,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1995,369532,161722,13099,37237,6682,495,1827,22606,25483,576,1357,24364,3673,9093,10509,16024,1615,2640,32143,1,1,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,1995,123,0,4,0,0,0,0,1,0,0,0,0,0,0,0,118,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,1995,247,0,0,0,0,0,0,0,0,247,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1995,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1995,298,0,0,0,0,0,0,0,0,298,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1995,13228,12920,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,304,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1995,1277,176,1,919,9,0,88,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1995,65404,13621,62,18481,1,0,12,241,540,1218,5,23416,476,328,1582,171,4106,488,4762,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1996,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,1996,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,1996,3269,0,0,0,2061,0,0,0,0,0,0,0,0,0,1208,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1996,316,2,0,1,0,0,0,0,0,300,0,0,0,11,0,0,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1996,92,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1996,348,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,347,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1996,399,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,375,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1996,84,0,0,0,0,0,0,9,1,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1996,51,1,3,0,0,0,0,4,38,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1996,450,0,0,0,20,0,10,0,0,0,0,0,301,119,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,1996,248,23,9,4,0,0,0,12,46,0,1,36,0,3,0,23,0,72,19,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1996,120,0,0,0,0,0,0,0,0,100,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,1996,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,1996,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1996,336113,128451,14804,34634,2071,399,607,25221,25912,97,1194,29480,5511,10532,9063,13038,3153,1711,33352,36,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2764.71355835754,1996,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1996,206,0,0,0,0,0,0,0,0,196,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1996,398,0,0,0,2,0,0,0,0,396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1996,8842,8819,2,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1996,3040,60,0,1455,0,1,1523,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1996,67230,15693,32,27737,0,0,170,149,465,498,0,14299,579,150,3073,25,4103,213,4147,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,1999,23794,23794,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,1999,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,1999,34,0,0,0,0,4,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,1999,56,21,0,0,0,0,3,8,1,0,2,0,0,11,0,10,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,1999,3400,3300,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,1999,6,1,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,1999,3,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,1999,23,17,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,1999,12,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,1999,45,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,1999,46,27,0,0,0,0,0,0,10,0,0,0,0,1,4,0,0,4,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,1999,405,7,0,0,0,0,0,0,0,0,0,0,297,101,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,1999,1183,386,9,1,0,1,0,4,146,0,0,11,0,19,2,240,0,280,84,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,1999,587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,587,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,1999,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO,Norway,country,Europe and Central Asia,60.472024,8.468946,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9333.78275150753,1999,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,1999,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RS,Serbia,country,Europe and Central Asia,44.016521,21.005859,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7395.03369190608,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,1999,531674,165606,26496,37945,6661,160,1583,29461,56236,1807,2488,51810,3596,13877,10698,17639,1672,2494,103034,83,0,0,0,0
+SD,Sudan,country,Sub-Saharan Africa,12.862807,30.217636,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3963.73511507411,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,1999,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,1999,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,1999,48,0,0,0,0,0,0,0,0,0,0,0,0,37,0,11,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,1999,380,0,0,120,0,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,1999,61051,7918,19,23387,104,0,1,664,1192,748,9,23368,548,34,1351,186,3425,255,1263,4,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2000,4727,4727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2000,4203,4202,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2000,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2000,170,90,0,0,2,0,2,39,1,0,3,0,7,18,0,8,0,0,0,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2060.36089928076,2000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2000,21,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2000,1355,1,0,0,0,0,1,2,7,0,0,0,0,4,1339,1,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2000,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2000,15,5,0,0,2,0,1,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6831.76914996836,2000,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2000,123,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,2000,388,90,25,106,0,0,0,25,15,5,0,78,0,2,0,34,10,0,8,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2343.86754327037,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2000,398,0,0,0,0,0,0,0,0,0,0,0,309,89,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2000,94,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2000,813,99,8,9,0,0,0,8,110,0,0,5,0,3,12,249,0,184,126,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,2000,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2000,41,36,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2000,564879,179933,32196,32784,3804,346,1066,61031,65708,1160,2222,48856,4029,16396,14877,29934,2539,2822,67693,22,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2000,1003,2,0,0,0,0,0,0,0,0,0,0,0,1,1000,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2764.71355835754,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2000,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2000,5,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2000,25446,25435,2,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2000,360,0,0,68,0,0,6,0,0,0,0,286,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2000,55931,5013,179,23374,1447,9,3,843,791,2,4,15709,782,297,1155,168,3992,209,5946,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2001,1710,0,0,0,1676,0,0,0,0,0,0,0,0,32,0,2,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2001,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2001,50,22,0,0,0,0,5,3,1,0,4,0,0,14,0,1,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2001,53,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,43,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2001,8,1,0,1,0,0,0,0,2,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2001,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2001,17,0,0,2,2,0,0,1,0,0,7,0,4,1,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6831.76914996836,2001,5,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2001,39,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,2001,156,50,1,35,4,0,0,6,3,0,0,21,0,17,0,0,0,0,19,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2001,375,0,0,252,0,0,0,0,0,0,0,0,101,22,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2001,1324,106,0,9,0,0,0,0,215,0,0,81,1,3,18,304,0,289,298,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2001,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,2001,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8282.89145374526,2001,669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,669,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SO,Somalia,country,Sub-Saharan Africa,5.152149,46.199616,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3853.46844789857,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2001,489740,183749,26271,15191,6458,537,1622,39672,45344,425,2674,43716,3946,13112,9341,20638,3398,1991,75033,19,1,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2001,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2001,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,18,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2001,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2001,6718,6692,23,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2001,1189,0,0,241,0,0,0,0,0,0,0,948,0,0,0,0,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2001,59812,5966,468,28524,193,0,32,827,980,7,4,11248,762,216,3487,120,3198,146,6832,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2003,23,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10719.9027194868,2003,72,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2003,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2003,2102,63,0,0,1987,0,3,0,1,0,1,0,0,44,1,2,0,0,0,0,0,0,0,0
+CD,"Congo, Dem. Rep.",country,Sub-Saharan Africa,-4.038333,21.758664,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2060.36089928076,2003,65,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2003,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2003,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2003,4,0,2,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2003,184,117,0,1,11,0,1,1,0,0,15,18,3,17,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JO,Jordan,country,Middle East and North Africa,30.585164,36.238414,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6018.36345537257,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2003,55,10,3,0,0,0,0,31,0,0,10,0,0,1,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2003,192,19,0,0,0,0,0,0,0,0,0,0,151,22,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11032.6796254746,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2003,3029,218,27,73,6,3,8,176,194,0,16,11,111,343,30,1343,31,314,156,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13622.0285499533,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11710.7262695635,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2003,446973,168158,18038,23849,2809,951,2682,38346,36350,102,2068,51897,3128,24237,14201,21103,829,1766,37166,114,8,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2003,60,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2003,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2003,19,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2003,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2003,11,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2003,10,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2003,27,4,2,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2003,113,0,0,0,0,0,0,0,0,0,0,112,0,0,0,1,0,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2003,7723,2765,7,3771,30,0,0,224,140,14,1,0,181,56,90,1,684,31,412,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1434.84768210224,2007,46,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+AG,Antigua & Barbuda,country,Latin America and the Caribbean,17.060816,-61.796428,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10383.7059313875,2007,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2007,9,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0
+BD,Bangladesh,country,South Asia,23.684994,90.356331,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8758.12020295993,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2007,519,40,0,190,0,0,0,0,0,0,0,0,289,0,0,0,0,0,0,0,0,0,0,0
+VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10719.9027194868,2007,60,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3568.98036274143,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2007,17,16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2007,686,109,2,3,360,0,3,0,12,8,6,0,34,110,0,36,0,0,3,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2007,19,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2007,341,0,0,20,0,0,0,0,0,0,0,0,0,13,0,308,0,0,0,0,0,0,0,0
+EC,Ecuador,country,Latin America and the Caribbean,-1.831239,-78.183406,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11262.4875078104,2007,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+EG,Egypt,country,Middle East and North Africa,26.820553,30.802498,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5510.77919895542,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2007,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2007,547,547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2007,11,8,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2007,1611,753,0,44,2,0,5,37,15,2,21,0,97,47,4,100,0,0,484,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9906.7554018609,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2007,385,0,0,1,0,0,0,0,0,1,0,0,41,0,0,342,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2007,57,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2007,414,0,0,0,58,0,0,0,0,0,0,0,279,68,0,9,0,0,0,0,0,0,0,0
+ML,Mali,country,Sub-Saharan Africa,17.570692,-3.996166,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5429.97683548366,2007,25,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2007,12313,0,0,2,0,0,0,0,6,0,0,22,0,31,0,9885,0,2248,25,94,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2007,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,15,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2007,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11710.7262695635,2007,26,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5597.90764259033,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2007,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2007,594046,191986,22733,51861,2215,705,785,40530,47575,42,5388,71263,3579,23689,22406,53362,321,2409,53208,310,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2007,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2007,91,0,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2007,46,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2007,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2007,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2007,2760,2759,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7849.09928113798,2007,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2007,17002,172,0,1853,0,0,2174,0,1,1153,120,11425,27,0,0,0,155,0,77,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2007,19992,3941,16,10752,132,1,34,512,2275,0,0,49,482,7,61,0,387,16,1714,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1434.84768210224,2008,247,0,0,0,0,0,0,0,0,14,0,0,0,233,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8357.34421258741,2008,40,0,0,10,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2008,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2008,2484,2449,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2008,492,57,0,182,0,0,0,0,11,0,0,0,242,0,0,0,0,0,0,0,0,0,0,0
+VG,British Virgin Islands,country,Latin America and the Caribbean,18.420695,-64.639968,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10719.9027194868,2008,141,0,0,0,0,0,0,0,0,0,0,0,0,141,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2008,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2008,2673,198,3,2,2250,1,7,2,10,9,5,0,26,131,3,21,0,0,5,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2008,1109,0,0,0,0,0,0,0,0,0,0,0,0,32,0,1077,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2008,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2008,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GR,Greece,country,Europe and Central Asia,39.074208,21.824312,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6841.81373302913,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2008,775,477,0,157,1,0,2,16,19,0,14,0,1,24,3,56,0,0,5,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9906.7554018609,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2008,16,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2008,1035,0,0,0,0,0,0,0,0,0,0,0,8,20,0,1007,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2008,31,0,0,1,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2008,24,0,0,0,0,0,0,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6365.50281777355,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2008,1907,0,0,1211,224,0,0,0,0,0,0,0,453,19,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2008,43,0,0,0,0,0,0,0,0,0,0,0,0,24,0,19,0,0,0,0,0,0,0,0
+MX,Mexico,country,Latin America and the Caribbean,23.634501,-102.552784,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14659.7355740807,2008,13,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2008,12288,0,0,162,0,0,0,0,10,0,0,19,0,0,0,10371,0,1546,11,169,0,0,0,0
+NE,Niger,country,Sub-Saharan Africa,17.607789,8.081666,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4799.39719922156,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2008,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2008,26,25,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,2008,45,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2008,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+RU,Russian Federation,country,Europe and Central Asia,61.52401,105.318756,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11710.7262695635,2008,30,0,0,20,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2008,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2008,631468,226635,25555,65748,3604,880,2773,34843,54227,92,4586,50869,3722,21043,22780,53562,1860,4664,55655,228,2,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2008,120,0,0,0,0,0,0,0,0,0,0,0,0,119,0,1,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2008,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2008,106,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2008,320,310,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2008,88,72,0,10,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2008,29,0,1,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2008,11174,852,0,853,0,0,144,0,28,23,0,9203,35,0,0,0,112,0,36,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2008,7277,1018,2,3863,169,0,0,58,1252,0,0,0,373,129,20,0,166,49,344,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1434.84768210224,2009,181,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,0,0,0,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8357.34421258741,2009,41,0,0,40,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2009,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7841.18336730849,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2009,1203,1194,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2009,380,55,0,284,0,0,0,0,0,0,0,0,21,0,20,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2009,68,17,0,50,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2009,4802,275,1,1,4261,0,24,0,4,0,0,0,63,101,4,68,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2009,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CU,Cuba,country,Latin America and the Caribbean,21.521757,-77.781167,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12130.8549865645,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6462.17659630907,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2009,13,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2009,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2009,724,570,0,0,0,0,0,0,12,0,0,0,0,41,0,0,0,1,100,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2009,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2009,7,0,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2009,721,566,0,12,1,0,1,7,64,0,18,0,0,45,0,6,0,0,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9906.7554018609,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2009,61,0,0,5,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2009,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2009,20,0,0,0,0,0,0,17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2009,642,0,0,0,168,0,1,0,0,0,0,0,453,20,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2009,2206,2205,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MN,Mongolia,country,East Asia and Pacific,46.862496,103.846656,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11032.6796254746,2009,26,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+MA,Morocco,country,Middle East and North Africa,31.791702,-7.09262,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6910.77680735587,2009,19,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1201.60876503976,2009,51,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2009,17411,0,0,0,0,0,0,33,6,0,0,278,0,0,0,15641,0,1434,19,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2009,144,0,0,0,0,0,0,0,0,0,0,0,0,16,0,128,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2009,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5942.31934662134,2009,29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2009,442,441,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2009,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2009,676979,248742,21259,79937,2155,587,4694,35033,50829,98,4814,71564,4172,44244,17190,31882,1870,4759,54706,314,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2009,23,6,0,0,0,0,5,0,0,0,0,10,2,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2009,15,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2009,90,0,0,5,0,0,0,0,0,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2009,301,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2009,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2009,340,55,0,0,0,0,0,0,1,0,0,0,19,263,0,2,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2009,207,9,0,0,0,0,0,0,1,0,0,0,0,1,7,189,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2009,69,1,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,29,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9968.64082192832,2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2009,21874,412,0,1546,0,2,3121,12,0,102,2,16647,2,0,28,0,122,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2009,12658,302,8,11156,200,0,0,66,89,31,25,18,384,231,23,0,47,42,83,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1434.84768210224,2010,19,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7841.18336730849,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2010,381,381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2010,509,26,0,328,0,9,0,0,0,0,0,0,105,41,0,0,0,0,0,0,0,0,0,0
+BG,Bulgaria,country,Europe and Central Asia,42.733883,25.48583,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7243.17541747096,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3568.98036274143,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL,Chile,country,Latin America and the Caribbean,-35.675147,-71.542969,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9122.57539307808,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2010,112,42,0,54,0,0,1,0,0,7,0,0,0,4,0,4,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2010,10220,364,8,64,9384,3,20,2,8,8,21,0,58,160,31,89,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2010,30,0,0,0,0,0,0,0,5,0,0,0,7,9,0,9,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6462.17659630907,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8082.76557422163,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2010,36,0,0,0,0,0,0,0,0,0,0,0,0,12,0,24,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2010,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2010,459,33,0,17,0,0,0,0,0,0,0,0,0,409,0,0,0,0,0,0,0,0,0,0
+GE,Georgia,country,Europe and Central Asia,42.315407,43.356892,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7447.93601365899,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2010,708,478,0,3,0,0,1,36,46,22,24,0,0,65,1,32,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9906.7554018609,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2010,140,0,0,121,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2010,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2010,19,6,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,9,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2010,10,0,0,0,0,0,0,0,0,0,0,0,4,0,0,6,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2010,17,0,0,0,0,0,0,13,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+LA,Lao PDR,country,East Asia and Pacific,19.85627,102.495496,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9669.96766229339,2010,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,2010,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2343.86754327037,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2010,391,0,0,0,30,0,0,0,0,0,0,0,301,60,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2010,52,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2010,2471,2453,0,0,0,0,0,0,0,11,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2010,21208,0,0,0,4,0,192,0,3,0,0,551,0,34,0,19241,0,1173,10,0,0,0,0,0
+NC,New Caledonia,country,East Asia and Pacific,-20.904305,165.618042,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13622.0285499533,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2010,4,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5942.31934662134,2010,128,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2010,418,389,0,25,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8282.89145374526,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,2010,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2010,68,12,0,0,0,0,0,0,0,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+SK,Slovak Rep.,country,Europe and Central Asia,48.669026,19.699024,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7918.99171952366,2010,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2010,777337,335501,19861,86882,2237,737,1933,37591,56821,450,4808,76320,3447,33775,18016,38663,2366,6270,53965,60,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2010,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2010,22,17,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2010,411,238,0,0,0,0,0,0,0,173,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2010,149,0,0,79,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2010,215,215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2010,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2764.71355835754,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2010,275,22,0,0,0,0,0,0,22,0,0,0,5,157,0,69,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2010,620,54,0,2,0,0,0,69,19,0,0,0,1,3,25,447,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2010,25,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2010,48,0,0,1,1,0,0,0,0,0,0,0,0,40,3,3,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9968.64082192832,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2010,34296,648,0,2274,3,0,2388,0,0,150,0,28747,2,0,29,55,109,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2010,1982,253,5,151,184,1,0,54,38,271,0,25,606,308,0,0,9,0,86,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2011,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7841.18336730849,2011,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2011,1370,1187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7408.91627968834,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2011,150,0,0,100,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0
+CM,Cameroon,country,Sub-Saharan Africa,7.369722,12.354722,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3568.98036274143,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2011,142,72,0,0,0,0,0,0,0,0,0,0,0,20,1,20,0,0,29,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2011,14832,321,2,232,13716,3,25,51,70,4,23,0,65,214,5,101,0,0,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2011,44,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6462.17659630907,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2011,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+FI,Finland,country,Europe and Central Asia,61.92411,25.748151,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9379.43529335061,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2011,1187,0,0,0,0,0,0,0,0,0,0,0,0,432,0,0,0,0,755,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2011,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2011,617,439,0,5,0,0,0,34,56,0,25,0,13,43,1,0,0,0,1,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9906.7554018609,2011,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IR,Iran,country,Middle East and North Africa,32.427908,53.688046,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6831.76914996836,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2011,83,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2011,46,3,0,0,0,0,0,2,0,0,0,8,0,1,26,6,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2011,38,3,0,0,3,0,0,0,0,0,0,0,0,0,0,31,0,0,1,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2011,19,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KI,Kiribati,country,East Asia and Pacific,-3.370417,-168.734039,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,16825.8021336316,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,2011,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MG,Madagascar,country,Sub-Saharan Africa,-18.766947,46.869107,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2343.86754327037,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2011,941,0,0,0,120,0,219,0,0,0,0,0,530,72,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2011,38,0,0,0,0,0,0,0,0,0,0,1,0,37,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6576.42289062497,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2011,2122,2111,0,0,0,0,6,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1201.60876503976,2011,78,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2011,20388,326,3,0,0,0,17,0,4,0,0,776,2,17,0,17377,0,1822,44,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2011,5,1,1,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5942.31934662134,2011,66,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2011,90,65,0,0,0,0,0,0,0,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8282.89145374526,2011,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,2011,50,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SA,Saudi Arabia,country,Middle East and North Africa,23.885942,45.079162,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5597.90764259033,2011,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2011,61,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2011,657297,239171,18208,73705,1965,481,2793,34097,51117,565,4548,67184,4261,26653,23554,47512,600,5819,55653,11,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2011,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,262,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2011,21,11,0,0,0,0,6,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2011,280,133,4,0,0,0,0,0,13,0,0,0,0,0,0,130,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2011,156,0,0,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2011,305,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2011,634,0,0,0,0,0,0,0,0,0,0,0,0,634,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2764.71355835754,2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2011,57,0,0,0,0,0,0,0,19,0,0,0,0,11,0,27,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2011,831,40,0,35,0,0,0,15,0,1,0,0,5,4,8,723,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2011,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2011,272,0,1,10,7,0,0,0,0,0,0,0,0,184,1,21,0,0,0,48,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2011,18680,3610,0,4576,0,0,483,0,0,209,0,9735,0,0,0,53,109,0,14,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2011,2188,759,3,236,0,0,30,34,391,2,6,0,360,215,4,0,9,0,148,0,0,0,0,0
+AR,Argentina,country,Latin America and the Caribbean,-38.416097,-63.616672,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8357.34421258741,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2012,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2012,1758,1758,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BA,Bosnia & Herzegovina,country,Europe and Central Asia,43.915886,17.679076,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7408.91627968834,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2012,88,0,0,46,0,0,0,0,0,0,0,0,40,0,0,2,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2012,12,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2012,28,3,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2012,656,259,1,7,77,2,30,22,2,7,18,0,22,150,4,53,0,2,0,0,0,0,0,0
+TW,Taiwan,country,East Asia and Pacific,23.69781,120.960515,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11599.3274852168,2012,33,32,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6462.17659630907,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CZ,Czech Republic,country,Europe and Central Asia,49.817492,15.472962,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8082.76557422163,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DK,Denmark,country,Europe and Central Asia,56.26392,9.501785,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8865.33640203132,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2012,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2012,1249,904,0,0,0,0,0,0,0,0,0,0,0,343,0,0,0,0,2,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2012,22,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GD,Grenada,country,Latin America and the Caribbean,12.262776,-61.604171,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10160.2845742594,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GN,Guinea,country,Sub-Saharan Africa,9.945587,-9.696645,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5194.15982462888,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7753.19240715679,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2012,876,613,0,2,0,0,152,10,14,0,39,0,7,36,2,0,0,0,1,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2012,49,4,0,0,0,0,0,3,0,0,0,0,0,2,39,1,0,0,0,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2012,17,0,0,0,0,0,0,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LT,Lithuania,country,Europe and Central Asia,55.169438,23.881275,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8627.36757337304,2012,95,0,0,0,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2012,2763,546,0,0,0,0,1428,188,0,0,0,0,528,73,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2012,92,0,0,0,0,0,0,0,6,0,0,0,0,66,0,20,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6576.42289062497,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2012,2013,2008,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+MZ,Mozambique,country,Sub-Saharan Africa,-18.665695,35.529562,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1201.60876503976,2012,28,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2012,12449,43,0,0,0,0,0,0,4,0,0,26,0,602,1,10956,0,799,18,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2012,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0
+NZ,New Zealand,country,East Asia and Pacific,-40.900557,174.885971,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12353.7921077055,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5942.31934662134,2012,92,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2012,118,10,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA,Panama,country,Latin America and the Caribbean,8.537981,-80.782127,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11964.5188115957,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PH,Philippines,country,East Asia and Pacific,12.879721,121.774017,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,11276.8397044052,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8282.89145374526,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2012,60,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2012,677546,294136,21359,75173,3670,576,727,32237,47113,328,4273,27740,4745,28749,25473,42204,401,6007,63030,6,0,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2012,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,501,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2012,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2012,284,0,0,0,0,0,0,0,0,220,0,0,0,0,0,64,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2012,62,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2012,146,106,0,0,0,0,0,0,1,0,0,0,0,14,0,0,0,0,25,0,0,0,0,0
+TT,Trinidad and Tobago,country,Latin America and the Caribbean,10.691803,-61.222503,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10054.5512355324,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2012,390,0,0,0,0,0,0,0,0,0,0,0,0,390,0,0,0,0,0,0,0,0,0,0
+UG,Uganda,country,Sub-Saharan Africa,1.373333,32.290275,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2764.71355835754,2012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2012,249,22,0,0,0,0,0,0,23,0,0,0,0,34,0,170,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2012,582,22,0,0,0,0,0,0,0,0,0,0,0,0,11,549,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2012,302,40,0,6,19,0,0,0,0,0,0,0,5,97,0,135,0,0,0,0,0,0,0,0
+UY,Uruguay,country,Latin America and the Caribbean,-32.522779,-55.765835,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7849.09928113798,2012,26,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9968.64082192832,2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2012,56913,31574,0,5303,3,0,1160,192,0,178,0,18503,0,0,0,0,53,0,0,0,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2012,2723,630,0,208,90,0,391,38,627,0,2,0,216,375,2,15,56,0,129,0,0,0,0,0
+AO,Angola,country,Sub-Saharan Africa,-11.202692,17.873887,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1434.84768210224,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU,Australia,country,East Asia and Pacific,-25.274398,133.775136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10730.5498093791,2013,34,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AT,Austria,country,Europe and Central Asia,47.516231,14.550072,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7841.18336730849,2013,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+BE,Belgium,country,Europe and Central Asia,50.503887,4.469936,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8348.23805504023,2013,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,380,0,0,0,0,0,0,0,0
+BR,Brazil,country,Latin America and the Caribbean,-14.235004,-51.92528,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8068.31969080216,2013,430,5,0,92,0,0,0,0,0,0,0,0,56,40,0,237,0,0,0,0,0,0,0,0
+CA,Canada,country,North America,56.130366,-106.346771,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14564.4002648591,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HK,Hong Kong,country,East Asia and Pacific,22.396428,114.109497,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10889.9362728192,2013,30,6,10,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+CN,China,country,East Asia and Pacific,35.86166,104.195397,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,10568.4996260982,2013,260,42,2,2,0,1,22,28,11,12,4,0,29,83,1,22,0,1,0,0,0,0,0,0
+HR,Croatia,country,Europe and Central Asia,45.1,15.2,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7567.63703846362,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CY,Cyprus,country,Europe and Central Asia,35.126413,33.429859,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6462.17659630907,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ET,Ethiopia,country,Sub-Saharan Africa,9.145,40.489673,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3905.02334085091,2013,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+FR,France,country,Europe and Central Asia,46.227638,2.213749,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7961.38005871235,2013,613,0,0,0,0,0,0,0,0,0,0,0,0,439,0,4,0,0,170,0,0,0,0,0
+DE,Germany,country,Europe and Central Asia,51.165691,10.451526,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8299.46740466885,2013,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,23,4,0,0,0,0
+GH,Ghana,country,Sub-Saharan Africa,7.946527,-1.023194,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,4383.98810707901,2013,26,1,0,0,1,8,0,0,9,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
+HU,Hungary,country,Europe and Central Asia,47.162494,19.503304,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7753.19240715679,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IN,India,country,South Asia,20.593684,78.96288,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7588.10442829324,2013,1532,1002,0,1,2,0,259,11,32,51,26,0,12,93,1,42,0,0,0,0,0,0,0,0
+ID,Indonesia,country,East Asia and Pacific,-0.789275,113.921327,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9906.7554018609,2013,23,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+IE,Ireland,country,Europe and Central Asia,53.41291,-8.24389,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9008.5597371111,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IL,Israel,country,Middle East and North Africa,31.046051,34.851612,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6039.96087191519,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IT,Italy,country,Europe and Central Asia,41.87194,12.56738,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7255.04179150779,2013,269,29,0,0,0,0,0,41,0,0,0,0,0,14,180,4,0,0,1,0,0,0,0,0
+JP,Japan,country,East Asia and Pacific,36.204824,138.252924,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,13527.9410992584,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KE,Kenya,country,Sub-Saharan Africa,-0.023559,37.906193,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2867.0615965505,2013,2355,0,0,0,2348,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LB,Lebanon,country,Middle East and North Africa,33.854721,35.862285,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6365.50281777355,2013,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+LS,Lesotho,country,Sub-Saharan Africa,-29.609988,28.233608,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,884.798470352599,2013,21,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MW,Malawi,country,Sub-Saharan Africa,-13.254308,34.301525,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1433.98486268047,2013,7694,532,0,0,50,0,1725,4603,0,0,0,150,525,109,0,0,0,0,0,0,0,0,0,0
+MY,Malaysia,country,East Asia and Pacific,4.210484,101.975766,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8896.39660961684,2013,23,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,Malta,country,Middle East and North Africa,35.937496,14.375416,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6576.42289062497,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MU,Mauritius,country,Sub-Saharan Africa,-20.348404,57.552152,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3408.47130672742,2013,4942,4926,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+NA,Namibia,country,Sub-Saharan Africa,-22.95764,18.49041,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,640.204705736187,2013,14398,2870,36,38,0,0,0,53,38,0,0,13,2,1396,26,7871,0,2054,1,0,0,0,0,0
+NL,Netherlands,country,Europe and Central Asia,52.132633,5.291266,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8501.31391137111,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NG,Nigeria,country,Sub-Saharan Africa,9.081999,8.675277,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,3908.65423456662,2013,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+OM,Oman,country,Middle East and North Africa,21.512583,55.923255,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5942.31934662134,2013,91,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PK,Pakistan,country,South Asia,30.375321,69.345116,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7563.37173333951,2013,257,6,0,0,0,0,0,0,238,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+PL,Poland,country,Europe and Central Asia,51.919438,19.145136,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8282.89145374526,2013,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+PT,Portugal,country,Europe and Central Asia,39.399872,-8.224454,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7677.06589278607,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KR,"Korea, Rep.",country,East Asia and Pacific,35.907757,127.766922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,12590.6686464015,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SG,Singapore,country,East Asia and Pacific,1.352083,103.819836,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,8959.2650423228,2013,142,7,0,6,0,0,0,2,0,0,0,0,0,65,62,0,0,0,0,0,0,0,0,0
+ZA,S. Africa,country,Sub-Saharan Africa,-30.559482,22.937506,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,932.628032477788,2013,830938,410514,22935,78990,5557,573,304,34327,62069,265,3998,30391,4163,34650,23647,44730,621,6320,67501,1,3,0,0,0
+ES,Spain,country,Europe and Central Asia,40.463667,-3.74922,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7585.44252182133,2013,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,293,0,0,0,0,0,0,0,0
+LK,Sri Lanka,country,South Asia,7.873054,80.771797,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6975.80993049888,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SZ,Swaziland,country,Sub-Saharan Africa,-26.522503,31.465866,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,830.611972349206,2013,219,0,0,0,0,0,0,0,0,216,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+SE,Sweden,country,Europe and Central Asia,60.128161,18.643501,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9195.49032783558,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CH,Switzerland,country,Europe and Central Asia,46.818188,8.227512,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,7873.47108564612,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TH,Thailand,country,East Asia and Pacific,15.870032,100.992541,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9336.7565271252,2013,448,448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Turkey,country,Europe and Central Asia,38.963745,35.243322,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,6911.2450730985,2013,397,44,0,0,0,0,0,0,0,0,0,0,0,331,0,22,0,0,0,0,0,0,0,0
+AE,United Arab Emirates,country,Middle East and North Africa,23.424076,53.847818,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,5992.47897863058,2013,64,0,0,2,0,0,0,0,40,0,0,0,0,1,0,21,0,0,0,0,0,0,0,0
+GB,United Kingdom,country,Europe and Central Asia,55.378051,-3.435973,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9052.73328162746,2013,1037,22,0,0,0,0,0,0,0,0,0,0,0,2,2,1011,0,0,0,0,0,0,0,0
+TZ,Tanzania,country,Sub-Saharan Africa,-6.369028,34.888822,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,2087.51792991891,2013,20,0,0,0,0,19,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+US,USA,country,North America,37.09024,-95.712891,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,14142.9070636178,2013,47,17,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+VN,Vietnam,country,East Asia and Pacific,14.058324,108.277199,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,9968.64082192832,2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZM,Zambia,country,Sub-Saharan Africa,-13.133897,27.849332,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,1076.98127900816,2013,33929,995,0,5696,0,0,60,436,0,145,0,26572,0,0,0,0,88,0,12,13,0,0,0,0
+ZW,Zimbabwe,country,Sub-Saharan Africa,-19.015438,29.154857,BW,Botswana,country,Sub-Saharan Africa,-22.328474,24.684866,593.855162837344,2013,2166,945,0,199,0,0,297,16,1,0,4,2,356,267,0,72,98,0,7,0,0,0,0,0
