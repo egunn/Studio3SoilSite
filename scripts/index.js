@@ -31,6 +31,9 @@ var mapOutlineColor = '#6d6764';
 var dotColor = '#efd004';
 var timelineColor = '#eaead7';
 var axisTextColor = '#a09f9d';
+var balanceOutlineColor = "gainsboro";
+var balanceImportsLineColor = "#adcfd1";
+var balanceExportsLineColor = "#e2c3d4";
 
 var map = d3.select("#fpsvgbkgrd");
 var svgTime = d3.select('#svgTimeline');
@@ -361,6 +364,20 @@ function drawTimeline(timelineData) {
         .attr('fill', timelineColor)
         .style('fill-opacity', .1);
 
+    //******Move out of update and into setup function!!
+    timeline.append('path')
+        .attr('class','import-line')
+        .attr('stroke',balanceImportsLineColor)
+        .attr('stroke-width',1)
+        .attr('fill','none');
+
+
+    timeline.append('path')
+        .attr('class','export-line')
+        .attr('stroke',balanceExportsLineColor)
+        .attr('stroke-width',1)
+        .attr('fill','none');
+
     timeline.selectAll('.bar')
         .data(timelinePoints)
         .enter()
@@ -406,17 +423,33 @@ function drawTimeline(timelineData) {
                 update(selectedCountry, selectedDirection, clickedYear);
             }
             else {
-                timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+                if(balanceSelected){
+                    d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', 'white');
+                }
+                else{
+                    d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+                }
             }
         })
         .on('click', function (d) {
             d3.selectAll('.bar').attr('fill', 'transparent');
             clickedYear = d.year;
-            d3.select(this).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+            if(balanceSelected){
+                d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', 'white');
+            }
+            else{
+                d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+            }
             update(selectedCountry, selectedDirection, d.year);
         });
 
-    timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+    if(balanceSelected){
+        timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', 'white');
+    }
+    else{
+        timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+    }
+
 
 }
 
@@ -462,23 +495,28 @@ function svgLoaded(data, countryLookup) {
         })
         .on('click', function () {
             var closestNode = mouseSim.find(d3.mouse(this)[0], d3.mouse(this)[1], 5);
-            console.log(closestNode);
+            //console.log(closestNode);
 
             if (closestNode) {
 
-                console.log('fix dropdown!!');
+                //console.log('fix dropdown!!');
 
-                if (!balanceSelected) {
-                    selectedCountry = closestNode.NAME;
+                if(balanceSelected){
+                    d3.selectAll('#'+ selectedCountry).attr('stroke',mapOutlineColor).attr('stroke-width',1);
                 }
+                //if (!balanceSelected) {
+                    selectedCountry = closestNode.NAME;
+                //}
 
 
                 //var dropdown = d3.select('#countryDropdown').property('value',closestNode.NAME).html(closestNode.FULLNAME).each(changeCountry);//node();
 
                 //dropdown.value = selectedCountry;
                 //dropdown.property('selected', selectedCountry);
-                //console.log(d3.selectAll('#countryDropdown').node().value);
 
+                //console.log(closestNode.FULLNAME);
+                d3.selectAll('#countryDropdown').node().value = selectedCountry;
+                d3.selectAll('#countryDropdown').html(closestNode.FULLNAME);
                 //https://github.com/d3/d3/issues/100
                 //d3.select("input[value=\"stacked\"]").property("checked", true).each(change);
 
@@ -819,8 +857,14 @@ function update(value, impExp, year) {
             timeline.selectAll('.timeline-graph')
                 .datum(timelinePoints)
                 .attr('id','impExp-area')
-                .attr('d', area);
+                .attr('d', area)
+                .attr('fill',timelineColor);
 
+            timeline.selectAll('.import-line')
+                .attr('stroke', 'none');
+
+            timeline.selectAll('.export-line')
+                .attr('stroke', 'none');
 
             var getCountry = map.selectAll("#" + value);
 
@@ -840,8 +884,14 @@ function update(value, impExp, year) {
 
         tempCountries.attr('fill', 'gray');
 
-        d3.selectAll('#'+ selectedCountry).attr('stroke','#d7dbe2').attr('stroke-width',2);
+        d3.selectAll('#'+ selectedCountry).attr('stroke',balanceOutlineColor).attr('stroke-width',1);
         d3.selectAll('#impExp-area').attr('fill','none');
+
+        timeline.selectAll('.import-line')
+            .attr('stroke', balanceImportsLineColor);
+
+        timeline.selectAll('.export-line')
+            .attr('stroke', balanceExportsLineColor);
 
         d3.selectAll('.dot').attr('r', '1').attr('fill', 'gray');
         /*
@@ -857,16 +907,19 @@ function update(value, impExp, year) {
         });
 
         balanceYear.forEach(function (d) {
-
             if (balanceYear.length > 0) {
                 d3.selectAll('#' + d.countryCode).attr('fill', balanceColorScale(d.exportQuantity - d.importQuantity));
             }
         });
 
+        //console.log(balanceData);
+        //console.log(selectedCountry);
 
         var countryPoints = balanceData.filter(function (d) {
             return d.countryCode == selectedCountry;
         });
+
+        //console.log(countryPoints);
 
         var timelinePoints = countryPoints.filter(function(d){
             return +d.year >= 1986;
@@ -885,23 +938,13 @@ function update(value, impExp, year) {
 
         //console.log(timelinePoints);
 
-//******Move out of update and into setup function!!
-        timeline.append('path')
+        timeline.selectAll('.import-line')
             .datum(timelinePoints)
-            .attr('class','import-line')
-            .attr('d', importLine)
-            .attr('stroke','black')
-            .attr('stroke-width',1)
-            .attr('fill','none');
+            .attr('d', importLine);
 
-
-        timeline.append('path')
+        timeline.selectAll('.export-line')
             .datum(timelinePoints)
-            .attr('class','export-line')
-            .attr('d', exportLine)
-            .attr('stroke','white')
-            .attr('stroke-width',2)
-            .attr('fill','none');
+            .attr('d', exportLine);
 
 
         /*tempCountries.nodes().forEach(function(d){
@@ -918,6 +961,12 @@ d3.select(".countryDropdown").on("change", function () {
 
 //dispatch function updates the selected country and calls the update function when dropdown item is selected
 countryDispatch.on("changeCountry", function (countrySelected, i) { //country is the value of the option selected in the dropdown
+
+    if (balanceSelected){
+        selectedCountry = countrySelected;
+        d3.selectAll('.country').attr('stroke',mapOutlineColor);
+        d3.selectAll('#'+ selectedCountry).attr('stroke',balanceOutlineColor).attr('stroke-width',1);
+    }
     update(countrySelected, 'Exports', selectedYear);
 
 });
@@ -937,6 +986,9 @@ function importClicked() {
 
     var balanceButton = d3.selectAll('#balanceButton')
         .classed('selected', false);
+
+    d3.selectAll('#'+ selectedCountry).attr('stroke',mapOutlineColor).attr('stroke-width',1);
+    timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
 
     d3.csv('./data/importsbyYear.csv', function (data) {
         timelineData = data;
@@ -960,6 +1012,9 @@ function exportClicked() {
 
     var balanceButton = d3.selectAll('#balanceButton')
         .classed('selected', false);
+
+    d3.selectAll('#'+ selectedCountry).attr('stroke',mapOutlineColor).attr('stroke-width',1);
+    timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
 
     d3.csv('./data/exportsbyYear.csv', function (data) {
         timelineData = data;
@@ -987,6 +1042,8 @@ function balanceClicked() {
     //re-draw SVG for all countries
     //replace timeline with data point browser
 
+    timeline.selectAll('#bar-' + clickedYear).style('fill-opacity', .2).attr('fill', 'white');
+
     update();
 }
 
@@ -1009,7 +1066,12 @@ function playClicked() {
             selectedYear++
         }
         else {
-            d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+            if(balanceSelected){
+                d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', 'white');
+            }
+            else{
+                d3.selectAll('#bar-' + selectedYear).style('fill-opacity', .2).attr('fill', mapHighlightColor);
+            }
         }
     }, 200);
 }
